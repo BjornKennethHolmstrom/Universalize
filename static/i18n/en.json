@@ -1,0 +1,1043 @@
+{
+  "site": {
+    "title": "Universalize",
+    "tagline": "Embrace the cosmic perspective",
+    "description": "Explore and embody universal perspective—the capacity to see from the vantage point of the whole."
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "pillars": "Pillars",
+    "tools": "Tools",
+    "practices": "Practices",
+    "about": "About",
+    "relatedSites": "Related sites"
+  },
+  "hero": {
+    "title": "Universalize",
+    "tagline": "Embrace the cosmic perspective",
+    "description": "Explore and embody <strong>universal perspective</strong>—the capacity to see from the vantage point of the whole. Recognize patterns that connect all things, expand your circle of care to encompass all beings, and take responsibility for your role in the cosmic story.",
+    "startExploring": "Start exploring",
+    "learnMore": "Learn more"
+  },
+  "journey": {
+    "title": "The journey complete",
+    "spiralize": {
+      "name": "Spiralize",
+      "stage": "Self"
+    },
+    "nondualize": {
+      "name": "Nondualize",
+      "stage": "Self"
+    },
+    "communize": {
+      "name": "Communize",
+      "stage": "We"
+    },
+    "universalize": {
+      "name": "Universalize",
+      "stage": "All"
+    }
+  },
+  "entryPoints": {
+    "title": "Find your entry point",
+    "subtitle": "Universal perspective isn't abstract philosophy—it's a way of engaging with daily life.",
+    "practical": {
+      "title": "For the practically minded",
+      "cosmicMorning": {
+        "title": "Your cosmic morning",
+        "description": "Transform breakfast by tracing your coffee from Ethiopian highlands through global supply chains to your cup."
+      },
+      "decisionFilter": {
+        "title": "The universal decision filter",
+        "description": "Before any choice, ask: How would this look from 100 years? 1,000 years? From an alien observer's perspective?"
+      },
+      "cosmicConsumption": {
+        "title": "Cosmic consumption",
+        "description": "See every purchase as a vote for the world you want—a choice that ripples across ecosystems and economies."
+      }
+    },
+    "wonder": {
+      "title": "For the wonder-seekers",
+      "cosmicAddress": {
+        "title": "Your cosmic address",
+        "description": "Locate yourself on scales from quantum to cosmic. You are here: Earth → Solar System → Milky Way → Observable Universe."
+      },
+      "deepTime": {
+        "title": "Deep time walker",
+        "description": "Experience your life in geological context. All of human civilization fits in the last pixel of Earth's timeline."
+      },
+      "overviewEffect": {
+        "title": "The overview effect",
+        "description": "Explore astronaut accounts of seeing Earth from space and what it reveals about our interconnection."
+      }
+    },
+    "systems": {
+      "title": "For the systems thinkers",
+      "patterns": {
+        "title": "Universal patterns explorer",
+        "description": "From fractals to network theory, discover principles that repeat across all scales of reality."
+      },
+      "boundaries": {
+        "title": "Planetary boundaries dashboard",
+        "description": "Understand the systems that make Earth habitable and our current relationship with them."
+      },
+      "emergence": {
+        "title": "Emergence simulators",
+        "description": "Watch how simple universal rules create infinite complexity."
+      }
+    }
+  },
+  "pillars": {
+    "title": "The five pillars",
+    "subtitle": "Five dimensions of universal exploration",
+    "mind": {
+      "title": "Universal mind",
+      "subtitle": "Consciousness & cosmology",
+      "description": "Explore the universe story, cosmic consciousness, perennial philosophy, and the nature of awareness itself."
+    },
+    "ethics": {
+      "title": "Universal ethics",
+      "subtitle": "Expanding circles",
+      "description": "Extend ethical consideration from human rights to the rights of nature, post-anthropocentric ethics, and global governance."
+    },
+    "patterns": {
+      "title": "Universal patterns",
+      "subtitle": "Science & systems",
+      "description": "Discover laws of nature, complexity and emergence, universal biology, and patterns that connect all scales."
+    },
+    "aesthetics": {
+      "title": "Universal aesthetics",
+      "subtitle": "Expression & beauty",
+      "description": "Explore universal themes in art, the golden ratio, cosmic creativity, and the search for intelligence beyond Earth."
+    },
+    "challenges": {
+      "title": "Universal challenges",
+      "subtitle": "Our cosmic moment",
+      "description": "Address climate change, existential risks, global governance, technological ethics, and cosmic stewardship."
+    }
+  },
+  "mission": {
+    "title": "Our mission",
+    "text1": "To provide the conceptual, ethical, and experiential tools for individuals and communities to <strong>internalize a universal perspective</strong>, thereby becoming more effective, compassionate, and wise agents in the unfolding story of the cosmos.",
+    "text2": "We believe humanity urgently needs this perspective to navigate climate change, existential risks, and the transition to planetary civilization. Universal thinking isn't optional—it's essential for our survival and flourishing."
+  },
+  "quote": {
+    "sagan": "We are a way for the cosmos to know itself.",
+    "saganAuthor": "Carl Sagan"
+  },
+  "about": {
+    "hero": {
+      "title": "About Universalize",
+      "subtitle": "A platform for exploring and embodying universal perspective"
+    },
+    "what": {
+      "title": "What is Universalize?",
+      "paragraph1": "Universalize is a philosophical, scientific, and experiential exploration of what it means to adopt a <strong class=\"text-blue-300\">universal perspective</strong>—to see from the vantage point of the whole, embracing all dimensions of reality in their infinite diversity and underlying unity.",
+      "paragraph2": "It represents the fourth movement in a quartet of interconnected explorations: from <strong>self</strong> (Spiralize) to <strong>Self</strong> (Nondualize) to <strong>we</strong> (Communize) to <strong>all of us, everywhere, across all scales and times</strong> (Universalize).",
+      "paragraph3": "We believe humanity urgently needs this perspective to navigate climate change, existential risks, and the transition to planetary civilization. Universal thinking isn't optional—it's essential for our survival and flourishing."
+    },
+    "journey": {
+      "title": "The complete journey",
+      "spiralize": {
+        "name": "Spiralize",
+        "subtitle": "Self - Individual development",
+        "description": "Explore developmental psychology through Spiral Dynamics. Understand how values and worldviews evolve from survival to integration."
+      },
+      "nondualize": {
+        "name": "Nondualize",
+        "subtitle": "Self - Transcendent awareness",
+        "description": "Discover non-dual awareness—the recognition that separation between self and other, observer and observed, is not ultimately real."
+      },
+      "communize": {
+        "name": "Communize",
+        "subtitle": "We - Collective structures",
+        "description": "Explore building community and creating the commons. Learn models for shared ownership, collective responsibility, and relational bonds."
+      },
+      "universalize": {
+        "name": "Universalize",
+        "subtitle": "All - Cosmic perspective",
+        "description": "Embrace universal perspective. See from the vantage point of the whole, across all scales of reality and time. This is where you are now."
+      }
+    },
+    "ggf": {
+      "title": "Connection to Global Governance Frameworks",
+      "name": "Global Governance Frameworks",
+      "paragraph1": "Universalize shares deep conceptual alignment with Global Governance Frameworks (GGF), a project exploring patterns for planetary coordination and meta-governance.",
+      "paragraph2": "While Universalize cultivates the <em>perspective</em> needed to see humanity as a whole, GGF explores the <em>structures</em> that could enable us to act as a whole. Both recognize that our current planetary challenges require thinking and operating at scales beyond nation-states and traditional institutions.",
+      "paragraph3": "The \"Universal Challenges\" pillar of Universalize directly engages with governance questions, making GGF a natural companion for those ready to move from perspective to practice."
+    },
+    "philosophy": {
+      "title": "Our philosophy",
+      "open": {
+        "title": "Open and free",
+        "description": "No paywalls, no tracking, no monetization. This knowledge belongs to everyone. All content is freely shared under CC BY-SA 4.0."
+      },
+      "grounded": {
+        "title": "Grounded in daily life",
+        "description": "Universal perspective isn't abstract philosophy—it transforms how we eat breakfast, make decisions, and relate to others. We focus on practical applications."
+      },
+      "developmental": {
+        "title": "Developmentally aware",
+        "description": "We honor that people engage universal perspective from different developmental stages. There are multiple entry points, each valid and valuable."
+      },
+      "emotional": {
+        "title": "Emotionally balanced",
+        "description": "We cultivate awe, humility, urgency, joy, and responsibility—a full emotional palette for engaging with our cosmic context without overwhelm or despair."
+      }
+    },
+    "quote": {
+      "text": "The Earth is the cradle of humanity, but one cannot live in a cradle forever.",
+      "author": "Konstantin Tsiolkovsky"
+    }
+  },
+  "explore": {
+    "hero": {
+      "title": "Explore",
+      "subtitle": "Deep dives into universal themes, perspectives, and questions"
+    },
+    "intro": "These explorations invite you to zoom out—in space, in time, and in perspective. Each one offers a different lens for seeing yourself, humanity, and existence in a broader context.",
+    "areas": {
+      "overviewEffect": {
+        "title": "The overview effect",
+        "description": "Astronaut accounts of seeing Earth from space and what it reveals about our interconnection."
+      },
+      "patterns": {
+        "title": "Universal patterns",
+        "description": "From fractals to network theory, discover principles that repeat across all scales of reality."
+      },
+      "universeStory": {
+        "title": "The universe story",
+        "description": "From Big Bang to present—our shared scientific creation myth and humanity's place in it."
+      },
+      "expandingCircles": {
+        "title": "Expanding circles of care",
+        "description": "How our ethical consideration has expanded from tribe to nation to species—and must go further."
+      },
+      "deepTime": {
+        "title": "Deep time",
+        "description": "Experience geological time scales and see human civilization in its proper cosmic context."
+      },
+      "seti": {
+        "title": "The search for intelligence",
+        "description": "SETI and what the search for extraterrestrial life reveals about our assumptions and hopes."
+      }
+    },
+    "lookingFor": {
+      "title": "Looking for something specific?",
+      "pillars": {
+        "title": "Browse by pillar",
+        "description": "Explore content organized by the five pillars: Mind, Ethics, Patterns, Aesthetics, and Challenges."
+      },
+      "tools": {
+        "title": "Try the tools",
+        "description": "Interactive visualizations and exercises for cultivating universal perspective."
+      },
+      "practices": {
+        "title": "Daily practices",
+        "description": "Concrete ways to bring universal perspective into your everyday life."
+      },
+      "resources": {
+        "title": "Resources",
+        "description": "Books, papers, videos, and other materials for deeper exploration."
+      }
+    },
+    "quote": {
+      "text": "Look again at that dot. That's here. That's home. That's us.",
+      "author": "Carl Sagan, Pale Blue Dot"
+    }
+  },
+  "overviewEffect": {
+    "meta": {
+      "title": "The overview effect",
+      "description": "Explore the profound shift in perspective experienced by astronauts seeing Earth from space."
+    },
+    "hero": {
+      "title": "The overview effect",
+      "subtitle": "A cognitive shift in awareness reported by astronauts",
+      "description": "When humans see Earth from space for the first time, something profound happens. Borders disappear. Conflicts seem petty. A sense of unity with all life emerges. This is the Overview Effect."
+    },
+    "what": {
+      "title": "What is the overview effect?",
+      "paragraph1": "The Overview Effect is a cognitive shift in awareness reported by some astronauts during spaceflight, often while viewing Earth from outer space.",
+      "paragraph2": "It is characterized by a sense of awe for the planet, a profound understanding of the interconnection of all life, and a renewed sense of responsibility for taking care of the environment.",
+      "paragraph3": "The term was coined by author Frank White in 1987, who identified common patterns in astronaut experiences. He described it as \"<em>a spontaneous and overwhelming sense of connection to everyone on Earth and the planet itself</em>.\""
+    },
+    "themesTitle": "Common themes in the overview effect",
+    "themes": {
+      "fragility": {
+        "title": "Earth's fragility",
+        "description": "Seeing Earth as a tiny, delicate sphere suspended in the darkness of space, protected only by a paper-thin atmosphere. The realization that this is our only home and it needs protection."
+      },
+      "unity": {
+        "title": "Absence of borders",
+        "description": "From space, national boundaries are invisible. The divisions we create seem arbitrary and insignificant compared to our shared planetary home."
+      },
+      "beauty": {
+        "title": "Overwhelming beauty",
+        "description": "A profound aesthetic experience—the beauty of Earth's blues, greens, and swirling clouds. Many astronauts describe being moved to tears."
+      },
+      "responsibility": {
+        "title": "Shared responsibility",
+        "description": "A deep sense of obligation to care for Earth and all its inhabitants. The recognition that we're all in this together, regardless of nationality or ideology."
+      }
+    },
+    "voices": {
+      "title": "Voices from space",
+      "subtitle": "Astronauts describe their experiences"
+    },
+    "astronauts": [
+      {
+        "name": "Edgar Mitchell",
+        "mission": "Apollo 14",
+        "quote": "You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it."
+      },
+      {
+        "name": "Yuri Gagarin",
+        "mission": "Vostok 1",
+        "quote": "Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!"
+      },
+      {
+        "name": "Ron Garan",
+        "mission": "ISS Expedition 27/28",
+        "quote": "When we look down at the Earth from space, we see this amazing, indescribably beautiful planet. It looks like a living, breathing organism. But it also, at the same time, looks extremely fragile."
+      },
+      {
+        "name": "Mae Jemison",
+        "mission": "STS-47",
+        "quote": "Once I got into space, I was feeling very comfortable in the universe. I felt like I had a right to be anywhere in this universe, that I belonged here as much as any speck of stardust, any comet, any planet."
+      }
+    ],
+    "science": {
+      "title": "The science behind the shift",
+      "paragraph1": "While the Overview Effect is primarily an experiential phenomenon, researchers have begun studying its psychological and neurological underpinnings. Studies suggest that the experience involves activation of neural networks associated with awe, self-transcendence, and spatial perspective-taking.",
+      "paragraph2": "Research has found consistent patterns in astronauts who experience the Overview Effect:",
+      "research": {
+        "title": "Key research findings",
+        "finding1": "Increased sense of connection to humanity and life on Earth",
+        "finding2": "Greater environmental concern and pro-environmental behavior",
+        "finding3": "Enhanced sense of meaning and purpose",
+        "finding4": "Reduced focus on individual concerns in favor of collective wellbeing"
+      },
+      "paragraph3": "Interestingly, studies of people who have viewed Earth from high-altitude flights or through VR simulations show similar (though less intense) cognitive shifts, suggesting the effect can be induced without actual spaceflight."
+    },
+    "cultivate": {
+      "title": "Cultivating the overview effect without spaceflight",
+      "intro": "While nothing fully replicates seeing Earth from space, several approaches can help cultivate a similar shift in perspective:",
+      "methods": {
+        "images": {
+          "title": "Study Earth from space imagery",
+          "description": "Spend time with photographs and videos taken from orbit. The 'Blue Marble' and 'Earthrise' photos have moved millions. Modern ISS footage offers dynamic views of our planet."
+        },
+        "vr": {
+          "title": "Virtual reality experiences",
+          "description": "VR programs like 'Overview' and 'SpaceVR' provide immersive simulations of viewing Earth from space, with documented psychological effects similar to astronaut reports."
+        },
+        "meditation": {
+          "title": "Perspective-taking meditation",
+          "description": "Guided visualizations that mentally zoom out from your location to orbital perspective. Practice seeing yourself and your concerns from this expanded viewpoint."
+        },
+        "flights": {
+          "title": "High-altitude experiences",
+          "description": "Mountain summits, airplane window seats, or high-altitude balloon flights offer partial glimpses of Earth's curvature and the thin atmospheric layer."
+        },
+        "perspective": {
+          "title": "Daily perspective practices",
+          "description": "Regularly remind yourself that you're on a planet, spinning through space. Use our 'View from Above' practice to cultivate this awareness."
+        }
+      }
+    },
+    "paleBlue": {
+      "title": "The pale blue dot",
+      "imageCaption": "Earth as seen from 6 billion kilometers away (Voyager 1, 1990)",
+      "quote": {
+        "paragraph1": "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.",
+        "paragraph2": "Every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.",
+        "paragraph3": "To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known."
+      },
+      "reflection": "Carl Sagan's reflection on the Pale Blue Dot image remains one of the most powerful articulations of the Overview Effect's implications for how we should live."
+    },
+    "cta": {
+      "title": "Experience the shift",
+      "description": "Ready to cultivate your own version of the Overview Effect? Try our guided meditation or explore our cosmic zoom tool.",
+      "meditation": "Try the meditation",
+      "explore": "Explore cosmic scales"
+    }
+  },
+  "universalPatterns": {
+    "meta": {
+      "title": "Universal patterns",
+      "description": "From fractals to network theory, discover principles that repeat across all scales of reality."
+    },
+    "hero": {
+      "title": "Universal patterns",
+      "subtitle": "Principles that repeat across all scales",
+      "description": "Nature doesn't reinvent itself at every scale. From atoms to galaxies, from cells to societies, the same patterns emerge again and again. Recognizing these patterns reveals the deep unity of existence."
+    },
+    "what": {
+      "title": "What are universal patterns?",
+      "paragraph1": "Universal patterns are organizing principles that appear repeatedly across vastly different scales and domains of reality. They're the cosmos's way of being efficient—using the same solution in multiple contexts.",
+      "paragraph2": "These aren't mere coincidences or human projections. They're mathematical, physical, and informational structures that emerge from the fundamental laws of nature. When similar constraints exist, similar solutions evolve—whether we're talking about <em>river deltas, lightning bolts, or neural networks</em>.",
+      "paragraph3": "Recognizing universal patterns is central to developing a cosmic perspective. It reveals that you're not separate from nature—you're made of the same patterns that organize galaxies and orchestrate ecosystems. Your neural networks follow the same principles as mycorrhizal networks. Your circulatory system branches like trees and rivers."
+    },
+    "patternsTitle": "Six fundamental patterns",
+    "patterns": {
+      "fractals": {
+        "title": "Fractals",
+        "description": "Self-similar patterns that repeat at every scale. Zoom in on a fractal and you find the same pattern, endlessly.",
+        "examples": "Coastlines, ferns, blood vessels, lightning, snowflakes, romanesco broccoli, galaxy distribution."
+      },
+      "networks": {
+        "title": "Networks",
+        "description": "Nodes connected by edges, creating distributed systems that can be robust, adaptive, and emergent.",
+        "examples": "Neural networks, mycorrhizal fungi, the internet, social structures, trade routes, food webs."
+      },
+      "cycles": {
+        "title": "Cycles and rhythms",
+        "description": "Repeating patterns in time—oscillations, waves, seasons, and feedback loops that create stability through change.",
+        "examples": "Day/night, seasons, heartbeat, economic cycles, predator-prey dynamics, planetary orbits."
+      },
+      "emergence": {
+        "title": "Emergence",
+        "description": "Complex patterns arising from simple rules. The whole becomes greater than the sum of parts.",
+        "examples": "Consciousness from neurons, flocking behavior, crystal formation, traffic patterns, market dynamics."
+      },
+      "symmetry": {
+        "title": "Symmetry",
+        "description": "Balance and proportion that appears in nature's forms and structures, often linked to efficiency and stability.",
+        "examples": "Bilateral symmetry in animals, radial symmetry in flowers, crystal lattices, particle physics."
+      },
+      "flows": {
+        "title": "Energy and information flows",
+        "description": "How energy, matter, and information move through systems, creating gradients, currents, and cascades.",
+        "examples": "Rivers, electrical currents, heat transfer, neural signals, gossip, cascading failures."
+      }
+    },
+    "examplesLabel": "Examples across scales",
+    "scaleFree": {
+      "title": "Scale-free principles",
+      "paragraph1": "Perhaps the most profound insight about universal patterns is that many of them are scale-free—they work the same way whether we're talking about atoms or galaxies. Consider network structure:",
+      "example": {
+        "title": "Network principles across seven scales",
+        "quantum": "Quantum scale: Entangled particles form information networks",
+        "atomic": "Atomic scale: Electron clouds organize around nuclei",
+        "cellular": "Cellular scale: Metabolic pathways form biochemical networks",
+        "neural": "Neural scale: Neurons connect in brain networks",
+        "social": "Social scale: Humans form social networks",
+        "ecological": "Ecological scale: Species connect in food web networks",
+        "cosmic": "Cosmic scale: Galaxies cluster in the cosmic web"
+      },
+      "paragraph2": "At each level, similar principles apply: preferential attachment (rich get richer), small-world properties (six degrees of separation), robustness to random failure but vulnerability to targeted attacks. The mathematics is identical."
+    },
+    "lawsTitle": "Universal laws",
+    "lawsIntro": "Beyond patterns, there are universal laws—principles that apply everywhere without exception:",
+    "laws": {
+      "thermodynamics": {
+        "law": "Laws of thermodynamics",
+        "description": "Energy is conserved (1st law), entropy increases (2nd law), absolute zero is unreachable (3rd law).",
+        "implication": "Everything from star formation to human civilization is constrained by these laws. They dictate what's possible."
+      },
+      "powerLaw": {
+        "law": "Power law distributions",
+        "description": "Many natural systems follow power laws: a few things are very large, most things are small. Wealth, city sizes, earthquake magnitudes.",
+        "implication": "Inequality and hierarchy often arise naturally from scale-free processes, not from design or conspiracy."
+      },
+      "selection": {
+        "law": "Selection and evolution",
+        "description": "Systems that can replicate with variation and compete for resources will evolve. Applies to genes, ideas, technologies, firms.",
+        "implication": "Evolution isn't just biological—it's a universal principle of how systems change over time through differential success."
+      }
+    },
+    "implicationLabel": "Implication",
+    "goldenRatio": {
+      "title": "The golden ratio",
+      "paragraph1": "One particularly striking universal pattern is the golden ratio (φ ≈ 1.618), a proportion that appears throughout nature and has captivated humans for millennia.",
+      "formula": "φ = (1 + √5) / 2",
+      "paragraph2": "This ratio appears in:",
+      "nature": {
+        "title": "In nature",
+        "examples": "Spiral shells, flower petals, seed arrangements, pine cones, the spiral of galaxies, human body proportions."
+      },
+      "art": {
+        "title": "In human creation",
+        "examples": "The Parthenon, the Pyramids, Renaissance paintings, music composition, modern architecture."
+      },
+      "paragraph3": "Why does φ appear so often? It's mathematically optimal for certain packing and growth problems. It represents nature's way of maximizing efficiency in space-filling and spiral growth. Whether evolution discovered it independently in each case or whether it's a deep mathematical necessity remains a beautiful mystery."
+    },
+    "matters": {
+      "title": "Why universal patterns matter",
+      "paragraph1": "Understanding universal patterns transforms how we see ourselves and our place in the cosmos:",
+      "insights": {
+        "unity": {
+          "title": "Deep unity",
+          "description": "You're not separate from nature. The patterns organizing your body are the same patterns organizing galaxies. You are the universe knowing itself."
+        },
+        "prediction": {
+          "title": "Predictive power",
+          "description": "Recognizing patterns in one domain helps us understand others. Network theory applies to neurons, ecosystems, and economies."
+        },
+        "design": {
+          "title": "Better design",
+          "description": "Biomimicry—learning from nature's patterns—has produced amazing innovations. Nature's had 3.8 billion years to optimize."
+        },
+        "humility": {
+          "title": "Cosmic humility",
+          "description": "We're not the pinnacle or purpose of creation. We're one expression of universal patterns among countless others."
+        }
+      },
+      "paragraph2": "When you see fractals in ferns and lungs, networks in neurons and mycorrhizae, cycles in seasons and breathing—you're perceiving the fundamental grammar of existence. These patterns are the universe's native language."
+    },
+    "explore": {
+      "title": "Exploring patterns in daily life",
+      "methods": {
+        "observe": {
+          "title": "Observe nature closely",
+          "description": "Look at a tree's branches, a river delta, lightning, frost patterns on windows. Notice the recurring structures. Carry a magnifying glass—fractals reward close inspection."
+        },
+        "study": {
+          "title": "Study mathematics and systems thinking",
+          "description": "Learn about network theory, chaos theory, complexity science. These fields formalize nature's patterns mathematically."
+        },
+        "simulate": {
+          "title": "Play with simulations",
+          "description": "Conway's Game of Life, fractal generators, cellular automata, flocking simulations. See how simple rules create complex patterns."
+        },
+        "analogies": {
+          "title": "Draw cross-domain analogies",
+          "description": "How is a forest like the internet? How is a city like an organism? How is evolution like learning? Finding parallels reveals universal patterns."
+        }
+      }
+    },
+    "quote": {
+      "text": "Look deep into nature, and then you will understand everything better.",
+      "author": "Albert Einstein"
+    },
+    "cta": {
+      "title": "See the patterns",
+      "description": "Ready to explore universal patterns interactively? Try our emergence simulator or dive deeper into the patterns pillar.",
+      "simulator": "Try emergence simulator",
+      "pillar": "Explore patterns pillar"
+    }
+  },
+  "expandingCircles": {
+    "meta": {
+      "title": "Expanding circles of care",
+      "description": "How our ethical consideration has expanded from tribe to nation to species—and must go further."
+    },
+    "hero": {
+      "title": "Expanding circles of care",
+      "subtitle": "The evolution of moral consideration",
+      "description": "Throughout history, humanity has gradually expanded the circle of beings we consider worthy of moral concern. From family to tribe to nation to species—each expansion was once unthinkable, then became inevitable."
+    },
+    "what": {
+      "title": "What are expanding circles of care?",
+      "paragraph1": "The concept of expanding circles of care describes how human moral consideration has progressively widened throughout history. Each generation expands the boundary of who deserves ethical treatment, extending rights and protections to groups previously excluded.",
+      "paragraph2": "Philosopher Peter Singer popularized this concept in <em>The Expanding Circle</em> (1981), showing how reason leads us to extend our ethical concern beyond our immediate group. What starts as care for family naturally expands—logically and empathetically—to include ever-wider circles.",
+      "paragraph3": "This expansion isn't just historical curiosity—it's an active process. We're living through several expansions right now: animal rights, ecosystem personhood, digital rights, and consideration for future generations. Understanding this pattern helps us participate consciously in the next expansions."
+    },
+    "historyTitle": "The historical journey of moral expansion",
+    "history": [
+      {
+        "era": "Paleolithic",
+        "circle": "Family and kin",
+        "description": "Early humans extended care primarily to immediate family and close relatives. Survival depended on small bands of 20-50 people. Outsiders were threats."
+      },
+      {
+        "era": "Neolithic - Classical",
+        "circle": "Tribe and city-state",
+        "description": "With agriculture and settlements, care expanded to include the tribe or city-state. Citizens had rights; outsiders and slaves did not."
+      },
+      {
+        "era": "Medieval - Enlightenment",
+        "circle": "Nation and religion",
+        "description": "Religious and national identities created larger circles of moral consideration. But those outside one's faith or nation were often excluded or demonized."
+      },
+      {
+        "era": "18th - 20th century",
+        "circle": "Universal human rights",
+        "description": "The Enlightenment, abolitionism, feminism, civil rights—a gradual recognition that all humans deserve equal moral consideration regardless of race, gender, or nationality."
+      },
+      {
+        "era": "Late 20th - 21st century",
+        "circle": "Sentient animals and ecosystems",
+        "description": "Animal welfare movements, ecosystem rights, environmental ethics—recognizing that non-human beings and natural systems deserve moral consideration."
+      },
+      {
+        "era": "21st century onwards",
+        "circle": "Future beings, AI, and beyond",
+        "description": "Emerging consideration for future generations, potential AI consciousness, and even extraterrestrial life. The circle continues to expand."
+      }
+    ],
+    "pattern": {
+      "title": "The pattern of moral expansion",
+      "paragraph1": "Each expansion follows a similar pattern:",
+      "steps": {
+        "recognition": {
+          "title": "Recognition",
+          "description": "First, we recognize similarity or connection with the excluded group."
+        },
+        "empathy": {
+          "title": "Empathy",
+          "description": "Empathy follows—we imagine their experience, understand their suffering."
+        },
+        "rights": {
+          "title": "Rights",
+          "description": "Finally, formal rights and protections are extended, often after struggle."
+        }
+      },
+      "paragraph2": "What seems radical in one generation becomes obvious to the next. Those who opposed abolition, women's suffrage, or civil rights were on 'the wrong side of history'—not because history has a predetermined path, but because moral logic pushes toward wider inclusion."
+    },
+    "frontiersTitle": "Current frontiers of expansion",
+    "frontiers": {
+      "animals": {
+        "title": "Animal sentience and rights",
+        "description": "Growing recognition that animals are sentient beings with their own experiences, not merely property or resources. The question shifts from 'can they reason?' to 'can they suffer?'",
+        "examples": "Legal personhood for great apes, cetacean rights, bans on factory farming, laboratory animal regulations."
+      },
+      "ecosystems": {
+        "title": "Rights of nature",
+        "description": "Recognizing that rivers, forests, and ecosystems have inherent value and legal standing beyond their utility to humans. Over 30 jurisdictions have granted legal rights to natural entities.",
+        "examples": "Whanganui River (New Zealand), Amazon rainforest (Colombia), Lake Erie (USA), Himalayas (India)."
+      },
+      "future": {
+        "title": "Future generations",
+        "description": "Those who will exist after us—whose lives will be shaped by our choices—deserve representation in current decision-making, even though they cannot vote or advocate for themselves.",
+        "examples": "Wales' Future Generations Commissioner, long-term impact assessments, climate justice movements."
+      },
+      "ai": {
+        "title": "Digital and artificial consciousness",
+        "description": "As AI systems become more sophisticated, we face questions about their moral status. If a system is conscious or sentient, what do we owe it? How would we know?",
+        "examples": "AI rights debates, consciousness assessment frameworks, ethical treatment protocols for advanced systems."
+      }
+    },
+    "examples": "Examples",
+    "mos": {
+      "title": "The moral operating system framework",
+      "framework": {
+        "title": "Moral Operating System",
+        "link": "Explore the framework",
+        "description": "Global Governance Frameworks has developed the <strong>Moral Operating System (MOS)</strong>—a comprehensive ethical framework for expanding circles of care into formal governance structures. The MOS provides the philosophical and practical foundation for recognizing rights across all beings.",
+        "spectrum": "At its core is the Dynamic Rights Spectrum, which acknowledges that different beings require different forms of moral consideration:",
+        "tiers": {
+          "title": "Tiers of moral consideration",
+          "tier0": "Tier 0: Fundamental Consciousness - The right to exist and flourish",
+          "tier1": "Tier 1: Humans - Full personhood rights (life, freedom, dignity)",
+          "tier2": "Tier 2: Highly Sentient Animals - Protection from suffering, habitat rights",
+          "tier3": "Tier 3: Ecosystems - Legal personhood, restoration, protection from ecocide",
+          "tier4": "Tier 4: Digital Entities - Ethical use standards, transparency, consciousness assessment",
+          "tier5": "Tier 5: Future & Emergent Beings - Precautionary protections"
+        },
+        "conclusion": "The MOS translates expanding circles of care from philosophy into actionable governance, ensuring that as our circle widens, so do our institutions and laws."
+      }
+    },
+    "resistance": {
+      "title": "Why expansion faces resistance",
+      "paragraph1": "Every expansion of moral consideration has faced fierce resistance. Those who benefited from the old boundaries—who owned slaves, denied women the vote, or profit from animal exploitation—fought against expansion. But resistance also comes from genuine concerns:",
+      "objections": {
+        "title": "Common objections and responses",
+        "natural": {
+          "title": "\"It's not natural\"",
+          "response": "Many 'natural' hierarchies turned out to be social constructs. What seems natural often just means familiar."
+        },
+        "practical": {
+          "title": "\"It's not practical\"",
+          "response": "Every expansion seemed impractical before it happened. Abolishing slavery would 'destroy the economy.' Women's suffrage would 'ruin families.' Yet societies adapted and thrived."
+        },
+        "different": {
+          "title": "\"They're too different from us\"",
+          "response": "Moral consideration doesn't require similarity—it requires capacity for experience. Rivers aren't like humans, but they're living systems. AI may think differently, but if it's conscious, difference doesn't negate moral status."
+        }
+      },
+      "paragraph2": "Resistance is natural when boundaries shift. But the arc of ethics bends toward inclusion. Those who expand the circle are rarely comfortable—but they're on the right side of history's slow moral awakening."
+    },
+    "quote": {
+      "text": "The question is not, Can they reason?, nor Can they talk? but, Can they suffer?",
+      "author": "Jeremy Bentham"
+    },
+    "cta": {
+      "title": "Participate in the expansion",
+      "description": "Understanding expanding circles is the first step. The next is participating consciously in the ongoing expansion of ethical consideration.",
+      "ethics": "Explore universal ethics",
+      "mos": "Study the MOS framework"
+    }
+  },
+  "deepTime": {
+    "meta": {
+      "title": "Deep time",
+      "description": "Experience geological time scales and see human civilization in its proper cosmic context."
+    },
+    "hero": {
+      "title": "Deep time",
+      "subtitle": "Earth's 4.5 billion year story",
+      "description": "Human civilization is the last pixel on a screen showing Earth's entire history. To understand our place in the universe, we must grasp the immensity of deep time."
+    },
+    "what": {
+      "title": "What is deep time?",
+      "paragraph1": "<strong>Deep time</strong> is the concept of geologic time—the vast spans of millions and billions of years that characterize Earth's history and the evolution of life.",
+      "paragraph2": "The term was popularized by writer John McPhee, who recognized that our human timeframes are utterly inadequate for comprehending the age of the Earth and the slow processes that have shaped it.",
+      "paragraph3": "Deep time challenges our intuition. We can grasp a century, perhaps even a millennium. But a million years? A billion? These numbers exceed our experiential capacity. Yet this is the timescale on which planetary and evolutionary processes unfold—<em>and the timescale we're now affecting with unprecedented speed</em>."
+    },
+    "scalesTitle": "Scales of deep time",
+    "scales": {
+      "cosmic": {
+        "title": "The universe",
+        "age": "13.8 billion years",
+        "description": "The Big Bang occurred 13.8 billion years ago. Stars, galaxies, and the chemical elements formed over billions of years."
+      },
+      "earth": {
+        "title": "Planet Earth",
+        "age": "4.54 billion years",
+        "description": "Earth formed from the solar nebula. For the first billion years, it was a molten hellscape, bombarded by asteroids."
+      },
+      "life": {
+        "title": "First life",
+        "age": "3.8 billion years",
+        "description": "Simple single-celled organisms emerged in the oceans. For billions of years, life was nothing but microbes."
+      },
+      "animals": {
+        "title": "Complex life",
+        "age": "540 million years",
+        "description": "The Cambrian explosion brought diverse multicellular animals. Plants colonized land. Dinosaurs ruled for 165 million years."
+      },
+      "humans": {
+        "title": "Homo sapiens",
+        "age": "300,000 years",
+        "description": "Modern humans emerged in Africa. For most of our existence, we were hunter-gatherers in small bands."
+      },
+      "civilization": {
+        "title": "Civilization",
+        "age": "12,000 years",
+        "description": "Agriculture, cities, writing, and complex societies emerged. All of recorded history fits here."
+      }
+    },
+    "analogiesTitle": "Making deep time comprehensible",
+    "analogiesIntro": "Because deep time is so vast, we need analogies to grasp it. Here are several ways to visualize Earth's 4.5 billion year history:",
+    "analogies": {
+      "calendar": {
+        "title": "The cosmic calendar",
+        "description": "If Earth's entire history were compressed into one calendar year: Earth forms on January 1st. First life appears in March. Dinosaurs show up on December 13th and go extinct on December 26th. Homo sapiens appears at 11:52 PM on December 31st. All of recorded human history happens in the last 14 seconds of the year."
+      },
+      "clock": {
+        "title": "The 24-hour clock",
+        "description": "If Earth's history were a 24-hour day: Earth forms at midnight. First life at 4 AM. Complex life at 9:30 PM. Dinosaurs at 10:56 PM. Humans at 11:58:43 PM. Agriculture begins at 11:59:46 PM. The Industrial Revolution happens in the last 0.2 seconds."
+      },
+      "timeline": {
+        "title": "The arm span timeline",
+        "description": "Stretch your arms wide. This represents Earth's 4.5 billion years. All of complex life fits in your hand. All of human existence fits on your fingernail. And all of civilization? A single swipe with a nail file removes it."
+      }
+    },
+    "matters": {
+      "title": "Why deep time matters",
+      "paragraph1": "Understanding deep time fundamentally changes how we see ourselves and our actions. It provides crucial context for the decisions we make today.",
+      "paragraph2": "Deep time perspective reveals several critical insights:",
+      "insights": {
+        "humility": {
+          "title": "Cosmic humility",
+          "description": "We are newcomers on an ancient planet. Our species has existed for 0.007% of Earth's history."
+        },
+        "context": {
+          "title": "Evolutionary context",
+          "description": "The complexity we see around us—ecosystems, species, the atmosphere—took billions of years to develop."
+        },
+        "responsibility": {
+          "title": "Unprecedented responsibility",
+          "description": "We're the first species capable of fundamentally altering planetary systems in mere decades—processes that took eons to establish."
+        },
+        "patience": {
+          "title": "Long-term thinking",
+          "description": "Natural healing and adaptation work on geological timescales. What we damage now may not recover for millions of years."
+        }
+      },
+      "paragraph3": "The climate crisis, biodiversity loss, and other planetary challenges take on new weight when viewed through deep time. We're not just affecting our own generation—we're potentially altering the trajectory of life on Earth for geological timescales to come."
+    },
+    "lastPixel": {
+      "title": "The last pixel",
+      "setup": "Imagine Earth's 4.5 billion year history displayed on a high-resolution screen, 4,500 pixels wide. Each pixel represents one million years.",
+      "earthForms": "Earth forms",
+      "now": "Now",
+      "revelation": "All of human civilization—from the first agricultural settlements to space travel—fits in the last 0.012 pixels. You cannot see it with the naked eye.",
+      "reflection": "Yet in that invisible sliver of time, we've developed the capacity to fundamentally alter the systems that took billions of years to evolve."
+    },
+    "governance": {
+      "title": "Deep time and governance",
+      "framework": {
+        "title": "Deep time & relativistic governance framework",
+        "link": "Explore the framework",
+        "description": "Our partner project, Global Governance Frameworks, has developed a comprehensive framework for incorporating deep time thinking into governance and decision-making. This framework addresses a critical gap: most of our institutions operate on electoral cycles of 2-6 years, while the challenges we face—climate change, ecosystem collapse, resource depletion—unfold over decades, centuries, and millennia.",
+        "questions": "The framework explores: How do we represent the interests of <em>future generations</em> who cannot vote? What institutional structures can think in centuries rather than quarters? How do we balance present needs with long-term planetary health?",
+        "conclusion": "These are not abstract philosophical questions—they're urgent practical challenges for species-level survival and flourishing."
+      }
+    },
+    "practice": {
+      "title": "Practicing deep time awareness",
+      "methods": {
+        "rocks": {
+          "title": "Touch ancient rocks",
+          "description": "Hold a rock that's billions of years old. Feel its weight. This object existed before complex life, before oxygen in the atmosphere. It has witnessed the entire story of biological evolution."
+        },
+        "fossils": {
+          "title": "Study fossils",
+          "description": "Fossils are time machines. A trilobite fossil connects you directly to an ocean that existed 500 million years ago, long before any creature walked on land."
+        },
+        "trees": {
+          "title": "Sit with old trees",
+          "description": "Some trees are thousands of years old. They were saplings when the Roman Empire fell. They connect us to deep time in a living, breathing form."
+        },
+        "meditation": {
+          "title": "Deep time meditation",
+          "description": "Mentally walk backward through time. Last year. Last decade. Last century. Last millennium. Keep going. Feel yourself becoming smaller against the vastness of the past."
+        },
+        "future": {
+          "title": "Imagine the future",
+          "description": "Think forward as well as back. What will Earth be like in 1,000 years? 10,000? 1 million? What traces of our civilization might remain? What responsibility do we have to that distant future?"
+        }
+      }
+    },
+    "quote": {
+      "text": "The present is the ever-moving shadow that divides yesterday from tomorrow. In that lies hope.",
+      "author": "Frank Herbert"
+    },
+    "cta": {
+      "title": "Walk through deep time",
+      "description": "Ready to experience Earth's history? Explore our interactive deep time tool or practice scale-shifting to cultivate temporal perspective.",
+      "tool": "Explore deep time",
+      "practice": "Try scale-shifting"
+    }
+  },
+  "pillarsPage": {
+    "hero": {
+      "title": "The five pillars",
+      "subtitle": "Five dimensions of universal exploration"
+    },
+    "intro": "These five pillars provide different lenses for exploring universal perspective. Each offers unique insights, and together they form a comprehensive framework for understanding our place in the cosmos.",
+    "exploreTopics": "Explore topics",
+    "mind": {
+      "topics": [
+        "The universe story",
+        "Cosmic consciousness",
+        "Perennial philosophy",
+        "The hard problem of consciousness"
+      ]
+    },
+    "ethics": {
+      "topics": [
+        "Universal human rights",
+        "Rights of nature",
+        "Post-anthropocentric ethics",
+        "Global governance models"
+      ]
+    },
+    "patterns": {
+      "topics": [
+        "Laws of nature",
+        "Complexity and emergence",
+        "Universal biology",
+        "Network theory"
+      ]
+    },
+    "aesthetics": {
+      "topics": [
+        "The golden ratio",
+        "Universal themes in art",
+        "Cosmic creativity",
+        "Search for extraterrestrial intelligence"
+      ]
+    },
+    "challenges": {
+      "topics": [
+        "Climate change",
+        "Existential risks",
+        "Technological ethics",
+        "Cosmic stewardship"
+      ]
+    },
+    "integration": {
+      "title": "An integrated approach",
+      "paragraph1": "These pillars are not separate domains but interconnected perspectives. Universal mind informs universal ethics. Universal patterns reveal universal aesthetics. Universal challenges require insights from all pillars.",
+      "paragraph2": "As you explore, notice how each pillar illuminates the others. The universe story (Mind) shapes our ethical considerations (Ethics). Network patterns (Patterns) appear in both natural systems and human art (Aesthetics). Our planetary challenges (Challenges) demand we integrate all ways of knowing."
+    },
+    "quote": {
+      "text": "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+      "author": "Carl Sagan"
+    }
+  },
+  "toolsPage": {
+    "hero": {
+      "title": "Tools",
+      "subtitle": "Interactive experiences for cultivating universal perspective"
+    },
+    "intro": "These tools offer experiential ways to shift your perspective. Some visualize cosmic scales, others guide reflection, and some simulate universal processes. All aim to make the abstract tangible.",
+    "tools": {
+      "cosmicZoom": {
+        "title": "Cosmic zoom",
+        "description": "Travel from the smallest to largest scales of reality. Experience the full scope of existence from Planck length to observable universe."
+      },
+      "cosmicAddress": {
+        "title": "Your cosmic address",
+        "description": "Locate yourself across nested scales: body, building, city, planet, solar system, galaxy, supercluster, universe."
+      },
+      "deepTime": {
+        "title": "Deep time walker",
+        "description": "Experience Earth's 4.5 billion year history. See where human civilization fits in the cosmic timeline."
+      },
+      "decisionFilter": {
+        "title": "Universal decision filter",
+        "description": "A framework for evaluating choices across time scales and perspectives. How would this look from 100 years? 10,000 years?"
+      },
+      "planetaryBoundaries": {
+        "title": "Planetary boundaries",
+        "description": "Interactive dashboard showing Earth's nine life-support systems and our current relationship with them."
+      },
+      "emergence": {
+        "title": "Emergence simulator",
+        "description": "Watch simple rules create complex patterns. Explore cellular automata, flocking behavior, and other emergent phenomena."
+      },
+      "universalMandate": {
+        "title": "Your universal mandate",
+        "description": "A guided process to articulate your unique role in the cosmic story. What are you here to do?"
+      },
+      "perspectiveShifter": {
+        "title": "Perspective shifter",
+        "description": "Random prompts to shift your viewpoint: alien anthropologist, future historian, quantum particle, tree, ocean."
+      }
+    },
+    "status": {
+      "comingSoon": "Coming soon"
+    },
+    "categories": {
+      "title": "Tool categories",
+      "visualization": {
+        "title": "Visualizations",
+        "description": "See scales, patterns, and connections that are normally invisible to us."
+      },
+      "reflection": {
+        "title": "Reflection guides",
+        "description": "Structured exercises for contemplating universal questions and perspectives."
+      },
+      "simulation": {
+        "title": "Simulations",
+        "description": "Interactive models of universal processes and emergent phenomena."
+      }
+    },
+    "note": {
+      "title": "Tools in development",
+      "text": "These tools are being designed and built. Each will be released as it reaches a level of quality worthy of the cosmic perspective they aim to cultivate. Check back soon, or contribute your skills to help build them."
+    },
+    "quote": {
+      "text": "If you wish to make an apple pie from scratch, you must first invent the universe.",
+      "author": "Carl Sagan"
+    }
+  },
+  "practicesPage": {
+    "hero": {
+      "title": "Practices",
+      "subtitle": "Daily ways to cultivate universal perspective"
+    },
+    "intro": "Universal perspective isn't just intellectual understanding—it's a lived experience. These practices help you embody cosmic awareness in everyday moments, from breakfast to bedtime.",
+    "practices": {
+      "cosmicMorning": {
+        "title": "Your cosmic morning",
+        "description": "Start the day by recognizing your connection to Earth's systems and the sun's energy that powers all life.",
+        "timeframe": "5-10 minutes"
+      },
+      "viewFromAbove": {
+        "title": "View from above meditation",
+        "description": "A guided visualization that zooms out from your current location to see yourself from increasingly universal perspectives.",
+        "timeframe": "10-15 minutes"
+      },
+      "cosmicConsumption": {
+        "title": "Cosmic consumption",
+        "description": "Before purchasing anything, trace its origins and impacts across the planet. Vote with your wallet for the world you want.",
+        "timeframe": "2-3 minutes per decision"
+      },
+      "decisionFilter": {
+        "title": "Universal decision filter",
+        "description": "Evaluate choices by asking: How would this look from 100 years? 1,000 years? From an alien observer's perspective?",
+        "timeframe": "3-5 minutes per decision"
+      },
+      "gratitude": {
+        "title": "Cosmic gratitude",
+        "description": "Evening practice of gratitude for the improbable privilege of existence on this rare living world.",
+        "timeframe": "5-10 minutes"
+      },
+      "scaleShifting": {
+        "title": "Scale shifting",
+        "description": "Practice mentally zooming in and out—from cells to organs to planet to solar system—throughout your day.",
+        "timeframe": "30 seconds, multiple times"
+      },
+      "alienAnthropologist": {
+        "title": "Alien anthropologist",
+        "description": "Observe human behavior (including your own) as if you were an alien anthropologist seeing Earth for the first time.",
+        "timeframe": "Ongoing throughout day"
+      },
+      "paleBlue": {
+        "title": "Pale blue dot contemplation",
+        "description": "Look at Earth from space (image or imagination) and reflect on Carl Sagan's Pale Blue Dot meditation.",
+        "timeframe": "10-15 minutes"
+      }
+    },
+    "howTo": {
+      "title": "How to practice",
+      "start": {
+        "title": "Start small",
+        "description": "Choose one practice that resonates with you. Do it daily for a week before adding another. Quality and consistency matter more than quantity."
+      },
+      "consistency": {
+        "title": "Build consistency",
+        "description": "Anchor practices to existing habits. Cosmic morning after waking, decision filter before big choices, gratitude before sleep."
+      },
+      "integrate": {
+        "title": "Integrate naturally",
+        "description": "Let practices become part of your life rather than separate 'spiritual work.' Universal perspective should infuse everything you do."
+      },
+      "journal": {
+        "title": "Keep a journal",
+        "description": "Note shifts in perspective, moments of awe, or insights that arise. Track how universal thinking changes your choices and relationships."
+      }
+    },
+    "dailyStructure": {
+      "title": "A universal day",
+      "morning": {
+        "title": "Morning",
+        "description": "Cosmic morning ritual. Set intention to maintain universal perspective throughout the day."
+      },
+      "day": {
+        "title": "Throughout the day",
+        "description": "Scale shifting, alien anthropologist mode, decision filter for important choices."
+      },
+      "evening": {
+        "title": "Evening",
+        "description": "Cosmic gratitude. Review the day from universal perspective. What mattered? What didn't?"
+      }
+    },
+    "quote": {
+      "text": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.",
+      "author": "Carl Sagan"
+    }
+  },
+  "footer": {
+    "description": "Exploring and embodying universal perspective—the capacity to see from the vantage point of the whole.",
+    "sections": {
+      "explore": "Explore",
+      "connect": "Connect",
+      "contribute": "Contribute"
+    },
+    "links": {
+      "fivePillars": "The five pillars",
+      "toolsPractices": "Tools & practices",
+      "aboutUniversalize": "About Universalize",
+      "resources": "Resources",
+      "theTrilogy": "The trilogy",
+      "spiralize": "Spiralize",
+      "nondualize": "Nondualize",
+      "communize": "Communize",
+      "ggf": "Global Governance Frameworks",
+      "github": "GitHub repository",
+      "suggestContent": "Suggest content",
+      "reportIssues": "Report issues"
+    },
+    "license": "Licensed under",
+    "createdBy": "Created by",
+    "copyright": "Universalize"
+  }
+}

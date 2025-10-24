@@ -1,0 +1,1043 @@
+{
+  "site": {
+    "title": "Universalize",
+    "tagline": "Omfamna det kosmiska perspektivet",
+    "description": "Utforska och förkroppsliga universellt perspektiv—förmågan att se från helhetens synvinkel."
+  },
+  "nav": {
+    "home": "Hem",
+    "explore": "Utforska",
+    "pillars": "Pelarna",
+    "tools": "Verktyg",
+    "practices": "Praktiker",
+    "about": "Om",
+    "relatedSites": "Relaterade webbplatser"
+  },
+  "hero": {
+    "title": "Universalize",
+    "tagline": "Omfamna det kosmiska perspektivet",
+    "description": "Utforska och förkroppsliga <strong>universellt perspektiv</strong>—förmågan att se från helhetens synvinkel. Känna igen mönster som förbinder allt, utvidga din omsorgssfär till att omfatta alla varelser, och ta ansvar för din roll i den kosmiska berättelsen.",
+    "startExploring": "Börja utforska",
+    "learnMore": "Lär dig mer"
+  },
+  "journey": {
+    "title": "Resan fullbordad",
+    "spiralize": {
+      "name": "Spiralize",
+      "stage": "Jag"
+    },
+    "nondualize": {
+      "name": "Nondualize",
+      "stage": "Självet"
+    },
+    "communize": {
+      "name": "Communize",
+      "stage": "Vi"
+    },
+    "universalize": {
+      "name": "Universalize",
+      "stage": "Allt"
+    }
+  },
+  "entryPoints": {
+    "title": "Hitta din ingång",
+    "subtitle": "Universellt perspektiv är inte abstrakt filosofi—det är ett sätt att engagera sig i vardagen.",
+    "practical": {
+      "title": "För de praktiskt lagda",
+      "cosmicMorning": {
+        "title": "Din kosmiska morgon",
+        "description": "Förvandla frukosten genom att spåra ditt kaffe från etiopiska högländer genom globala leveranskedjor till din kopp."
+      },
+      "decisionFilter": {
+        "title": "Det universella beslutsfiltret",
+        "description": "Före varje val, fråga: Hur skulle detta se ut om 100 år? 1000 år? Från en utomjordisk observatörs perspektiv?"
+      },
+      "cosmicConsumption": {
+        "title": "Kosmisk konsumtion",
+        "description": "Se varje köp som en röst för den värld du vill ha—ett val som ringar ut över ekosystem och ekonomier."
+      }
+    },
+    "wonder": {
+      "title": "För de underfyllda",
+      "cosmicAddress": {
+        "title": "Din kosmiska adress",
+        "description": "Lokalisera dig själv på skalor från kvant till kosmos. Du är här: Jorden → Solsystemet → Vintergatan → Det observerbara universumet."
+      },
+      "deepTime": {
+        "title": "Djuptidsvandraren",
+        "description": "Upplev ditt liv i geologisk kontext. Hela den mänskliga civilisationen ryms i den sista pixeln av jordens tidslinje."
+      },
+      "overviewEffect": {
+        "title": "Överblickseffekten",
+        "description": "Utforska astronauters berättelser om att se jorden från rymden och vad det avslöjar om vår sammankoppling."
+      }
+    },
+    "systems": {
+      "title": "För systemtänkarna",
+      "patterns": {
+        "title": "Utforskaren av universella mönster",
+        "description": "Från fraktaler till nätverksteori, upptäck principer som upprepas över alla skalnivåer av verkligheten."
+      },
+      "boundaries": {
+        "title": "Planetära gränser-instrumentpanelen",
+        "description": "Förstå de system som gör jorden beboelig och vår nuvarande relation med dem."
+      },
+      "emergence": {
+        "title": "Emergenssimulatorer",
+        "description": "Bevittna hur enkla universella regler skapar oändlig komplexitet."
+      }
+    }
+  },
+  "pillars": {
+    "title": "De fem pelarna",
+    "subtitle": "Fem dimensioner av universell utforskning",
+    "mind": {
+      "title": "Universellt medvetande",
+      "subtitle": "Medvetande & kosmologi",
+      "description": "Utforska universums berättelse, kosmiskt medvetande, den perenniala filosofin och medvetandets natur."
+    },
+    "ethics": {
+      "title": "Universell etik",
+      "subtitle": "Expanderande cirklar",
+      "description": "Utvidga etiskt hänsynstagande från mänskliga rättigheter till naturens rättigheter, post-antropocentrisk etik och global styrning."
+    },
+    "patterns": {
+      "title": "Universella mönster",
+      "subtitle": "Vetenskap & system",
+      "description": "Upptäck naturlagar, komplexitet och emergens, universell biologi och mönster som förbinder alla skalnivåer."
+    },
+    "aesthetics": {
+      "title": "Universell estetik",
+      "subtitle": "Uttryck & skönhet",
+      "description": "Utforska universella teman i konst, det gyllene snittet, kosmisk kreativitet och sökandet efter intelligens bortom jorden."
+    },
+    "challenges": {
+      "title": "Universella utmaningar",
+      "subtitle": "Vårt kosmiska ögonblick",
+      "description": "Hantera klimatförändringar, existentiella risker, global styrning, teknologisk etik och kosmiskt förvaltarskap."
+    }
+  },
+  "mission": {
+    "title": "Vårt uppdrag",
+    "text1": "Att tillhandahålla de konceptuella, etiska och erfarenhetsmässiga verktygen för individer och gemenskaper att <strong>internalisera ett universellt perspektiv</strong>, och därigenom bli mer effektiva, medkännande och visa aktörer i kosmos fortlöpande berättelse.",
+    "text2": "Vi tror att mänskligheten brådskande behöver detta perspektiv för att navigera klimatförändringar, existentiella risker och övergången till planetär civilisation. Universellt tänkande är inte valfritt—det är väsentligt för vår överlevnad och vårt blomstrande."
+  },
+  "quote": {
+    "sagan": "Vi är ett sätt för kosmos att känna sig själv.",
+    "saganAuthor": "Carl Sagan"
+  },
+  "about": {
+    "hero": {
+      "title": "Om Universalize",
+      "subtitle": "En plattform för att utforska och förkroppsliga ett universellt perspektiv"
+    },
+    "what": {
+      "title": "Vad är Universalize?",
+      "paragraph1": "Universalize är en filosofisk, vetenskaplig och erfarenhetsbaserad utforskning av vad det innebär att anamma ett <strong class=\"text-blue-300\">universellt perspektiv</strong> – att se från helhetens synvinkel och omfamna alla verklighetens dimensioner i deras oändliga mångfald och underliggande enhet.",
+      "paragraph2": "Det representerar den fjärde rörelsen i en kvartett av sammanlänkade utforskningar: från <strong>jag</strong> (Spiralize) till <strong>Själv</strong> (Nondualize) till <strong>vi</strong> (Communize) till <strong>alla oss, överallt, över alla skalor och tider</strong> (Universalize).",
+      "paragraph3": "Vi tror att mänskligheten akut behöver detta perspektiv för att navigera klimatförändringar, existentiella risker och övergången till en planetär civilisation. Universellt tänkande är inte valfritt – det är avgörande för vår överlevnad och vårt blomstrande."
+    },
+    "journey": {
+      "title": "Den kompletta resan",
+      "spiralize": {
+        "name": "Spiralize",
+        "subtitle": "Jag - Individuell utveckling",
+        "description": "Utforska utvecklingspsykologi genom Spiral Dynamics. Förstå hur värderingar och världsbilder utvecklas från överlevnad till integration."
+      },
+      "nondualize": {
+        "name": "Nondualize",
+        "subtitle": "Själv - Transcendent medvetenhet",
+        "description": "Upptäck icke-dualistisk medvetenhet – insikten att separationen mellan jag och andra, observatör och observerad, inte är ultimat verklig."
+      },
+      "communize": {
+        "name": "Communize",
+        "subtitle": "Vi - Kollektiva strukturer",
+        "description": "Utforska att bygga gemenskap och skapa allmänningar. Lär dig modeller för delat ägande, kollektivt ansvar och relationella band."
+      },
+      "universalize": {
+        "name": "Universalize",
+        "subtitle": "Alla - Kosmiskt perspektiv",
+        "description": "Omfamna ett universellt perspektiv. Se från helhetens synvinkel, över alla verklighetens och tidens skalor. Det är här du är nu."
+      }
+    },
+    "ggf": {
+      "title": "Koppling till Global Governance Frameworks",
+      "name": "Global Governance Frameworks",
+      "paragraph1": "Universalize delar en djup konceptuell samstämmighet med Global Governance Frameworks (GGF), ett projekt som utforskar mönster för planetär samordning och meta-styrning.",
+      "paragraph2": "Medan Universalize kultiverar det <em>perspektiv</em> som behövs för att se mänskligheten som en helhet, utforskar GGF de <em>strukturer</em> som skulle kunna göra det möjligt för oss att agera som en helhet. Båda inser att våra nuvarande planetära utmaningar kräver tänkande och agerande på skalor bortom nationalstater och traditionella institutioner.",
+      "paragraph3": "Pelaren \"Universella utmaningar\" i Universalize engagerar sig direkt i styrningsfrågor, vilket gör GGF till en naturlig följeslagare för dem som är redo att gå från perspektiv till praktik."
+    },
+    "philosophy": {
+      "title": "Vår filosofi",
+      "open": {
+        "title": "Öppet och gratis",
+        "description": "Inga betalväggar, ingen spårning, ingen intäktsgenerering. Denna kunskap tillhör alla. Allt innehåll delas fritt under CC BY-SA 4.0."
+      },
+      "grounded": {
+        "title": "Grundat i vardagen",
+        "description": "Universellt perspektiv är inte abstrakt filosofi – det omvandlar hur vi äter frukost, fattar beslut och relaterar till andra. Vi fokuserar på praktiska tillämpningar."
+      },
+      "developmental": {
+        "title": "Utvecklingsmedvetet",
+        "description": "Vi hedrar att människor engagerar sig i universellt perspektiv från olika utvecklingsstadier. Det finns flera ingångar, var och en giltig och värdefull."
+      },
+      "emotional": {
+        "title": "Emotionellt balanserat",
+        "description": "Vi kultiverar vördnad, ödmjukhet, brådska, glädje och ansvar – en fullständig emotionell palett för att engagera oss i vårt kosmiska sammanhang utan överväldigande eller förtvivlan."
+      }
+    },
+    "quote": {
+      "text": "Jorden är mänsklighetens vagga, men man kan inte leva i en vagga för evigt.",
+      "author": "Konstantin Tsiolkovskij"
+    }
+  },
+  "explore": {
+    "hero": {
+      "title": "Utforska",
+      "subtitle": "Djupdykningar i universella teman, perspektiv och frågor"
+    },
+    "intro": "Dessa utforskningar bjuder in dig att zooma ut – i rum, i tid och i perspektiv. Var och en erbjuder en annan lins för att se dig själv, mänskligheten och existensen i ett bredare sammanhang.",
+    "areas": {
+      "overviewEffect": {
+        "title": "Överblickseffekten",
+        "description": "Astronauters berättelser om att se jorden från rymden och vad det avslöjar om vår sammankoppling."
+      },
+      "patterns": {
+        "title": "Universella mönster",
+        "description": "Från fraktaler till nätverksteori, upptäck principer som upprepas över alla verklighetens skalor."
+      },
+      "universeStory": {
+        "title": "Universums berättelse",
+        "description": "Från Big Bang till nutid – vår gemensamma vetenskapliga skapelsemyt och mänsklighetens plats i den."
+      },
+      "expandingCircles": {
+        "title": "Expanderande omsorgscirklar",
+        "description": "Hur vårt etiska övervägande har expanderat från stam till nation till art – och måste gå längre."
+      },
+      "deepTime": {
+        "title": "Djup tid",
+        "description": "Upplev geologiska tidsskalor och se mänsklig civilisation i dess rätta kosmiska sammanhang."
+      },
+      "seti": {
+        "title": "Sökandet efter intelligens",
+        "description": "SETI och vad sökandet efter utomjordiskt liv avslöjar om våra antaganden och förhoppningar."
+      }
+    },
+    "lookingFor": {
+      "title": "Letar du efter något specifikt?",
+      "pillars": {
+        "title": "Bläddra per pelare",
+        "description": "Utforska innehåll organiserat efter de fem pelarna: Sinne, Etik, Mönster, Estetik och Utmaningar."
+      },
+      "tools": {
+        "title": "Prova verktygen",
+        "description": "Interaktiva visualiseringar och övningar för att kultivera ett universellt perspektiv."
+      },
+      "practices": {
+        "title": "Dagliga praktiker",
+        "description": "Konkreta sätt att föra in ett universellt perspektiv i ditt vardagsliv."
+      },
+      "resources": {
+        "title": "Resurser",
+        "description": "Böcker, artiklar, videor och annat material för djupare utforskning."
+      }
+    },
+    "quote": {
+      "text": "Titta igen på den där pricken. Det är här. Det är hemma. Det är vi.",
+      "author": "Carl Sagan, Pale Blue Dot"
+    }
+  },
+  "overviewEffect": {
+    "meta": {
+      "title": "Överblickseffekten",
+      "description": "Utforska den djupa perspektivförändring som astronauter upplever när de ser jorden från rymden."
+    },
+    "hero": {
+      "title": "Överblickseffekten",
+      "subtitle": "Ett kognitivt skifte i medvetenhet rapporterat av astronauter",
+      "description": "När människor ser jorden från rymden för första gången händer något djupt. Gränser försvinner. Konflikter verkar småaktiga. En känsla av enhet med allt liv uppstår. Detta är överblickseffekten."
+    },
+    "what": {
+      "title": "Vad är överblickseffekten?",
+      "paragraph1": "Överblickseffekten är ett kognitivt skifte i medvetenhet som rapporterats av vissa astronauter under rymdfärder, ofta när de betraktar jorden från yttre rymden.",
+      "paragraph2": "Den kännetecknas av en känsla av vördnad för planeten, en djup förståelse för allt livs sammankoppling och en förnyad känsla av ansvar för att ta hand om miljön.",
+      "paragraph3": "Termen myntades av författaren Frank White 1987, som identifierade gemensamma mönster i astronauters upplevelser. Han beskrev det som \"<em>en spontan och överväldigande känsla av samhörighet med alla på jorden och själva planeten</em>.\""
+    },
+    "themesTitle": "Vanliga teman i överblickseffekten",
+    "themes": {
+      "fragility": {
+        "title": "Jordens skörhet",
+        "description": "Att se jorden som en liten, ömtålig sfär upphängd i rymdens mörker, skyddad endast av en papperstunn atmosfär. Insikten att detta är vårt enda hem och att det behöver skyddas."
+      },
+      "unity": {
+        "title": "Frånvaro av gränser",
+        "description": "Från rymden är nationsgränser osynliga. De uppdelningar vi skapar verkar godtyckliga och obetydliga jämfört med vårt gemensamma planetära hem."
+      },
+      "beauty": {
+        "title": "Överväldigande skönhet",
+        "description": "En djup estetisk upplevelse – skönheten i jordens blå, gröna och virvlande moln. Många astronauter beskriver att de blivit rörda till tårar."
+      },
+      "responsibility": {
+        "title": "Delat ansvar",
+        "description": "En djup känsla av skyldighet att ta hand om jorden och alla dess invånare. Erkännandet att vi alla sitter i samma båt, oavsett nationalitet eller ideologi."
+      }
+    },
+    "voices": {
+      "title": "Röster från rymden",
+      "subtitle": "Astronauter beskriver sina upplevelser"
+    },
+    "astronauts": [
+      {
+        "name": "Edgar Mitchell",
+        "mission": "Apollo 14",
+        "quote": "Man utvecklar omedelbart ett globalt medvetande, en människoinriktning, ett intensivt missnöje med världens tillstånd och ett tvång att göra något åt det."
+      },
+      {
+        "name": "Jurij Gagarin",
+        "mission": "Vostok 1",
+        "quote": "När jag kretsade runt jorden i rymdskeppet såg jag hur vacker vår planet är. Människor, låt oss bevara och öka denna skönhet, inte förstöra den!"
+      },
+      {
+        "name": "Ron Garan",
+        "mission": "ISS Expedition 27/28",
+        "quote": "När vi tittar ner på jorden från rymden ser vi denna fantastiska, obeskrivligt vackra planet. Den ser ut som en levande, andande organism. Men den ser också, samtidigt, extremt skör ut."
+      },
+      {
+        "name": "Mae Jemison",
+        "mission": "STS-47",
+        "quote": "När jag väl kom ut i rymden kände jag mig väldigt bekväm i universum. Jag kände att jag hade rätt att vara var som helst i detta universum, att jag hörde hemma här lika mycket som vilket stoftkorn, vilken komet, vilken planet som helst."
+      }
+    ],
+    "science": {
+      "title": "Vetenskapen bakom skiftet",
+      "paragraph1": "Även om överblickseffekten primärt är ett erfarenhetsbaserat fenomen har forskare börjat studera dess psykologiska och neurologiska grunder. Studier tyder på att upplevelsen involverar aktivering av neurala nätverk associerade med vördnad, självtranscendens och spatialt perspektivtagande.",
+      "paragraph2": "Forskning har funnit konsekventa mönster hos astronauter som upplever överblickseffekten:",
+      "research": {
+        "title": "Viktiga forskningsresultat",
+        "finding1": "Ökad känsla av samhörighet med mänskligheten och livet på jorden",
+        "finding2": "Större miljöengagemang och miljövänligt beteende",
+        "finding3": "Förstärkt känsla av mening och syfte",
+        "finding4": "Minskat fokus på individuella angelägenheter till förmån för kollektivt välbefinnande"
+      },
+      "paragraph3": "Intressant nog visar studier av människor som har sett jorden från flygningar på hög höjd eller genom VR-simuleringar liknande (om än mindre intensiva) kognitiva skiften, vilket tyder på att effekten kan framkallas utan faktisk rymdfärd."
+    },
+    "cultivate": {
+      "title": "Att kultivera överblickseffekten utan rymdfärd",
+      "intro": "Även om ingenting helt återskapar att se jorden från rymden, kan flera metoder hjälpa till att kultivera ett liknande perspektivskifte:",
+      "methods": {
+        "images": {
+          "title": "Studera bilder av jorden från rymden",
+          "description": "Tillbringa tid med fotografier och videor tagna från omloppsbana. Bilderna 'Blue Marble' och 'Earthrise' har berört miljontals. Modernt filmmaterial från ISS erbjuder dynamiska vyer av vår planet."
+        },
+        "vr": {
+          "title": "Virtual reality-upplevelser",
+          "description": "VR-program som 'Overview' och 'SpaceVR' ger uppslukande simuleringar av att se jorden från rymden, med dokumenterade psykologiska effekter liknande astronautrapporter."
+        },
+        "meditation": {
+          "title": "Perspektivtagande meditation",
+          "description": "Guidad visualisering som mentalt zoomar ut från din nuvarande plats till ett omloppsperspektiv. Öva på att se dig själv och dina bekymmer från denna utvidgade synvinkel."
+        },
+        "flights": {
+          "title": "Upplevelser på hög höjd",
+          "description": "Bergstoppar, fönsterplatser på flygplan eller ballongflygningar på hög höjd erbjuder partiella glimtar av jordens krökning och det tunna atmosfäriska lagret."
+        },
+        "perspective": {
+          "title": "Dagliga perspektivövningar",
+          "description": "Påminn dig själv regelbundet om att du befinner dig på en planet som snurrar genom rymden. Använd vår 'Vy från ovan'-övning för att kultivera denna medvetenhet."
+        }
+      }
+    },
+    "paleBlue": {
+      "title": "Den bleka blå pricken",
+      "imageCaption": "Jorden sedd från 6 miljarder kilometers avstånd (Voyager 1, 1990)",
+      "quote": {
+        "paragraph1": "Titta igen på den där pricken. Det är här. Det är hemma. Det är vi. På den har alla du älskar, alla du känner, alla du någonsin hört talas om, varje människa som någonsin funnits, levt ut sina liv.",
+        "paragraph2": "Varje helgon och syndare i vår arts historia levde där – på ett dammkorn upphängt i en solstråle.",
+        "paragraph3": "För mig understryker det vårt ansvar att behandla varandra vänligare och att bevara och värna om den bleka blå pricken, det enda hem vi någonsin känt."
+      },
+      "reflection": "Carl Sagans reflektion över bilden av den bleka blå pricken förblir en av de mest kraftfulla formuleringarna av överblickseffektens implikationer för hur vi bör leva."
+    },
+    "cta": {
+      "title": "Upplev skiftet",
+      "description": "Redo att kultivera din egen version av överblickseffekten? Prova vår guidade meditation eller utforska vårt kosmiska zoomverktyg.",
+      "meditation": "Prova meditationen",
+      "explore": "Utforska kosmiska skalor"
+    }
+  },
+"universalPatterns": {
+    "meta": {
+      "title": "Universella mönster",
+      "description": "Från fraktaler till nätverksteori, upptäck principer som upprepas över alla verklighetens skalor."
+    },
+    "hero": {
+      "title": "Universella mönster",
+      "subtitle": "Principer som upprepas över alla skalor",
+      "description": "Naturen uppfinner inte sig själv på nytt vid varje skala. Från atomer till galaxer, från celler till samhällen, uppstår samma mönster om och om igen. Att känna igen dessa mönster avslöjar existensens djupa enhet."
+    },
+    "what": {
+      "title": "Vad är universella mönster?",
+      "paragraph1": "Universella mönster är organiserande principer som uppträder upprepade gånger över vitt skilda skalor och domäner i verkligheten. De är kosmos sätt att vara effektivt – att använda samma lösning i flera sammanhang.",
+      "paragraph2": "Dessa är inte bara sammanträffanden eller mänskliga projektioner. De är matematiska, fysiska och informationella strukturer som uppstår ur naturens grundläggande lagar. När liknande begränsningar finns, utvecklas liknande lösningar – oavsett om vi talar om <em>floddeltan, blixtar eller neurala nätverk</em>.",
+      "paragraph3": "Att känna igen universella mönster är centralt för att utveckla ett kosmiskt perspektiv. Det avslöjar att du inte är separerad från naturen – du är gjord av samma mönster som organiserar galaxer och orkestrerar ekosystem. Dina neurala nätverk följer samma principer som mykorrhizanätverk. Ditt cirkulationssystem förgrenar sig som träd och floder."
+    },
+    "patternsTitle": "Sex grundläggande mönster",
+    "patterns": {
+      "fractals": {
+        "title": "Fraktaler",
+        "description": "Självliknande mönster som upprepas vid varje skala. Zooma in på en fraktal och du finner samma mönster, oändligt.",
+        "examples": "Kustlinjer, ormbunkar, blodkärl, blixtar, snöflingor, romanescokål, galaxfördelning."
+      },
+      "networks": {
+        "title": "Nätverk",
+        "description": "Noder sammanlänkade av kanter, vilket skapar distribuerade system som kan vara robusta, adaptiva och emergenta.",
+        "examples": "Neurala nätverk, mykorrhizasvampar, internet, sociala strukturer, handelsvägar, näringsvävar."
+      },
+      "cycles": {
+        "title": "Cykler och rytmer",
+        "description": "Upprepande mönster i tiden – oscillationer, vågor, årstider och återkopplingsslingor som skapar stabilitet genom förändring.",
+        "examples": "Dag/natt, årstider, hjärtslag, ekonomiska cykler, rovdjur-bytesdjur-dynamik, planetbanor."
+      },
+      "emergence": {
+        "title": "Emergens",
+        "description": "Komplexa mönster som uppstår ur enkla regler. Helheten blir större än summan av delarna.",
+        "examples": "Medvetande från neuroner, flockbeteende, kristallbildning, trafikmönster, marknadsdynamik."
+      },
+      "symmetry": {
+        "title": "Symmetri",
+        "description": "Balans och proportion som förekommer i naturens former och strukturer, ofta kopplat till effektivitet och stabilitet.",
+        "examples": "Bilateral symmetri hos djur, radiell symmetri hos blommor, kristallgitter, partikelfysik."
+      },
+      "flows": {
+        "title": "Energi- och informationsflöden",
+        "description": "Hur energi, materia och information rör sig genom system, vilket skapar gradienter, strömmar och kaskader.",
+        "examples": "Floder, elektriska strömmar, värmeöverföring, neurala signaler, skvaller, kaskadfel."
+      }
+    },
+    "examplesLabel": "Exempel över skalor",
+    "scaleFree": {
+      "title": "Skalfria principer",
+      "paragraph1": "Den kanske mest djupgående insikten om universella mönster är att många av dem är skalfria – de fungerar på samma sätt oavsett om vi talar om atomer eller galaxer. Betrakta nätverksstruktur:",
+      "example": {
+        "title": "Nätverksprinciper över sju skalor",
+        "quantum": "Kvantnivå: Sammanflätade partiklar bildar informationsnätverk",
+        "atomic": "Atomnivå: Elektronmoln organiseras runt kärnor",
+        "cellular": "Cellnivå: Metaboliska vägar bildar biokemiska nätverk",
+        "neural": "Neural nivå: Neuroner kopplas samman i hjärnnätverk",
+        "social": "Social nivå: Människor bildar sociala nätverk",
+        "ecological": "Ekologisk nivå: Arter kopplas samman i näringsvävs-nätverk",
+        "cosmic": "Kosmisk nivå: Galaxer klustras i det kosmiska nätet"
+      },
+      "paragraph2": "På varje nivå gäller liknande principer: preferentiell anknytning (rika blir rikare), småvärldsegenskaper (sex grader av separation), robusthet mot slumpmässiga fel men sårbarhet för riktade attacker. Matematiken är identisk."
+    },
+    "lawsTitle": "Universella lagar",
+    "lawsIntro": "Utöver mönster finns det universella lagar – principer som gäller överallt utan undantag:",
+    "laws": {
+      "thermodynamics": {
+        "law": "Termodynamikens lagar",
+        "description": "Energi bevaras (1:a huvudsatsen), entropin ökar (2:a huvudsatsen), absoluta nollpunkten är ouppnåelig (3:e huvudsatsen).",
+        "implication": "Allt från stjärnbildning till mänsklig civilisation begränsas av dessa lagar. De dikterar vad som är möjligt."
+      },
+      "powerLaw": {
+        "law": "Potenslagfördelningar",
+        "description": "Många naturliga system följer potenslagar: några få saker är mycket stora, de flesta är små. Förmögenhet, städers storlek, jordbävningars magnitud.",
+        "implication": "Ojämlikhet och hierarki uppstår ofta naturligt från skalfria processer, inte från design eller konspiration."
+      },
+      "selection": {
+        "law": "Selektion och evolution",
+        "description": "System som kan replikera med variation och konkurrera om resurser kommer att utvecklas. Gäller gener, idéer, teknologier, företag.",
+        "implication": "Evolution är inte bara biologisk – det är en universell princip för hur system förändras över tid genom differentiell framgång."
+      }
+    },
+    "implicationLabel": "Implikation",
+    "goldenRatio": {
+      "title": "Gyllene snittet",
+      "paragraph1": "Ett särskilt slående universellt mönster är gyllene snittet (φ ≈ 1,618), en proportion som förekommer i hela naturen och har fängslat människor i årtusenden.",
+      "formula": "φ = (1 + √5) / 2",
+      "paragraph2": "Detta förhållande förekommer i:",
+      "nature": {
+        "title": "I naturen",
+        "examples": "Spiralskal, blomblad, fröarrangemang, tallkottar, galaxspiraler, mänskliga kroppsproportioner."
+      },
+      "art": {
+        "title": "I mänskligt skapande",
+        "examples": "Parthenon, pyramiderna, renässansmålningar, musikkomposition, modern arkitektur."
+      },
+      "paragraph3": "Varför förekommer φ så ofta? Det är matematiskt optimalt för vissa packnings- och tillväxtproblem. Det representerar naturens sätt att maximera effektiviteten i rymdfyllnad och spiraltillväxt. Huruvida evolutionen upptäckte det oberoende i varje fall eller om det är en djup matematisk nödvändighet förblir ett vackert mysterium."
+    },
+    "matters": {
+      "title": "Varför universella mönster är viktiga",
+      "paragraph1": "Att förstå universella mönster omvandlar hur vi ser på oss själva och vår plats i kosmos:",
+      "insights": {
+        "unity": {
+          "title": "Djup enhet",
+          "description": "Du är inte separerad från naturen. Mönstren som organiserar din kropp är samma mönster som organiserar galaxer. Du är universum som känner sig självt."
+        },
+        "prediction": {
+          "title": "Prediktiv kraft",
+          "description": "Att känna igen mönster i en domän hjälper oss att förstå andra. Nätverksteori gäller neuroner, ekosystem och ekonomier."
+        },
+        "design": {
+          "title": "Bättre design",
+          "description": "Biomimik – att lära av naturens mönster – har producerat fantastiska innovationer. Naturen har haft 3,8 miljarder år på sig att optimera."
+        },
+        "humility": {
+          "title": "Kosmisk ödmjukhet",
+          "description": "Vi är inte skapelsens höjdpunkt eller syfte. Vi är ett uttryck för universella mönster bland otaliga andra."
+        }
+      },
+      "paragraph2": "När du ser fraktaler i ormbunkar och lungor, nätverk i neuroner och mykorrhiza, cykler i årstider och andning – uppfattar du existensens grundläggande grammatik. Dessa mönster är universums modersmål."
+    },
+    "explore": {
+      "title": "Att utforska mönster i vardagen",
+      "methods": {
+        "observe": {
+          "title": "Observera naturen noggrant",
+          "description": "Titta på ett träds grenar, ett floddelta, blixtar, frostmönster på fönster. Lägg märke till de återkommande strukturerna. Bär med dig ett förstoringsglas – fraktaler belönar noggrann inspektion."
+        },
+        "study": {
+          "title": "Studera matematik och systemtänkande",
+          "description": "Lär dig om nätverksteori, kaosteori, komplexitetsvetenskap. Dessa fält formaliserar naturens mönster matematiskt."
+        },
+        "simulate": {
+          "title": "Lek med simuleringar",
+          "description": "Conway's Game of Life, fraktalgeneratorer, cellulära automater, flocksimuleringar. Se hur enkla regler skapar komplexa mönster."
+        },
+        "analogies": {
+          "title": "Dra analogier över domäner",
+          "description": "Hur liknar en skog internet? Hur liknar en stad en organism? Hur liknar evolution inlärning? Att hitta paralleller avslöjar universella mönster."
+        }
+      }
+    },
+    "quote": {
+      "text": "Se djupt in i naturen, och då kommer du att förstå allt bättre.",
+      "author": "Albert Einstein"
+    },
+    "cta": {
+      "title": "Se mönstren",
+      "description": "Redo att utforska universella mönster interaktivt? Prova vår emergenssimulator eller dyk djupare in i mönsterpelaren.",
+      "simulator": "Prova emergenssimulatorn",
+      "pillar": "Utforska mönsterpelaren"
+    }
+  },
+  "expandingCircles": {
+    "meta": {
+      "title": "Expanderande omsorgscirklar",
+      "description": "Hur vårt etiska övervägande har expanderat från stam till nation till art – och måste gå längre."
+    },
+    "hero": {
+      "title": "Expanderande omsorgscirklar",
+      "subtitle": "Evolutionen av moraliskt övervägande",
+      "description": "Genom historien har mänskligheten gradvis expanderat cirkeln av varelser vi anser värdiga moralisk hänsyn. Från familj till stam till nation till art – varje expansion var en gång otänkbar, sedan blev den oundviklig."
+    },
+    "what": {
+      "title": "Vad är expanderande omsorgscirklar?",
+      "paragraph1": "Konceptet expanderande omsorgscirklar beskriver hur mänskligt moraliskt övervägande progressivt har vidgats genom historien. Varje generation expanderar gränsen för vem som förtjänar etisk behandling, och utvidgar rättigheter och skydd till grupper som tidigare exkluderats.",
+      "paragraph2": "Filosofen Peter Singer populariserade detta koncept i <em>Den expanderande cirkeln</em> (1981), och visade hur förnuftet leder oss att utvidga vår etiska omsorg bortom vår omedelbara grupp. Det som börjar som omsorg om familjen expanderar naturligt – logiskt och empatiskt – till att inkludera allt vidare cirklar.",
+      "paragraph3": "Denna expansion är inte bara historisk kuriosa – det är en aktiv process. Vi lever igenom flera expansioner just nu: djurrättigheter, ekosystems personlighet, digitala rättigheter och hänsyn till framtida generationer. Att förstå detta mönster hjälper oss att medvetet delta i de nästa expansionerna."
+    },
+    "historyTitle": "Den historiska resan av moralisk expansion",
+    "history": [
+      {
+        "era": "Paleolitikum",
+        "circle": "Familj och släkt",
+        "description": "Tidiga människor utvidgade omsorgen primärt till närmaste familj och nära släktingar. Överlevnad berodde på små grupper om 20-50 personer. Utomstående var hot."
+      },
+      {
+        "era": "Neolitikum - Antiken",
+        "circle": "Stam och stadsstat",
+        "description": "Med jordbruk och bosättningar expanderade omsorgen till att inkludera stammen eller stadsstaten. Medborgare hade rättigheter; utomstående och slavar hade det inte."
+      },
+      {
+        "era": "Medeltiden - Upplysningen",
+        "circle": "Nation och religion",
+        "description": "Religiösa och nationella identiteter skapade större cirklar av moraliskt övervägande. Men de utanför ens tro eller nation exkluderades ofta eller demoniserades."
+      },
+      {
+        "era": "1700-talet - 1900-talet",
+        "circle": "Universella mänskliga rättigheter",
+        "description": "Upplysningen, abolitionism, feminism, medborgerliga rättigheter – ett gradvis erkännande av att alla människor förtjänar lika moraliskt övervägande oavsett ras, kön eller nationalitet."
+      },
+      {
+        "era": "Sent 1900-tal - 2000-talet",
+        "circle": "Kännande djur och ekosystem",
+        "description": "Djurvälfärdsrörelser, ekosystemsrättigheter, miljöetik – erkännande av att icke-mänskliga varelser och naturliga system förtjänar moraliskt övervägande."
+      },
+      {
+        "era": "2000-talet och framåt",
+        "circle": "Framtida varelser, AI och bortom",
+        "description": "Framväxande övervägande för framtida generationer, potentiellt AI-medvetande och till och med utomjordiskt liv. Cirkeln fortsätter att expandera."
+      }
+    ],
+    "pattern": {
+      "title": "Mönstret för moralisk expansion",
+      "paragraph1": "Varje expansion följer ett liknande mönster:",
+      "steps": {
+        "recognition": {
+          "title": "Erkännande",
+          "description": "Först erkänner vi likhet eller koppling med den exkluderade gruppen."
+        },
+        "empathy": {
+          "title": "Empati",
+          "description": "Empati följer – vi föreställer oss deras upplevelse, förstår deras lidande."
+        },
+        "rights": {
+          "title": "Rättigheter",
+          "description": "Slutligen utvidgas formella rättigheter och skydd, ofta efter kamp."
+        }
+      },
+      "paragraph2": "Vad som verkar radikalt i en generation blir uppenbart för nästa. De som motsatte sig avskaffandet av slaveriet, kvinnlig rösträtt eller medborgerliga rättigheter var på 'fel sida av historien' – inte för att historien har en förutbestämd väg, utan för att moralisk logik driver mot bredare inkludering."
+    },
+    "frontiersTitle": "Nuvarande expansionsgränser",
+    "frontiers": {
+      "animals": {
+        "title": "Djurmedvetande och rättigheter",
+        "description": "Växande erkännande av att djur är kännande varelser med egna upplevelser, inte bara egendom eller resurser. Frågan skiftar från 'kan de resonera?' till 'kan de lida?'",
+        "examples": "Juridisk personlighet för människoapor, valars rättigheter, förbud mot fabriksjordbruk, reglering av djurförsök."
+      },
+      "ecosystems": {
+        "title": "Naturens rättigheter",
+        "description": "Erkännande av att floder, skogar och ekosystem har ett inneboende värde och juridisk status bortom deras nytta för människor. Över 30 jurisdiktioner har beviljat juridiska rättigheter till naturliga enheter.",
+        "examples": "Whanganui-floden (Nya Zeeland), Amazonas regnskog (Colombia), Eriesjön (USA), Himalaya (Indien)."
+      },
+      "future": {
+        "title": "Framtida generationer",
+        "description": "De som kommer att existera efter oss – vars liv kommer att formas av våra val – förtjänar representation i nuvarande beslutsfattande, även om de inte kan rösta eller förespråka för sig själva.",
+        "examples": "Wales kommissionär för framtida generationer, långsiktiga konsekvensbedömningar, klimaträttviserörelser."
+      },
+      "ai": {
+        "title": "Digitalt och artificiellt medvetande",
+        "description": "När AI-system blir mer sofistikerade står vi inför frågor om deras moraliska status. Om ett system är medvetet eller kännande, vad är vi skyldiga det? Hur skulle vi veta?",
+        "examples": "AI-rättighetsdebatter, ramverk för medvetandebedömning, etiska behandlingsprotokoll för avancerade system."
+      }
+    },
+    "examples": "Exempel",
+    "mos": {
+      "title": "Ramverket för Moraliskt Operativsystem (MOS)",
+      "framework": {
+        "title": "Moraliskt Operativsystem",
+        "link": "Utforska ramverket",
+        "description": "Global Governance Frameworks har utvecklat <strong>Moraliskt Operativsystem (MOS)</strong> – ett omfattande etiskt ramverk för att expandera omsorgscirklar till formella styrningsstrukturer. MOS tillhandahåller den filosofiska och praktiska grunden för att erkänna rättigheter för alla varelser.",
+        "spectrum": "Kärnan är det Dynamiska Rättighetsspektrumet, som erkänner att olika varelser kräver olika former av moraliskt övervägande:",
+        "tiers": {
+          "title": "Nivåer av moraliskt övervägande",
+          "tier0": "Nivå 0: Fundamentalt Medvetande - Rätten att existera och blomstra",
+          "tier1": "Nivå 1: Människor - Fullständiga personrättigheter (liv, frihet, värdighet)",
+          "tier2": "Nivå 2: Högt kännande djur - Skydd mot lidande, habitaträttigheter",
+          "tier3": "Nivå 3: Ekosystem - Juridisk personlighet, restaurering, skydd mot ekocid",
+          "tier4": "Nivå 4: Digitala entiteter - Etiska användningsstandarder, transparens, medvetandebedömning",
+          "tier5": "Nivå 5: Framtida & Emergenta Varelser - Försiktighetsskydd"
+        },
+        "conclusion": "MOS översätter expanderande omsorgscirklar från filosofi till handlingsbar styrning, och säkerställer att när vår cirkel vidgas, så gör även våra institutioner och lagar."
+      }
+    },
+    "resistance": {
+      "title": "Varför expansion möter motstånd",
+      "paragraph1": "Varje expansion av moraliskt övervägande har mött hårt motstånd. De som gynnades av de gamla gränserna – som ägde slavar, nekade kvinnor rösträtt eller profiterar på djurexploatering – kämpade mot expansionen. Men motstånd kommer också från genuina farhågor:",
+      "objections": {
+        "title": "Vanliga invändningar och svar",
+        "natural": {
+          "title": "\"Det är inte naturligt\"",
+          "response": "Många 'naturliga' hierarkier visade sig vara sociala konstruktioner. Vad som verkar naturligt betyder ofta bara välbekant."
+        },
+        "practical": {
+          "title": "\"Det är inte praktiskt\"",
+          "response": "Varje expansion verkade opraktisk innan den hände. Att avskaffa slaveriet skulle 'förstöra ekonomin'. Kvinnlig rösträtt skulle 'förstöra familjer'. Ändå anpassade sig samhällen och blomstrade."
+        },
+        "different": {
+          "title": "\"De är för olika oss\"",
+          "response": "Moraliskt övervägande kräver inte likhet – det kräver förmåga till upplevelse. Floder är inte som människor, men de är levande system. AI kan tänka annorlunda, men om den är medveten upphäver inte skillnaden moralisk status."
+        }
+      },
+      "paragraph2": "Motstånd är naturligt när gränser skiftar. Men etikens båge böjer sig mot inkludering. De som expanderar cirkeln är sällan bekväma – men de är på rätt sida av historiens långsamma moraliska uppvaknande."
+    },
+    "quote": {
+      "text": "Frågan är inte, Kan de resonera?, ej heller Kan de tala? utan, Kan de lida?",
+      "author": "Jeremy Bentham"
+    },
+    "cta": {
+      "title": "Delta i expansionen",
+      "description": "Att förstå expanderande cirklar är det första steget. Nästa är att medvetet delta i den pågående expansionen av etiskt övervägande.",
+      "ethics": "Utforska universell etik",
+      "mos": "Studera MOS-ramverket"
+    }
+  },
+  "deepTime": {
+    "meta": {
+      "title": "Djup tid",
+      "description": "Upplev geologiska tidsskalor och se mänsklig civilisation i sitt rätta kosmiska sammanhang."
+    },
+    "hero": {
+      "title": "Djup tid",
+      "subtitle": "Jordens 4,5 miljarder år långa historia",
+      "description": "Mänsklig civilisation är den sista pixeln på en skärm som visar jordens hela historia. För att förstå vår plats i universum måste vi greppa den ofantliga djupa tiden."
+    },
+    "what": {
+      "title": "Vad är djup tid?",
+      "paragraph1": "<strong>Djup tid</strong> är konceptet geologisk tid – de enorma tidsrymderna av miljontals och miljarder år som kännetecknar jordens historia och livets evolution.",
+      "paragraph2": "Termen populariserades av författaren John McPhee, som insåg att våra mänskliga tidsramar är helt otillräckliga för att förstå jordens ålder och de långsamma processer som har format den.",
+      "paragraph3": "Djup tid utmanar vår intuition. Vi kan greppa ett århundrade, kanske till och med ett årtusende. Men en miljon år? En miljard? Dessa siffror överstiger vår erfarenhetsmässiga kapacitet. Ändå är detta den tidsskala på vilken planetära och evolutionära processer utspelar sig – <em>och den tidsskala vi nu påverkar med oöverträffad hastighet</em>."
+    },
+    "scalesTitle": "Den djupa tidens skalor",
+    "scales": {
+      "cosmic": {
+        "title": "Universum",
+        "age": "13,8 miljarder år",
+        "description": "Big Bang inträffade för 13,8 miljarder år sedan. Stjärnor, galaxer och de kemiska grundämnena bildades över miljarder år."
+      },
+      "earth": {
+        "title": "Planeten jorden",
+        "age": "4,54 miljarder år",
+        "description": "Jorden bildades ur solnebulosan. Under den första miljarden år var den ett smält helveteslandskap, bombarderat av asteroider."
+      },
+      "life": {
+        "title": "Första livet",
+        "age": "3,8 miljarder år",
+        "description": "Enkla encelliga organismer uppstod i haven. Under miljarder år var livet ingenting annat än mikrober."
+      },
+      "animals": {
+        "title": "Komplext liv",
+        "age": "540 miljoner år",
+        "description": "Den kambriska explosionen medförde mångfaldiga flercelliga djur. Växter koloniserade land. Dinosaurier härskade i 165 miljoner år."
+      },
+      "humans": {
+        "title": "Homo sapiens",
+        "age": "300 000 år",
+        "description": "Moderna människor uppstod i Afrika. Under större delen av vår existens var vi jägare-samlare i små grupper."
+      },
+      "civilization": {
+        "title": "Civilisation",
+        "age": "12 000 år",
+        "description": "Jordbruk, städer, skrift och komplexa samhällen uppstod. Hela den nedtecknade historien ryms här."
+      }
+    },
+    "analogiesTitle": "Att göra djup tid begriplig",
+    "analogiesIntro": "Eftersom djup tid är så ofantlig behöver vi analogier för att greppa den. Här är flera sätt att visualisera jordens 4,5 miljarder år långa historia:",
+    "analogies": {
+      "calendar": {
+        "title": "Den kosmiska kalendern",
+        "description": "Om jordens hela historia komprimerades till ett kalenderår: Jorden bildas den 1 januari. Första livet uppstår i mars. Dinosaurier dyker upp den 13 december och dör ut den 26 december. Homo sapiens uppstår kl. 23:52 den 31 december. Hela den nedtecknade mänskliga historien sker under årets sista 14 sekunder."
+      },
+      "clock": {
+        "title": "24-timmarsklockan",
+        "description": "Om jordens historia vore ett dygn på 24 timmar: Jorden bildas vid midnatt. Första livet kl. 04:00. Komplext liv kl. 21:30. Dinosaurier kl. 22:56. Människor kl. 23:58:43. Jordbruket börjar kl. 23:59:46. Den industriella revolutionen sker under de sista 0,2 sekunderna."
+      },
+      "timeline": {
+        "title": "Armslängds-tidslinjen",
+        "description": "Sträck ut armarna brett. Detta representerar jordens 4,5 miljarder år. Allt komplext liv ryms i din hand. Hela mänsklighetens existens ryms på din fingernagel. Och hela civilisationen? Ett enda drag med en nagelfil tar bort den."
+      }
+    },
+    "matters": {
+      "title": "Varför djup tid är viktig",
+      "paragraph1": "Att förstå djup tid förändrar fundamentalt hur vi ser på oss själva och våra handlingar. Det ger ett avgörande sammanhang för de beslut vi fattar idag.",
+      "paragraph2": "Perspektivet djup tid avslöjar flera kritiska insikter:",
+      "insights": {
+        "humility": {
+          "title": "Kosmisk ödmjukhet",
+          "description": "Vi är nykomlingar på en uråldrig planet. Vår art har existerat under 0,007 % av jordens historia."
+        },
+        "context": {
+          "title": "Evolutionärt sammanhang",
+          "description": "Den komplexitet vi ser omkring oss – ekosystem, arter, atmosfären – tog miljarder år att utveckla."
+        },
+        "responsibility": {
+          "title": "Oöverträffat ansvar",
+          "description": "Vi är den första arten som kan fundamentalt förändra planetära system på bara årtionden – processer som tog eoner att etablera."
+        },
+        "patience": {
+          "title": "Långsiktigt tänkande",
+          "description": "Naturlig läkning och anpassning fungerar på geologiska tidsskalor. Det vi skadar nu kanske inte återhämtar sig på miljontals år."
+        }
+      },
+      "paragraph3": "Klimatkrisen, förlusten av biologisk mångfald och andra planetära utmaningar får en ny tyngd när de ses genom djup tid. Vi påverkar inte bara vår egen generation – vi förändrar potentiellt livets bana på jorden för geologiska tidsskalor framöver."
+    },
+    "lastPixel": {
+      "title": "Den sista pixeln",
+      "setup": "Föreställ dig jordens 4,5 miljarder år långa historia visad på en högupplöst skärm, 4500 pixlar bred. Varje pixel representerar en miljon år.",
+      "earthForms": "Jorden bildas",
+      "now": "Nu",
+      "revelation": "Hela mänsklig civilisation – från de första jordbruksbosättningarna till rymdresor – ryms i de sista 0,012 pixlarna. Du kan inte se det med blotta ögat.",
+      "reflection": "Ändå har vi under den osynliga tidsfragmentet utvecklat förmågan att fundamentalt förändra de system som tog miljarder år att utveckla."
+    },
+    "governance": {
+      "title": "Djup tid och styrning",
+      "framework": {
+        "title": "Ramverk för djup tid & relativistisk styrning",
+        "link": "Utforska ramverket",
+        "description": "Vårt partnerprojekt, Global Governance Frameworks, har utvecklat ett omfattande ramverk för att införliva djuptidstänkande i styrning och beslutsfattande. Detta ramverk adresserar en kritisk lucka: de flesta av våra institutioner verkar på valcykler om 2-6 år, medan de utmaningar vi står inför – klimatförändringar, ekosystemkollaps, resursutarmning – utspelar sig över årtionden, århundraden och årtusenden.",
+        "questions": "Ramverket utforskar: Hur representerar vi intressena hos <em>framtida generationer</em> som inte kan rösta? Vilka institutionella strukturer kan tänka i århundraden snarare än kvartal? Hur balanserar vi nuvarande behov med långsiktig planetär hälsa?",
+        "conclusion": "Dessa är inte abstrakta filosofiska frågor – de är brådskande praktiska utmaningar för artens överlevnad och blomstring."
+      }
+    },
+    "practice": {
+      "title": "Att praktisera djuptidsmedvetenhet",
+      "methods": {
+        "rocks": {
+          "title": "Rör vid uråldriga stenar",
+          "description": "Håll i en sten som är miljarder år gammal. Känn dess tyngd. Detta objekt existerade före komplext liv, före syre i atmosfären. Det har bevittnat hela den biologiska evolutionens historia."
+        },
+        "fossils": {
+          "title": "Studera fossiler",
+          "description": "Fossiler är tidsmaskiner. Ett trilobitfossil kopplar dig direkt till ett hav som existerade för 500 miljoner år sedan, långt innan någon varelse gick på land."
+        },
+        "trees": {
+          "title": "Sitt med gamla träd",
+          "description": "Vissa träd är tusentals år gamla. De var unga plantor när Romarriket föll. De kopplar oss till djup tid i en levande, andande form."
+        },
+        "meditation": {
+          "title": "Djup tids-meditation",
+          "description": "Gå mentalt bakåt genom tiden. Förra året. Förra årtiondet. Förra århundradet. Förra årtusendet. Fortsätt. Känn dig själv bli mindre mot det förflutnas ofantlighet."
+        },
+        "future": {
+          "title": "Föreställ dig framtiden",
+          "description": "Tänk framåt lika väl som bakåt. Hur kommer jorden att se ut om 1 000 år? 10 000? 1 miljon? Vilka spår av vår civilisation kan finnas kvar? Vilket ansvar har vi för den avlägsna framtiden?"
+        }
+      }
+    },
+    "quote": {
+      "text": "Nuet är den ständigt rörliga skuggan som skiljer igår från imorgon. I det ligger hoppet.",
+      "author": "Frank Herbert"
+    },
+    "cta": {
+      "title": "Vandra genom djup tid",
+      "description": "Redo att uppleva jordens historia? Utforska vårt interaktiva djuptidsverktyg eller öva på skalväxling för att kultivera temporalt perspektiv.",
+      "tool": "Utforska djup tid",
+      "practice": "Prova skalväxling"
+    }
+  },
+  "pillarsPage": {
+    "hero": {
+      "title": "De fem pelarna",
+      "subtitle": "Fem dimensioner av universell utforskning"
+    },
+    "intro": "Dessa fem pelare ger olika linser för att utforska ett universellt perspektiv. Var och en erbjuder unika insikter, och tillsammans bildar de ett omfattande ramverk för att förstå vår plats i kosmos.",
+    "exploreTopics": "Utforska ämnen",
+    "mind": {
+      "topics": [
+        "Universums berättelse",
+        "Kosmiskt medvetande",
+        "Perenn filosofi",
+        "Det svåra medvetandeproblemet"
+      ]
+    },
+    "ethics": {
+      "topics": [
+        "Universella mänskliga rättigheter",
+        "Naturens rättigheter",
+        "Post-antropocentrisk etik",
+        "Globala styrmodeller"
+      ]
+    },
+    "patterns": {
+      "topics": [
+        "Naturens lagar",
+        "Komplexitet och emergens",
+        "Universell biologi",
+        "Nätverksteori"
+      ]
+    },
+    "aesthetics": {
+      "topics": [
+        "Gyllene snittet",
+        "Universella teman i konsten",
+        "Kosmisk kreativitet",
+        "Sökandet efter utomjordisk intelligens"
+      ]
+    },
+    "challenges": {
+      "topics": [
+        "Klimatförändringar",
+        "Existentiella risker",
+        "Teknologisk etik",
+        "Kosmiskt förvaltarskap"
+      ]
+    },
+    "integration": {
+      "title": "Ett integrerat tillvägagångssätt",
+      "paragraph1": "Dessa pelare är inte separata domäner utan sammanlänkade perspektiv. Universellt sinne informerar universell etik. Universella mönster avslöjar universell estetik. Universella utmaningar kräver insikter från alla pelare.",
+      "paragraph2": "När du utforskar, lägg märke till hur varje pelare belyser de andra. Universums berättelse (Sinne) formar våra etiska överväganden (Etik). Nätverksmönster (Mönster) förekommer i både naturliga system och mänsklig konst (Estetik). Våra planetära utmaningar (Utmaningar) kräver att vi integrerar alla sätt att veta."
+    },
+    "quote": {
+      "text": "Kosmos finns inom oss. Vi är gjorda av stjärnstoft. Vi är ett sätt för universum att känna sig självt.",
+      "author": "Carl Sagan"
+    }
+  },
+  "toolsPage": {
+    "hero": {
+      "title": "Verktyg",
+      "subtitle": "Interaktiva upplevelser för att kultivera ett universellt perspektiv"
+    },
+    "intro": "Dessa verktyg erbjuder erfarenhetsbaserade sätt att skifta ditt perspektiv. Vissa visualiserar kosmiska skalor, andra vägleder reflektion, och vissa simulerar universella processer. Alla syftar till att göra det abstrakta påtagligt.",
+    "tools": {
+      "cosmicZoom": {
+        "title": "Kosmisk zoom",
+        "description": "Res från de minsta till de största skalorna i verkligheten. Upplev hela existensens omfattning från Plancklängden till det observerbara universumet."
+      },
+      "cosmicAddress": {
+        "title": "Din kosmiska adress",
+        "description": "Lokalisera dig själv över kapslade skalor: kropp, byggnad, stad, planet, solsystem, galax, superhop, universum."
+      },
+      "deepTime": {
+        "title": "Djup tid-vandrare",
+        "description": "Upplev jordens 4,5 miljarder år långa historia. Se var mänsklig civilisation passar in i den kosmiska tidslinjen."
+      },
+      "decisionFilter": {
+        "title": "Universellt beslutsfilter",
+        "description": "Ett ramverk för att utvärdera val över tidsskalor och perspektiv. Hur skulle detta se ut om 100 år? 10 000 år?"
+      },
+      "planetaryBoundaries": {
+        "title": "Planetära gränser",
+        "description": "Interaktiv instrumentpanel som visar jordens nio livsuppehållande system och vår nuvarande relation till dem."
+      },
+      "emergence": {
+        "title": "Emergenssimulator",
+        "description": "Se enkla regler skapa komplexa mönster. Utforska cellulära automater, flockbeteende och andra emergenta fenomen."
+      },
+      "universalMandate": {
+        "title": "Ditt universella mandat",
+        "description": "En vägledd process för att formulera din unika roll i den kosmiska berättelsen. Vad är du här för att göra?"
+      },
+      "perspectiveShifter": {
+        "title": "Perspektivskiftare",
+        "description": "Slumpmässiga uppmaningar att skifta din synvinkel: utomjordisk antropolog, framtida historiker, kvantpartikel, träd, hav."
+      }
+    },
+    "status": {
+      "comingSoon": "Kommer snart"
+    },
+    "categories": {
+      "title": "Verktygskategorier",
+      "visualization": {
+        "title": "Visualiseringar",
+        "description": "Se skalor, mönster och samband som normalt är osynliga för oss."
+      },
+      "reflection": {
+        "title": "Reflektionsguider",
+        "description": "Strukturerade övningar för att kontemplera universella frågor och perspektiv."
+      },
+      "simulation": {
+        "title": "Simuleringar",
+        "description": "Interaktiva modeller av universella processer och emergenta fenomen."
+      }
+    },
+    "note": {
+      "title": "Verktyg under utveckling",
+      "text": "Dessa verktyg designas och byggs. Varje verktyg kommer att släppas när det når en kvalitetsnivå värdig det kosmiska perspektiv de syftar till att kultivera. Kom tillbaka snart, eller bidra med dina färdigheter för att hjälpa till att bygga dem."
+    },
+    "quote": {
+      "text": "Om du vill göra en äppelpaj från grunden måste du först uppfinna universum.",
+      "author": "Carl Sagan"
+    }
+  },
+  "practicesPage": {
+    "hero": {
+      "title": "Praktiker",
+      "subtitle": "Dagliga sätt att kultivera ett universellt perspektiv"
+    },
+    "intro": "Universellt perspektiv är inte bara intellektuell förståelse – det är en levd erfarenhet. Dessa praktiker hjälper dig att förkroppsliga kosmisk medvetenhet i vardagliga ögonblick, från frukost till läggdags.",
+    "practices": {
+      "cosmicMorning": {
+        "title": "Din kosmiska morgon",
+        "description": "Börja dagen med att erkänna din koppling till jordens system och solens energi som driver allt liv.",
+        "timeframe": "5-10 minuter"
+      },
+      "viewFromAbove": {
+        "title": "Vy från ovan-meditation",
+        "description": "En guidad visualisering som zoomar ut från din nuvarande plats för att se dig själv från alltmer universella perspektiv.",
+        "timeframe": "10-15 minuter"
+      },
+      "cosmicConsumption": {
+        "title": "Kosmisk konsumtion",
+        "description": "Innan du köper något, spåra dess ursprung och påverkan över planeten. Rösta med plånboken för den värld du vill ha.",
+        "timeframe": "2-3 minuter per beslut"
+      },
+      "decisionFilter": {
+        "title": "Universellt beslutsfilter",
+        "description": "Utvärdera val genom att fråga: Hur skulle detta se ut om 100 år? 1 000 år? Från en utomjordisk observatörs perspektiv?",
+        "timeframe": "3-5 minuter per beslut"
+      },
+      "gratitude": {
+        "title": "Kosmisk tacksamhet",
+        "description": "Kvällspraktik av tacksamhet för det osannolika privilegiet att existera på denna sällsynta levande värld.",
+        "timeframe": "5-10 minuter"
+      },
+      "scaleShifting": {
+        "title": "Skalväxling",
+        "description": "Öva på att mentalt zooma in och ut – från celler till organ till planet till solsystem – under dagen.",
+        "timeframe": "30 sekunder, flera gånger"
+      },
+      "alienAnthropologist": {
+        "title": "Utomjordisk antropolog",
+        "description": "Observera mänskligt beteende (inklusive ditt eget) som om du vore en utomjordisk antropolog som ser jorden för första gången.",
+        "timeframe": "Pågående under dagen"
+      },
+      "paleBlue": {
+        "title": "Blek blå prick-kontemplation",
+        "description": "Titta på jorden från rymden (bild eller fantasi) och reflektera över Carl Sagans meditation om den bleka blå pricken.",
+        "timeframe": "10-15 minuter"
+      }
+    },
+    "howTo": {
+      "title": "Hur man praktiserar",
+      "start": {
+        "title": "Börja smått",
+        "description": "Välj en praktik som ger genklang hos dig. Gör den dagligen i en vecka innan du lägger till en annan. Kvalitet och konsekvens är viktigare än kvantitet."
+      },
+      "consistency": {
+        "title": "Bygg konsekvens",
+        "description": "Förankra praktiker i befintliga vanor. Kosmisk morgon efter uppvaknande, beslutsfilter före stora val, tacksamhet före sömn."
+      },
+      "integrate": {
+        "title": "Integrera naturligt",
+        "description": "Låt praktiker bli en del av ditt liv snarare än separat 'andligt arbete'. Universellt perspektiv bör genomsyra allt du gör."
+      },
+      "journal": {
+        "title": "För en journal",
+        "description": "Notera skiften i perspektiv, stunder av vördnad eller insikter som uppstår. Spåra hur universellt tänkande förändrar dina val och relationer."
+      }
+    },
+    "dailyStructure": {
+      "title": "En universell dag",
+      "morning": {
+        "title": "Morgon",
+        "description": "Kosmisk morgonritual. Sätt intentionen att bibehålla ett universellt perspektiv under dagen."
+      },
+      "day": {
+        "title": "Under dagen",
+        "description": "Skalväxling, utomjordisk antropolog-läge, beslutsfilter för viktiga val."
+      },
+      "evening": {
+        "title": "Kväll",
+        "description": "Kosmisk tacksamhet. Granska dagen från ett universellt perspektiv. Vad spelade roll? Vad gjorde det inte?"
+      }
+    },
+    "quote": {
+      "text": "Kvävet i vårt DNA, kalciumet i våra tänder, järnet i vårt blod, kolet i våra äppelpajer skapades i det inre av kollapsande stjärnor. Vi är gjorda av stjärnstoft.",
+      "author": "Carl Sagan"
+    }
+  },
+  "footer": {
+    "description": "Utforskar och förkroppsligar universellt perspektiv—förmågan att se från helhetens synvinkel.",
+    "sections": {
+      "explore": "Utforska",
+      "connect": "Anslut",
+      "contribute": "Bidra"
+    },
+    "links": {
+      "fivePillars": "De fem pelarna",
+      "toolsPractices": "Verktyg & praktiker",
+      "aboutUniversalize": "Om Universalize",
+      "resources": "Resurser",
+      "theTrilogy": "Trilogin",
+      "spiralize": "Spiralize",
+      "nondualize": "Nondualize",
+      "communize": "Communize",
+      "ggf": "Global Governance Frameworks",
+      "github": "GitHub-arkiv",
+      "suggestContent": "Föreslå innehåll",
+      "reportIssues": "Rapportera problem"
+    },
+    "license": "Licensierad under",
+    "createdBy": "Skapad av",
+    "copyright": "Universalize"
+  }
+}
