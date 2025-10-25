@@ -1,0 +1,451 @@
+---
+title: Art as universal communication
+description: The Voyager Golden Record and attempts to create messages that could be understood by any intelligence
+icon: 📡
+---
+
+# Art as universal communication
+
+In 1977, NASA launched two spacecraft—Voyager 1 and 2—on a journey beyond our solar system. Each carried an identical **Golden Record**: a 12-inch gold-plated copper disk containing sounds and images selected to represent the diversity of life and culture on Earth.
+
+The Golden Records are the most ambitious art project in human history: **an attempt to communicate with alien intelligence using the universal language of art, mathematics, and science**.
+
+This raises profound questions: Can art transcend its cultural origins? What would be comprehensible to any conscious being? Is there a truly universal aesthetic language?
+
+## The Voyager Golden Record: humanity's mixtape
+
+### Contents
+
+The Golden Record contains 116 images and 90 minutes of audio:
+
+**Images:**
+- Mathematical and scientific diagrams
+- DNA structure
+- Human anatomy
+- People of different cultures
+- Architecture from various civilizations
+- Animals, plants, landscapes
+- Earth from space
+
+**Natural sounds:**
+- Wind, thunder, rain, surf
+- Birds, whales, other animal sounds
+- Volcanoes, earthquakes, mud pots
+
+**Music (27 tracks from various cultures):**
+- Bach - Brandenburg Concerto No. 2, "Gavotte en rondeau"
+- Mozart - "The Magic Flute"
+- Beethoven - String Quartet No. 13, Cavatina
+- Stravinsky - "The Rite of Spring"
+- Chuck Berry - "Johnny B. Goode"
+- Blind Willie Johnson - "Dark Was the Night, Cold Was the Ground"
+- Navajo Night Chant
+- Pygmy girls' initiation song
+- Peruvian wedding song
+- Bulgarian folk song
+- Japanese shakuhachi
+- Indian raga
+- And 15 more representing global musical diversity
+
+**Greetings in 55 languages:**
+From ancient Sumerian to modern Mandarin, each saying essentially "Hello from the children of planet Earth."
+
+**Sounds of Earth:**
+- Morse code spelling "ad astra per aspera" (to the stars through difficulty)
+- Kiss, laughter, footsteps
+- Fire, tools, dogs barking
+- Horse-drawn cart, train, car, airplane
+- Heartbeat, brainwaves (Ann Druyan's, project director Carl Sagan's wife)
+
+**Printed message from President Jimmy Carter:**
+> "This is a present from a small, distant world, a token of our sounds, our science, our images, our music, our thoughts and our feelings. We are attempting to survive our time so we may live into yours."
+
+### The selection process
+
+A committee led by Carl Sagan made agonizing decisions:
+
+**What to include?**
+- How much science vs. art vs. music?
+- Which cultures to represent?
+- How to show both our beauty and our challenges?
+
+**What to exclude?**
+- No images of war, poverty, disease (decision to show aspirational humanity)
+- No overt religious imagery (to avoid privileging one faith)
+- Limited technology (would quickly seem primitive)
+- Beatles music rejected (copyright issues)
+
+**The eternal question**: Should we show ourselves as we are, or as we hope to be?
+
+### How would aliens play it?
+
+The Record includes instructions, etched on the cover:
+
+1. **Diagram showing how to build a player** - stylus, rotation speed, scan pattern for images
+2. **Location of Earth** - Position relative to 14 pulsars (cosmic lighthouses)
+3. **Time scale** - Using hydrogen's hyperfine transition (universal atomic constant)
+4. **Binary numbers** - Basic counting system
+
+But here's the problem: these instructions assume:
+- The finders have vision and can see the etched diagrams
+- They understand pictographic representation
+- They have the concept of "playing" recorded sound
+- They can build the required technology
+- They're interested in doing so
+
+What if they communicate via smell? What if they don't have the concept of "message"? What if they process information so differently that our entire framing is incomprehensible?
+
+## The challenge of universal communication
+
+### What assumptions do we make?
+
+**Mathematics as universal:**
+Most SETI messages use mathematics—prime numbers, pi, simple equations—assuming any technological civilization would know these.
+
+**But**: Even mathematical symbols are cultural. We write "2+2=4" with specific glyphs. An alien might represent the same concept completely differently. Is the *concept* universal even if *notation* varies?
+
+**Visual representation:**
+We assume pictures are self-explanatory. We show a human figure and think "they'll recognize this as a representation of a human."
+
+**But**: What if aliens don't use visual representation? What if they have no concept that a 2D image can represent a 3D object? Even on Earth, isolated tribes shown photographs for the first time couldn't initially interpret them.
+
+**Temporal thinking:**
+We assume linear time, causation, narrative structure. "First this, then this, then this."
+
+**But**: What if alien cognition is non-temporal? What if they experience all moments simultaneously (like the aliens in *Arrival*)? Our entire communication structure might be meaningless.
+
+### Cognitive chasms
+
+Philosopher Thomas Nagel asked: "What is it like to be a bat?"
+
+Bats navigate by echolocation—biological sonar. We can study the physics, map their brains, model their behavior. But we cannot *know* what it's subjectively like to experience the world as acoustic geometry.
+
+If we can't truly understand bat consciousness—and bats are mammals, sharing our evolutionary history—how could we bridge the gap to truly alien minds?
+
+**The problem of qualia**: Subjective experiences (what red looks like, what pain feels like) might be incommunicable even between humans, let alone across species or civilizations.
+
+### The anthropocentric trap
+
+Everything on the Golden Record is human-centric:
+- We select music *we* find beautiful
+- We show images *we* find meaningful
+- We use communication channels *we* possess (vision, hearing)
+
+We cannot escape our human perspective. We cannot create from a truly neutral, universal viewpoint because we *are* human. All our attempts at universal communication are filtered through human neurology, human culture, human assumptions.
+
+This doesn't mean the attempt is futile—but it requires humility about our limitations.
+
+## Other attempts at universal messages
+
+### Arecibo Message (1974)
+
+A 3-minute radio message transmitted to globular cluster M13, 25,000 light-years away. Contained:
+- Numbers 1-10
+- Atomic numbers of key elements
+- DNA structure
+- Human figure
+- Population of Earth
+- Our solar system
+- Arecibo telescope diagram
+
+Clever encoding, but still assumes the receiver:
+- Uses radio technology
+- Understands binary
+- Can decode a 2D raster image
+- Recognizes pictographic representation
+
+### Pioneer Plaques (1972, 1973)
+
+Attached to Pioneer 10 and 11, showing:
+- Naked human figures (male and female)
+- Our location relative to pulsars
+- Solar system diagram
+
+Criticized for gender representation (only male figure showing raised hand in greeting—why assume waving is universal?), and for assuming aliens would recognize stylized human outlines.
+
+### Active SETI messages
+
+Various radio messages sent to nearby stars:
+- 1999: "Cosmic Call" - Rendered "Sagan Signal," logic, math, physics
+- 2001: "Teen Age Message" - Created by teenagers from Russia
+- 2008: "A Message from Earth" - 500 photos, drawings, text messages sent to Gliese 581
+
+Each faces the same challenges: What format? What content? What assumptions about the receiver?
+
+## Music as potential universal language
+
+Music might be the most promising candidate for universal communication:
+
+### Why music might work
+
+**1. Physics of sound**
+Harmonics, resonance, wave interference—these are physical phenomena, not cultural constructs. A perfect fifth (3:2 frequency ratio) sounds consonant because of how sound waves interact, not just because we learned it culturally.
+
+**2. Mathematical structure**
+Musical intervals are mathematical ratios. Octave = 2:1, perfect fifth = 3:2, perfect fourth = 4:3. These ratios might be recognized as "special" by any intelligence that perceives sound.
+
+**3. Temporal patterns**
+Rhythm, repetition, variation—structural principles that organize information over time. These might be more universal than static images.
+
+**4. Emotional content?**
+This is controversial, but: Does music express something about the experiencer's inner state? If so, could it communicate "joy," "sadness," "excitement" in a way that transcends language?
+
+### Problems with musical communication
+
+**Cultural variation on Earth:**
+Different cultures use different scales, rhythms, and structural principles. What sounds "right" is largely learned.
+
+**Even physical consonance varies**: The perfect fifth sounds consonant to most humans, but some cultures prefer other intervals. Indonesian gamelan uses a 5-tone scale with different tuning. Indian ragas use microtones.
+
+**Tempo and meter**: What feels like a natural speed or rhythm varies by culture. An alien's subjective experience of time might make our music seem absurdly fast or slow.
+
+**Does alien hearing work like ours?**
+Humans hear roughly 20 Hz to 20 kHz. What if aliens hear much higher or lower? What if they don't "hear" at all but perceive electromagnetic fields?
+
+### What we included
+
+The Golden Record's music selection aimed for diversity:
+- Western classical (Bach, Mozart, Beethoven)
+- American (blues, rock, jazz)
+- Asian (Japanese, Chinese, Indian)
+- African and Indigenous traditions
+- Folk music from various regions
+
+The hope: Even if individual pieces aren't comprehensible, the *variety* shows Earth has diverse cultures and complex aesthetic traditions.
+
+## Visual art: can images be universal?
+
+### The problem of representation
+
+When we show a drawing of a human, we assume three things:
+1. The viewer has vision
+2. They understand 2D representation of 3D objects
+3. They can map the drawing to the concept "human"
+
+All three are big assumptions.
+
+**Even on Earth**: Isolated tribes shown photos for the first time couldn't interpret them. They had to *learn* that photos represent three-dimensional scenes. It's not innate—it's cultural.
+
+**Cubism and abstraction**: Even among humans, different artistic styles require cultural knowledge. Would aliens recognize a Picasso as depicting a human face?
+
+### Mathematics and diagrams
+
+The Golden Record includes scientific diagrams:
+- Hydrogen atom (universal?)
+- DNA double helix
+- Human anatomy
+- Earth's continents
+
+These assume:
+- Visual perception
+- Understanding of scale and perspective
+- Recognition that diagrams represent real objects
+- Ability to map 2D representations to 3D reality
+
+But mathematical diagrams might be more universal than realistic drawings. A circle is a circle regardless of artistic style. A right angle is recognizable. Set theory diagrams, Venn diagrams, network graphs—these might transcend culture more easily than representational art.
+
+### Color and form
+
+**Form**: Circles, triangles, spirals, fractals—geometric forms might be recognized as significant because they appear in nature and mathematics universally.
+
+**Color**: More problematic. Color perception depends on:
+- Having vision in the electromagnetic spectrum we call "visible light"
+- Having similar neurological processing of wavelengths
+- Cultural associations (red = danger is cultural, not universal)
+
+Aliens might "see" in infrared, ultraviolet, or not use vision at all.
+
+## The philosophical implications
+
+### Wittgenstein's lion
+
+Philosopher Ludwig Wittgenstein wrote: "If a lion could speak, we could not understand him."
+
+Not because of language translation, but because a lion's form of life is so different from ours that even translated words would be meaningless. The lion's concepts, concerns, and cognitive structure are alien to us.
+
+How much more so for truly alien intelligence?
+
+### The Copernican Principle applied to cognition
+
+We're probably not special cognitively. Our way of processing information, our sensory modalities, our concept of "communication"—these are likely just one possibility among countless others.
+
+**Humility required**: Any message we send is one species' attempt to communicate, not "the universal language." 
+
+### Fermi Paradox connection
+
+Perhaps the reason we haven't detected alien signals is that we don't recognize them as messages. We're listening for narrow-band radio signals because that's what *we* would send. But an advanced civilization might communicate in ways we can't imagine.
+
+Maybe the universe is full of art, messages, and communication—but we lack the conceptual framework to recognize it.
+
+### The Drake Equation's hidden variable
+
+The Drake Equation estimates the number of communicating civilizations:
+
+N = R* × fp × ne × fl × fi × fc × L
+
+But there's a hidden factor: **Mutual comprehensibility** (Cm). What percentage of communicating civilizations could understand each other's messages?
+
+If Cm is very small—if most civilizations can't decode each other's communications—the Drake Equation's optimistic numbers don't matter. We could be surrounded by aliens trying to talk to us, and never know it.
+
+## What art tells us about consciousness
+
+The attempt to create universal art reveals something profound: **Art is deeply tied to the specific nature of consciousness**.
+
+### Art as externalized consciousness
+
+When you create art, you're:
+1. Having internal experience (qualia)
+2. Encoding it in external form (painting, music, writing)
+3. Hoping another consciousness can decode it and experience something similar
+
+Art is **consciousness attempting to share itself with other consciousnesses**.
+
+### The miracle of human art
+
+That art works *at all* between humans is remarkable. We have:
+- Different brains
+- Different experiences
+- Different cultural backgrounds
+
+Yet somehow, someone can create a song in Japan that moves someone in Brazil to tears. A painting made centuries ago can still evoke awe. A story can feel "true" across vast cultural gulfs.
+
+This suggests some commonality in human consciousness—shared emotional structures, cognitive patterns, aesthetic sensibilities rooted in our shared biology and evolutionary history.
+
+### The alien art question
+
+Would we recognize alien art as art?
+
+**Scenario 1**: Aliens encounter Earth, find cathedrals and symphonies. Do they recognize these as intentional aesthetic creations? Or do they seem like random structures and noises?
+
+**Scenario 2**: We discover structures on Mars—geometric patterns, complex arrangements. Are they:
+- Alien art?
+- Communication attempts?
+- Functional technology?
+- Random geological processes?
+
+How would we tell?
+
+**The criteria we'd use:**
+- Intentionality (looks designed, not random)
+- Complexity (information content beyond what nature would produce)
+- Pattern (repetition, symmetry, variation suggesting conscious choice)
+- Context (located meaningfully, preserved carefully)
+
+But even these criteria are human projections. Alien art might violate all of them and still be art.
+
+## Practical lessons for human communication
+
+Even if we never contact aliens, the attempt to create universal messages teaches us about human communication:
+
+### 1. Question your assumptions
+
+Every communication assumes shared context. When misunderstandings occur, it's often because we assumed the other person shared our:
+- Background knowledge
+- Conceptual frameworks
+- Values and priorities
+- Sensory and cognitive capabilities
+
+### 2. Use multiple modalities
+
+The Golden Record uses images, sounds, music, diagrams, and mathematics. Redundancy increases the chance something gets through.
+
+In human communication: Don't just tell—show. Don't just show—enact. Use metaphor, analogy, demonstration. Multiple channels increase comprehension.
+
+### 3. Start with the simplest shared foundation
+
+SETI messages start with mathematics because it's hopefully universal. In human communication, start with what you know you share, then build complexity.
+
+### 4. Embrace the incompleteness
+
+We'll never fully communicate our subjective experience to another person—let alone an alien. But partial communication is still valuable. Art doesn't need perfect fidelity to move us.
+
+## The deeper meaning of the Golden Record
+
+The Golden Record isn't really for aliens. Let's be honest: the chance of it being found is astronomically small. Voyager will take 40,000 years to reach another star system, and space is mostly empty.
+
+**The real audience is us.**
+
+### A message to ourselves
+
+The Golden Record is:
+- **A time capsule**: Preserving what we valued in 1977
+- **A self-portrait**: Showing who we aspired to be
+- **A perspective shifter**: Making us see Earth from outside
+- **A unity symbol**: Representing all humanity, not one nation
+
+When Carl Sagan's team selected content, they had to ask: "What represents Earth? What defines humanity?"
+
+These aren't easy questions. The process forced conversations about our identity, values, and hopes. It required seeing ourselves as one species among many on one planet in one galaxy—cosmic perspective embodied in an art project.
+
+### The pale gold dot
+
+Just as the "Pale Blue Dot" photo let us see Earth from outside, the Golden Record lets us see *ourselves* from outside. We become the aliens, trying to understand humanity through the artifacts we'd send to the stars.
+
+What does the Record reveal about us?
+- We make music (we're creative)
+- We're diverse (many cultures)
+- We understand science (diagrams, mathematics)
+- We hope (including Chuck Berry's "Johnny B. Goode")
+- We love (Ann Druyan's brainwaves while thinking of Carl Sagan)
+
+It's a portrait of humanity at its best—aspirational, curious, creative, hopeful.
+
+## Creating your own universal message
+
+Imagine you're creating a message for alien intelligence (or even just for humans in another culture or time):
+
+### Exercise: Your personal Golden Record
+
+**If you could send 10 items to represent humanity (or yourself), what would you include?**
+
+Consider:
+- An image that moved you
+- A piece of music that captures an emotion
+- A scientific fact you find beautiful
+- A cultural artifact from your heritage
+- Something that represents hope
+- Something that shows our struggles
+- A mathematical truth
+- A natural sound
+- A human-created sound
+- A message in your own words
+
+**Reflect:**
+- What assumptions are you making about the receiver?
+- What are you hoping they'll understand?
+- What does your selection reveal about your values?
+- What did you exclude, and why?
+
+### The art of bridging chasms
+
+Whether you're trying to communicate with:
+- Aliens across light-years
+- Humans across cultures
+- Your future self
+- Someone who sees the world completely differently
+
+The attempt to bridge the gap through art is fundamentally an act of **faith in connection**.
+
+You're saying: "Despite our differences, despite the impossibility of perfect understanding, I believe some part of my experience can resonate with yours. I believe consciousness can touch consciousness."
+
+That belief—that faith in the possibility of communion—might itself be the most universal message of all.
+
+## Further exploration
+
+**Books**:
+- *Murmurs of Earth* by Carl Sagan et al. (the making of the Golden Record)
+- *The First Human* by Ann Druyan
+- *Extraterrestrial Languages* by Daniel Oberhaus
+
+**Listen**:
+- [The complete Voyager Golden Record](https://voyager.jpl.nasa.gov/golden-record/)
+- Remastered 3-LP/2-CD vinyl release by Ozma Records
+
+**Watch**:
+- *The Farthest* (2017) - Documentary about Voyager mission
+- *Contact* (1997) - Carl Sagan's exploration of first contact
+
+**Related**:
+- [The search for intelligence](/explore/seti) - SETI and alien communication
+- [Archetypal patterns](/pillars/aesthetics/topics/archetypal-patterns) - Universal stories
+- [Cosmic art](/pillars/aesthetics/topics/cosmic-art) - Human expressions of cosmic perspective

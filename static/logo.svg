@@ -1,58 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
-  <!-- Outer cosmic ring -->
-  <circle cx="100" cy="100" r="90" stroke="url(#gradient1)" stroke-width="2" opacity="0.6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Multiple overlapping perspectives - BOLD VERSION like Spiralize -->
   
-  <!-- Middle ring -->
-  <circle cx="100" cy="100" r="70" stroke="url(#gradient2)" stroke-width="2" opacity="0.8"/>
+  <!-- The central point being viewed from all perspectives -->
+  <circle cx="100" cy="100" r="7" fill="#3b82f6"/>
   
-  <!-- Inner ring -->
-  <circle cx="100" cy="100" r="50" stroke="url(#gradient3)" stroke-width="2"/>
+  <!-- First perspective lens (Mind/Consciousness) - BLUE -->
+  <circle cx="76" cy="80" r="44" 
+          fill="none" 
+          stroke="#2563eb" 
+          stroke-width="6.5" 
+          opacity="0.75"
+          stroke-linecap="round"/>
   
-  <!-- Central sphere (representing Earth/wholeness) -->
-  <circle cx="100" cy="100" r="30" fill="url(#gradient4)"/>
+  <!-- Second perspective lens (Ethics/Care) - GREEN -->
+  <circle cx="124" cy="80" r="44" 
+          fill="none" 
+          stroke="#10b981" 
+          stroke-width="6.5" 
+          opacity="0.75"
+          stroke-linecap="round"/>
   
-  <!-- Radiating lines (8 directions - representing universal connection) -->
-  <line x1="100" y1="10" x2="100" y2="40" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="100" y1="160" x2="100" y2="190" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="10" y1="100" x2="40" y2="100" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="160" y1="100" x2="190" y2="100" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="35" y1="35" x2="57" y2="57" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="143" y1="143" x2="165" y2="165" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="165" y1="35" x2="143" y2="57" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
-  <line x1="57" y1="143" x2="35" y2="165" stroke="url(#gradient5)" stroke-width="1.5" opacity="0.7"/>
+  <!-- Third perspective lens (Patterns/Science) - PURPLE -->
+  <circle cx="100" cy="130" r="44" 
+          fill="none" 
+          stroke="#8b5cf6" 
+          stroke-width="6.5" 
+          opacity="0.75"
+          stroke-linecap="round"/>
   
-  <!-- Stars/nodes at the ends of radiating lines -->
-  <circle cx="100" cy="10" r="2.5" fill="#60a5fa"/>
-  <circle cx="100" cy="190" r="2.5" fill="#60a5fa"/>
-  <circle cx="10" cy="100" r="2.5" fill="#60a5fa"/>
-  <circle cx="190" cy="100" r="2.5" fill="#60a5fa"/>
-  <circle cx="35" cy="35" r="2.5" fill="#a78bfa"/>
-  <circle cx="165" cy="165" r="2.5" fill="#a78bfa"/>
-  <circle cx="165" cy="35" r="2.5" fill="#a78bfa"/>
-  <circle cx="35" cy="165" r="2.5" fill="#a78bfa"/>
+  <!-- Fourth perspective lens (Aesthetics/Experience) - AMBER -->
+  <circle cx="145" cy="108" r="36" 
+          fill="none" 
+          stroke="#f59e0b" 
+          stroke-width="6" 
+          opacity="0.8"
+          stroke-linecap="round"/>
   
-  <!-- Gradients -->
-  <defs>
-    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#4c1d95;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+  <!-- The observer point - RED - positioned to see the whole -->
+  <circle cx="160" cy="55" r="6.5" fill="#ef4444"/>
+  <circle cx="160" cy="55" r="11" 
+          fill="none" 
+          stroke="#ef4444" 
+          stroke-width="3.5" 
+          opacity="0.65"
+          stroke-linecap="round"/>
+  
+  <!-- Intersection nodes (where understanding emerges) -->
+  <circle cx="92" cy="88" r="3" fill="#60a5fa" opacity="0.85"/>
+  <circle cx="108" cy="88" r="3" fill="#60a5fa" opacity="0.85"/>
+  <circle cx="86" cy="110" r="3" fill="#60a5fa" opacity="0.85"/>
+  <circle cx="114" cy="110" r="3" fill="#60a5fa" opacity="0.85"/>
+  <circle cx="126" cy="100" r="3" fill="#60a5fa" opacity="0.85"/>
 </svg>

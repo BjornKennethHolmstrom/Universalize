@@ -1,0 +1,58 @@
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <title>Universalize Logo - Nested Perspective Rings</title>
+  
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .quantum-ring { stroke: #BB86FC; }
+        .biological-ring { stroke: #03DAC6; }
+        .planetary-ring { stroke: #CF6679; }
+        .cosmic-ring { stroke: #018786; }
+        .center-point { fill: #E2E8F0; }
+      }
+      @media (prefers-color-scheme: light) {
+        .quantum-ring { stroke: #7E57C2; }
+        .biological-ring { stroke: #00BFA5; }
+        .planetary-ring { stroke: #FF5252; }
+        .cosmic-ring { stroke: #00695C; }
+        .center-point { fill: #334155; }
+      }
+    </style>
+    <radialGradient id="centerGlow">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Cosmic Scale (Outer) - Galactic Clusters -->
+  <circle cx="50" cy="50" r="42" fill="none" class="cosmic-ring" stroke-width="4" opacity="0.9">
+    <animate attributeName="r" dur="15s" values="42;43;42" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Planetary Scale - Earth Systems -->
+  <circle cx="50" cy="50" r="32" fill="none" class="planetary-ring" stroke-width="3" opacity="0.8">
+    <animate attributeName="r" dur="12s" values="32;33;32" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Biological Scale - Life Networks -->
+  <circle cx="50" cy="50" r="22" fill="none" class="biological-ring" stroke-width="3" 
+          stroke-dasharray="3 2" opacity="0.7">
+    <animate attributeName="r" dur="9s" values="22;23;22" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Quantum Scale (Inner) - Fundamental Patterns -->
+  <circle cx="50" cy="50" r="12" fill="none" class="quantum-ring" stroke-width="3" 
+          stroke-dasharray="1 2" opacity="0.6">
+    <animate attributeName="r" dur="6s" values="12;13;12" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Central Perspective Point -->
+  <circle cx="50" cy="50" r="3" class="center-point"/>
+  <circle cx="50" cy="50" r="5" fill="url(#centerGlow)"/>
+  
+  <!-- Connecting lines showing perspective relationships -->
+  <line x1="50" y1="50" x2="70" y2="30" stroke="#64748B" stroke-width="1" opacity="0.3"/>
+  <line x1="50" y1="50" x2="30" y2="70" stroke="#64748B" stroke-width="1" opacity="0.3"/>
+  <line x1="50" y1="50" x2="70" y2="70" stroke="#64748B" stroke-width="1" opacity="0.3"/>
+  <line x1="50" y1="50" x2="30" y2="30" stroke="#64748B" stroke-width="1" opacity="0.3"/>
+</svg>

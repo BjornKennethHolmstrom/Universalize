@@ -1,0 +1,128 @@
+---
+title: What is consciousness?
+description: Exploring the nature of subjective experience and the mystery of awareness
+icon: 🧠
+---
+
+# What is consciousness?
+
+Right now, you're experiencing something. There's a quality to reading these words—the visual appearance of text, perhaps sounds around you, maybe a feeling of curiosity or confusion. This **inner experience**, this subjective quality of "what it's like" to be you, is consciousness.
+
+It's the most familiar aspect of existence—you can't escape it—yet also the most mysterious. Everything you know about the world comes through consciousness, but consciousness itself remains deeply puzzling.
+
+## The easy problems vs. the hard problem
+
+Neuroscientist and philosopher **David Chalmers** distinguishes between the "easy problems" and the "hard problem" of consciousness:
+
+### The easy problems
+
+These are "easy" only in the sense that we know how to approach them scientifically, even if we don't have complete answers:
+
+- **How do we process visual information?** (Brain regions, neural pathways, computational models)
+- **How do we focus attention?** (Neural mechanisms of selective processing)
+- **How do we integrate information?** (Binding problem, synchronized neural activity)
+- **How do we control behavior?** (Motor planning, decision-making circuits)
+
+These problems are about **function**—how the brain processes, integrates, and acts on information. They're about the observable, measurable behavior of neural systems.
+
+### The hard problem
+
+The hard problem is fundamentally different:
+
+> **Why is there subjective experience at all?**
+
+Why isn't the brain just an unconscious information processor, like a sophisticated computer? Why does processing light wavelengths feel like seeing red? Why does neural activity create the taste of coffee, the sound of music, the feeling of pain?
+
+Science can map the neural correlates—which brain regions are active when you see red or feel pain. But it can't explain **why** there's something it's like to have those brain states. It can't bridge the gap between objective physical processes and subjective experience.
+
+## Current scientific approaches
+
+Despite the hard problem, neuroscience has made remarkable progress understanding consciousness:
+
+### Global Workspace Theory
+
+Proposed by Bernard Baars, this theory suggests consciousness arises when information becomes **globally available** to many brain systems simultaneously. It's like a theater stage where only a few things can be "in the spotlight" at once, broadcast to the entire audience of cognitive processes.
+
+**Evidence**: Brain imaging shows widespread activation for conscious but not unconscious processing.
+
+### Integrated Information Theory (IIT)
+
+Developed by Giulio Tononi, IIT proposes that consciousness is identical to **integrated information**—the degree to which a system is both differentiated (has many distinct states) and integrated (parts work as a unified whole).
+
+**Key claim**: Any system with sufficient integrated information is conscious, potentially including artificial systems.
+
+**Measurement**: IIT attempts to quantify consciousness with a mathematical measure (Φ, phi).
+
+### Predictive Processing
+
+The brain is constantly predicting what it will experience next, and consciousness emerges from the discrepancies between predictions and reality. What we experience is our brain's best guess about what's causing sensory input.
+
+**Implication**: Consciousness is a controlled hallucination, constrained by sensory data.
+
+### Quantum theories
+
+Some researchers (like Roger Penrose and Stuart Hameroff) propose consciousness involves quantum processes in brain microtubules. This remains highly controversial and lacks clear empirical support.
+
+## What is it like to be...?
+
+Philosopher **Thomas Nagel's** famous 1974 paper "What Is It Like to Be a Bat?" highlighted a crucial point: subjective experience has a fundamentally first-person character.
+
+Bats navigate by echolocation—biological sonar. We can study the physics of sound, map bat brains, and model their behavior. But we can't know what it's **like** to experience the world through echolocation. We can't adopt a bat's point of view.
+
+This reveals something essential about consciousness: it's **inherently subjective**. The view from outside (science) can't fully capture the view from inside (experience).
+
+### The question of other minds
+
+This raises a profound puzzle: **how do you know anyone else is conscious?**
+
+You directly experience your own consciousness. But other people's minds are only accessible through their behavior and reports. Theoretically, they could be "philosophical zombies"—behaving identically to conscious beings but with no inner experience.
+
+Most philosophers think solipsism (only I am conscious) is implausible. But we can't prove other minds exist with the same certainty we know our own consciousness.
+
+## Levels and degrees
+
+Consciousness isn't binary (on/off) but exists in degrees:
+
+- **Wakefulness vs. sleep**: Reduced consciousness in deep sleep, dreams as altered consciousness
+- **Attention**: Focusing consciousness on specific contents
+- **Disorders of consciousness**: Coma, vegetative state, locked-in syndrome
+- **Anesthesia**: Pharmacologically eliminating consciousness while preserving brain function
+- **Development**: Infants, children, and adults have different capacities for awareness
+- **Animals**: Varying degrees across species
+
+This suggests consciousness has a **scale**—from minimal awareness to rich, reflective self-consciousness.
+
+## Consciousness and the self
+
+Part of human consciousness is **self-awareness**—not just experiencing, but knowing that you're experiencing. Recognizing yourself in a mirror, thinking about your own thoughts, constructing a narrative of your life.
+
+Some philosophers argue the self is an **illusion**—a convenient fiction constructed by the brain. Buddhism teaches that careful introspection reveals "no self" (anatta)—just a stream of experiences without a permanent experiencer.
+
+Others maintain the self is real but emergent—a pattern that arises from but isn't reducible to neural processes.
+
+## The mystery remains
+
+Despite immense progress, consciousness remains mysterious:
+
+- We don't know **why** subjective experience exists
+- We don't know **where** it comes from (emergence? fundamental property?)
+- We don't fully understand **who** has it (animals? AI? plants?)
+- We can't yet **measure** it objectively
+
+Some philosophers think consciousness will always be somewhat mysterious—a permanent "explanatory gap" between physical processes and subjective experience. Others believe future science will crack the code.
+
+Either way, consciousness stands as perhaps the deepest puzzle in existence. You are the universe examining itself, awareness contemplating its own nature.
+
+## Further exploration
+
+**Books**:
+- *The Conscious Mind* by David Chalmers
+- *Consciousness Explained* by Daniel Dennett
+- *The Feeling of Life Itself* by Christof Koch
+
+**Practice**:
+- [View from above meditation](/practices/view-from-above) - Direct investigation of awareness
+
+**Related**:
+- [The hard problem](/pillars/mind/topics/hard-problem) - Deep dive into Chalmers' formulation
+- [Panpsychism](/pillars/mind/topics/panpsychism) - Is consciousness fundamental?

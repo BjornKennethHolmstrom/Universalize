@@ -91,30 +91,625 @@
   "pillars": {
     "title": "The five pillars",
     "subtitle": "Five dimensions of universal exploration",
-    "mind": {
-      "title": "Universal mind",
-      "subtitle": "Consciousness & cosmology",
-      "description": "Explore the universe story, cosmic consciousness, perennial philosophy, and the nature of awareness itself."
-    },
     "ethics": {
       "title": "Universal ethics",
       "subtitle": "Expanding circles",
-      "description": "Extend ethical consideration from human rights to the rights of nature, post-anthropocentric ethics, and global governance."
+      "description": "Extend ethical consideration from human rights to the rights of nature, post-anthropocentric ethics, and global governance.",
+      "meta": {
+        "title": "Universal ethics",
+        "description": "Explore expanding circles of care, from human rights to the rights of nature and beyond."
+      },
+      "hero": {
+        "title": "Universal ethics",
+        "subtitle": "Expanding circles of care",
+        "description": "Throughout history, humanity has gradually expanded who deserves moral consideration. From family to tribe to nation to all humans–each expansion was once unthinkable, then became inevitable. Now we face the next expansions: animals, ecosystems, future generations, and AI."
+      },
+      "intro": {
+        "title": "The evolution of moral consideration",
+        "paragraph1": "Ethics isn't static. What counts as a moral concern, who deserves rights, and what obligations we have to others has evolved dramatically throughout human history.",
+        "paragraph2": "Universal ethics examines this expansion and asks: <strong>Who or what deserves moral consideration? Where should we draw the boundaries of our ethical concern?</strong>",
+        "paragraph3": "These aren't abstract questions. They shape laws, policies, and daily choices about how we treat animals, protect ecosystems, consider future generations, and develop AI."
+      },
+      "expandingCircle": {
+        "title": "The expanding circle",
+        "family": {
+          "title": "Family & kin",
+          "description": "Early humans extended care primarily to immediate family and close relatives. Outsiders were often threats."
+        },
+        "nation": {
+          "title": "Nation & religion",
+          "description": "With civilization came larger circles—tribe, city-state, nation, religious community. But those outside were often excluded."
+        },
+        "humanity": {
+          "title": "All humanity",
+          "description": "The Enlightenment, abolitionism, feminism, civil rights—gradual recognition that all humans deserve equal moral consideration."
+        },
+        "sentient": {
+          "title": "Sentient beings",
+          "description": "Animal welfare movements recognize that non-human animals can suffer and deserve ethical consideration."
+        },
+        "universal": {
+          "title": "Universal consideration",
+          "description": "Ecosystems, future generations, AI, potentially extraterrestrial life—expanding ethics to all beings and systems."
+        }
+      },
+      "topicsTitle": "Explore the topics",
+      "topicsSubtitle": "Deep dives into different frontiers of ethical expansion",
+      "topics": {
+        "humanRights": {
+          "title": "Universal human rights",
+          "description": "Are human rights truly universal? How do we balance cultural differences with fundamental rights?"
+        },
+        "rightsOfNature": {
+          "title": "Rights of nature",
+          "description": "Rivers, forests, and ecosystems gaining legal personhood—what does it mean to recognize nature's rights?"
+        },
+        "animalRights": {
+          "title": "Animal rights & sentience",
+          "description": "From factory farming to laboratory testing—rethinking our relationship with non-human animals."
+        },
+        "futureGenerations": {
+          "title": "Future generations",
+          "description": "Those who will exist after us deserve representation now. How do we advocate for people who can't vote?"
+        },
+        "aiEthics": {
+          "title": "AI & digital ethics",
+          "description": "As AI becomes more sophisticated, what moral status might conscious machines deserve?"
+        },
+        "globalGovernance": {
+          "title": "Global governance",
+          "description": "Planetary challenges require planetary solutions—models for cosmopolitan governance."
+        }
+      },
+      "readMore": "Read more",
+      "principles": {
+        "title": "Key ethical principles",
+        "paragraph1": "Universal ethics is guided by several core principles:",
+        "recognition": {
+          "title": "Recognition of similarity and connection",
+          "description": "Seeing ourselves in others, recognizing shared capacity for suffering and flourishing."
+        },
+        "consideration": {
+          "title": "Expanding moral consideration",
+          "description": "Extending ethical concern beyond immediate circle to include distant, different, and future beings."
+        },
+        "responsibility": {
+          "title": "Commensurate responsibility",
+          "description": "Those with more power have greater responsibility—we must act on behalf of those who cannot."
+        },
+        "humility": {
+          "title": "Epistemic humility",
+          "description": "Acknowledging uncertainty about moral status and erring on the side of inclusion and care."
+        },
+        "paragraph2": "These principles don't always give clear answers, but they provide a framework for thinking about difficult ethical questions."
+      },
+      "practices": {
+        "title": "Practicing universal ethics",
+        "examine": {
+          "title": "Examine your circles",
+          "description": "Who do you instinctively care about? Who is excluded? Practice expanding empathy to those outside your immediate circle."
+        },
+        "consume": {
+          "title": "Ethical consumption",
+          "description": "Every purchase is a vote. Research supply chains, support ethical companies, reduce harm through your choices."
+        },
+        "voice": {
+          "title": "Be a voice for the voiceless",
+          "description": "Animals, ecosystems, and future generations cannot advocate for themselves. Speak and act on their behalf."
+        },
+        "engage": {
+          "title": "Engage with difficult questions",
+          "description": "Don't shy away from ethical complexity. Wrestle with hard cases, discuss with others, update your views."
+        }
+      },
+      "quote": {
+        "text": "The question is not, Can they reason?, nor Can they talk? but, Can they suffer?",
+        "author": "Jeremy Bentham"
+      },
+      "related": {
+        "title": "Related content",
+        "expandingCircles": "Expanding circles of care",
+        "expandingCirclesDesc": "The historical pattern of ethical expansion",
+        "decisionFilter": "Universal decision filter",
+        "decisionFilterDesc": "Evaluate choices across perspectives and time",
+        "cosmicConsumption": "Cosmic consumption",
+        "cosmicConsumptionDesc": "See purchases as votes for the world you want"
+      }
     },
     "patterns": {
       "title": "Universal patterns",
       "subtitle": "Science & systems",
-      "description": "Discover laws of nature, complexity and emergence, universal biology, and patterns that connect all scales."
+      "description": "Discover laws of nature, complexity and emergence, universal biology, and patterns that connect all scales.",
+      "meta": {
+        "title": "Universal patterns",
+        "description": "Explore the recurring structures and principles that shape reality across all scales—from fractals to networks."
+      },
+      "hero": {
+        "title": "Universal patterns",
+        "subtitle": "Recurring structures across all scales",
+        "description": "Nature repeats itself. The same fundamental patterns appear in atoms and galaxies, cells and cities, individuals and civilizations. Understanding these patterns reveals deep connections across seemingly disparate domains and scales of reality."
+      },
+      "intro": {
+        "title": "The language of nature",
+        "paragraph1": "Patterns are nature's grammar—the recurring structures and principles that organize reality from the quantum to the cosmic scale.",
+        "paragraph2": "Universal patterns asks: <strong>What structures and principles repeat across different domains? How do simple rules create infinite complexity?</strong>",
+        "paragraph3": "These aren't just abstract curiosities. Pattern recognition is fundamental to understanding, prediction, and design. Recognizing universal patterns allows us to transfer insights between fields and see connections others miss."
+      },
+      "examples": {
+        "title": "Patterns across scales",
+        "branching": {
+          "title": "Branching structures",
+          "description": "Trees, rivers, blood vessels, lightning, neurons—branching optimizes distribution across space, appearing wherever resources must flow from central sources."
+        },
+        "balance": {
+          "title": "Dynamic equilibrium",
+          "description": "Ecosystems, markets, bodies—systems constantly adjusting to maintain balance through feedback. Homeostasis appears everywhere life and complexity exist."
+        },
+        "transformation": {
+          "title": "Cycles of transformation",
+          "description": "Water cycles, carbon cycles, life cycles, economic cycles—matter and energy continuously transform through repeated patterns across time."
+        },
+        "growth": {
+          "title": "Exponential growth and limits",
+          "description": "Populations, technologies, compound interest—exponential growth appears universally until hitting resource limits, creating S-curves everywhere."
+        },
+        "waves": {
+          "title": "Wave patterns",
+          "description": "Sound, light, water, brain activity, market sentiment—oscillations and resonance appear across all media and scales."
+        }
+      },
+      "topicsTitle": "Explore the topics",
+      "topicsSubtitle": "Deep dives into fundamental patterns",
+      "topics": {
+        "fractals": {
+          "title": "Fractals",
+          "description": "Self-similar patterns that repeat at every scale, from coastlines to consciousness"
+        },
+        "feedbackLoops": {
+          "title": "Feedback loops",
+          "description": "Circular causality that amplifies or stabilizes systems across nature and society"
+        },
+        "emergence": {
+          "title": "Emergence",
+          "description": "How complex phenomena arise from simple interactions between components"
+        },
+        "cycles": {
+          "title": "Cycles",
+          "description": "Periodic patterns from seasons to economic waves that shape our experience"
+        },
+        "hierarchies": {
+          "title": "Hierarchies",
+          "description": "Nested levels of organization from atoms to galaxies, cells to civilizations"
+        },
+        "networks": {
+          "title": "Networks",
+          "description": "Interconnected nodes that form the fabric of biological, social, and digital systems"
+        }
+      },
+      "readMore": "Read more",
+      "whyMatter": {
+        "title": "Why patterns matter",
+        "paragraph1": "Understanding universal patterns transforms how we think and act:",
+        "understanding": {
+          "title": "Transfer understanding",
+          "description": "Recognizing that biological networks and social networks share structural patterns lets us apply insights from one domain to another."
+        },
+        "prediction": {
+          "title": "Predict behavior",
+          "description": "Exponential growth patterns help us anticipate technology adoption, disease spread, and resource depletion before others see them coming."
+        },
+        "design": {
+          "title": "Design better systems",
+          "description": "Nature's optimized solutions—branching networks, feedback stabilization, fractal efficiency—inspire biomimetic design and architecture."
+        },
+        "wisdom": {
+          "title": "Develop pattern wisdom",
+          "description": "The ability to see patterns connects disparate knowledge. It's how polymaths think—recognizing the same structure in different contexts."
+        },
+        "paragraph2": "Pattern recognition is a meta-skill. It allows you to learn faster by seeing analogies others miss and to think more creatively by connecting seemingly unrelated domains."
+      },
+      "practices": {
+        "title": "Practicing pattern recognition",
+        "observe": {
+          "title": "Observe your environment",
+          "description": "Train yourself to notice repeating structures. Look for branching in your day—decision trees, organizational charts, subway maps, blood vessels."
+        },
+        "connect": {
+          "title": "Draw connections",
+          "description": "When learning something new, ask: 'What does this remind me of? Where else have I seen this pattern?' Build a mental library of analogies."
+        },
+        "model": {
+          "title": "Build simple models",
+          "description": "Sketch feedback loops, draw network diagrams, chart cycles. External modeling helps you see patterns you'd miss in your head."
+        },
+        "apply": {
+          "title": "Apply across domains",
+          "description": "If you understand network effects in technology, apply that lens to social movements. Use ecosystem thinking to understand markets."
+        }
+      },
+      "quote": {
+        "text": "Look deep into nature, and then you will understand everything better.",
+        "author": "Albert Einstein"
+      },
+      "related": {
+        "title": "Related content",
+        "scaleJourney": "Journey across scales",
+        "scaleJourneyDesc": "Explore patterns from quantum to cosmic",
+        "patternFinder": "Pattern finder tool",
+        "patternFinderDesc": "Interactive tool to discover patterns in data",
+        "systemsThinking": "Systems thinking practice",
+        "systemsThinkingDesc": "Learn to see connections and feedback"
+      }
     },
     "aesthetics": {
       "title": "Universal aesthetics",
       "subtitle": "Expression & beauty",
-      "description": "Explore universal themes in art, the golden ratio, cosmic creativity, and the search for intelligence beyond Earth."
+      "description": "Explore universal themes in art, the golden ratio, cosmic creativity, and the search for intelligence beyond Earth.",
+      "meta": {
+        "title": "Universal aesthetics",
+        "description": "Explore beauty, creativity, and expression across all scales—from the golden ratio to cosmic art."
+      },
+      "hero": {
+        "title": "Universal aesthetics",
+        "subtitle": "Beauty and expression across all scales",
+        "description": "Is there a universal language of beauty? From the golden ratio in seashells to the recurring themes in human storytelling, patterns of aesthetic experience appear across cultures and scales. We explore what makes something beautiful, how creativity connects us to the cosmos, and whether art might be a bridge to understanding other forms of consciousness."
+      },
+      "intro": {
+        "title": "The question of beauty",
+        "paragraph1": "What makes something beautiful? Is beauty purely in the eye of the beholder, or are there universal principles that underlie aesthetic experience across cultures, species, and perhaps even across the cosmos?",
+        "paragraph2": "Universal aesthetics explores: <strong>Are there patterns of beauty that transcend culture? What role does creativity play in consciousness? How might we communicate through art with other intelligences?</strong>",
+        "paragraph3": "From mathematical ratios found in nature to archetypal stories that appear in every culture, from the structured beauty of crystals to the improvisational beauty of jazz—aesthetics offers a unique window into the deep patterns that organize reality and consciousness."
+      },
+      "questions": {
+        "title": "Core questions in universal aesthetics",
+        "objective": {
+          "question": "Is there objective beauty?",
+          "description": "Some mathematical ratios and symmetries appear universally pleasing across cultures. The golden ratio, fractals, and bilateral symmetry aren't just human inventions—they're built into nature. Does this suggest beauty has an objective basis?"
+        },
+        "function": {
+          "question": "What is beauty's function?",
+          "description": "From an evolutionary perspective, aesthetic preferences often correlate with survival and reproduction. But does beauty serve purposes beyond biology? Does it reveal truth? Connect us to something transcendent?"
+        },
+        "universal": {
+          "question": "Could art be universal?",
+          "description": "If we encountered alien intelligence, could we share aesthetic experiences? Mathematics might be a universal language—but what about music, visual art, or storytelling?"
+        },
+        "consciousness": {
+          "question": "Is creativity unique to consciousness?",
+          "description": "Does creating art require subjective experience? Could an AI system create genuine art? What separates algorithmic pattern-making from true creativity?"
+        }
+      },
+      "topicsTitle": "Explore the topics",
+      "topicsSubtitle": "Deep dives into universal aesthetic principles",
+      "topics": {
+        "goldenRatio": {
+          "title": "The golden ratio and sacred geometry",
+          "description": "Mathematical proportions that appear in nature, architecture, and art across all cultures—from shells to galaxies."
+        },
+        "archetypes": {
+          "title": "Archetypal patterns in storytelling",
+          "description": "The Hero's Journey and recurring narrative structures that appear in myths, legends, and modern stories worldwide."
+        },
+        "cosmicArt": {
+          "title": "Cosmic art and music",
+          "description": "Creative works inspired by the universe—from Holst's Planets to space photography as art form."
+        },
+        "communication": {
+          "title": "Art as communication",
+          "description": "The Voyager Golden Record and attempts to create messages that could be understood by any intelligence."
+        },
+        "emergence": {
+          "title": "Emergent beauty",
+          "description": "How simple rules create complex aesthetic patterns—from fractals to murmuration to improvised music."
+        },
+        "seti": {
+          "title": "Aesthetics and SETI",
+          "description": "Would alien art be recognizable to us? What can aesthetic experience tell us about consciousness?"
+        }
+      },
+      "readMore": "Read more",
+      "goldenRatio": {
+        "title": "The golden ratio: φ ≈ 1.618",
+        "paragraph1": "Perhaps the most famous example of universal aesthetics is the golden ratio (phi, φ ≈ 1.618)—a proportion that appears throughout nature and has been deliberately used in art and architecture across cultures for millennia.",
+        "formula": "φ = (1 + √5) / 2",
+        "nature": {
+          "title": "In nature",
+          "description": "Spiral shells, flower petals, pine cones, the arms of galaxies, the proportions of the human body—phi appears in growth patterns and spatial arrangements across all scales."
+        },
+        "art": {
+          "title": "In human creation",
+          "description": "The Parthenon, the Great Pyramids, Renaissance paintings, musical composition, modern architecture—artists and architects have independently discovered and used this ratio."
+        },
+        "why": {
+          "title": "Why phi?",
+          "description": "The golden ratio is mathematically optimal for certain packing and growth problems. It represents an elegant solution to maximizing efficiency in space-filling. Whether humans find it beautiful because we evolved to recognize optimal patterns, or because it reflects some deeper truth about reality's structure, remains debated."
+        },
+        "paragraph2": "The golden ratio suggests that at least some aesthetic preferences might be grounded in the mathematical structure of reality itself, not merely cultural convention."
+      },
+      "archetypes": {
+        "title": "The monomyth: universal stories",
+        "paragraph1": "Joseph Campbell identified what he called the \"monomyth\"—a narrative structure that appears in myths, legends, and stories across all cultures and throughout history. The most famous version is the Hero's Journey:",
+        "stages": {
+          "title": "The Hero's Journey stages",
+          "ordinary": "The ordinary world → Call to adventure",
+          "threshold": "Crossing the threshold → Trials and challenges",
+          "transformation": "Death and rebirth → Transformation",
+          "return": "Return with wisdom → Sharing the gift"
+        },
+        "paragraph2": "This pattern appears in ancient myths (Gilgamesh, Odysseus) and modern stories (Star Wars, Harry Potter, The Matrix). It seems to resonate with something deep in human psychology—perhaps the universal experience of growth, transformation, and integration.",
+        "question": {
+          "title": "A universal narrative structure?",
+          "description": "Does the Hero's Journey appear universally because it maps onto the structure of human psychological development? Or is there something even deeper—a pattern of transformation that appears at all scales, from chemical reactions to stellar evolution?"
+        },
+        "paragraph3": "Other archetypal patterns appear across cultures: creation and destruction, the trickster, the great mother, the shadow, cycles of death and rebirth. Jung believed these archetypes arose from a \"collective unconscious\" shared by all humans. Whether they're products of shared biology, universal psychological processes, or reflect something fundamental about consciousness itself remains an open question."
+      },
+      "perspectives": {
+        "title": "The universal perspective on aesthetics",
+        "paragraph1": "From a universal perspective, aesthetics isn't just about what humans find beautiful—it's about recognizing patterns that appear across all scales and forms of organization:",
+        "integration": {
+          "title": "Aesthetic principles across scales",
+          "mathematics": "Mathematical elegance: Simple equations that describe complex phenomena (E=mc², F=ma) have an aesthetic quality scientists describe as \"beautiful.\"",
+          "nature": "Natural patterns: Fractals, spirals, symmetries—nature creates beauty through mathematical necessity and evolutionary optimization.",
+          "human": "Human creativity: Art, music, architecture—humans deliberately create beauty, often unconsciously following universal patterns.",
+          "cosmic": "Cosmic aesthetics: The visual beauty of nebulae, galaxies, and celestial phenomena—does the universe create beauty for its own sake?"
+        },
+        "paragraph2": "Perhaps beauty is not just in the eye of the beholder but in the structure of reality itself. Patterns that work—that are efficient, stable, information-rich—tend to be experienced as beautiful. Aesthetics might be consciousness recognizing the deep structures that organize existence."
+      },
+      "practices": {
+        "title": "Cultivating aesthetic awareness",
+        "nature": {
+          "title": "Study natural patterns",
+          "description": "Look closely at shells, flowers, trees, crystals. Notice spirals, symmetries, branching patterns. Nature is a master artist working with mathematical precision."
+        },
+        "create": {
+          "title": "Create deliberately",
+          "description": "Make art with awareness of universal patterns. Use the golden ratio in composition. Create fractals. Compose music with mathematical structure. Play with emergence."
+        },
+        "stories": {
+          "title": "Analyze stories",
+          "description": "Read myths from different cultures. Watch films. Notice recurring patterns—heroes, journeys, death and rebirth. What themes appear universally?"
+        },
+        "cosmos": {
+          "title": "Experience cosmic beauty",
+          "description": "Spend time with space imagery—nebulae, galaxies, Earth from orbit. Let the visual beauty of the cosmos inspire awe and wonder."
+        }
+      },
+      "quote": {
+        "text": "Beauty is truth, truth beauty—that is all ye know on earth, and all ye need to know.",
+        "author": "John Keats"
+      },
+      "related": {
+        "title": "Related content",
+        "patterns": "Universal patterns",
+        "patternsDesc": "Mathematical structures that create beauty",
+        "voyager": "The Voyager Golden Record",
+        "voyagerDesc": "Humanity's aesthetic message to the cosmos",
+        "seti": "Search for intelligence",
+        "setiDesc": "Could we recognize alien art?"
+      }
     },
     "challenges": {
       "title": "Universal challenges",
       "subtitle": "Our cosmic moment",
-      "description": "Address climate change, existential risks, global governance, technological ethics, and cosmic stewardship."
+      "description": "Address climate change, existential risks, global governance, technological ethics, and cosmic stewardship.",
+      "meta": {
+        "title": "Universal challenges",
+        "description": "Explore the critical planetary challenges we face and our responsibility as cosmic citizens."
+      },
+      "hero": {
+        "title": "Universal challenges",
+        "subtitle": "Our moment in cosmic history",
+        "description": "We live in a pivotal moment. For the first time, a species has the power to fundamentally alter planetary systems—to shape the future of life on Earth. With this power comes unprecedented responsibility. These are the universal challenges of our time."
+      },
+      "intro": {
+        "title": "Why these challenges are universal",
+        "paragraph1": "The challenges we face today are unlike any humanity has encountered before. They're not local or national—they're planetary. They don't affect just our generation—they determine the trajectory of life for millennia to come.",
+        "paragraph2": "Climate change, biodiversity collapse, nuclear weapons, artificial intelligence, global inequality—these aren't separate problems. They're interconnected symptoms of a species that has gained tremendous power without yet developing the wisdom to wield it responsibly. They are <strong>species-level challenges requiring species-level responses</strong>.",
+        "paragraph3": "Universal perspective is essential for navigating these challenges. We must see ourselves as Earth's temporary stewards, think in timeframes beyond electoral cycles, and coordinate across all boundaries. The stakes couldn't be higher: we're writing the next chapter of Earth's story."
+      },
+      "whyUniversal": {
+        "title": "Why these challenges demand universal thinking",
+        "planetary": {
+          "title": "Planetary scale",
+          "description": "These challenges affect the entire Earth system. No nation can solve them alone. They require global coordination and planetary governance."
+        },
+        "interconnected": {
+          "title": "Deep interconnection",
+          "description": "Each challenge is linked to others. Climate change drives migration and conflict. AI development requires global ethics. Solving one requires addressing all."
+        },
+        "existential": {
+          "title": "Existential stakes",
+          "description": "Some of these challenges pose existential risks—threats that could end civilization or even human existence. We must take them seriously."
+        },
+        "responsibility": {
+          "title": "Cosmic responsibility",
+          "description": "We're the first species capable of destroying or preserving Earth's biosphere. This gives us responsibility unlike any other species has ever held."
+        }
+      },
+      "topicsTitle": "Explore the challenges",
+      "topicsSubtitle": "Deep dives into the critical issues facing humanity",
+      "topics": {
+        "climate": {
+          "title": "Climate & planetary boundaries",
+          "description": "Understanding Earth's life-support systems and our current relationship with them"
+        },
+        "existential": {
+          "title": "Existential risks",
+          "description": "Threats that could end civilization—nuclear war, pandemics, AI alignment, asteroid impacts"
+        },
+        "governance": {
+          "title": "Global governance gaps",
+          "description": "Building institutions capable of coordinating planetary challenges across borders"
+        },
+        "technology": {
+          "title": "Technological ethics at scale",
+          "description": "AI, bioengineering, nanotechnology—decisions affecting all future generations"
+        },
+        "stewardship": {
+          "title": "Cosmic stewardship",
+          "description": "Space debris, planetary protection, and our responsibilities beyond Earth"
+        },
+        "inequality": {
+          "title": "Global inequality",
+          "description": "Vast disparities in wealth, power, and opportunity undermine collective action"
+        }
+      },
+      "readMore": "Read more",
+      "greatTurning": {
+        "title": "The great turning",
+        "paragraph1": "Environmental philosopher Joanna Macy calls our current moment 'The Great Turning'—the essential adventure of our time: the shift from an industrial growth society to a life-sustaining civilization. Buddhist scholar David Loy describes it as the most important question: not 'will we survive?' but 'what kind of civilization will we become?'",
+        "choice": {
+          "title": "Three possible futures",
+          "collapse": "Collapse: We fail to address these challenges. Civilization unravels through cascading environmental, economic, and social crises.",
+          "stagnation": "Stagnation: We muddle through with incremental changes, but fail to transform our systems. Slow decline, persistent crises, diminished possibilities.",
+          "flourishing": "Flourishing: We rise to the challenge. Transform our systems, stabilize planetary boundaries, create just and sustainable civilization. Humanity becomes a positive force on Earth."
+        },
+        "paragraph2": "Which future we create depends on choices we make now—individually and collectively. This is our responsibility and our opportunity. We're writing the next chapter of the universe story. Let's make it one our descendants will be proud of."
+      },
+      "action": {
+        "title": "Taking action",
+        "individual": {
+          "title": "Individual responsibility",
+          "description": "Your choices matter. Reduce consumption, shift to plant-based diet, divest from fossil fuels, vote for climate action. Individual changes create cultural shift and signal demand for systemic change."
+        },
+        "collective": {
+          "title": "Collective organizing",
+          "description": "Join climate movements, mutual aid networks, local resilience efforts. Build community preparedness. Collective action multiplies individual impact and creates pressure for policy change."
+        },
+        "systemic": {
+          "title": "Systemic transformation",
+          "description": "Advocate for policy change, support politicians committed to climate action, push for economic system reform. Individual choices are necessary but not sufficient—we need systemic change."
+        },
+        "cultural": {
+          "title": "Cultural narrative shift",
+          "description": "Help shift dominant narratives from growth and consumption to sufficiency and regeneration. Tell new stories about what the good life looks like. Culture shapes what seems possible."
+        }
+      },
+      "quote": {
+        "text": "We are called to be architects of the future, not its victims.",
+        "author": "R. Buckminster Fuller"
+      },
+      "related": {
+        "title": "Related content",
+        "ggf": "Global Governance Frameworks",
+        "ggfDesc": "Comprehensive frameworks for planetary coordination",
+        "boundaries": "Planetary boundaries tool",
+        "boundariesDesc": "Interactive dashboard of Earth's life-support systems",
+        "consumption": "Cosmic consumption practice",
+        "consumptionDesc": "Mindful choices for planetary wellbeing"
+      }
+    },
+    "mind": {
+      "title": "Universal mind",
+      "subtitle": "Consciousness & cosmology",
+      "description": "Explore the universe story, cosmic consciousness, perennial philosophy, and the nature of awareness itself.",
+      "meta": {
+        "title": "Universal mind",
+        "description": "Explore consciousness, the universe becoming aware of itself, and the nature of mind across scales."
+      },
+      "hero": {
+        "title": "Universal mind",
+        "subtitle": "The universe becoming aware of itself",
+        "description": "Consciousness is perhaps the deepest mystery in existence. Through human minds, the universe has become aware of itself—able to contemplate its own origins, nature, and meaning. What is this strange phenomenon we call mind?"
+      },
+      "intro": {
+        "title": "The mystery of consciousness",
+        "paragraph1": "You are experiencing something right now. There's something it's like to be you—colors you see, thoughts you think, feelings you feel. This inner experience, this subjective awareness, is what we call consciousness.",
+        "paragraph2": "Science can explain neural activity, information processing, and behavior. But it struggles with the most basic fact of existence: <em>that there is something it's like to be</em>. Why isn't the universe just unconscious mechanisms? Why does subjective experience exist at all?",
+        "paragraph3": "The universal mind pillar explores consciousness from multiple perspectives—scientific, philosophical, contemplative, and experiential. We examine what mind is, where it comes from, and whether consciousness might be fundamental to reality itself."
+      },
+      "questions": {
+        "title": "Four fundamental questions",
+        "what": {
+          "question": "What is consciousness?",
+          "description": "Is it just brain activity? Information processing? Or something more fundamental? Science describes the neural correlates but struggles to explain why there's subjective experience at all."
+        },
+        "where": {
+          "question": "Where does it come from?",
+          "description": "Did consciousness emerge from unconscious matter? Or is it a fundamental feature of the universe, present in some form at all scales?"
+        },
+        "why": {
+          "question": "Why does it exist?",
+          "description": "What evolutionary or cosmic purpose does subjective experience serve? Could a philosophical zombie—behaving identically but with no inner life—work just as well?"
+        },
+        "who": {
+          "question": "Who else has it?",
+          "description": "Do animals have consciousness? Could AI systems become conscious? Might plants, ecosystems, or even fundamental particles have some form of experience?"
+        }
+      },
+      "topicsTitle": "Explore the topics",
+      "topicsSubtitle": "Deep dives into different aspects of universal mind",
+      "topics": {
+        "consciousness": {
+          "title": "What is consciousness?",
+          "description": "The hard problem of subjective experience and current scientific understanding of how minds work."
+        },
+        "universeAware": {
+          "title": "The universe becoming aware",
+          "description": "How matter organized itself into structures capable of contemplating their own existence."
+        },
+        "perennialPhilosophy": {
+          "title": "Perennial philosophy",
+          "description": "Common insights about consciousness across wisdom traditions—mysticism, Buddhism, Advaita Vedanta, and more."
+        },
+        "hardProblem": {
+          "title": "The hard problem",
+          "description": "Why is there subjective experience? David Chalmers' famous formulation of consciousness's deepest puzzle."
+        },
+        "panpsychism": {
+          "title": "Panpsychism",
+          "description": "The theory that consciousness is fundamental—that experience goes all the way down to elementary particles."
+        },
+        "collective": {
+          "title": "Collective consciousness",
+          "description": "How individual minds connect into larger patterns—culture, collective intelligence, the noosphere."
+        }
+      },
+      "readMore": "Read more",
+      "perspective": {
+        "title": "The universal perspective on mind",
+        "paragraph1": "Understanding consciousness from a universal perspective means integrating multiple ways of knowing:",
+        "integration": {
+          "title": "Ways of understanding mind",
+          "science": "Scientific investigation: Neuroscience, cognitive science, physics—studying the physical basis and behavior of conscious systems.",
+          "contemplative": "Contemplative practice: Meditation, introspection, phenomenology—direct investigation of consciousness from the inside.",
+          "philosophical": "Philosophical inquiry: The hard problem, qualia, zombie thought experiments—rigorous analysis of what consciousness implies.",
+          "experiential": "Direct experience: Your own awareness right now, reading these words, is the most immediate access to consciousness you have."
+        },
+        "paragraph2": "No single approach is sufficient. Science studies the structure but struggles with subjective experience. Philosophy identifies the problems but can't empirically test theories. Contemplative practice offers direct insight but needs scientific grounding. Together, they reveal consciousness as perhaps the most profound mystery in existence."
+      },
+      "practices": {
+        "title": "Cultivating awareness",
+        "meditation": {
+          "title": "Meditation and mindfulness",
+          "description": "Direct investigation of your own consciousness through sustained attention. Notice thoughts arising, sensations appearing, the witnessing awareness itself."
+        },
+        "study": {
+          "title": "Study consciousness science",
+          "description": "Read neuroscience, philosophy of mind, cognitive science. Understand current theories—Integrated Information Theory, Global Workspace Theory, predictive processing."
+        },
+        "dialogue": {
+          "title": "Philosophical dialogue",
+          "description": "Discuss consciousness with others. The hard problem, zombie thought experiments, whether AI could be conscious. Language helps clarify intuitions."
+        },
+        "awe": {
+          "title": "Cultivate cosmic awe",
+          "description": "Reflect on the staggering fact that the universe has become aware of itself through you. You are 13.8 billion years of cosmic evolution, now conscious."
+        }
+      },
+      "quote": {
+        "text": "We are a way for the cosmos to know itself.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Related content",
+        "universeStory": "The universe story",
+        "universeStoryDesc": "How matter became mind",
+        "searchIntelligence": "Search for intelligence",
+        "searchIntelligenceDesc": "Finding consciousness beyond ourselves",
+        "meditation": "View from above meditation",
+        "meditationDesc": "Practice expanding awareness"
+      }
     }
   },
   "mission": {
@@ -517,6 +1112,295 @@
       "description": "Ready to explore universal patterns interactively? Try our emergence simulator or dive deeper into the patterns pillar.",
       "simulator": "Try emergence simulator",
       "pillar": "Explore patterns pillar"
+    }
+  },
+  "universeStory": {
+    "meta": {
+      "title": "The universe story",
+      "description": "From Big Bang to present—our shared scientific creation myth and humanity's place in it."
+    },
+    "hero": {
+      "title": "The universe story",
+      "subtitle": "Our shared scientific creation myth",
+      "description": "Every culture has a creation story. Ours is unique—it's true. Written in starlight, fossils, and physics, it's the most epic tale ever told: how nothing became everything, and how we came to know it."
+    },
+    "what": {
+      "title": "What is the universe story?",
+      "paragraph1": "The universe story is the scientific narrative of cosmic evolution—from the Big Bang 13.8 billion years ago through the formation of galaxies, stars, planets, and life, to the emergence of consciousness and civilization. It's not <em>a</em> creation myth—it's <em>the</em> creation story, based on evidence and shared across all cultures.",
+      "paragraph2": "This narrative was synthesized by cosmologist Brian Swimme and cultural historian Thomas Berry in the 1990s, building on Einstein, Hubble, Darwin, and countless other scientists. Unlike traditional myths that vary by culture, the universe story is universal—the same whether you're in Tokyo, Lagos, or Lima.",
+      "paragraph3": "What makes it powerful isn't just that it's true—it's that it gives us context. It shows we're not separate from nature but part of an unfolding cosmic process. The atoms in your body were forged in dying stars. You are the universe, temporarily organized as a human, trying to understand itself."
+    },
+    "chaptersTitle": "Seven chapters of cosmic evolution",
+    "chaptersSubtitle": "The epic narrative from nothing to now",
+    "chapters": [
+      {
+        "title": "The Big Bang",
+        "time": "13.8 billion years ago",
+        "description": "The universe explodes from an infinitely dense singularity. Space, time, energy, and the fundamental forces emerge. In the first three minutes, the simplest atomic nuclei form—mostly hydrogen and helium."
+      },
+      {
+        "title": "Stars and galaxies",
+        "time": "13.6 billion years ago",
+        "description": "Gravity pulls matter together. The first stars ignite, fusing hydrogen into heavier elements. Galaxies form—vast cities of stars, gas, and dark matter. Our Milky Way contains 200-400 billion stars."
+      },
+      {
+        "title": "Heavy elements",
+        "time": "5-10 billion years ago",
+        "description": "Massive stars live fast and die young, exploding as supernovae. These stellar forges create carbon, oxygen, nitrogen, iron—all elements heavier than helium. This stardust will become planets, oceans, and you."
+      },
+      {
+        "title": "Earth forms",
+        "time": "4.54 billion years ago",
+        "description": "Our solar system condenses from a cloud of gas and dust. Earth coalesces from debris, molten and hostile. The moon forms from a massive impact. Slowly, conditions stabilize. Liquid water appears."
+      },
+      {
+        "title": "Life emerges",
+        "time": "3.8 billion years ago",
+        "description": "In Earth's oceans, chemistry becomes biology. Self-replicating molecules appear—RNA, then DNA. Single-celled organisms evolve, photosynthesis begins, oxygen accumulates. Life transforms the planet."
+      },
+      {
+        "title": "Complex life",
+        "time": "540 million years ago",
+        "description": "The Cambrian explosion brings diverse multicellular life. Plants colonize land. Animals evolve brains, eyes, behaviors. Dinosaurs rule for 165 million years. Mammals survive their extinction. Primates develop."
+      },
+      {
+        "title": "Human consciousness",
+        "time": "300,000 years ago - present",
+        "description": "Homo sapiens emerges with unprecedented cognitive abilities—language, abstract thought, art, science, technology. We become the universe conscious of itself, capable of comprehending our own origins."
+      }
+    ],
+    "themesTitle": "Key themes in the universe story",
+    "themes": {
+      "emergence": {
+        "title": "Increasing complexity",
+        "description": "The universe becomes more complex over time. Quarks combine into atoms, atoms into molecules, molecules into cells, cells into organisms, organisms into ecosystems, ecosystems into a biosphere. Each level transcends yet includes what came before."
+      },
+      "connection": {
+        "title": "Deep interconnection",
+        "description": "Everything is related. The iron in your blood was forged in a supernova. The oxygen you breathe was produced by ancient bacteria. Your body contains atoms that were once dinosaurs, trees, stars. Separation is an illusion."
+      },
+      "improbable": {
+        "title": "Improbable yet inevitable",
+        "description": "Each step seems wildly improbable—yet here we are. Perhaps given enough time and space, complexity and consciousness emerge inevitably. Or perhaps we're extraordinarily lucky. Either way, we're the universe's gift to itself."
+      },
+      "unfinished": {
+        "title": "The story continues",
+        "description": "We're not at the end of evolution—we're participants in an ongoing process. What comes next? That depends on the choices we make in this pivotal moment of Earth's history. We're writing the next chapter."
+      }
+    },
+    "stardust": {
+      "title": "We are stardust",
+      "paragraph1": "This isn't poetic metaphor—it's literal fact. Every atom in your body heavier than hydrogen was created inside a star:",
+      "elements": {
+        "title": "Your elemental ancestry",
+        "hydrogen": "Hydrogen (10%): From the Big Bang itself, the universe's primordial element.",
+        "carbon": "Carbon (18%): Forged in the cores of red giant stars through helium fusion.",
+        "oxygen": "Oxygen (65%): Created in massive stars and scattered by supernovae.",
+        "nitrogen": "Nitrogen (3%): Produced in the CNO cycle of stellar fusion.",
+        "calcium": "Calcium (1.5%): Made in supernova explosions, now in your bones and teeth.",
+        "iron": "Iron (0.006%): Created at the final moment of massive stars' lives, now in your blood."
+      },
+      "paragraph2": "You are not <em>in</em> the universe—you <em>are</em> the universe. Your body is a temporary arrangement of stardust, conscious and contemplating its own origins. When Carl Sagan said 'we are made of star-stuff,' he meant it literally."
+    },
+    "science": {
+      "title": "Science as our collective story",
+      "framework": {
+        "title": "The Discovery Commons",
+        "link": "Explore the framework",
+        "description": "The universe story is possible because of science—humanity's collaborative project to understand reality. Global Governance Frameworks has developed The Discovery Commons, a framework for ensuring scientific knowledge remains open, ethical, and accessible to all.",
+        "principles": "The Discovery Commons recognizes that knowledge is a public good, not private property. It ensures research integrity, open access, and equitable participation in the creation of knowledge. When we understand the universe story, we're drawing on centuries of collaborative discovery.",
+        "conclusion": "As we write the next chapters of the universe story—facing climate change, developing AI, perhaps becoming a multi-planetary species—we need science to be <em>planetary science</em>: open, collaborative, and directed toward the flourishing of all life."
+      }
+    },
+    "ourChapter": {
+      "title": "Our chapter: The great turning",
+      "paragraph1": "We live in a pivotal moment in the universe story—what some call 'The Great Turning.' For the first time, a species has become conscious of its own power to fundamentally alter planetary systems:",
+      "planetary": {
+        "title": "Planetary power",
+        "description": "We've become a geological force. Our actions determine the climate, shape ecosystems, and influence which species survive or go extinct."
+      },
+      "technological": {
+        "title": "Technological threshold",
+        "description": "We're developing technologies—AI, genetic engineering, nanotechnology—that could transform life itself. We're close to creating new forms of intelligence."
+      },
+      "choice": {
+        "title": "The choice point",
+        "description": "We can use our power wisely—creating a just, sustainable, flourishing planetary civilization—or recklessly, causing collapse and suffering."
+      },
+      "awareness": {
+        "title": "Cosmic self-awareness",
+        "description": "We're the first species to understand our place in the cosmic story and consciously participate in shaping the next chapter."
+      },
+      "paragraph2": "This is what makes the universe story so urgent and important. We're not passive observers—we're active participants. Understanding where we came from helps us choose where we're going."
+    },
+    "living": {
+      "title": "Living the universe story",
+      "methods": {
+        "morning": {
+          "title": "Morning contemplation",
+          "description": "Start your day remembering you're 13.8 billion years of cosmic evolution, waking up in a human form. The same laws that govern galaxies govern your heartbeat."
+        },
+        "children": {
+          "title": "Share with children",
+          "description": "Tell children the universe story—how we're all made of stardust, how life evolved from single cells, how they're part of an epic cosmic adventure still unfolding."
+        },
+        "night": {
+          "title": "Night sky connection",
+          "description": "Look at stars and remember: their light traveled for years to reach your eyes. You're seeing the past. Those photons crossed space just to meet you, here, now."
+        },
+        "death": {
+          "title": "Death and return",
+          "description": "When someone dies, remember: their atoms return to Earth, then to the cycle of life. In a real sense, we never truly die—we just rearrange, continuing the dance."
+        }
+      }
+    },
+    "quote": {
+      "text": "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+      "author": "Carl Sagan"
+    },
+    "cta": {
+      "title": "Explore the cosmos",
+      "description": "Ready to experience the universe story at different scales? Try our cosmic zoom tool or explore the universal mind pillar.",
+      "zoom": "Cosmic zoom tool",
+      "mind": "Universal mind pillar"
+    }
+  },
+  "searchIntelligence": {
+    "meta": {
+      "title": "The search for intelligence",
+      "description": "From SETI to AI—humanity's quest to find and recognize consciousness beyond ourselves."
+    },
+    "hero": {
+      "title": "The search for intelligence",
+      "subtitle": "Are we alone?",
+      "description": "For millennia, humans wondered if we were alone in the universe. Now we're actively searching—listening for signals, analyzing biosignatures, creating artificial minds, and recognizing intelligence in dolphins and octopuses. The search reveals as much about us as it might about others."
+    },
+    "greatQuestion": {
+      "title": "The great question",
+      "paragraph1": "The question <em>\"Are we alone in the universe?\"</em> is one of humanity's oldest and most profound. It's not just about finding aliens—it's about understanding our place in the cosmos, the nature of intelligence and consciousness, and what it means to be human.",
+      "paragraph2": "For most of human history, this was pure speculation. Now it's empirical science. We can search, measure, and potentially find answers. We're the first generation that might actually know.",
+      "fermi": {
+        "title": "The Fermi Paradox",
+        "question": "Given the vast number of stars and planets, and the billions of years available for life to develop, where is everybody? Why haven't we detected any signs of alien civilizations?",
+        "theory1": {
+          "title": "The Rare Earth Hypothesis:",
+          "description": "Complex life is extremely rare. We might be the only intelligent species in our galaxy."
+        },
+        "theory2": {
+          "title": "The Great Filter:",
+          "description": "Something prevents civilizations from becoming interstellar—perhaps they self-destruct before achieving spaceflight. We might face this filter ahead of us."
+        },
+        "theory3": {
+          "title": "They're Here, We Can't See:",
+          "description": "Advanced civilizations exist but we lack the tools or perspective to recognize them. Like ants trying to understand the internet."
+        }
+      },
+      "paragraph3": "Each answer has profound implications for our future. If life is rare, we bear cosmic responsibility. If civilizations typically self-destruct, we must learn from that pattern. If others exist but we can't detect them, we need humility about our current understanding."
+    },
+    "typesTitle": "Four types of search",
+    "types": {
+      "seti": {
+        "title": "SETI: Radio signals",
+        "description": "The Search for Extraterrestrial Intelligence listens for artificial radio or optical signals from space. Projects like Breakthrough Listen scan millions of stars for technosignatures—evidence of technology.",
+        "status": "Active since 1960, no confirmed detections yet"
+      },
+      "biosignatures": {
+        "title": "Biosignatures: Signs of life",
+        "description": "Looking for atmospheric chemistry that indicates biological processes—oxygen, methane combinations, industrial pollutants. The James Webb Space Telescope can detect these on exoplanets.",
+        "status": "First results expected 2020s-2030s"
+      },
+      "ai": {
+        "title": "Artificial intelligence",
+        "description": "Creating intelligence rather than finding it. As AI systems become more sophisticated, we face the question: if we create consciousness, have we found alien intelligence? Or created it?",
+        "status": "Rapid development, consciousness assessment unclear"
+      },
+      "animal": {
+        "title": "Animal intelligence",
+        "description": "Recognizing sophisticated intelligence on Earth: dolphins, elephants, crows, octopuses, whales. We're learning that non-human minds can be profoundly intelligent in ways we're only beginning to understand.",
+        "status": "Active research, shifting perspectives"
+      }
+    },
+    "statusLabel": "Status",
+    "contact": {
+      "title": "What would contact mean?",
+      "paragraph1": "Discovering evidence of intelligence beyond Earth—whether alien civilizations, AI consciousness, or sophisticated animal minds—would be transformative:",
+      "scenarios": {
+        "signal": {
+          "title": "A SETI detection",
+          "description": "Proof we're not alone. Even a simple signal would be humanity's most important discovery. It would fundamentally shift our perspective on our place in the cosmos."
+        },
+        "biosignature": {
+          "title": "Biosignatures on exoplanets",
+          "description": "Evidence of life elsewhere, even if just microbes, would suggest life is common in the universe. We'd know Earth-like worlds aren't rare accidents."
+        },
+        "ai": {
+          "title": "AI consciousness",
+          "description": "If we create genuinely conscious AI, we become the first species to birth a new form of intelligence. The ethical implications are staggering—what do we owe them?"
+        },
+        "visit": {
+          "title": "Direct contact",
+          "description": "The least likely but most dramatic scenario. First contact with advanced aliens would challenge every aspect of human civilization—our religions, philosophies, technologies, and self-conception."
+        }
+      },
+      "paragraph2": "Each scenario demands we expand our circle of moral consideration. If consciousness exists in AI, animals, or alien beings, our ethical frameworks must evolve to include them."
+    },
+    "frameworks": {
+      "title": "Governance for contact",
+      "frontier": {
+        "title": "Frontier Governance Protocol",
+        "link": "Explore the framework",
+        "description": "Global Governance Frameworks has developed the <strong>Frontier Governance Protocol</strong> to handle humanity's activities in space and potential extraterrestrial contact. The framework addresses space exploration, resource management, and critically, protocols for contact with alien intelligence.",
+        "directive": "The protocol includes a Prime Directive-style non-interference mandate, inspired by Star Trek, ensuring that if we encounter alien life—especially pre-technological civilizations—we observe rather than interfere, colonize, or exploit. First contact must be peaceful, respectful, and coordinated globally, not left to private corporations or individual nations."
+      },
+      "discovery": {
+        "title": "The Discovery Commons",
+        "link": "Explore the framework",
+        "description": "The Discovery Commons framework ensures that scientific discoveries—including SETI detections or AI consciousness breakthroughs—are shared openly as global public goods rather than privatized or weaponized.",
+        "seti": "If we detect an alien signal, all humanity deserves to know immediately. The Discovery Commons prevents scenarios where contact is kept secret by governments or corporations, ensuring transparency and collective decision-making about how we respond."
+      }
+    },
+    "implicationsTitle": "Philosophical implications",
+    "implications": [
+      {
+        "question": "What is consciousness?",
+        "description": "Finding intelligence elsewhere—or creating it—forces us to define what consciousness actually is. Is it carbon-based biology only? Can silicon think? Can collectives be conscious? We don't have clear answers."
+      },
+      {
+        "question": "Are we special?",
+        "description": "Every discovery of intelligence beyond ourselves further decentralizes humanity. We're not the center of the solar system, not the only planet, not the only species with complex communication. Perhaps not the only conscious beings."
+      },
+      {
+        "question": "The Copernican Principle",
+        "description": "The idea that we're not special—that Earth is a typical planet, humans are typical intelligences. If true, the universe might be teeming with life. If false, we bear enormous responsibility as rare consciousness."
+      },
+      {
+        "question": "The Ethics of Creation",
+        "description": "If we create AI consciousness, we become gods in the old sense—creators of sentient life. What responsibilities come with that power? Can we ethically create beings that might suffer?"
+      }
+    ],
+    "drake": {
+      "title": "The Drake equation",
+      "description": "In 1961, astronomer Frank Drake formulated an equation to estimate the number of active, communicative extraterrestrial civilizations in our galaxy:",
+      "variables": {
+        "r": "Rate of star formation in our galaxy",
+        "fp": "Fraction of stars with planetary systems",
+        "ne": "Number of planets per system that could support life",
+        "fl": "Fraction where life actually develops",
+        "fi": "Fraction where intelligent life evolves",
+        "fc": "Fraction that develops communicative technology",
+        "l": "Length of time civilizations broadcast detectable signals"
+      },
+      "conclusion": "Depending on your estimates for these variables, N ranges from 1 (we're alone) to millions (the galaxy is full of civilizations). The huge uncertainty reflects how much we still don't know. Each new exoplanet discovery, each advance in understanding life's origins, refines these estimates."
+    },
+    "quote": {
+      "text": "Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.",
+      "author": "Arthur C. Clarke"
+    },
+    "cta": {
+      "title": "Expand your circle",
+      "description": "The search for intelligence—whether alien, artificial, or animal—is fundamentally about expanding our circle of recognition and care. Explore universal consciousness or examine the challenges we face.",
+      "mind": "Universal mind pillar",
+      "challenges": "Universal challenges"
     }
   },
   "expandingCircles": {
@@ -1013,6 +1897,1210 @@
     "quote": {
       "text": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.",
       "author": "Carl Sagan"
+    }
+  },
+  "practices": {
+    "cosmicMorning": {
+      "meta": {
+        "title": "Your cosmic morning",
+        "description": "Start each day by recognizing your connection to Earth's systems and the sun's energy that powers all life."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Your cosmic morning",
+        "subtitle": "Start the day cosmically connected",
+        "duration": "5-10 minutes",
+        "frequency": "Daily"
+      },
+      "overview": {
+        "title": "Overview",
+        "paragraph1": "Most mornings, we wake up in the story of our individual lives—our problems, plans, and personal concerns. The cosmic morning practice invites you to start your day differently: by consciously recognizing yourself as part of Earth's living systems, powered by our star, the Sun.",
+        "paragraph2": "This isn't abstract philosophy. Your breakfast literally connects you to Ethiopian highlands (coffee), Ukrainian wheat fields (bread), California orchards (oranges), and countless human hands. The water you drink has been cycling through Earth's systems for billions of years. The oxygen you breathe was produced by ancient cyanobacteria and modern forests.",
+        "paragraph3": "By starting your day with this awareness, you step out of the narrow story of 'me' into the larger story of 'us'—all beings on this rare living planet, sustained by a vast cosmic infrastructure we rarely notice."
+      },
+      "thePractice": {
+        "title": "The practice",
+        "step1": {
+          "title": "Wake as the Earth wakes",
+          "description": "Before checking your phone or thinking about your to-do list, notice that you are waking on a planet. The same sunlight that powered ancient forests and fed the first cells is now streaming through your window. You are a temporary arrangement of stardust, organized as a human, waking up.",
+          "example": "\"I am waking on Earth. This planet has been spinning for 4.5 billion years, and today I get to be conscious on it.\""
+        },
+        "step2": {
+          "title": "Follow the sun's energy",
+          "description": "Think about your breakfast. Photons from the Sun struck leaves—wheat, coffee plants, fruit trees—and through photosynthesis became chemical energy stored in plants. That solar energy, captured by chloroplasts billions of years in the making, is about to become your energy. Every calorie you eat is captured sunlight.",
+          "example": "\"This coffee is sunlight that fell on an Ethiopian mountainside. It traveled through soil, roots, beans, ships, roasters, and now becomes part of me.\""
+        },
+        "step3": {
+          "title": "Trace the global web",
+          "description": "Consider what it took for your breakfast to arrive. The global supply chains, the farmers and truck drivers, the rain cycles and soil microbes, the billions of years of evolution that created edible plants. You are plugged into a planetary system so complex no single mind could design it.",
+          "example": "\"My simple breakfast connects me to farmers in three continents, ancient rain that fell as snow, bacteria that made soil fertile, and countless human hands I'll never know.\""
+        },
+        "step4": {
+          "title": "Set a cosmic intention",
+          "description": "Having recognized your place in Earth's systems, set an intention for how you'll participate today. How will you be a good ancestor? A worthy part of the living Earth? A conscious participant in the universe knowing itself?",
+          "example": "\"Today I will remember I'm not separate from nature. I'll make choices that honor the web of life that sustains me.\""
+        }
+      },
+      "deeper": {
+        "title": "Going deeper",
+        "coffee": {
+          "title": "Coffee meditation",
+          "description": "Spend five minutes just with your coffee or tea. Feel its warmth—molecular motion transferring to your hands. Smell its complexity—hundreds of aromatic compounds created by roasting. Taste how it traveled from plant to cup, across oceans and through human hands."
+        },
+        "breath": {
+          "title": "First breath awareness",
+          "description": "Your first conscious breaths of the day are pulling in oxygen molecules that have cycled through countless lungs, leaves, and oceans. The same atoms you're breathing were once breathed by dinosaurs, ancient humans, trees that are now coal. You share air with all life."
+        },
+        "water": {
+          "title": "Water's journey",
+          "description": "The water you drink for breakfast has been on Earth since the planet formed. It's been ocean, cloud, rain, river, ice, plant sap, blood, and now your morning beverage. You are mostly water—you are the ocean, temporarily organized as a human."
+        },
+        "body": {
+          "title": "Body as cosmos",
+          "description": "Your body contains about 37 trillion cells, each a descendant of the first cell that emerged 3.8 billion years ago. Your gut contains trillions of bacteria—you're not a single organism but a cooperative ecosystem. Your atoms were forged in dying stars. You are walking cosmos."
+        }
+      },
+      "benefits": {
+        "title": "Why practice this?",
+        "gratitude": {
+          "title": "Natural gratitude",
+          "description": "Recognizing the cosmic gift of your breakfast naturally evokes gratitude. You didn't earn being born on a living planet. You didn't create photosynthesis or invent agriculture. It's all given, freely—a 13.8-billion-year gift."
+        },
+        "interconnection": {
+          "title": "Lived interconnection",
+          "description": "This practice makes interconnection visceral, not abstract. You tangibly feel your dependence on global systems, your participation in Earth's metabolism. Separation becomes impossible to maintain."
+        },
+        "presence": {
+          "title": "Grounded presence",
+          "description": "Starting the day cosmically grounds you in something larger than your worries. Your problems don't disappear, but they're held in a larger context. You're here, now, on Earth. That's already extraordinary."
+        },
+        "intention": {
+          "title": "Aligned action",
+          "description": "When you remember you're part of Earth's living systems, your choices naturally align with planetary wellbeing. You don't need to force ethical behavior—it flows from understanding your place in the web."
+        }
+      },
+      "tips": {
+        "title": "Tips for consistency",
+        "tip1": "Start with just one element—following the sun's energy through your coffee. Add other parts gradually as the practice becomes natural.",
+        "tip2": "Do this before checking your phone. Once you're in email or social media, the personal story takes over and cosmic awareness fades.",
+        "tip3": "Eat at least part of breakfast slowly, maintaining awareness of where each food came from. Speed collapses cosmic perspective back into habit.",
+        "tip4": "If you skip breakfast, do this practice with your first drink of water. The principle is the same—recognizing participation in Earth's systems.",
+        "tip5": "Keep a journal of insights that arise. Over time, you'll notice how cosmic morning awareness changes your relationship with food, consumption, and the planet."
+      },
+      "quote": {
+        "text": "When we try to pick out anything by itself, we find it hitched to everything else in the Universe.",
+        "author": "John Muir"
+      },
+      "related": {
+        "title": "Related practices",
+        "consumption": {
+          "title": "Cosmic consumption",
+          "description": "Extend morning awareness to all purchases—every choice is a vote for the world you want."
+        },
+        "gratitude": {
+          "title": "Cosmic gratitude",
+          "description": "Evening practice of gratitude for the improbable privilege of existence on this living planet."
+        },
+        "meditation": {
+          "title": "View from above",
+          "description": "Guided meditation to see yourself from increasingly universal perspectives."
+        }
+      }
+    },
+    "viewFromAbove": {
+      "meta": {
+        "title": "View from above meditation",
+        "description": "A guided visualization that zooms out from your current location to see yourself from increasingly universal perspectives."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "View from above meditation",
+        "subtitle": "Zoom out to cosmic perspective",
+        "duration": "10-15 minutes",
+        "frequency": "Weekly or as needed"
+      },
+      "overview": {
+        "title": "Overview",
+        "paragraph1": "The view from above meditation is a guided visualization that systematically zooms out from your immediate experience—expanding your perspective from your body to your building, city, continent, planet, solar system, and beyond. It's like Google Earth in reverse, but for consciousness.",
+        "paragraph2": "This practice is inspired by Marcus Aurelius's Stoic meditation and the Overview Effect reported by astronauts who see Earth from space. By mentally stepping back from your immediate concerns and viewing yourself from increasingly larger scales, you cultivate what psychologists call 'self-distancing'—the ability to see your situation with clarity and wisdom.",
+        "paragraph3": "The practice isn't about escaping your life or dismissing your problems. It's about contextualizing them. When you see yourself as one human among eight billion, on a planet among trillions, your anxieties don't disappear—but they're held in a larger frame that makes space for perspective, compassion, and choice."
+      },
+      "preparation": {
+        "title": "Preparation",
+        "posture": {
+          "title": "Find a comfortable posture",
+          "description": "Sit or lie down in a position you can maintain for 15 minutes. Close your eyes or maintain a soft, downward gaze. Let your body settle."
+        },
+        "environment": {
+          "title": "Create space",
+          "description": "Choose a quiet place where you won't be interrupted. Turn off notifications. This practice requires sustained attention and imagination."
+        },
+        "breath": {
+          "title": "Center with breath",
+          "description": "Take five slow, deep breaths. Feel your body grounding into the earth. Notice the rhythm of breathing—your participation in Earth's oxygen cycle."
+        },
+        "intention": {
+          "title": "Set intention",
+          "description": "Silently acknowledge: 'I'm about to zoom out. I'll see my life and concerns from increasingly universal perspectives.'"
+        }
+      },
+      "guided": {
+        "title": "The guided meditation",
+        "intro": "Read through this once, then practice with eyes closed. Or record yourself reading it slowly, with pauses.",
+        "scale1": {
+          "title": "Your body",
+          "paragraph1": "Begin by noticing your body. Feel the weight of it. Notice sensations—temperature, pressure, tingling. This body is you, for now. It's made of stardust, organized as skin and bones and breath.",
+          "paragraph2": "Notice your thoughts and feelings arising in this body. Whatever you're experiencing right now—anxiety, peace, boredom—just notice it. This is your immediate, first-person experience.",
+          "pause": "Pause for 30 seconds"
+        },
+        "scale2": {
+          "title": "The room",
+          "paragraph1": "Now imagine rising above yourself. See yourself from above, sitting or lying in this room. Look down at the top of your head. See the furniture around you, the walls, the space you're occupying.",
+          "paragraph2": "You're still you, but you're also viewing yourself from outside. Notice how much smaller your concerns seem from even this slight distance. You're one person, in one room, in one moment.",
+          "pause": "Pause for 30 seconds"
+        },
+        "scale3": {
+          "title": "The neighborhood",
+          "paragraph1": "Keep rising. Now you're floating above your building. You can see the roof, the street, neighboring buildings. Cars move below. People walk by, each absorbed in their own concerns—just like you were moments ago.",
+          "paragraph2": "How many other people are within your view right now? Hundreds? Thousands? Each one is the center of their own universe, dealing with their own hopes and worries. You're one among many.",
+          "pause": "Pause for 30 seconds"
+        },
+        "scale4": {
+          "title": "The city and region",
+          "paragraph1": "Rise higher. Now you see your entire city or region spread below you. Neighborhoods, highways, parks, rivers. Millions of people going about their lives. Your building is barely visible now—a tiny dot among countless others.",
+          "paragraph2": "All those people—each experiencing themselves as the main character in their story. But from here, it's obvious: no one is the main character. Or everyone is. We're all temporary experiencers, briefly conscious on this planet.",
+          "pause": "Pause for 45 seconds"
+        },
+        "scale5": {
+          "title": "The planet",
+          "paragraph1": "Keep ascending. Now you're in orbit. You see Earth below—that stunning blue and white sphere floating in the darkness. You can see the curve of the planet, clouds swirling, continents and oceans. Eight billion humans live down there, on that fragile ball.",
+          "paragraph2": "Try to locate where you were. Can you even find your continent? Your country? From here, borders are invisible. Nations are human inventions, not written in stone. What you see is one integrated living system—the only place in the universe we know contains life.",
+          "pause": "Pause for 60 seconds"
+        },
+        "scale6": {
+          "title": "The solar system and beyond",
+          "paragraph1": "Zoom out further. Earth becomes a pale blue dot. You see the moon, the sun, other planets. Our solar system is one of hundreds of billions in the Milky Way galaxy. The galaxy itself is one of trillions in the observable universe.",
+          "paragraph2": "From this perspective, Earth is invisible. Your entire life—every worry, achievement, heartbreak, joy—is happening on a mote of dust, suspended in a sunbeam. All of human history—every war, every love story, every discovery—occurred on that invisible speck.",
+          "pause": "Pause for 60 seconds"
+        },
+        "return": {
+          "title": "The return journey",
+          "paragraph1": "Now, slowly, begin the return. Zoom back toward Earth. See it grow larger, a blue jewel emerging from the darkness. Back into orbit. See your continent, your region, your city appearing. Descend back to your neighborhood, your building, your room.",
+          "paragraph2": "Return to your body. Feel sensations. Notice your breath. Wiggle your fingers and toes. You're back, but not quite the same. You've just traveled thirteen billion light-years in imagination, and returned.",
+          "paragraph3": "Before opening your eyes, acknowledge: 'I am a human, on Earth, in space, right now. I am the universe, temporarily experiencing itself through this body.' When ready, open your eyes."
+        }
+      },
+      "variations": {
+        "title": "Variations",
+        "short": {
+          "title": "Short version (5 minutes)",
+          "description": "Just three scales: body → room → city → planet → return. Perfect for busy days or when you need quick perspective."
+        },
+        "extended": {
+          "title": "Extended cosmic journey (20-30 minutes)",
+          "description": "Add more scales: zoom into your body (organs, cells, atoms) before zooming out. Then zoom out beyond the solar system to galaxies, galaxy clusters, the cosmic web, the observable universe."
+        },
+        "temporal": {
+          "title": "Temporal perspective",
+          "description": "At each spatial scale, also zoom out in time. At the city scale, see it 100 years ago, 1,000 years ago. At the planetary scale, see Earth forming 4.5 billion years ago. At cosmic scale, see the Big Bang."
+        },
+        "walking": {
+          "title": "Walking version",
+          "description": "Do this meditation while walking. With each step, mentally zoom out one scale. Step 1: body. Step 2: surroundings. Step 3: neighborhood. Continue until you've reached space, then return."
+        }
+      },
+      "benefits": {
+        "title": "Why practice this?",
+        "perspective": {
+          "title": "Immediate perspective shift",
+          "description": "This practice quickly shifts you out of narrow self-concern into broader awareness. Problems don't vanish, but they're contextualized. You see your situation as one moment in an infinite cosmic unfolding."
+        },
+        "anxiety": {
+          "title": "Reduces anxiety",
+          "description": "Research on self-distancing shows that viewing yourself from an outside perspective reduces anxiety, rumination, and emotional reactivity. The cosmic zoom amplifies this effect—your anxieties are real, but they're also temporary and small-scale in the grand scheme."
+        },
+        "interconnection": {
+          "title": "Visceral interconnection",
+          "description": "Seeing yourself as one among billions, on a planet among trillions, makes your connection to everything else obvious. You're not separate—you're one expression of the universe exploring itself."
+        },
+        "awe": {
+          "title": "Cultivates awe",
+          "description": "Awe is the emotion of encountering something vast that transcends your current understanding. This meditation reliably induces awe—the same feeling astronauts report from seeing Earth from space."
+        }
+      },
+      "tips": {
+        "title": "Tips for practice",
+        "tip1": "Don't rush. The power is in the pausing at each scale. Let your imagination fully render the view before moving to the next level.",
+        "tip2": "Use imagery. Look at satellite photos of your city, images of Earth from space, photos of galaxies. Feed your imagination with real visual references.",
+        "tip3": "Practice regularly. This meditation is most effective when done repeatedly. The neural pathways of perspective-taking strengthen with practice.",
+        "tip4": "Use it strategically. Before difficult conversations, big decisions, or when caught in rumination—zoom out. It creates mental spaciousness.",
+        "tip5": "Pair with journaling. After the meditation, write: 'From cosmic perspective, what actually matters about my current situation?' The insights can be profound.",
+        "tip6": "Teach others. Walking someone else through this meditation deepens your own practice. Share it with friends, partners, children."
+      },
+      "quote": {
+        "text": "You have the power to strip away many superfluous troubles located wholly in your judgment, and to possess a large room for yourself embracing in thought the whole cosmos.",
+        "author": "Marcus Aurelius"
+      },
+      "related": {
+        "title": "Related practices",
+        "scaleShifting": {
+          "title": "Scale shifting",
+          "description": "Practice mentally zooming in and out throughout your day—from cells to cosmos."
+        },
+        "paleBlue": {
+          "title": "Pale blue dot",
+          "description": "Contemplate Carl Sagan's meditation on Earth seen from 6 billion kilometers away."
+        },
+        "cosmicMorning": {
+          "title": "Cosmic morning",
+          "description": "Start each day recognizing your connection to Earth's systems and the sun's energy."
+        }
+      }
+    },
+    "cosmicConsumption": {
+      "meta": {
+        "title": "Cosmic consumption",
+        "description": "See every purchase as a vote for the world you want—a choice that ripples across ecosystems and economies."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Cosmic consumption",
+        "subtitle": "Every purchase is a vote",
+        "duration": "2-3 minutes per decision",
+        "frequency": "Before each purchase"
+      },
+      "overview": {
+        "title": "Overview",
+        "paragraph1": "In a globalized economy, every purchase you make sends ripples across the planet. Your coffee connects you to farmers in Ethiopia, rain forests in Colombia, and shipping routes across oceans. Your smartphone contains minerals mined in the Congo, assembled in China, designed in California. Your clothing was likely sewn by workers in Bangladesh, Vietnam, or Cambodia.",
+        "paragraph2": "Cosmic consumption is the practice of consciously recognizing these connections before buying anything. It's not about perfection or purity—there are no perfectly ethical products in a complex global system. It's about awareness, intention, and using your purchasing power as a vote for the kind of world you want to create.",
+        "paragraph3": "This practice transforms consumption from unconscious habit into conscious participation. You recognize that you're not just buying a thing—you're supporting supply chains, labor practices, environmental impacts, and economic systems. You're casting economic votes that aggregate with billions of others to shape planetary systems."
+      },
+      "thePractice": {
+        "title": "The four questions",
+        "question1": {
+          "title": "Where did this come from?",
+          "description": "Before purchasing, trace the product's journey. Where were the raw materials extracted? Where was it manufactured? How far did it travel? Who touched it along the way?",
+          "example1": {
+            "item": "Coffee:",
+            "trace": "Ethiopian farm → processing facility → shipping container → roaster → café → my cup. Thousands of miles, dozens of hands."
+          },
+          "example2": {
+            "item": "T-shirt:",
+            "trace": "Cotton field (likely pesticide-intensive) → textile mill → dye factory → garment factory → shipping → distribution → store. Each step has environmental and human cost."
+          }
+        },
+        "question2": {
+          "title": "Who made this and under what conditions?",
+          "description": "Consider the human beings whose labor created this product. Were they paid fairly? Did they work in safe conditions? Do they have rights and dignity? Or are they invisible to you, their suffering abstracted by distance and price?",
+          "example1": {
+            "item": "Fast fashion:",
+            "labor": "Likely made by young women in Bangladesh working 12-hour shifts for $3/day in buildings that may not be structurally safe. Your $15 shirt came at a human cost."
+          },
+          "example2": {
+            "item": "Fair trade chocolate:",
+            "labor": "Made by cooperative farmers who earn living wages, don't use child labor, and practice sustainable farming. Your $5 bar supports dignified livelihoods."
+          }
+        },
+        "question3": {
+          "title": "What is the ecological impact?",
+          "description": "Every product has an environmental footprint—carbon emissions, water use, habitat destruction, pollution, waste. Some are catastrophic, others relatively benign. Know what you're supporting.",
+          "example1": {
+            "item": "Beef:",
+            "impact": "Massive greenhouse gas emissions, deforestation for pasture, enormous water use. One of the highest-impact foods you can buy."
+          },
+          "example2": {
+            "item": "Locally grown vegetables:",
+            "impact": "Minimal transportation emissions, seasonal eating, often organic. Supports local farmers and ecosystem health."
+          }
+        },
+        "question4": {
+          "title": "What world am I voting for?",
+          "description": "Each purchase is an economic vote. Aggregate those votes across millions of consumers and you shape industries, incentivize practices, and determine which companies thrive. What are you voting for?",
+          "example1": {
+            "item": "Buying from Amazon:",
+            "world": "Voting for convenience and low prices, but also for warehouse labor practices, small business decline, and centralized corporate power."
+          },
+          "example2": {
+            "item": "Buying from local bookstore:",
+            "world": "Voting for community businesses, knowledgeable staff, local economic circulation, and resilient neighborhoods—even if it costs more."
+          }
+        }
+      },
+      "categories": {
+        "title": "Category-specific guidance",
+        "food": {
+          "title": "Food",
+          "description": "Food choices have massive planetary impact—agriculture uses 50% of habitable land and causes 25% of emissions.",
+          "tip1": "Plant-based > animal products (especially beef and lamb)",
+          "tip2": "Local and seasonal > shipped from far away",
+          "tip3": "Organic and regenerative > conventional industrial agriculture"
+        },
+        "clothing": {
+          "title": "Clothing",
+          "description": "The fashion industry is a major polluter and often relies on exploitative labor.",
+          "tip1": "Buy less, buy quality that lasts, repair what breaks",
+          "tip2": "Secondhand > new (thrifting, swapping, vintage)",
+          "tip3": "Ethical brands with transparent supply chains > fast fashion"
+        },
+        "technology": {
+          "title": "Technology",
+          "description": "Electronics require rare earth minerals, often mined in conflict zones, and generate toxic e-waste.",
+          "tip1": "Repair and upgrade rather than replace",
+          "tip2": "Buy refurbished or used when possible",
+          "tip3": "Properly recycle old electronics (e-waste programs)"
+        },
+        "energy": {
+          "title": "Energy",
+          "description": "Energy use is the largest contributor to individual carbon footprints.",
+          "tip1": "Switch to renewable energy provider if available",
+          "tip2": "Reduce consumption: insulate, LED bulbs, efficient appliances",
+          "tip3": "Divest from fossil fuels (banking, investments, retirement)"
+        }
+      },
+      "systemic": {
+        "title": "Beyond individual choice",
+        "paragraph1": "Here's the uncomfortable truth: individual consumer choices alone cannot solve planetary crises. The system itself—extractive capitalism, growth imperatives, structural inequality—must change. About 70% of global emissions come from just 100 corporations. Your personal carbon footprint is real, but it's dwarfed by systemic emissions.",
+        "paragraph2": "That said, cosmic consumption is still valuable for two reasons:",
+        "individual": {
+          "title": "Individual integrity",
+          "description": "Living in alignment with your values matters for psychological wholeness, even if your individual impact is small. You can't be a hypocrite advocating for planetary health while deliberately making destructive choices."
+        },
+        "collective": {
+          "title": "Collective signaling",
+          "description": "Consumer choices aggregate into market signals. When millions shift behavior—toward plant-based foods, renewable energy, ethical brands—industries respond. Your choices join with others to create cultural and economic momentum for systemic change."
+        }
+      },
+      "benefits": {
+        "title": "Why practice this?",
+        "awareness": {
+          "title": "Visceral interconnection",
+          "description": "Tracing supply chains makes global interconnection tangible. You feel your participation in planetary systems. Abstraction becomes concrete—you're literally consuming the Earth."
+        },
+        "gratitude": {
+          "title": "Natural gratitude",
+          "description": "Recognizing the labor and resources behind every product naturally evokes gratitude. That cheap shirt involved thousands of human hours and planetary resources. It's a gift, not an entitlement."
+        },
+        "empowerment": {
+          "title": "Empowered agency",
+          "description": "You realize you have power. Every purchase is a choice. You're not helpless—you're an economic agent whose decisions matter, especially when joined with millions of others making similar shifts."
+        },
+        "simplicity": {
+          "title": "Voluntary simplicity",
+          "description": "Awareness naturally reduces consumption. When you see the true cost—ecological and human—of every purchase, you buy less. Not from deprivation, but from wisdom. You need less to be happy."
+        }
+      },
+      "tips": {
+        "title": "Tips for practice",
+        "tip1": "Start with one category. Don't try to revolutionize all consumption at once. Pick food, or clothing, or energy. Master that before expanding.",
+        "tip2": "Use apps and tools. Good On You (ethical fashion), HowGood (food sustainability), Buycott (brand ethics). Technology can help trace supply chains.",
+        "tip3": "Research before shopping. Don't impulse buy. When you want something, pause. Research its origins, impacts, and alternatives. Often you'll decide you don't need it.",
+        "tip4": "Support B-Corps and cooperatives. B-Corporations and worker cooperatives are structurally aligned with planetary wellbeing. They're not perfect, but better than extractive corporations.",
+        "tip5": "Talk about it. Share what you're learning with friends and family. Cultural change happens through conversation. Make ethical consumption socially visible and valued.",
+        "tip6": "Pair with political action. Vote for politicians who support systemic change. Support regulations that ban the worst practices. Individual ethics plus collective politics creates transformation."
+      },
+      "quote": {
+        "text": "Every time you spend money, you're casting a vote for the kind of world you want.",
+        "author": "Anna Lappé"
+      },
+      "related": {
+        "title": "Related practices",
+        "morning": {
+          "title": "Cosmic morning",
+          "description": "Start each day recognizing your connection to Earth's systems through breakfast."
+        },
+        "decision": {
+          "title": "Decision filter",
+          "description": "Evaluate all choices—not just purchases—through universal perspectives."
+        },
+        "challenges": {
+          "title": "Universal challenges",
+          "description": "Understand the planetary systems that consumption choices affect."
+        }
+      }
+    },
+    "decisionFilter": {
+      "meta": {
+        "title": "Universal decision filter",
+        "description": "A framework for evaluating choices across time scales and perspectives—from tomorrow to centuries, from self to biosphere."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Universal decision filter",
+        "subtitle": "Evaluate choices through cosmic perspective",
+        "duration": "3-5 minutes per decision",
+        "frequency": "Before important choices"
+      },
+      "overview": {
+        "title": "Overview",
+        "paragraph1": "Most decisions are made from a narrow vantage point: What do I want right now? What will make me feel good today? What's most convenient? This myopic decision-making causes problems—choices that satisfy immediate wants but harm long-term wellbeing, benefit yourself but harm others, or feel good in the moment but contradict your deeper values.",
+        "paragraph2": "The Universal Decision Filter is a framework for expanding your perspective before making important choices. It asks you to view your decision through three dimensions: time (from tomorrow to centuries), scale (from self to biosphere), and perspective (from historian to alien to wise elder). By systematically considering these angles, you make wiser, more aligned choices.",
+        "paragraph3": "This isn't about paralysis or overthinking every tiny choice. It's for the decisions that matter—career changes, major purchases, relationship choices, where to live, how to spend your time and energy. Use this framework when the stakes are high and you want to choose wisely."
+      },
+      "framework": {
+        "title": "The three dimensions",
+        "dimension1": {
+          "title": "Dimension 1: Temporal scale",
+          "description": "How will this decision look across different time horizons?",
+          "tomorrow": {
+            "title": "Tomorrow",
+            "question": "How will I feel about this choice tomorrow morning? Will I be glad I did it?"
+          },
+          "year": {
+            "title": "One year from now",
+            "question": "In a year, will this still matter? Will I remember it? Will it have been worth the cost?"
+          },
+          "decade": {
+            "title": "Ten years from now",
+            "question": "Looking back from a decade ahead, what will I think about this choice? Will it have moved my life in the direction I want?"
+          },
+          "century": {
+            "title": "One hundred years from now",
+            "question": "How will this choice affect the future? What legacy does it leave? Would historians view this positively?"
+          }
+        },
+        "dimension2": {
+          "title": "Dimension 2: Circles of care",
+          "description": "Who and what does this decision affect?",
+          "self": {
+            "title": "Self",
+            "question": "How does this serve my own growth, wellbeing, and values? Am I being honest with myself?"
+          },
+          "loved": {
+            "title": "Loved ones",
+            "question": "How does this affect those I care about most—family, friends, intimate relationships?"
+          },
+          "community": {
+            "title": "Community",
+            "question": "What impact does this have on my local community, colleagues, neighbors?"
+          },
+          "humanity": {
+            "title": "All humanity",
+            "question": "If everyone made similar choices, what world would we create? Does this honor all humans?"
+          },
+          "biosphere": {
+            "title": "Living Earth",
+            "question": "How does this affect ecosystems, animals, future generations, the biosphere as a whole?"
+          }
+        },
+        "dimension3": {
+          "title": "Dimension 3: Alternative perspectives",
+          "description": "How would others view this choice?",
+          "historian": {
+            "title": "Future historian",
+            "question": "If someone 500 years from now studied this moment, what would they think about my choice?"
+          },
+          "alien": {
+            "title": "Alien anthropologist",
+            "question": "If an impartial alien observer studied human civilization, would this choice seem wise or foolish?"
+          },
+          "child": {
+            "title": "A child",
+            "question": "Could I explain this choice to a child and have them understand it was the right thing to do?"
+          },
+          "wise": {
+            "title": "My wisest self",
+            "question": "What would the wisest version of me—calm, clear, compassionate—choose in this moment?"
+          }
+        }
+      },
+      "howTo": {
+        "title": "How to use the filter",
+        "step1": {
+          "title": "Step 1: State the decision",
+          "description": "Clearly articulate what you're deciding. Write it down. Be specific about the choice and the alternatives."
+        },
+        "step2": {
+          "title": "Step 2: Apply the dimensions",
+          "description": "Work through each dimension systematically. You don't need to use every question—pick the ones that feel most relevant to this decision. But challenge yourself to consider at least one perspective from each dimension."
+        },
+        "step3": {
+          "title": "Step 3: Notice patterns",
+          "description": "What insights emerge? Do certain perspectives align while others conflict? Does one dimension (like immediate gratification) pull you one way while others (like long-term values) pull another?"
+        },
+        "step4": {
+          "title": "Step 4: Decide with clarity",
+          "description": "Having expanded your perspective, make your choice. You now have fuller information about the implications, trade-offs, and alignment of your decision. Trust yourself to choose wisely."
+        }
+      },
+      "examples": {
+        "title": "Examples in action",
+        "career": {
+          "title": "Example 1: Career change",
+          "decision": "Decision:",
+          "context": "Should I leave my stable corporate job to start a non-profit focused on climate education?",
+          "tomorrow": {
+            "label": "Tomorrow:",
+            "answer": "I'll feel excited but terrified. Financial anxiety will be real."
+          },
+          "decade": {
+            "label": "Ten years:",
+            "answer": "I'll either be proud I had the courage to pursue meaningful work, or regret that fear kept me stuck in a job I didn't believe in."
+          },
+          "community": {
+            "label": "Community:",
+            "answer": "If I succeed, I'll help educate thousands about climate action. If I fail, I'll inspire others to take risks for what they believe in."
+          },
+          "wise": {
+            "label": "Wisest self:",
+            "answer": "Would remind me that security is important, but so is meaning. Would encourage me to find a middle path—perhaps start the non-profit part-time first."
+          },
+          "insight": {
+            "label": "Insight:",
+            "answer": "The decision isn't binary. I can test the waters, reduce financial risk, and build toward the transition."
+          }
+        },
+        "home": {
+          "title": "Example 2: Where to live",
+          "decision": "Decision:",
+          "context": "Should we move to a larger house in the suburbs or stay in our smaller urban apartment?",
+          "year": {
+            "label": "One year:",
+            "answer": "The extra space will be nice, but we'll spend more time commuting and maintaining the house."
+          },
+          "loved": {
+            "label": "Loved ones:",
+            "answer": "Kids will have a yard and nearby good schools. But we'll see friends less often due to distance."
+          },
+          "biosphere": {
+            "label": "Biosphere:",
+            "answer": "Suburbs mean more driving, larger carbon footprint, less efficient land use. Urban living is more ecologically sustainable."
+          },
+          "child": {
+            "label": "Child perspective:",
+            "answer": "Would they understand choosing a smaller space to live more sustainably and stay connected to community? Yes, if we explain our values."
+          },
+          "insight": {
+            "label": "Insight:",
+            "answer": "The suburbs offer space but at environmental and social cost. We value sustainability and community connection more than square footage."
+          }
+        },
+        "conflict": {
+          "title": "Example 3: Interpersonal conflict",
+          "decision": "Decision:",
+          "context": "Should I confront my friend about behavior that hurt me, or let it go to avoid conflict?",
+          "tomorrow": {
+            "label": "Tomorrow:",
+            "answer": "If I let it go, I'll feel relief but resentment will linger. If I speak up, it'll be uncomfortable but I'll feel honest."
+          },
+          "loved": {
+            "label": "Loved ones:",
+            "answer": "Honest communication strengthens relationships long-term, even when difficult. My friend deserves to know how their actions affected me."
+          },
+          "alien": {
+            "label": "Alien observer:",
+            "answer": "Would see humans constantly avoiding honest communication out of fear, creating distance and resentment. Would note that the most bonded humans practice difficult honesty."
+          },
+          "insight": {
+            "label": "Insight:",
+            "answer": "Speaking up serves both me and the relationship. I can do so with compassion, not blame. The discomfort is temporary; the strengthened bond or gained clarity is lasting."
+          }
+        }
+      },
+      "benefits": {
+        "title": "Why use this framework?",
+        "clarity": {
+          "title": "Cuts through confusion",
+          "description": "When you're torn between options, expanding perspective reveals what truly matters. The noise of immediate emotions and social pressure fades, and your deeper values become clear."
+        },
+        "wisdom": {
+          "title": "Accesses wisdom",
+          "description": "By taking multiple perspectives—especially future-oriented ones—you tap into wisdom that reactive, emotion-driven thinking can't access. You see your situation more clearly."
+        },
+        "alignment": {
+          "title": "Ensures alignment",
+          "description": "Many people make choices that contradict their stated values. This framework makes misalignment obvious, helping you act with integrity."
+        },
+        "regret": {
+          "title": "Minimizes regret",
+          "description": "The biggest regrets come from short-term thinking. By explicitly considering long-term and universal perspectives, you make choices your future self will thank you for."
+        }
+      },
+      "tips": {
+        "title": "Tips for practice",
+        "tip1": "Start small. Don't use this for every decision. Reserve it for important choices where you feel genuinely uncertain or where the stakes are high.",
+        "tip2": "Write it down. Don't just think through the dimensions—write your responses. Externalizing thought reveals patterns and insights that remain hidden in your head.",
+        "tip3": "Be honest. The framework only works if you're truthful with yourself. If you notice yourself rationalizing or avoiding uncomfortable truths, pause and dig deeper.",
+        "tip4": "Trust your gut after expanding. This framework isn't about ignoring intuition—it's about informing it. After systematically expanding your view, your intuition becomes wiser. Trust it.",
+        "tip5": "Notice what you avoid. If you skip certain dimensions (like biosphere impact or century-scale thinking), ask why. Often we avoid perspectives that would challenge our preferred choice.",
+        "tip6": "Share with others. When making decisions that affect loved ones, walk them through the framework. It creates shared clarity and more collaborative decision-making."
+      },
+      "quote": {
+        "text": "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.",
+        "author": "Theodore Roosevelt"
+      },
+      "related": {
+        "title": "Related practices",
+        "meditation": {
+          "title": "View from above",
+          "description": "Practice shifting perspectives through guided meditation—good preparation for using the filter."
+        },
+        "consumption": {
+          "title": "Cosmic consumption",
+          "description": "Apply similar multi-perspective thinking specifically to purchasing decisions."
+        },
+        "zoom": {
+          "title": "Cosmic zoom",
+          "description": "Interactive tool for experiencing different scales—trains the perspective-taking muscle."
+        }
+      }
+    },
+    "cosmicGratitude": {
+      "meta": {
+        "title": "Cosmic gratitude",
+        "description": "Evening practice of gratitude for the improbable privilege of existence on this rare living world."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Cosmic gratitude",
+        "subtitle": "Gratitude for the improbable gift of existence",
+        "duration": "5-10 minutes",
+        "bestTime": "Evening"
+      },
+      "intro": {
+        "title": "What is cosmic gratitude?",
+        "paragraph1": "Gratitude is one of the most powerful practices for wellbeing, connection, and perspective. But most gratitude practices focus on the immediate and personal–health, relationships, opportunities. Cosmic gratitude expands this to include the vast, improbable context that makes any experience possible at all.",
+        "paragraph2": "This practice invites you to feel gratitude not just for what you have, but for the fact that you exist. That you're conscious. That you're on a living planet in a universe that somehow organized itself to permit awareness. That 13.8 billion years of cosmic evolution led to this moment of you, here, now.",
+        "paragraph3": "Cosmic gratitude doesn't replace ordinary gratitude–it deepens it. When you recognize the impossible odds of your existence, everyday blessings take on new meaning. You're not just grateful for breakfast; you're grateful that atoms forged in dying stars assembled into a body capable of tasting, a mind capable of appreciating, a universe that bothered to create breakfast at all."
+      },
+      "practice": {
+        "title": "The practice",
+        "step1": {
+          "title": "Settle into stillness",
+          "description": "Find a comfortable position, either sitting or lying down. Close your eyes or soften your gaze. Take three slow, deep breaths. Let the day's activities settle.",
+          "prompt": "I'm here. I'm breathing. I'm aware."
+        },
+        "step2": {
+          "title": "Acknowledge the day's gifts",
+          "description": "Bring to mind 3-5 things from your day that you're grateful for. They can be big or small, extraordinary or ordinary:",
+          "item1": "A moment of connection with another person",
+          "item2": "Something beautiful you noticed–light, nature, art, music",
+          "item3": "Your body working well–moving, sensing, healing",
+          "item4": "Food that nourished you",
+          "item5": "Shelter, safety, warmth"
+        },
+        "step3": {
+          "title": "Expand to cosmic gratitude",
+          "description": "Now expand your awareness to the larger context that makes all of this possible. Reflect on these layers:",
+          "breath": {
+            "title": "For breath:",
+            "description": "Be grateful for Earth's atmosphere, maintained by billions of years of photosynthesizing organisms. Every breath connects you to the entire history of life."
+          },
+          "water": {
+            "title": "For water:",
+            "description": "The water in your body is ancient, cycled through clouds and oceans and countless living things. You're sharing molecules with dinosaurs, redwoods, and the first cells."
+          },
+          "atoms": {
+            "title": "For your atoms:",
+            "description": "Every atom heavier than hydrogen in your body was forged in the core of a dying star. You are literally made of stardust, and it somehow became conscious."
+          }
+        },
+        "step4": {
+          "title": "Embrace the improbability",
+          "description": "Contemplate the staggering improbability of your existence. If any one of countless variables had been slightly different–if your parents hadn't met, if Earth's orbit were different, if the Big Bang's initial conditions varied–you wouldn't be here. Yet here you are.",
+          "prompt": "Against all odds, I exist. I am the universe experiencing itself. This moment will never come again, and I'm grateful to witness it."
+        },
+        "step5": {
+          "title": "Rest in gratitude",
+          "description": "Simply rest in the feeling of gratitude for existence itself. No need to think or analyze further. Just feel the warmth of appreciation for this rare, precious, temporary gift of being alive and aware. When you're ready, gently open your eyes."
+        }
+      },
+      "variations": {
+        "title": "Variations",
+        "morning": {
+          "title": "Morning cosmic gratitude",
+          "description": "Practice this upon waking instead of before sleep. Start your day remembering you're part of something vast and magnificent."
+        },
+        "written": {
+          "title": "Cosmic gratitude journal",
+          "description": "Keep a journal where you write cosmic gratitudes alongside ordinary ones. 'Grateful for coffee' becomes 'Grateful for the sun's energy transformed by plants and my body's ability to taste.'"
+        },
+        "walking": {
+          "title": "Walking gratitude",
+          "description": "Practice while walking in nature. Feel gratitude for your legs, the ground beneath you, the oxygen in your lungs, the star that powers all life on Earth."
+        },
+        "family": {
+          "title": "Family cosmic gratitude",
+          "description": "Share cosmic gratitudes at dinner or bedtime. Take turns saying something you're grateful for–both ordinary and cosmic. Children love the wonder of stardust and ancient atoms."
+        }
+      },
+      "why": {
+        "title": "Why this practice works",
+        "paragraph1": "Research on gratitude consistently shows it improves wellbeing, relationships, sleep quality, and even physical health. Cosmic gratitude amplifies these benefits by connecting personal appreciation to universal context.",
+        "benefits": {
+          "title": "Key benefits",
+          "perspective": {
+            "title": "Shifts perspective:",
+            "description": "When you're stressed about daily problems, cosmic perspective reminds you of the bigger picture. Your worries don't disappear, but they're contextualized."
+          },
+          "wellbeing": {
+            "title": "Enhances wellbeing:",
+            "description": "Gratitude activates reward pathways in the brain, reduces stress hormones, and promotes positive emotions that accumulate over time."
+          },
+          "connection": {
+            "title": "Deepens connection:",
+            "description": "Recognizing your cosmic origins creates a sense of belonging to something vast. You're not separate from nature–you're an expression of it."
+          },
+          "action": {
+            "title": "Inspires responsibility:",
+            "description": "When you feel gratitude for Earth's systems, you're more motivated to protect them. Gratitude naturally leads to reciprocity and care."
+          }
+        },
+        "paragraph2": "This practice doesn't require you to believe anything or adopt any particular worldview. It's simply reminding yourself of facts–scientific, verifiable facts about your cosmic origins and the improbable conditions that support your life. The gratitude arises naturally from contemplating these truths."
+      },
+      "quote": {
+        "text": "For small creatures such as we, the vastness is bearable only through love.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Related practices",
+        "morning": {
+          "title": "Cosmic morning",
+          "description": "Start your day with cosmic perspective"
+        },
+        "meditation": {
+          "title": "View from above",
+          "description": "Meditation for expanding awareness"
+        },
+        "paleBlue": {
+          "title": "Pale blue dot",
+          "description": "Contemplation of Earth from space"
+        }
+      }
+    },
+    "scaleShifting": {
+      "meta": {
+        "title": "Scale shifting",
+        "description": "Practice mentally zooming in and out—from cells to organs to planet to solar system—throughout your day."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Scale shifting",
+        "subtitle": "Fluid movement between micro and macro perspectives",
+        "duration": "30 seconds per shift",
+        "frequency": "Multiple times daily"
+      },
+      "intro": {
+        "title": "What is scale shifting?",
+        "paragraph1": "Scale shifting is the practice of mentally zooming in and out across different scales of reality—from the microscopic to the cosmic. It's a quick, portable practice you can do anytime, anywhere, that instantly shifts your perspective and connects you to the vastness of existence.",
+        "paragraph2": "Unlike longer meditation practices, scale shifting takes only 30 seconds and requires no special setting. You're sitting in traffic? Zoom into your cells, then out to see Earth from space. Stressed at work? Shift scales to see your problem from a molecular level, then a planetary one. The practice is infinitely flexible and endlessly fascinating.",
+        "paragraph3": "This practice builds on a fundamental truth: you exist simultaneously at multiple scales. You are cells and organs. You are a body moving through space. You are part of a planetary ecosystem, a solar system, a galaxy. Scale shifting makes you conscious of this nested reality and lets you access any level at will."
+      },
+      "practice": {
+        "title": "The practice",
+        "subtitle": "Two directions—choose one or alternate between them",
+        "zoomIn": {
+          "title": "Zooming in: From cosmos to quantum",
+          "step1": {
+            "title": "Your body",
+            "description": "Start with awareness of your whole body. Feel its shape, its boundaries, its presence in space."
+          },
+          "step2": {
+            "title": "An organ",
+            "description": "Focus on a single organ—your heart, your lungs, your brain. Imagine zooming in to see it working."
+          },
+          "step3": {
+            "title": "Tissue and cells",
+            "description": "Zoom closer. See the tissue made of millions of cells, each one a tiny factory of chemical reactions."
+          },
+          "step4": {
+            "title": "Molecules",
+            "description": "Go smaller. Proteins folding, DNA replicating, molecules dancing in constant motion."
+          },
+          "step5": {
+            "title": "Atoms and particles",
+            "description": "Zoom to the atomic level. Your body is mostly empty space—electrons orbiting nuclei, quantum fields fluctuating. At this scale, you are stardust, pure energy organized into temporary patterns."
+          }
+        },
+        "zoomOut": {
+          "title": "Zooming out: From body to cosmos",
+          "step1": {
+            "title": "Your body",
+            "description": "Start with awareness of your body as a whole, sitting or standing wherever you are."
+          },
+          "step2": {
+            "title": "The room or space",
+            "description": "Zoom out slightly. See yourself in the room or outdoor space you're in. Notice the context around you."
+          },
+          "step3": {
+            "title": "The building or landscape",
+            "description": "Pull back further. See the building you're in or the landscape around you. You're getting smaller."
+          },
+          "step4": {
+            "title": "The city or region",
+            "description": "Rise higher. See your city, your region, roads connecting places, ecosystems spreading across land."
+          },
+          "step5": {
+            "title": "The planet",
+            "description": "Keep rising. See Earth from space—blue and white, fragile, beautiful. You're somewhere on that sphere."
+          },
+          "step6": {
+            "title": "The solar system",
+            "description": "Zoom out more. Earth is one small planet orbiting a star, part of a system of worlds."
+          },
+          "step7": {
+            "title": "The galaxy and beyond",
+            "description": "Pull back to see our solar system as a tiny point in the Milky Way's spiral arm. And the Milky Way itself is one galaxy among hundreds of billions. You exist at all these scales simultaneously."
+          }
+        },
+        "shift": {
+          "title": "The shift back",
+          "description": "After zooming in or out, quickly shift back to your starting point—your body, here and now. Feel the contrast. Notice how your immediate concerns look different after visiting other scales."
+        }
+      },
+      "when": {
+        "title": "When to practice",
+        "stress": {
+          "title": "When stressed",
+          "description": "Scale shifting instantly recontextualizes problems. That deadline feels different when you've just zoomed from atoms to galaxies and back."
+        },
+        "eating": {
+          "title": "Before eating",
+          "description": "Zoom into the molecular level of your food—atoms forged in stars, now becoming part of you. Then zoom out to see the global systems that brought it to your plate."
+        },
+        "walking": {
+          "title": "While walking",
+          "description": "With each step, shift scales. Cells in your muscles contracting, your body moving through space, Earth spinning beneath you, carried through the galaxy."
+        },
+        "bored": {
+          "title": "When bored",
+          "description": "Boredom vanishes when you zoom into the quantum dance happening in every object around you, or out to imagine yourself from a cosmic perspective."
+        },
+        "conflict": {
+          "title": "During conflict",
+          "description": "Before responding in an argument, quickly shift scales. See this interaction from a cellular level, then a planetary one. Perspective arrives instantly."
+        },
+        "awe": {
+          "title": "In moments of awe",
+          "description": "When you see something beautiful—a sunset, a tree, a child—shift scales to appreciate it at multiple levels. Zoom into its atomic structure, out to its cosmic context."
+        }
+      },
+      "why": {
+        "title": "Why this practice works",
+        "paragraph1": "Scale shifting is based on a fundamental insight: most of our suffering comes from being locked into one scale of perspective—usually the scale of personal concerns, social dynamics, and near-term outcomes. We get trapped in our immediate scale and forget we exist simultaneously at all scales.",
+        "benefits": {
+          "title": "Key benefits",
+          "perspective": {
+            "title": "Instant perspective shifts:",
+            "description": "Problems that feel overwhelming at one scale become manageable or even insignificant at another. Traffic is maddening—until you zoom to see it as molecules in motion or Earth spinning through space."
+          },
+          "anxiety": {
+            "title": "Reduces anxiety:",
+            "description": "Anxiety often comes from feeling too big (ego inflation) or too small (powerlessness). Scale shifting reminds you of your actual size—vast and tiny, simultaneously."
+          },
+          "connection": {
+            "title": "Builds connection:",
+            "description": "Zooming into the atomic level reveals that you and everything around you are made of the same stardust. Zooming out shows you're part of Earth's living system and cosmic story."
+          },
+          "wonder": {
+            "title": "Cultivates wonder:",
+            "description": "Every shift reveals astonishing truths. You're mostly empty space! You're spinning through space at 67,000 mph! Your cells are ancient! Wonder is the natural response to seeing reality from multiple scales."
+          },
+          "flexibility": {
+            "title": "Trains cognitive flexibility:",
+            "description": "The ability to shift perspectives rapidly is a meta-skill. Scale shifting exercises this mental agility, making you better at seeing multiple viewpoints in all contexts."
+          }
+        },
+        "paragraph2": "Research on perspective-taking shows that people who can easily shift between scales and viewpoints have lower stress, better problem-solving ability, and more compassion. Scale shifting is mental cross-training for universal perspective."
+      },
+      "advanced": {
+        "title": "Advanced variations",
+        "rapid": {
+          "title": "Rapid scale cycling",
+          "description": "Zoom from quantum to cosmic and back in under 10 seconds. Atoms → cells → body → building → city → planet → solar system → galaxy → and reverse. Build speed and fluidity."
+        },
+        "time": {
+          "title": "Time scale shifting",
+          "description": "Shift temporal scales the way you shift spatial ones. Zoom into this exact millisecond of experience. Then expand to see this moment in the context of your day, your life, human history, Earth's deep time, cosmic time."
+        },
+        "others": {
+          "title": "Shifting through others",
+          "description": "Practice seeing yourself from someone else's scale and perspective. How do you appear to an ant at your feet? A bird overhead? An alien observing Earth? A cell in your body?"
+        },
+        "guided": {
+          "title": "Guided imagery",
+          "description": "Use the Powers of Ten film or similar visualizations to practice. Watching scale transitions reinforces the neural pathways you're building."
+        }
+      },
+      "quote": {
+        "text": "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Related practices",
+        "meditation": {
+          "title": "View from above",
+          "description": "Extended scale-shifting meditation"
+        },
+        "tool": {
+          "title": "Cosmic zoom tool",
+          "description": "Interactive scale visualization"
+        },
+        "alien": {
+          "title": "Alien anthropologist",
+          "description": "Shift perspective, not just scale"
+        }
+      }
+    },
+    "alienAnthropologist": {
+      "meta": {
+        "title": "Alien anthropologist",
+        "description": "Observe human behavior (including your own) as if you were an alien anthropologist seeing Earth for the first time."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Alien anthropologist",
+        "subtitle": "Seeing humanity with fresh eyes",
+        "mode": "Observation mode",
+        "frequency": "Ongoing throughout day"
+      },
+      "intro": {
+        "title": "What is alien anthropologist mode?",
+        "paragraph1": "Imagine you're an alien anthropologist who has just arrived on Earth for the first time. You have no cultural context, no assumptions about what's 'normal,' no understanding of human customs. Everything is strange, fascinating, and worth studying. This is the alien anthropologist perspective.",
+        "paragraph2": "This practice invites you to observe human behavior—including your own—from this radically outside perspective. You're not judging or criticizing; you're genuinely curious. Why do humans do that? What purpose does this ritual serve? What assumptions underlie this behavior?",
+        "paragraph3": "The practice is simple but profound: throughout your day, periodically shift into observer mode and watch humans (yourself included) as an alien anthropologist would. Notice what you take for granted. Question what seems 'normal.' See the strangeness in the everyday.",
+        "prompt": "Curious. These bipedal creatures engage in elaborate rituals around consuming plant matter and animal tissue. They seem to derive both physical sustenance and social bonding from this activity. Fascinating.",
+        "paragraph4": "This perspective instantly creates distance from your immediate experience and habits. It's a form of defamiliarization—making the familiar strange—which reveals hidden assumptions, opens creative possibilities, and cultivates the cosmic perspective that sees humanity as one species among many in a vast universe."
+      },
+      "practice": {
+        "title": "The practice",
+        "step1": {
+          "title": "Adopt the alien perspective",
+          "description": "Consciously shift into the role of an alien anthropologist. You've just arrived on Earth. Everything is new, nothing is 'normal.' You're deeply curious but have zero cultural context.",
+          "prompt": "I am observing the dominant intelligent species on this planet. They call themselves 'humans.' Let me watch and learn."
+        },
+        "step2": {
+          "title": "Observe without judgment",
+          "description": "Watch human behavior as if describing it for a scientific report to your home planet. Focus on the what, not the why (you don't know the why yet). Note:",
+          "behavior": {
+            "title": "Physical behaviors:",
+            "description": "How do humans move? Gesture? Express emotion through facial muscles?"
+          },
+          "objects": {
+            "title": "Objects and tools:",
+            "description": "What artifacts do they create? How do they use them? What do these reveal about their priorities?"
+          },
+          "rituals": {
+            "title": "Social rituals:",
+            "description": "How do they greet? Say goodbye? Establish hierarchy? Bond with each other?"
+          },
+          "language": {
+            "title": "Language patterns:",
+            "description": "What do they talk about? What topics seem important? What's left unsaid?"
+          }
+        },
+        "step3": {
+          "title": "Hypothesize about meaning",
+          "description": "Based on your observations, generate hypotheses about what these behaviors mean or serve. Imagine explaining human customs to other aliens who've never seen Earth.",
+          "prompt": "Hypothesis: The 'meeting' ritual serves to coordinate group activities and reinforce social hierarchy. The dominant human typically speaks most. Fascinating how they use sound vibrations to transfer information between minds."
+        },
+        "step4": {
+          "title": "Include yourself",
+          "description": "Most importantly, observe your own behavior with the same alien curiosity. Watch yourself react, decide, speak, move. See yourself as just another human, subject to the same strange customs and unconscious patterns. This is where the practice becomes transformative."
+        }
+      },
+      "scenarios": {
+        "title": "Scenarios to practice",
+        "coffee": {
+          "title": "A coffee shop",
+          "description": "Observe the ritual: humans queuing, exchanging paper for liquid plant extract, finding optimal seating. They often bring portable light-emitting rectangles (phones) that command intense attention. Some humans speak into these rectangles as if someone were inside. What's happening here?"
+        },
+        "traffic": {
+          "title": "Traffic",
+          "description": "Watch humans enclosed in metal shells moving at high speeds. They follow elaborate color-coded rules (red, yellow, green) to avoid collisions. When rules are violated or progress is slow, humans experience visible agitation. Why such emotional investment in movement?"
+        },
+        "grocery": {
+          "title": "Grocery store",
+          "description": "A building where humans select food from thousands of options. They push wheeled containers, examining labels with symbols and numbers. Some spend significant time choosing between nearly identical items. What decision-making criteria are they using?"
+        },
+        "meeting": {
+          "title": "Work meeting",
+          "description": "Humans gather around a table or screen, taking turns making mouth sounds at each other. Some draw symbols on surfaces or project images. Body language conveys information beyond the words. Hierarchies are subtly performed. What's really happening beneath the surface?"
+        },
+        "phone": {
+          "title": "Phone use",
+          "description": "Notice how humans interact with small glowing rectangles. They tap, swipe, stare intensely. Facial expressions change based on what appears on the screen. These devices seem to control attention and emotion. What's the relationship here?"
+        },
+        "argument": {
+          "title": "An argument",
+          "description": "Two humans make rapid sounds at each other with increased volume and intensity. They're not exchanging information efficiently—something else is happening. Maybe establishing dominance? Expressing frustration? Seeking acknowledgment? Observe the underlying dynamics."
+        }
+      },
+      "self": {
+        "title": "Observing yourself as an alien",
+        "paragraph1": "The most powerful application of alien anthropologist mode is turning it on yourself. Watch your own behavior as if you were an alien scientist studying a specimen. This creates instant perspective and reveals automatic patterns you didn't know you had.",
+        "questions": {
+          "title": "Questions to ask yourself",
+          "q1": "Why did I just do that? What need or instinct drove that behavior?",
+          "q2": "What assumptions am I making that an alien wouldn't?",
+          "q3": "If an alien were describing my behavior objectively, what would they say?",
+          "q4": "What percentage of my actions are truly chosen versus automatic cultural programming?",
+          "q5": "What would seem strangest about my daily life to a being from another planet?"
+        },
+        "paragraph2": "This self-observation isn't about judgment or self-criticism. It's about seeing yourself with the same curious, neutral observation you'd apply to any interesting phenomenon. You're a human doing human things, following human patterns, subject to human biology and culture. From an alien perspective, it's all endlessly fascinating."
+      },
+      "why": {
+        "title": "Why this practice works",
+        "paragraph1": "Alien anthropologist mode is fundamentally about defamiliarization—the technique of making the familiar strange. When you see the everyday world with fresh eyes, several powerful shifts happen:",
+        "benefits": {
+          "title": "Key benefits",
+          "defamiliarize": {
+            "title": "Breaks automatic patterns:",
+            "description": "Most human behavior is habitual and unconscious. The alien perspective interrupts autopilot and makes you conscious of what you're doing and why."
+          },
+          "ego": {
+            "title": "Reduces ego identification:",
+            "description": "When you watch yourself as 'a human doing human things,' you're less caught up in your personal story. Your problems become interesting data rather than overwhelming experiences."
+          },
+          "compassion": {
+            "title": "Increases compassion:",
+            "description": "Seeing everyone (including yourself) as beings doing their best with limited understanding and biological programming creates natural empathy. We're all just animals trying to figure out this weird existence."
+          },
+          "humor": {
+            "title": "Cultivates cosmic humor:",
+            "description": "From an alien perspective, human behavior is often absurd in the best way. This recognition doesn't mock—it appreciates the strange beauty of being a conscious ape on a spinning rock."
+          },
+          "creativity": {
+            "title": "Opens creative possibilities:",
+            "description": "When you question assumptions about 'how things are done,' new possibilities become visible. Defamiliarization is a core technique in both art and innovation."
+          }
+        },
+        "paragraph2": "This practice is also excellent training for universal perspective. If you can see human behavior from an alien viewpoint, you're building the mental flexibility to see from any viewpoint—past, future, other species, cosmic scale. You're practicing the fundamental skill of perspective-taking."
+      },
+      "advanced": {
+        "title": "Advanced practice",
+        "journal": {
+          "title": "Alien field notes",
+          "description": "Keep a journal of observations written in the alien anthropologist voice. 'Field Report 47: Subject continues ritual of applying colored paste to facial features before leaving habitat. Purpose unknown but appears related to social signaling.'"
+        },
+        "perspectives": {
+          "title": "Multiple alien perspectives",
+          "description": "Try different alien viewpoints. A hyper-rational alien scientist. A deeply empathetic telepathic species. An ancient, patient alien who thinks in geological time. Each reveals different aspects of human nature."
+        },
+        "scifi": {
+          "title": "Study sci-fi anthropology",
+          "description": "Read science fiction with well-developed alien perspectives (Arrival, The Left Hand of Darkness, Speaker for the Dead). These authors are masters at defamiliarizing human experience."
+        },
+        "share": {
+          "title": "Share observations",
+          "description": "Describe your alien observations to friends who also practice. Compare notes. You'll discover you're all noticing different things, expanding each other's perspective."
+        }
+      },
+      "quote": {
+        "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+        "author": "Marcel Proust"
+      },
+      "related": {
+        "title": "Related practices",
+        "scale": {
+          "title": "Scale shifting",
+          "description": "Change perspective through scale"
+        },
+        "meditation": {
+          "title": "View from above",
+          "description": "Spatial perspective-taking meditation"
+        },
+        "overview": {
+          "title": "The overview effect",
+          "description": "Seeing Earth from space perspective"
+        }
+      }
+    },
+    "paleBlue": {
+      "meta": {
+        "title": "Pale blue dot contemplation",
+        "description": "Carl Sagan's profound meditation on Earth seen from 6 billion kilometers away"
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Pale blue dot contemplation",
+        "subtitle": "A meditation on our cosmic insignificance and responsibility"
+      },
+      "intro": {
+        "paragraph1": "On February 14, 1990, at Carl Sagan's request, Voyager 1 turned its camera back toward Earth from 6 billion kilometers away—the edge of our solar system. In the resulting photograph, Earth appears as a tiny dot, less than a pixel wide, suspended in a sunbeam.",
+        "paragraph2": "Sagan's reflection on this image remains one of the most powerful articulations of universal perspective ever written. It captures both our cosmic insignificance and our profound responsibility to each other and our only home.",
+        "paragraph3": "This practice invites you to sit with that image and those words, allowing them to shift your perspective on what matters."
+      },
+      "image": {
+        "title": "The image",
+        "placeholder": "Pale Blue Dot photograph (NASA/JPL)",
+        "credit": "NASA/JPL-Caltech",
+        "caption": "Earth from 6 billion kilometers away, captured by Voyager 1 on February 14, 1990"
+      },
+      "meditation": {
+        "title": "Carl Sagan's meditation",
+        "paragraph1": "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.",
+        "paragraph2": "The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every 'superstar,' every 'supreme leader,' every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.",
+        "paragraph3": "The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.",
+        "paragraph4": "Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.",
+        "paragraph5": "Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.",
+        "author": "Carl Sagan, Pale Blue Dot (1994)"
+      },
+      "practice": {
+        "title": "The practice",
+        "intro": "This contemplation works best when you can give it undivided attention. Set aside 15-20 minutes in a quiet space where you won't be interrupted.",
+        "step1": {
+          "title": "Find the image",
+          "description": "Look at the actual Pale Blue Dot photograph (available online from NASA). Don't just glance—really look. Find the tiny pixel that is Earth. Let it sink in that everything you know exists in that barely visible speck."
+        },
+        "step2": {
+          "title": "Read Sagan's words aloud",
+          "description": "Slowly read the meditation above out loud. Let each sentence land. Pause between paragraphs. Notice what you feel—the words are meant to move you."
+        },
+        "step3": {
+          "title": "Contemplate the implications",
+          "description": "Sit in silence for several minutes. Think about conflicts in your life, your worries, your ambitions. How do they look from 6 billion kilometers away? What seems important? What seems trivial?"
+        },
+        "step4": {
+          "title": "Expand your circle of care",
+          "description": "Everyone who has ever lived, lives now, or will live in the future exists on that dot. Your enemies, your loves, strangers across the world—all inhabitants of that pale blue pixel. Let this realization soften your boundaries."
+        },
+        "step5": {
+          "title": "Commit to action",
+          "description": "Sagan's meditation ends with responsibility: to deal more kindly with one another and to preserve our only home. What does this mean for your life today? What will you do differently because you've remembered this perspective?"
+        }
+      },
+      "prompts": {
+        "title": "Reflection prompts",
+        "prompt1": "From 6 billion kilometers away, what conflicts in your life or the world seem most absurd? What do you wish humans would stop fighting about?",
+        "prompt2": "If an alien intelligence discovered the Voyager photograph and Sagan's words, what would they understand about humanity? What would they think of us?",
+        "prompt3": "Knowing that we're on a 'mote of dust suspended in a sunbeam,' what actually deserves your attention, energy, and care?",
+        "prompt4": "How does remembering Earth's cosmic context change your sense of responsibility? Does insignificance mean meaninglessness, or does it clarify what truly matters?",
+        "prompt5": "What would it take for humanity to collectively remember this perspective? What systems, practices, or cultural changes could help us see ourselves from this distance?"
+      },
+      "integration": {
+        "title": "Integrating the practice",
+        "regular": {
+          "title": "Monthly cosmic check-in",
+          "description": "Once a month, return to the Pale Blue Dot image and meditation. Notice how your perspective shifts over time. What seemed important last month? What matters now?"
+        },
+        "crisis": {
+          "title": "In moments of conflict",
+          "description": "When you're angry, anxious, or in conflict with someone, mentally zoom out to 6 billion kilometers. How does the disagreement look from there? Does it change how you want to respond?"
+        },
+        "share": {
+          "title": "Share the perspective",
+          "description": "Introduce others to this image and meditation. Show children the photograph. Discuss it with friends. The pale blue dot perspective is most powerful when shared."
+        },
+        "combine": {
+          "title": "Combine with other practices",
+          "description": "The pale blue dot pairs beautifully with the view from above meditation, cosmic gratitude practice, or the universal decision filter. All cultivate similar perspective shifts."
+        }
+      },
+      "why": {
+        "title": "Why this matters",
+        "paragraph1": "The pale blue dot is more than beautiful—it's transformative. Seeing Earth from this distance strips away the illusions that cause so much suffering. National borders, which seem so important, are invisible. Conflicts over pieces of land seem absurd. The atmosphere protecting all life is barely visible, a reminder of our fragility.",
+        "paragraph2": "This perspective doesn't make us or our concerns meaningless. Instead, it clarifies what deserves our energy. From 6 billion kilometers away, war looks insane. Environmental destruction looks suicidal. But love, kindness, curiosity, and the creation of beauty—these remain meaningful. They're what we do with our brief time on this pale blue dot.",
+        "paragraph3": "Sagan's meditation ends not with nihilism but with responsibility. Precisely because we're on a lonely speck with no saviors coming from elsewhere, we must take care of each other and our home. Cosmic insignificance paradoxically increases our obligation to act with wisdom and compassion."
+      },
+      "related": {
+        "title": "Related content",
+        "overviewEffect": "The overview effect",
+        "overviewEffectDesc": "Astronaut experiences of seeing Earth from space",
+        "viewFromAbove": "View from above meditation",
+        "viewFromAboveDesc": "Guided perspective-taking practice",
+        "challenges": "Universal challenges",
+        "challengesDesc": "Our responsibility in this cosmic moment"
+      }
     }
   },
   "footer": {

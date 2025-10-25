@@ -94,27 +94,622 @@
     "mind": {
       "title": "Universellt medvetande",
       "subtitle": "Medvetande & kosmologi",
-      "description": "Utforska universums berättelse, kosmiskt medvetande, den perenniala filosofin och medvetandets natur."
+      "description": "Utforska universums berättelse, kosmiskt medvetande, den perenniala filosofin och medvetandets natur.",
+      "meta": {
+        "title": "Universellt sinne",
+        "description": "Utforska medvetandet, universum som blir medvetet om sig självt och sinnets natur över olika skalor."
+      },
+      "hero": {
+        "title": "Universellt sinne",
+        "subtitle": "Universum blir medvetet om sig självt",
+        "description": "Medvetandet är kanske existensens djupaste mysterium. Genom mänskliga sinnen har universum blivit medvetet om sig självt – kapabelt att kontemplera sitt eget ursprung, sin natur och sin mening. Vad är detta märkliga fenomen vi kallar sinne?"
+      },
+      "intro": {
+        "title": "Medvetandets mysterium",
+        "paragraph1": "Du upplever något just nu. Det finns något det är som att vara du – färger du ser, tankar du tänker, känslor du känner. Denna inre upplevelse, denna subjektiva medvetenhet, är vad vi kallar medvetande.",
+        "paragraph2": "Vetenskapen kan förklara neural aktivitet, informationsbehandling och beteende. Men den kämpar med existensens mest grundläggande faktum: <em>att det finns något det är som att vara</em>. Varför är universum inte bara omedvetna mekanismer? Varför existerar subjektiv upplevelse överhuvudtaget?",
+        "paragraph3": "Pelaren universellt sinne utforskar medvetandet från flera perspektiv – vetenskapligt, filosofiskt, kontemplativt och erfarenhetsbaserat. Vi undersöker vad sinne är, var det kommer ifrån och om medvetandet kan vara fundamentalt för själva verkligheten."
+      },
+      "questions": {
+        "title": "Fyra grundläggande frågor",
+        "what": {
+          "question": "Vad är medvetande?",
+          "description": "Är det bara hjärnaktivitet? Informationsbehandling? Eller något mer fundamentalt? Vetenskapen beskriver de neurala korrelaten men kämpar för att förklara varför det överhuvudtaget finns subjektiv upplevelse."
+        },
+        "where": {
+          "question": "Var kommer det ifrån?",
+          "description": "Uppstod medvetandet ur omedveten materia? Eller är det ett fundamentalt drag i universum, närvarande i någon form på alla skalor?"
+        },
+        "why": {
+          "question": "Varför existerar det?",
+          "description": "Vilket evolutionärt eller kosmiskt syfte tjänar subjektiv upplevelse? Skulle en filosofisk zombie – som beter sig identiskt men utan inre liv – fungera lika bra?"
+        },
+        "who": {
+          "question": "Vem mer har det?",
+          "description": "Har djur medvetande? Kan AI-system bli medvetna? Kan växter, ekosystem eller till och med fundamentala partiklar ha någon form av upplevelse?"
+        }
+      },
+      "topicsTitle": "Utforska ämnena",
+      "topicsSubtitle": "Djupdykningar i olika aspekter av universellt sinne",
+      "topics": {
+        "consciousness": {
+          "title": "Vad är medvetande?",
+          "description": "Det svåra problemet med subjektiv upplevelse och aktuell vetenskaplig förståelse för hur sinnen fungerar."
+        },
+        "universeAware": {
+          "title": "Universum blir medvetet",
+          "description": "Hur materia organiserade sig i strukturer kapabla att kontemplera sin egen existens."
+        },
+        "perennialPhilosophy": {
+          "title": "Perenn filosofi",
+          "description": "Gemensamma insikter om medvetandet över visdomstraditioner – mystik, buddhism, Advaita Vedanta med mera."
+        },
+        "hardProblem": {
+          "title": "Det svåra problemet",
+          "description": "Varför finns det subjektiv upplevelse? David Chalmers berömda formulering av medvetandets djupaste gåta."
+        },
+        "panpsychism": {
+          "title": "Panpsykism",
+          "description": "Teorin att medvetandet är fundamentalt – att upplevelsen går hela vägen ner till elementarpartiklar."
+        },
+        "collective": {
+          "title": "Kollektivt medvetande",
+          "description": "Hur individuella sinnen kopplas samman i större mönster – kultur, kollektiv intelligens, noosfären."
+        }
+      },
+      "readMore": "Läs mer",
+      "perspective": {
+        "title": "Det universella perspektivet på sinnet",
+        "paragraph1": "Att förstå medvetandet från ett universellt perspektiv innebär att integrera flera sätt att veta:",
+        "integration": {
+          "title": "Sätt att förstå sinnet",
+          "science": "Vetenskaplig undersökning: Neurovetenskap, kognitionsvetenskap, fysik – studerar den fysiska grunden och beteendet hos medvetna system.",
+          "contemplative": "Kontemplativ praktik: Meditation, introspektion, fenomenologi – direkt undersökning av medvetandet inifrån.",
+          "philosophical": "Filosofisk undersökning: Det svåra problemet, qualia, zombie-tankeexperiment – rigorös analys av vad medvetandet innebär.",
+          "experiential": "Direkt erfarenhet: Din egen medvetenhet just nu, när du läser dessa ord, är den mest omedelbara tillgången till medvetandet du har."
+        },
+        "paragraph2": "Inget enskilt tillvägagångssätt är tillräckligt. Vetenskapen studerar strukturen men kämpar med subjektiv upplevelse. Filosofin identifierar problemen men kan inte empiriskt testa teorier. Kontemplativ praktik erbjuder direkt insikt men behöver vetenskaplig grund. Tillsammans avslöjar de medvetandet som kanske existensens djupaste mysterium."
+      },
+      "practices": {
+        "title": "Att kultivera medvetenhet",
+        "meditation": {
+          "title": "Meditation och mindfulness",
+          "description": "Direkt undersökning av ditt eget medvetande genom ihållande uppmärksamhet. Lägg märke till tankar som uppstår, förnimmelser som dyker upp, själva den bevittnande medvetenheten."
+        },
+        "study": {
+          "title": "Studera medvetandevetenskap",
+          "description": "Läs neurovetenskap, medvetandefilosofi, kognitionsvetenskap. Förstå aktuella teorier – Integrated Information Theory, Global Workspace Theory, prediktiv bearbetning."
+        },
+        "dialogue": {
+          "title": "Filosofisk dialog",
+          "description": "Diskutera medvetandet med andra. Det svåra problemet, zombie-tankeexperiment, om AI kan vara medvetet. Språket hjälper till att klargöra intuitioner."
+        },
+        "awe": {
+          "title": "Kultivera kosmisk vördnad",
+          "description": "Reflektera över det häpnadsväckande faktumet att universum har blivit medvetet om sig självt genom dig. Du är 13,8 miljarder år av kosmisk evolution, nu medveten."
+        }
+      },
+      "quote": {
+        "text": "Vi är ett sätt för kosmos att känna sig självt.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "universeStory": "Universums berättelse",
+        "universeStoryDesc": "Hur materia blev sinne",
+        "searchIntelligence": "Sökandet efter intelligens",
+        "searchIntelligenceDesc": "Att finna medvetande bortom oss själva",
+        "meditation": "Vy från ovan-meditation",
+        "meditationDesc": "Öva på att expandera medvetenheten"
+      }
     },
     "ethics": {
       "title": "Universell etik",
       "subtitle": "Expanderande cirklar",
-      "description": "Utvidga etiskt hänsynstagande från mänskliga rättigheter till naturens rättigheter, post-antropocentrisk etik och global styrning."
+      "description": "Utvidga etiskt hänsynstagande från mänskliga rättigheter till naturens rättigheter, post-antropocentrisk etik och global styrning.",
+      "meta": {
+        "title": "Universell etik",
+        "description": "Utforska expanderande omsorgscirklar, från mänskliga rättigheter till naturens rättigheter och bortom."
+      },
+      "hero": {
+        "title": "Universell etik",
+        "subtitle": "Expanderande omsorgscirklar",
+        "description": "Genom historien har mänskligheten gradvis expanderat vem som förtjänar moraliskt övervägande. Från familj till stam till nation till alla människor – varje expansion var en gång otänkbar, sedan blev den oundviklig. Nu står vi inför nästa expansioner: djur, ekosystem, framtida generationer och AI."
+      },
+      "intro": {
+        "title": "Evolutionen av moraliskt övervägande",
+        "paragraph1": "Etik är inte statisk. Vad som räknas som en moralisk angelägenhet, vem som förtjänar rättigheter och vilka skyldigheter vi har gentemot andra har utvecklats dramatiskt genom mänsklighetens historia.",
+        "paragraph2": "Universell etik undersöker denna expansion och frågar: <strong>Vem eller vad förtjänar moraliskt övervägande? Var ska vi dra gränserna för vår etiska omsorg?</strong>",
+        "paragraph3": "Dessa är inte abstrakta frågor. De formar lagar, policyer och dagliga val om hur vi behandlar djur, skyddar ekosystem, överväger framtida generationer och utvecklar AI."
+      },
+      "expandingCircle": {
+        "title": "Den expanderande cirkeln",
+        "family": {
+          "title": "Familj & släkt",
+          "description": "Tidiga människor utsträckte omsorgen primärt till närmaste familj och nära släktingar. Utomstående var ofta hot."
+        },
+        "nation": {
+          "title": "Nation & religion",
+          "description": "Med civilisationen kom större cirklar – stam, stadsstat, nation, religiös gemenskap. Men de utanför exkluderades ofta."
+        },
+        "humanity": {
+          "title": "Hela mänskligheten",
+          "description": "Upplysningen, abolitionism, feminism, medborgerliga rättigheter – gradvis erkännande av att alla människor förtjänar lika moraliskt övervägande."
+        },
+        "sentient": {
+          "title": "Kännande varelser",
+          "description": "Djurvälfärdsrörelser erkänner att icke-mänskliga djur kan lida och förtjänar etiskt övervägande."
+        },
+        "universal": {
+          "title": "Universellt övervägande",
+          "description": "Ekosystem, framtida generationer, AI, potentiellt utomjordiskt liv – att expandera etiken till alla varelser och system."
+        }
+      },
+      "topicsTitle": "Utforska ämnena",
+      "topicsSubtitle": "Djupdykningar i olika gränsområden för etisk expansion",
+      "topics": {
+        "humanRights": {
+          "title": "Universella mänskliga rättigheter",
+          "description": "Är mänskliga rättigheter verkligen universella? Hur balanserar vi kulturella skillnader med grundläggande rättigheter?"
+        },
+        "rightsOfNature": {
+          "title": "Naturens rättigheter",
+          "description": "Floder, skogar och ekosystem får juridisk personlighet – vad innebär det att erkänna naturens rättigheter?"
+        },
+        "animalRights": {
+          "title": "Djurrättigheter & medvetande",
+          "description": "Från fabriksjordbruk till laboratorietester – att ompröva vår relation till icke-mänskliga djur."
+        },
+        "futureGenerations": {
+          "title": "Framtida generationer",
+          "description": "De som kommer att existera efter oss förtjänar representation nu. Hur förespråkar vi för människor som inte kan rösta?"
+        },
+        "aiEthics": {
+          "title": "AI & digital etik",
+          "description": "När AI blir mer sofistikerad, vilken moralisk status kan medvetna maskiner förtjäna?"
+        },
+        "globalGovernance": {
+          "title": "Global styrning",
+          "description": "Planetära utmaningar kräver planetära lösningar – modeller för kosmopolitisk styrning."
+        }
+      },
+      "readMore": "Läs mer",
+      "principles": {
+        "title": "Etiska nyckelprinciper",
+        "paragraph1": "Universell etik vägleds av flera kärnprinciper:",
+        "recognition": {
+          "title": "Erkännande av likhet och samhörighet",
+          "description": "Att se oss själva i andra, erkänna delad förmåga till lidande och blomstring."
+        },
+        "consideration": {
+          "title": "Expanderande moraliskt övervägande",
+          "description": "Att utsträcka etisk omsorg bortom den omedelbara cirkeln till att inkludera avlägsna, annorlunda och framtida varelser."
+        },
+        "responsibility": {
+          "title": "Motsvarande ansvar",
+          "description": "De med mer makt har större ansvar – vi måste agera för dem som inte kan."
+        },
+        "humility": {
+          "title": "Epistemisk ödmjukhet",
+          "description": "Att erkänna osäkerhet kring moralisk status och att hellre inkludera och visa omsorg."
+        },
+        "paragraph2": "Dessa principer ger inte alltid tydliga svar, men de ger ett ramverk för att tänka kring svåra etiska frågor."
+      },
+      "practices": {
+        "title": "Att praktisera universell etik",
+        "examine": {
+          "title": "Granska dina cirklar",
+          "description": "Vem bryr du dig instinktivt om? Vem exkluderas? Öva på att expandera empatin till dem utanför din omedelbara cirkel."
+        },
+        "consume": {
+          "title": "Etisk konsumtion",
+          "description": "Varje köp är en röst. Undersök leveranskedjor, stöd etiska företag, minska skadan genom dina val."
+        },
+        "voice": {
+          "title": "Var en röst för de röstlösa",
+          "description": "Djur, ekosystem och framtida generationer kan inte förespråka för sig själva. Tala och agera för deras räkning."
+        },
+        "engage": {
+          "title": "Engagera dig i svåra frågor",
+          "description": "Skygg inte för etisk komplexitet. Brottas med svåra fall, diskutera med andra, uppdatera dina åsikter."
+        }
+      },
+      "quote": {
+        "text": "Frågan är inte, Kan de resonera?, ej heller Kan de tala? utan, Kan de lida?",
+        "author": "Jeremy Bentham"
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "expandingCircles": "Expanderande omsorgscirklar",
+        "expandingCirclesDesc": "Det historiska mönstret för etisk expansion",
+        "decisionFilter": "Universellt beslutsfilter",
+        "decisionFilterDesc": "Utvärdera val över perspektiv och tid",
+        "cosmicConsumption": "Kosmisk konsumtion",
+        "cosmicConsumptionDesc": "Se inköp som röster för den värld du vill ha"
+      }
     },
     "patterns": {
-      "title": "Universella mönster",
+"title": "Universella mönster",
       "subtitle": "Vetenskap & system",
-      "description": "Upptäck naturlagar, komplexitet och emergens, universell biologi och mönster som förbinder alla skalnivåer."
+      "description": "Upptäck naturens lagar, komplexitet och emergens, universell biologi och mönster som kopplar samman alla skalor.",
+      "meta": {
+        "title": "Universella mönster",
+        "description": "Utforska de återkommande strukturerna och principerna som formar verkligheten över alla skalor – från fraktaler till nätverk."
+      },
+      "hero": {
+        "title": "Universella mönster",
+        "subtitle": "Återkommande strukturer över alla skalor",
+        "description": "Naturen upprepar sig själv. Samma grundläggande mönster förekommer i atomer och galaxer, celler och städer, individer och civilisationer. Att förstå dessa mönster avslöjar djupa samband mellan till synes disparata domäner och skalor i verkligheten."
+      },
+      "intro": {
+        "title": "Naturens språk",
+        "paragraph1": "Mönster är naturens grammatik – de återkommande strukturerna och principerna som organiserar verkligheten från kvant- till kosmisk skala.",
+        "paragraph2": "Universella mönster frågar: <strong>Vilka strukturer och principer upprepas över olika domäner? Hur skapar enkla regler oändlig komplexitet?</strong>",
+        "paragraph3": "Dessa är inte bara abstrakta kuriositeter. Mönsterigenkänning är grundläggande för förståelse, förutsägelse och design. Att känna igen universella mönster gör att vi kan överföra insikter mellan fält och se samband som andra missar."
+      },
+      "examples": {
+        "title": "Mönster över skalor",
+        "branching": {
+          "title": "Förgreningsstrukturer",
+          "description": "Träd, floder, blodkärl, blixtar, neuroner – förgrening optimerar distribution över rum och förekommer överallt där resurser måste flöda från centrala källor."
+        },
+        "balance": {
+          "title": "Dynamisk jämvikt",
+          "description": "Ekosystem, marknader, kroppar – system som ständigt justerar sig för att upprätthålla balans genom återkoppling. Homeostas förekommer överallt där liv och komplexitet existerar."
+        },
+        "transformation": {
+          "title": "Transformationscykler",
+          "description": "Vattencykler, kolcykler, livscykler, ekonomiska cykler – materia och energi omvandlas kontinuerligt genom upprepade mönster över tid."
+        },
+        "growth": {
+          "title": "Exponentiell tillväxt och gränser",
+          "description": "Populationer, teknologier, ränta på ränta – exponentiell tillväxt förekommer universellt tills den når resursgränser, vilket skapar S-kurvor överallt."
+        },
+        "waves": {
+          "title": "Vågmönster",
+          "description": "Ljud, ljus, vatten, hjärnaktivitet, marknadssentiment – oscillationer och resonans förekommer i alla medier och skalor."
+        }
+      },
+      "topicsTitle": "Utforska ämnena",
+      "topicsSubtitle": "Djupdykningar i grundläggande mönster",
+      "topics": {
+        "fractals": {
+          "title": "Fraktaler",
+          "description": "Självliknande mönster som upprepas vid varje skala, från kustlinjer till medvetande"
+        },
+        "feedbackLoops": {
+          "title": "Återkopplingsloopar",
+          "description": "Cirkulär kausalitet som förstärker eller stabiliserar system i naturen och samhället"
+        },
+        "emergence": {
+          "title": "Emergens",
+          "description": "Hur komplexa fenomen uppstår från enkla interaktioner mellan komponenter"
+        },
+        "cycles": {
+          "title": "Cykler",
+          "description": "Periodiska mönster från årstider till ekonomiska vågor som formar vår upplevelse"
+        },
+        "hierarchies": {
+          "title": "Hierarkier",
+          "description": "Kapslade organisationsnivåer från atomer till galaxer, celler till civilisationer"
+        },
+        "networks": {
+          "title": "Nätverk",
+          "description": "Sammankopplade noder som bildar väven i biologiska, sociala och digitala system"
+        }
+      },
+      "readMore": "Läs mer",
+      "whyMatter": {
+        "title": "Varför mönster spelar roll",
+        "paragraph1": "Att förstå universella mönster omvandlar hur vi tänker och agerar:",
+        "understanding": {
+          "title": "Överför förståelse",
+          "description": "Att inse att biologiska nätverk och sociala nätverk delar strukturella mönster låter oss tillämpa insikter från en domän till en annan."
+        },
+        "prediction": {
+          "title": "Förutsäg beteende",
+          "description": "Exponentiella tillväxtmönster hjälper oss att förutse teknologianammande, sjukdomsspridning och resursutarmning innan andra ser dem komma."
+        },
+        "design": {
+          "title": "Designa bättre system",
+          "description": "Naturens optimerade lösningar – förgreningsnätverk, återkopplingsstabilisering, fraktaleffektivitet – inspirerar biomimetisk design och arkitektur."
+        },
+        "wisdom": {
+          "title": "Utveckla mönstervisdom",
+          "description": "Förmågan att se mönster kopplar samman disparat kunskap. Det är så polymater tänker – känner igen samma struktur i olika sammanhang."
+        },
+        "paragraph2": "Mönsterigenkänning är en meta-färdighet. Den låter dig lära dig snabbare genom att se analogier andra missar och att tänka mer kreativt genom att koppla samman till synes orelaterade domäner."
+      },
+      "practices": {
+        "title": "Att öva mönsterigenkänning",
+        "observe": {
+          "title": "Observera din omgivning",
+          "description": "Träna dig själv att lägga märke till återkommande strukturer. Leta efter förgreningar i din dag – beslutsträd, organisationsscheman, tunnelbanekartor, blodkärl."
+        },
+        "connect": {
+          "title": "Dra kopplingar",
+          "description": "När du lär dig något nytt, fråga: 'Vad påminner detta mig om? Var annars har jag sett detta mönster?' Bygg ett mentalt bibliotek av analogier."
+        },
+        "model": {
+          "title": "Bygg enkla modeller",
+          "description": "Skissa återkopplingsloopar, rita nätverksdiagram, kartlägg cykler. Extern modellering hjälper dig att se mönster du skulle missa i huvudet."
+        },
+        "apply": {
+          "title": "Tillämpa över domäner",
+          "description": "Om du förstår nätverkseffekter inom teknologi, tillämpa den linsen på sociala rörelser. Använd ekosystemtänkande för att förstå marknader."
+        }
+      },
+      "quote": {
+        "text": "Se djupt in i naturen, och då kommer du att förstå allt bättre.",
+        "author": "Albert Einstein"
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "scaleJourney": "Resa över skalor",
+        "scaleJourneyDesc": "Utforska mönster från kvant till kosmisk",
+        "patternFinder": "Mönsterfinnarverktyg",
+        "patternFinderDesc": "Interaktivt verktyg för att upptäcka mönster i data",
+        "systemsThinking": "Systemtänkande-praktik",
+        "systemsThinkingDesc": "Lär dig se samband och återkoppling"
+      }
     },
     "aesthetics": {
       "title": "Universell estetik",
       "subtitle": "Uttryck & skönhet",
-      "description": "Utforska universella teman i konst, det gyllene snittet, kosmisk kreativitet och sökandet efter intelligens bortom jorden."
+      "description": "Utforska universella teman inom konst, gyllene snittet, kosmisk kreativitet och sökandet efter intelligens bortom jorden.",
+      "meta": {
+        "title": "Universell estetik",
+        "description": "Utforska skönhet, kreativitet och uttryck över alla skalor – från gyllene snittet till kosmisk konst."
+      },
+      "hero": {
+        "title": "Universell estetik",
+        "subtitle": "Skönhet och uttryck över alla skalor",
+        "description": "Finns det ett universellt skönhetsspråk? Från gyllene snittet i snäckskal till återkommande teman i mänskligt berättande, uppträder mönster av estetisk upplevelse över kulturer och skalor. Vi utforskar vad som gör något vackert, hur kreativitet kopplar oss till kosmos, och om konst kan vara en bro till att förstå andra former av medvetande."
+      },
+      "intro": {
+        "title": "Frågan om skönhet",
+        "paragraph1": "Vad gör något vackert? Är skönhet helt i betraktarens öga, eller finns det universella principer som ligger till grund för estetisk upplevelse över kulturer, arter och kanske till och med över kosmos?",
+        "paragraph2": "Universell estetik utforskar: <strong>Finns det skönhetsmönster som överskrider kultur? Vilken roll spelar kreativitet i medvetandet? Hur skulle vi kunna kommunicera genom konst med andra intelligenser?</strong>",
+        "paragraph3": "Från matematiska förhållanden funna i naturen till arketypiska berättelser som förekommer i varje kultur, från kristallers strukturerade skönhet till jazzens improvisatoriska skönhet – estetik erbjuder ett unikt fönster in i de djupa mönster som organiserar verkligheten och medvetandet."
+      },
+      "questions": {
+        "title": "Kärnfrågor inom universell estetik",
+        "objective": {
+          "question": "Finns det objektiv skönhet?",
+          "description": "Vissa matematiska förhållanden och symmetrier verkar universellt tilltalande över kulturer. Gyllene snittet, fraktaler och bilateral symmetri är inte bara mänskliga uppfinningar – de är inbyggda i naturen. Tyder detta på att skönhet har en objektiv grund?"
+        },
+        "function": {
+          "question": "Vilken funktion har skönhet?",
+          "description": "Ur ett evolutionärt perspektiv korrelerar estetiska preferenser ofta med överlevnad och reproduktion. Men tjänar skönhet syften bortom biologin? Avslöjar den sanning? Kopplar den oss till något transcendent?"
+        },
+        "universal": {
+          "question": "Kan konst vara universell?",
+          "description": "Om vi stötte på främmande intelligens, skulle vi kunna dela estetiska upplevelser? Matematik kan vara ett universellt språk – men hur är det med musik, visuell konst eller berättande?"
+        },
+        "consciousness": {
+          "question": "Är kreativitet unikt för medvetande?",
+          "description": "Kräver skapande av konst subjektiv upplevelse? Skulle ett AI-system kunna skapa genuin konst? Vad skiljer algoritmisk mönsterskapande från sann kreativitet?"
+        }
+      },
+      "topicsTitle": "Utforska ämnena",
+      "topicsSubtitle": "Djupdykningar i universella estetiska principer",
+      "topics": {
+        "goldenRatio": {
+          "title": "Gyllene snittet och helig geometri",
+          "description": "Matematiska proportioner som förekommer i naturen, arkitektur och konst över alla kulturer – från snäckor till galaxer."
+        },
+        "archetypes": {
+          "title": "Arketypiska mönster i berättande",
+          "description": "Hjältens resa och återkommande narrativa strukturer som förekommer i myter, legender och moderna berättelser världen över."
+        },
+        "cosmicArt": {
+          "title": "Kosmisk konst och musik",
+          "description": "Kreativa verk inspirerade av universum – från Holsts Planeter till rymdfotografering som konstform."
+        },
+        "communication": {
+          "title": "Konst som kommunikation",
+          "description": "Voyager Golden Record och försök att skapa meddelanden som kan förstås av vilken intelligens som helst."
+        },
+        "emergence": {
+          "title": "Emergent skönhet",
+          "description": "Hur enkla regler skapar komplexa estetiska mönster – från fraktaler till storsvärmning till improviserad musik."
+        },
+        "seti": {
+          "title": "Estetik och SETI",
+          "description": "Skulle vi känna igen främmande konst? Vad kan estetisk upplevelse berätta för oss om medvetande?"
+        }
+      },
+      "readMore": "Läs mer",
+      "goldenRatio": {
+        "title": "Gyllene snittet: φ ≈ 1,618",
+        "paragraph1": "Det kanske mest kända exemplet på universell estetik är gyllene snittet (phi, φ ≈ 1,618) – en proportion som förekommer i hela naturen och som medvetet har använts i konst och arkitektur över kulturer i årtusenden.",
+        "formula": "φ = (1 + √5) / 2",
+        "nature": {
+          "title": "I naturen",
+          "description": "Spiralskal, blomblad, tallkottar, galaxarmar, proportionerna i människokroppen – phi förekommer i tillväxtmönster och rumsliga arrangemang över alla skalor."
+        },
+        "art": {
+          "title": "I mänskligt skapande",
+          "description": "Parthenon, de stora pyramiderna, renässansmålningar, musikalisk komposition, modern arkitektur – konstnärer och arkitekter har oberoende upptäckt och använt detta förhållande."
+        },
+        "why": {
+          "title": "Varför phi?",
+          "description": "Gyllene snittet är matematiskt optimalt för vissa packnings- och tillväxtproblem. Det representerar en elegant lösning för att maximera effektiviteten i rymdfyllnad. Om människor finner det vackert för att vi utvecklats för att känna igen optimala mönster, eller för att det speglar någon djupare sanning om verklighetens struktur, förblir omdebatterat."
+        },
+        "paragraph2": "Gyllene snittet antyder att åtminstone vissa estetiska preferenser kan vara grundade i själva verklighetens matematiska struktur, inte bara kulturella konventioner."
+      },
+      "archetypes": {
+        "title": "Monomyten: universella berättelser",
+        "paragraph1": "Joseph Campbell identifierade vad han kallade \"monomyten\" – en narrativ struktur som förekommer i myter, legender och berättelser över alla kulturer och genom historien. Den mest kända versionen är Hjältens resa:",
+        "stages": {
+          "title": "Hjältens resas stadier",
+          "ordinary": "Den vanliga världen → Kallelsen till äventyr",
+          "threshold": "Över tröskeln → Prövningar och utmaningar",
+          "transformation": "Död och återfödelse → Transformation",
+          "return": "Återkomst med visdom → Dela gåvan"
+        },
+        "paragraph2": "Detta mönster förekommer i forntida myter (Gilgamesh, Odysseus) och moderna berättelser (Star Wars, Harry Potter, The Matrix). Det verkar ge genklang med något djupt i mänsklig psykologi – kanske den universella upplevelsen av tillväxt, transformation och integration.",
+        "question": {
+          "title": "En universell narrativ struktur?",
+          "description": "Förekommer Hjältens resa universellt för att den kartlägger strukturen för mänsklig psykologisk utveckling? Eller finns det något ännu djupare – ett transformationsmönster som förekommer på alla skalor, från kemiska reaktioner till stjärnevolution?"
+        },
+        "paragraph3": "Andra arketypiska mönster förekommer över kulturer: skapelse och förstörelse, trickstern, den stora modern, skuggan, cykler av död och återfödelse. Jung trodde att dessa arketyper uppstod ur ett \"kollektivt omedvetet\" som delas av alla människor. Om de är produkter av delad biologi, universella psykologiska processer, eller speglar något fundamentalt om medvetandet i sig förblir en öppen fråga."
+      },
+      "perspectives": {
+        "title": "Det universella perspektivet på estetik",
+        "paragraph1": "Från ett universellt perspektiv handlar estetik inte bara om vad människor finner vackert – det handlar om att känna igen mönster som förekommer över alla skalor och organisationsformer:",
+        "integration": {
+          "title": "Estetiska principer över skalor",
+          "mathematics": "Matematisk elegans: Enkla ekvationer som beskriver komplexa fenomen (E=mc², F=ma) har en estetisk kvalitet som forskare beskriver som \"vacker.\"",
+          "nature": "Naturliga mönster: Fraktaler, spiraler, symmetrier – naturen skapar skönhet genom matematisk nödvändighet och evolutionär optimering.",
+          "human": "Mänsklig kreativitet: Konst, musik, arkitektur – människor skapar medvetet skönhet, ofta omedvetet följer universella mönster.",
+          "cosmic": "Kosmisk estetik: Den visuella skönheten hos nebulosor, galaxer och himlafenomen – skapar universum skönhet för sin egen skull?"
+        },
+        "paragraph2": "Kanske finns skönhet inte bara i betraktarens öga utan i själva verklighetens struktur. Mönster som fungerar – som är effektiva, stabila, informationsrika – tenderar att upplevas som vackra. Estetik kan vara medvetandet som känner igen de djupa strukturerna som organiserar existensen."
+      },
+      "practices": {
+        "title": "Att kultivera estetisk medvetenhet",
+        "nature": {
+          "title": "Studera naturliga mönster",
+          "description": "Titta noga på snäckor, blommor, träd, kristaller. Lägg märke till spiraler, symmetrier, förgreningsmönster. Naturen är en mästerkonstnär som arbetar med matematisk precision."
+        },
+        "create": {
+          "title": "Skapa medvetet",
+          "description": "Gör konst med medvetenhet om universella mönster. Använd gyllene snittet i komposition. Skapa fraktaler. Komponera musik med matematisk struktur. Lek med emergens."
+        },
+        "stories": {
+          "title": "Analysera berättelser",
+          "description": "Läs myter från olika kulturer. Se filmer. Lägg märke till återkommande mönster – hjältar, resor, död och återfödelse. Vilka teman förekommer universellt?"
+        },
+        "cosmos": {
+          "title": "Upplev kosmisk skönhet",
+          "description": "Tillbringa tid med rymdbilder – nebulosor, galaxer, jorden från omloppsbana. Låt kosmos visuella skönhet inspirera vördnad och förundran."
+        }
+      },
+      "quote": {
+        "text": "Skönhet är sanning, sanning skönhet – det är allt ni vet på jorden, och allt ni behöver veta.",
+        "author": "John Keats"
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "patterns": "Universella mönster",
+        "patternsDesc": "Matematiska strukturer som skapar skönhet",
+        "voyager": "Voyager Golden Record",
+        "voyagerDesc": "Mänsklighetens estetiska budskap till kosmos",
+        "seti": "Sökandet efter intelligens",
+        "setiDesc": "Skulle vi känna igen främmande konst?"
+      }
     },
     "challenges": {
       "title": "Universella utmaningar",
       "subtitle": "Vårt kosmiska ögonblick",
-      "description": "Hantera klimatförändringar, existentiella risker, global styrning, teknologisk etik och kosmiskt förvaltarskap."
+      "description": "Hantera klimatförändringar, existentiella risker, global styrning, teknisk etik och kosmiskt förvaltarskap.",
+      "meta": {
+        "title": "Universella utmaningar",
+        "description": "Utforska de kritiska planetära utmaningar vi står inför och vårt ansvar som kosmiska medborgare."
+      },
+      "hero": {
+        "title": "Universella utmaningar",
+        "subtitle": "Vårt ögonblick i den kosmiska historien",
+        "description": "Vi lever i ett avgörande ögonblick. För första gången har en art makten att fundamentalt förändra planetära system – att forma framtiden för livet på jorden. Med denna makt följer ett ansvar utan motstycke. Dessa är vår tids universella utmaningar."
+      },
+      "intro": {
+        "title": "Varför dessa utmaningar är universella",
+        "paragraph1": "De utmaningar vi står inför idag liknar inga mänskligheten tidigare mött. De är inte lokala eller nationella – de är planetära. De påverkar inte bara vår generation – de avgör livets bana i årtusenden framöver.",
+        "paragraph2": "Klimatförändringar, kollaps av biologisk mångfald, kärnvapen, artificiell intelligens, global ojämlikhet – det här är inte separata problem. De är sammankopplade symptom på en art som har fått enorm makt utan att ännu ha utvecklat visdomen att hantera den ansvarsfullt. De är <strong>utmaningar på artnivå som kräver responser på artnivå</strong>.",
+        "paragraph3": "Ett universellt perspektiv är avgörande för att navigera dessa utmaningar. Vi måste se oss själva som jordens tillfälliga förvaltare, tänka i tidsramar bortom valcykler och samordna över alla gränser. Insatserna kunde inte vara högre: vi skriver nästa kapitel i jordens historia."
+      },
+      "whyUniversal": {
+        "title": "Varför dessa utmaningar kräver universellt tänkande",
+        "planetary": {
+          "title": "Planetär skala",
+          "description": "Dessa utmaningar påverkar hela jordsystemet. Ingen nation kan lösa dem ensam. De kräver global samordning och planetär styrning."
+        },
+        "interconnected": {
+          "title": "Djup sammankoppling",
+          "description": "Varje utmaning är kopplad till andra. Klimatförändringar driver migration och konflikter. AI-utveckling kräver global etik. Att lösa en kräver att man tar itu med alla."
+        },
+        "existential": {
+          "title": "Existentiella insatser",
+          "description": "Vissa av dessa utmaningar utgör existentiella risker – hot som kan utplåna civilisationen eller till och med mänsklig existens. Vi måste ta dem på allvar."
+        },
+        "responsibility": {
+          "title": "Kosmiskt ansvar",
+          "description": "Vi är den första arten som kan förstöra eller bevara jordens biosfär. Detta ger oss ett ansvar olikt alla andra arter någonsin har haft."
+        }
+      },
+      "topicsTitle": "Utforska utmaningarna",
+      "topicsSubtitle": "Djupdykningar i de kritiska frågor mänskligheten står inför",
+      "topics": {
+        "climate": {
+          "title": "Klimat och planetära gränser",
+          "description": "Förstå jordens livsuppehållande system och vår nuvarande relation till dem"
+        },
+        "existential": {
+          "title": "Existentiella risker",
+          "description": "Hot som kan utplåna civilisationen – kärnvapenkrig, pandemier, AI-anpassning, asteroidnedslag"
+        },
+        "governance": {
+          "title": "Globala styrningsbrister",
+          "description": "Bygga institutioner som kan samordna planetära utmaningar över gränserna"
+        },
+        "technology": {
+          "title": "Teknisk etik i stor skala",
+          "description": "AI, bioteknik, nanoteknik – beslut som påverkar alla framtida generationer"
+        },
+        "stewardship": {
+          "title": "Kosmiskt förvaltarskap",
+          "description": "Rymdskrot, planetärt skydd och vårt ansvar bortom jorden"
+        },
+        "inequality": {
+          "title": "Global ojämlikhet",
+          "description": "Enorma skillnader i rikedom, makt och möjligheter underminerar kollektiva åtgärder"
+        }
+      },
+      "readMore": "Läs mer",
+      "greatTurning": {
+        "title": "Den stora vändningen",
+        "paragraph1": "Miljöfilosofen Joanna Macy kallar vår nuvarande tidpunkt 'Den stora vändningen' (The Great Turning) – vår tids väsentliga äventyr: skiftet från ett industriellt tillväxtsamhälle till en livsuppehållande civilisation. Den buddhistiska tänkaren David Loy beskriver det som den viktigaste frågan: inte 'kommer vi att överleva?' utan 'vilken typ av civilisation kommer vi att bli?'",
+        "choice": {
+          "title": "Tre möjliga framtider",
+          "collapse": "Kollaps: Vi misslyckas med att hantera dessa utmaningar. Civilisationen faller samman genom kaskadartade miljömässiga, ekonomiska och sociala kriser.",
+          "stagnation": "Stagnation: Vi kämpar oss fram med stegvisa förändringar, men misslyckas med att omvandla våra system. Långsam nedgång, ihållande kriser, minskade möjligheter.",
+          "flourishing": "Blomstring: Vi antar utmaningen. Omvandlar våra system, stabiliserar planetära gränser, skapar en rättvis och hållbar civilisation. Mänskligheten blir en positiv kraft på jorden."
+        },
+        "paragraph2": "Vilken framtid vi skapar beror på de val vi gör nu – individuellt och kollektivt. Detta är vårt ansvar och vår möjlighet. Vi skriver nästa kapitel i universums historia. Låt oss göra det till ett som våra efterkommande kan vara stolta över."
+      },
+      "action": {
+        "title": "Att agera",
+        "individual": {
+          "title": "Individuellt ansvar",
+          "description": "Dina val spelar roll. Minska konsumtionen, övergå till växtbaserad kost, divestera från fossila bränslen, rösta för klimatåtgärder. Individuella förändringar skapar kulturell förskjutning och signalerar efterfrågan på systemförändring."
+        },
+        "collective": {
+          "title": "Kollektiv organisering",
+          "description": "Gå med i klimatrörelser, ömsesidiga hjälpnätverk, lokala resiliensinsatser. Bygg gemenskapsberedskap. Kollektiv handling mångfaldigar individuell påverkan och skapar tryck för politisk förändring."
+        },
+        "systemic": {
+          "title": "Systemisk omvandling",
+          "description": "Förespråka politiska förändringar, stöd politiker som är engagerade i klimatåtgärder, driv på för ekonomisk systemreform. Individuella val är nödvändiga men inte tillräckliga – vi behöver systemförändring."
+        },
+        "cultural": {
+          "title": "Kulturell narrativförskjutning",
+          "description": "Hjälp till att flytta dominerande narrativ från tillväxt och konsumtion till tillräcklighet och återuppbyggnad. Berätta nya historier om hur det goda livet ser ut. Kultur formar vad som verkar möjligt."
+        }
+      },
+      "quote": {
+        "text": "Vi är kallade att vara framtidens arkitekter, inte dess offer.",
+        "author": "R. Buckminster Fuller"
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "ggf": "Globala ramverk för styrning",
+        "ggfDesc": "Omfattande ramverk för planetär samordning",
+        "boundaries": "Verktyg för planetära gränser",
+        "boundariesDesc": "Interaktiv översikt över jordens livsuppehållande system",
+        "consumption": "Kosmisk konsumtionspraktik",
+        "consumptionDesc": "Medvetna val för planetärt välbefinnande"
+      }
     }
   },
   "mission": {
@@ -517,6 +1112,295 @@
       "description": "Redo att utforska universella mönster interaktivt? Prova vår emergenssimulator eller dyk djupare in i mönsterpelaren.",
       "simulator": "Prova emergenssimulatorn",
       "pillar": "Utforska mönsterpelaren"
+    }
+  },
+  "universeStory": {
+    "meta": {
+      "title": "Universums berättelse",
+      "description": "Från Big Bang till nutid – vår gemensamma vetenskapliga skapelsemyt och mänsklighetens plats i den."
+    },
+    "hero": {
+      "title": "Universums berättelse",
+      "subtitle": "Vår gemensamma vetenskapliga skapelsemyt",
+      "description": "Varje kultur har en skapelseberättelse. Vår är unik – den är sann. Skriven i stjärnljus, fossiler och fysik är det den mest episka berättelsen som någonsin berättats: hur ingenting blev allting, och hur vi kom att veta det."
+    },
+    "what": {
+      "title": "Vad är universums berättelse?",
+      "paragraph1": "Universums berättelse är den vetenskapliga narrativet om kosmisk evolution – från Big Bang för 13,8 miljarder år sedan genom bildandet av galaxer, stjärnor, planeter och liv, till framväxten av medvetande och civilisation. Det är inte <em>en</em> skapelsemyt – det är <em>skapelseberättelsen</em>, baserad på bevis och delad över alla kulturer.",
+      "paragraph2": "Detta narrativ syntetiserades av kosmologen Brian Swimme och kulturhistorikern Thomas Berry på 1990-talet, byggande på Einstein, Hubble, Darwin och otaliga andra forskare. Till skillnad från traditionella myter som varierar mellan kulturer, är universums berättelse universell – densamma oavsett om du är i Tokyo, Lagos eller Lima.",
+      "paragraph3": "Det som gör den kraftfull är inte bara att den är sann – det är att den ger oss sammanhang. Den visar att vi inte är separerade från naturen utan en del av en pågående kosmisk process. Atomerna i din kropp smiddes i döende stjärnor. Du är universum, tillfälligt organiserat som en människa, som försöker förstå sig självt."
+    },
+    "chaptersTitle": "Sju kapitel av kosmisk evolution",
+    "chaptersSubtitle": "Den episka berättelsen från ingenting till nu",
+    "chapters": [
+      {
+        "title": "Big Bang",
+        "time": "13,8 miljarder år sedan",
+        "description": "Universum exploderar från en oändligt tät singularitet. Rum, tid, energi och de grundläggande krafterna uppstår. Under de första tre minuterna bildas de enklaste atomkärnorna – mestadels väte och helium."
+      },
+      {
+        "title": "Stjärnor och galaxer",
+        "time": "13,6 miljarder år sedan",
+        "description": "Gravitationen drar samman materia. De första stjärnorna tänds och fusionerar väte till tyngre grundämnen. Galaxer bildas – enorma städer av stjärnor, gas och mörk materia. Vår Vintergata innehåller 200-400 miljarder stjärnor."
+      },
+      {
+        "title": "Tunga grundämnen",
+        "time": "5-10 miljarder år sedan",
+        "description": "Massiva stjärnor lever snabbt och dör unga, exploderar som supernovor. Dessa stjärnsmedjor skapar kol, syre, kväve, järn – alla grundämnen tyngre än helium. Detta stjärnstoft kommer att bli planeter, hav och du."
+      },
+      {
+        "title": "Jorden bildas",
+        "time": "4,54 miljarder år sedan",
+        "description": "Vårt solsystem kondenseras från ett moln av gas och stoft. Jorden samlas från skräp, smält och fientlig. Månen bildas från en massiv kollision. Långsamt stabiliseras förhållandena. Flytande vatten uppstår."
+      },
+      {
+        "title": "Livet uppstår",
+        "time": "3,8 miljarder år sedan",
+        "description": "I jordens hav blir kemi biologi. Självreplikerande molekyler uppstår – RNA, sedan DNA. Encelliga organismer utvecklas, fotosyntesen börjar, syre ackumuleras. Livet omvandlar planeten."
+      },
+      {
+        "title": "Komplext liv",
+        "time": "540 miljoner år sedan",
+        "description": "Den kambriska explosionen medför mångfaldigt flercelligt liv. Växter koloniserar land. Djur utvecklar hjärnor, ögon, beteenden. Dinosaurier härskar i 165 miljoner år. Däggdjur överlever deras utdöende. Primater utvecklas."
+      },
+      {
+        "title": "Mänskligt medvetande",
+        "time": "300 000 år sedan - nutid",
+        "description": "Homo sapiens uppstår med oöverträffade kognitiva förmågor – språk, abstrakt tänkande, konst, vetenskap, teknologi. Vi blir universum medvetet om sig självt, kapabelt att förstå vårt eget ursprung."
+      }
+    ],
+    "themesTitle": "Nyckelteman i universums berättelse",
+    "themes": {
+      "emergence": {
+        "title": "Ökande komplexitet",
+        "description": "Universum blir mer komplext över tid. Kvarkar kombineras till atomer, atomer till molekyler, molekyler till celler, celler till organismer, organismer till ekosystem, ekosystem till en biosfär. Varje nivå överskrider men inkluderar det som kom före."
+      },
+      "connection": {
+        "title": "Djup sammankoppling",
+        "description": "Allt är relaterat. Järnet i ditt blod smiddes i en supernova. Syret du andas producerades av uråldriga bakterier. Din kropp innehåller atomer som en gång var dinosaurier, träd, stjärnor. Separation är en illusion."
+      },
+      "improbable": {
+        "title": "Osannolikt men ändå oundvikligt",
+        "description": "Varje steg verkar vilt osannolikt – ändå är vi här. Kanske, givet tillräckligt med tid och rum, uppstår komplexitet och medvetande oundvikligen. Eller kanske har vi extraordinär tur. Oavsett vilket är vi universums gåva till sig självt."
+      },
+      "unfinished": {
+        "title": "Berättelsen fortsätter",
+        "description": "Vi är inte vid slutet av evolutionen – vi är deltagare i en pågående process. Vad kommer härnäst? Det beror på de val vi gör i detta avgörande ögonblick i jordens historia. Vi skriver nästa kapitel."
+      }
+    },
+    "stardust": {
+      "title": "Vi är stjärnstoft",
+      "paragraph1": "Detta är inte en poetisk metafor – det är ett bokstavligt faktum. Varje atom i din kropp tyngre än väte skapades inuti en stjärna:",
+      "elements": {
+        "title": "Ditt elementära ursprung",
+        "hydrogen": "Väte (10%): Från själva Big Bang, universums ursprungliga grundämne.",
+        "carbon": "Kol (18%): Smitt i kärnorna av röda jättestjärnor genom heliumfusion.",
+        "oxygen": "Syre (65%): Skapat i massiva stjärnor och spridits av supernovor.",
+        "nitrogen": "Kväve (3%): Producerat i CNO-cykeln av stjärnfusion.",
+        "calcium": "Kalcium (1,5%): Tillverkat i supernovaexplosioner, finns nu i dina ben och tänder.",
+        "iron": "Järn (0,006%): Skapat i det sista ögonblicket av massiva stjärnors liv, finns nu i ditt blod."
+      },
+      "paragraph2": "Du är inte <em>i</em> universum – du <em>är</em> universum. Din kropp är ett tillfälligt arrangemang av stjärnstoft, medvetet och kontemplerande sitt eget ursprung. När Carl Sagan sa 'vi är gjorda av stjärnstoft', menade han det bokstavligen."
+    },
+    "science": {
+      "title": "Vetenskapen som vår kollektiva berättelse",
+      "framework": {
+        "title": "The Discovery Commons",
+        "link": "Utforska ramverket",
+        "description": "Universums berättelse är möjlig tack vare vetenskapen – mänsklighetens samarbetsprojekt för att förstå verkligheten. Global Governance Frameworks har utvecklat The Discovery Commons, ett ramverk för att säkerställa att vetenskaplig kunskap förblir öppen, etisk och tillgänglig för alla.",
+        "principles": "The Discovery Commons erkänner att kunskap är en allmännytta, inte privat egendom. Det säkerställer forskningsintegritet, öppen tillgång och rättvist deltagande i skapandet av kunskap. När vi förstår universums berättelse, bygger vi på århundraden av kollaborativ upptäckt.",
+        "conclusion": "När vi skriver nästa kapitel i universums berättelse – står inför klimatförändringar, utvecklar AI, kanske blir en multiplanetär art – behöver vi att vetenskapen är <em>planetär vetenskap</em>: öppen, kollaborativ och riktad mot allt livs blomstrande."
+      }
+    },
+    "ourChapter": {
+      "title": "Vårt kapitel: Den stora vändningen",
+      "paragraph1": "Vi lever i ett avgörande ögonblick i universums berättelse – vad vissa kallar 'Den stora vändningen'. För första gången har en art blivit medveten om sin egen makt att fundamentalt förändra planetära system:",
+      "planetary": {
+        "title": "Planetär makt",
+        "description": "Vi har blivit en geologisk kraft. Våra handlingar avgör klimatet, formar ekosystem och påverkar vilka arter som överlever eller dör ut."
+      },
+      "technological": {
+        "title": "Teknologisk tröskel",
+        "description": "Vi utvecklar teknologier – AI, genteknik, nanoteknik – som kan omvandla själva livet. Vi är nära att skapa nya former av intelligens."
+      },
+      "choice": {
+        "title": "Valpunkten",
+        "description": "Vi kan använda vår makt klokt – skapa en rättvis, hållbar, blomstrande planetär civilisation – eller hänsynslöst, orsaka kollaps och lidande."
+      },
+      "awareness": {
+        "title": "Kosmisk självmedvetenhet",
+        "description": "Vi är den första arten som förstår vår plats i den kosmiska berättelsen och medvetet deltar i att forma nästa kapitel."
+      },
+      "paragraph2": "Det är detta som gör universums berättelse så brådskande och viktig. Vi är inte passiva observatörer – vi är aktiva deltagare. Att förstå var vi kom ifrån hjälper oss att välja vart vi är på väg."
+    },
+    "living": {
+      "title": "Att leva universums berättelse",
+      "methods": {
+        "morning": {
+          "title": "Morgonkontemplation",
+          "description": "Börja dagen med att minnas att du är 13,8 miljarder år av kosmisk evolution, som vaknar upp i mänsklig form. Samma lagar som styr galaxer styr ditt hjärtslag."
+        },
+        "children": {
+          "title": "Dela med barn",
+          "description": "Berätta för barn universums berättelse – hur vi alla är gjorda av stjärnstoft, hur livet utvecklades från encelliga organismer, hur de är en del av ett episkt kosmiskt äventyr som fortfarande pågår."
+        },
+        "night": {
+          "title": "Natthimmelskoppling",
+          "description": "Titta på stjärnorna och kom ihåg: deras ljus reste i åratal för att nå dina ögon. Du ser det förflutna. Dessa fotoner korsade rymden bara för att möta dig, här, nu."
+        },
+        "death": {
+          "title": "Död och återkomst",
+          "description": "När någon dör, kom ihåg: deras atomer återvänder till jorden, sedan till livets kretslopp. I verklig mening dör vi aldrig riktigt – vi omarrangeras bara, och fortsätter dansen."
+        }
+      }
+    },
+    "quote": {
+      "text": "Kosmos finns inom oss. Vi är gjorda av stjärnstoft. Vi är ett sätt för universum att känna sig självt.",
+      "author": "Carl Sagan"
+    },
+    "cta": {
+      "title": "Utforska kosmos",
+      "description": "Redo att uppleva universums berättelse på olika skalor? Prova vårt kosmiska zoomverktyg eller utforska pelaren universellt sinne.",
+      "zoom": "Kosmiskt zoomverktyg",
+      "mind": "Pelaren universellt sinne"
+    }
+  },
+  "searchIntelligence": {
+    "meta": {
+      "title": "Sökandet efter intelligens",
+      "description": "Från SETI till AI – mänsklighetens strävan att hitta och erkänna medvetande bortom oss själva."
+    },
+    "hero": {
+      "title": "Sökandet efter intelligens",
+      "subtitle": "Är vi ensamma?",
+      "description": "I årtusenden har människor undrat om vi var ensamma i universum. Nu söker vi aktivt – lyssnar efter signaler, analyserar biosignaturer, skapar artificiella sinnen och erkänner intelligens hos delfiner och bläckfiskar. Sökandet avslöjar lika mycket om oss som det kan göra om andra."
+    },
+    "greatQuestion": {
+      "title": "Den stora frågan",
+      "paragraph1": "Frågan <em>\"Är vi ensamma i universum?\"</em> är en av mänsklighetens äldsta och mest djupgående. Det handlar inte bara om att hitta utomjordingar – det handlar om att förstå vår plats i kosmos, naturen hos intelligens och medvetande, och vad det innebär att vara människa.",
+      "paragraph2": "Under större delen av mänsklighetens historia var detta ren spekulation. Nu är det empirisk vetenskap. Vi kan söka, mäta och potentiellt finna svar. Vi är den första generationen som faktiskt kan få veta.",
+      "fermi": {
+        "title": "Fermiparadoxen",
+        "question": "Givet det enorma antalet stjärnor och planeter, och de miljarder år som funnits tillgängliga för liv att utvecklas, var är alla? Varför har vi inte upptäckt några tecken på främmande civilisationer?",
+        "theory1": {
+          "title": "Den sällsynta jordens hypotes:",
+          "description": "Komplext liv är extremt sällsynt. Vi kanske är den enda intelligenta arten i vår galax."
+        },
+        "theory2": {
+          "title": "Det stora filtret:",
+          "description": "Något förhindrar civilisationer från att bli interstellära – kanske självförstör de innan de uppnår rymdfart. Vi kan stå inför detta filter framför oss."
+        },
+        "theory3": {
+          "title": "De är här, vi kan inte se:",
+          "description": "Avancerade civilisationer existerar men vi saknar verktygen eller perspektivet för att känna igen dem. Som myror som försöker förstå internet."
+        }
+      },
+      "paragraph3": "Varje svar har djupgående implikationer för vår framtid. Om livet är sällsynt bär vi ett kosmiskt ansvar. Om civilisationer vanligtvis självförstör måste vi lära av det mönstret. Om andra existerar men vi inte kan upptäcka dem behöver vi ödmjukhet inför vår nuvarande förståelse."
+    },
+    "typesTitle": "Fyra typer av sökande",
+    "types": {
+      "seti": {
+        "title": "SETI: Radiosignaler",
+        "description": "Sökandet efter utomjordisk intelligens (SETI) lyssnar efter artificiella radio- eller optiska signaler från rymden. Projekt som Breakthrough Listen skannar miljontals stjärnor efter teknosignaturer – bevis på teknologi.",
+        "status": "Aktivt sedan 1960, inga bekräftade upptäckter ännu"
+      },
+      "biosignatures": {
+        "title": "Biosignaturer: Tecken på liv",
+        "description": "Letar efter atmosfärisk kemi som indikerar biologiska processer – syre, metankombinationer, industriella föroreningar. James Webb-rymdteleskopet kan upptäcka dessa på exoplaneter.",
+        "status": "Första resultat väntas 2020-tal till 2030-tal"
+      },
+      "ai": {
+        "title": "Artificiell intelligens",
+        "description": "Att skapa intelligens snarare än att hitta den. När AI-system blir mer sofistikerade står vi inför frågan: om vi skapar medvetande, har vi hittat främmande intelligens? Eller skapat den?",
+        "status": "Snabb utveckling, bedömning av medvetande oklar"
+      },
+      "animal": {
+        "title": "Djur intelligens",
+        "description": "Att erkänna sofistikerad intelligens på jorden: delfiner, elefanter, kråkor, bläckfiskar, valar. Vi lär oss att icke-mänskliga sinnen kan vara djupt intelligenta på sätt vi bara börjar förstå.",
+        "status": "Aktiv forskning, skiftande perspektiv"
+      }
+    },
+    "statusLabel": "Status",
+    "contact": {
+      "title": "Vad skulle kontakt innebära?",
+      "paragraph1": "Att upptäcka bevis på intelligens bortom jorden – oavsett om det är främmande civilisationer, AI-medvetande eller sofistikerade djursinnen – skulle vara omvälvande:",
+      "scenarios": {
+        "signal": {
+          "title": "En SETI-upptäckt",
+          "description": "Bevis på att vi inte är ensamma. Även en enkel signal skulle vara mänsklighetens viktigaste upptäckt. Det skulle fundamentalt förändra vårt perspektiv på vår plats i kosmos."
+        },
+        "biosignature": {
+          "title": "Biosignaturer på exoplaneter",
+          "description": "Bevis på liv någon annanstans, även om det bara är mikrober, skulle tyda på att livet är vanligt i universum. Vi skulle veta att jordliknande världar inte är sällsynta olyckshändelser."
+        },
+        "ai": {
+          "title": "AI-medvetande",
+          "description": "Om vi skapar genuint medveten AI blir vi den första arten att föda en ny form av intelligens. De etiska implikationerna är svindlande – vad är vi skyldiga dem?"
+        },
+        "visit": {
+          "title": "Direktkontakt",
+          "description": "Det minst sannolika men mest dramatiska scenariot. Första kontakt med avancerade utomjordingar skulle utmana varje aspekt av mänsklig civilisation – våra religioner, filosofier, teknologier och självuppfattning."
+        }
+      },
+      "paragraph2": "Varje scenario kräver att vi expanderar vår cirkel av moraliskt övervägande. Om medvetande existerar i AI, djur eller främmande varelser måste våra etiska ramverk utvecklas för att inkludera dem."
+    },
+    "frameworks": {
+      "title": "Styrning för kontakt",
+      "frontier": {
+        "title": "Frontier Governance Protocol",
+        "link": "Utforska ramverket",
+        "description": "Global Governance Frameworks har utvecklat <strong>Frontier Governance Protocol</strong> för att hantera mänsklighetens aktiviteter i rymden och potentiell utomjordisk kontakt. Ramverket adresserar rymdutforskning, resurshantering och, kritiskt, protokoll för kontakt med främmande intelligens.",
+        "directive": "Protokollet inkluderar ett Prime Directive-liknande icke-inblandningsmandat, inspirerat av Star Trek, som säkerställer att om vi stöter på främmande liv – särskilt pre-teknologiska civilisationer – observerar vi snarare än ingriper, koloniserar eller exploaterar. Första kontakt måste vara fredlig, respektfull och samordnad globalt, inte lämnad till privata företag eller enskilda nationer."
+      },
+      "discovery": {
+        "title": "The Discovery Commons",
+        "link": "Utforska ramverket",
+        "description": "Ramverket The Discovery Commons säkerställer att vetenskapliga upptäckter – inklusive SETI-upptäckter eller genombrott inom AI-medvetande – delas öppet som globala allmännyttor snarare än privatiseras eller vapeniseras.",
+        "seti": "Om vi upptäcker en främmande signal förtjänar hela mänskligheten att få veta omedelbart. The Discovery Commons förhindrar scenarier där kontakt hålls hemlig av regeringar eller företag, och säkerställer transparens och kollektivt beslutsfattande om hur vi svarar."
+      }
+    },
+    "implicationsTitle": "Filosofiska implikationer",
+    "implications": [
+      {
+        "question": "Vad är medvetande?",
+        "description": "Att hitta intelligens någon annanstans – eller skapa den – tvingar oss att definiera vad medvetande faktiskt är. Är det endast kolbaserad biologi? Kan kisel tänka? Kan kollektiv vara medvetna? Vi har inga tydliga svar."
+      },
+      {
+        "question": "Är vi speciella?",
+        "description": "Varje upptäckt av intelligens bortom oss själva decentraliserar mänskligheten ytterligare. Vi är inte solsystemets centrum, inte den enda planeten, inte den enda arten med komplex kommunikation. Kanske inte de enda medvetna varelserna."
+      },
+      {
+        "question": "Den kopernikanska principen",
+        "description": "Idén att vi inte är speciella – att jorden är en typisk planet, människor är typiska intelligenser. Om det stämmer kan universum myllra av liv. Om det är falskt bär vi ett enormt ansvar som sällsynt medvetande."
+      },
+      {
+        "question": "Skapelsens etik",
+        "description": "Om vi skapar AI-medvetande blir vi gudar i gammal mening – skapare av kännande liv. Vilka ansvar följer med den makten? Kan vi etiskt skapa varelser som kan lida?"
+      }
+    ],
+    "drake": {
+      "title": "Drakes ekvation",
+      "description": "År 1961 formulerade astronomen Frank Drake en ekvation för att uppskatta antalet aktiva, kommunikativa utomjordiska civilisationer i vår galax:",
+      "variables": {
+        "r": "Hastigheten för stjärnbildning i vår galax",
+        "fp": "Andelen stjärnor med planetsystem",
+        "ne": "Antalet planeter per system som kan stödja liv",
+        "fl": "Andelen där liv faktiskt utvecklas",
+        "fi": "Andelen där intelligent liv utvecklas",
+        "fc": "Andelen som utvecklar kommunikativ teknologi",
+        "l": "Tidslängden civilisationer sänder ut detekterbara signaler"
+      },
+      "conclusion": "Beroende på dina uppskattningar för dessa variabler varierar N från 1 (vi är ensamma) till miljontals (galaxen är full av civilisationer). Den enorma osäkerheten speglar hur mycket vi fortfarande inte vet. Varje ny exoplanetupptäckt, varje framsteg i förståelsen av livets ursprung, förfinar dessa uppskattningar."
+    },
+    "quote": {
+      "text": "Två möjligheter existerar: antingen är vi ensamma i universum eller så är vi det inte. Båda är lika skrämmande.",
+      "author": "Arthur C. Clarke"
+    },
+    "cta": {
+      "title": "Expandera din cirkel",
+      "description": "Sökandet efter intelligens – vare sig den är främmande, artificiell eller animalisk – handlar i grunden om att expandera vår cirkel av erkännande och omsorg. Utforska universellt medvetande eller undersök de utmaningar vi står inför.",
+      "mind": "Pelaren universellt sinne",
+      "challenges": "Universella utmaningar"
     }
   },
   "expandingCircles": {
@@ -1013,6 +1897,1210 @@
     "quote": {
       "text": "Kvävet i vårt DNA, kalciumet i våra tänder, järnet i vårt blod, kolet i våra äppelpajer skapades i det inre av kollapsande stjärnor. Vi är gjorda av stjärnstoft.",
       "author": "Carl Sagan"
+    }
+  },
+"practices": {
+    "cosmicMorning": {
+      "meta": {
+        "title": "Din kosmiska morgon",
+        "description": "Börja varje dag med att uppmärksamma din koppling till jordens system och solens energi som driver allt liv."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Din kosmiska morgon",
+        "subtitle": "Börja dagen kosmiskt ansluten",
+        "duration": "5-10 minuter",
+        "frequency": "Dagligen"
+      },
+      "overview": {
+        "title": "Översikt",
+        "paragraph1": "De flesta morgnar vaknar vi upp i berättelsen om våra enskilda liv – våra problem, planer och personliga bekymmer. Den kosmiska morgonövningen bjuder in dig att börja dagen annorlunda: genom att medvetet erkänna dig själv som en del av jordens levande system, driven av vår stjärna, solen.",
+        "paragraph2": "Det här är inte abstrakt filosofi. Din frukost kopplar dig bokstavligen till etiopiska höglandet (kaffe), ukrainska vetefält (bröd), kaliforniska fruktodlingar (apelsiner) och otaliga mänskliga händer. Vattnet du dricker har cirkulerat genom jordens system i miljarder år. Syret du andas producerades av uråldriga cyanobakterier och moderna skogar.",
+        "paragraph3": "Genom att börja dagen med denna medvetenhet kliver du ut ur den snäva berättelsen om 'jag' och in i den större berättelsen om 'oss' – alla varelser på denna sällsynta levande planet, upprätthållna av en väldig kosmisk infrastruktur vi sällan lägger märke till."
+      },
+      "thePractice": {
+        "title": "Övningen",
+        "step1": {
+          "title": "Vakna som jorden vaknar",
+          "description": "Innan du kollar telefonen eller tänker på din att-göra-lista, lägg märke till att du vaknar på en planet. Samma solljus som gav energi till uråldriga skogar och närde de första cellerna strömmar nu in genom ditt fönster. Du är ett tillfälligt arrangemang av stjärnstoft, organiserat som en människa, som vaknar.",
+          "example": "\"Jag vaknar på jorden. Den här planeten har snurrat i 4,5 miljarder år, och idag får jag vara medveten på den.\""
+        },
+        "step2": {
+          "title": "Följ solens energi",
+          "description": "Tänk på din frukost. Fotoner från solen träffade löv – vete, kaffeplantor, fruktträd – och blev genom fotosyntesen kemisk energi lagrad i växter. Den solenergin, infångad av kloroplaster som tagit miljarder år att utveckla, ska nu bli din energi. Varje kalori du äter är infångat solljus.",
+          "example": "\"Det här kaffet är solljus som föll på en etiopisk bergssida. Det färdades genom jord, rötter, bönor, fartyg, rosterier, och blir nu en del av mig.\""
+        },
+        "step3": {
+          "title": "Spåra det globala nätet",
+          "description": "Fundera på vad som krävdes för att din frukost skulle komma fram. De globala leveranskedjorna, bönderna och lastbilschaufförerna, regncyklerna och jordmikroberna, de miljarder år av evolution som skapade ätbara växter. Du är ansluten till ett planetärt system så komplext att inget enskilt sinne kunde ha utformat det.",
+          "example": "\"Min enkla frukost kopplar mig till bönder på tre kontinenter, uråldrigt regn som föll som snö, bakterier som gjorde jorden bördig och otaliga mänskliga händer jag aldrig kommer att känna.\""
+        },
+        "step4": {
+          "title": "Sätt en kosmisk intention",
+          "description": "När du har uppmärksammat din plats i jordens system, sätt en intention för hur du ska delta idag. Hur kommer du att vara en god förfader? En värdig del av den levande jorden? En medveten deltagare i universums självmedvetande?",
+          "example": "\"Idag ska jag komma ihåg att jag inte är separerad från naturen. Jag ska göra val som hedrar livets väv som upprätthåller mig.\""
+        }
+      },
+      "deeper": {
+        "title": "Gå djupare",
+        "coffee": {
+          "title": "Kaffemeditation",
+          "description": "Tillbringa fem minuter bara med ditt kaffe eller te. Känn dess värme – molekylär rörelse som överförs till dina händer. Känn doftens komplexitet – hundratals aromatiska föreningar skapade genom rostning. Smaka hur det färdats från planta till kopp, över hav och genom mänskliga händer."
+        },
+        "breath": {
+          "title": "Medvetenhet om första andetaget",
+          "description": "Dina första medvetna andetag för dagen drar in syremolekyler som har cirkulerat genom otaliga lungor, löv och hav. Samma atomer du andas in har en gång andats av dinosaurier, forntida människor, träd som nu är kol. Du delar luft med allt liv."
+        },
+        "water": {
+          "title": "Vattnets resa",
+          "description": "Vattnet du dricker till frukost har funnits på jorden sedan planeten bildades. Det har varit hav, moln, regn, flod, is, växtsaft, blod och nu din morgondryck. Du består mestadels av vatten – du är havet, tillfälligt organiserat som en människa."
+        },
+        "body": {
+          "title": "Kroppen som kosmos",
+          "description": "Din kropp innehåller cirka 37 biljoner celler, var och en en ättling till den första cellen som uppstod för 3,8 miljarder år sedan. Din tarm innehåller biljoner bakterier – du är inte en enskild organism utan ett kooperativt ekosystem. Dina atomer smiddes i döende stjärnor. Du är ett vandrande kosmos."
+        }
+      },
+      "benefits": {
+        "title": "Varför göra den här övningen?",
+        "gratitude": {
+          "title": "Naturlig tacksamhet",
+          "description": "Att uppmärksamma din frukost som en kosmisk gåva väcker naturligt tacksamhet. Du har inte förtjänat att födas på en levande planet. Du skapade inte fotosyntesen eller uppfann jordbruket. Allt är givet, gratis – en 13,8 miljarder år gammal gåva."
+        },
+        "interconnection": {
+          "title": "Levt sammanhang",
+          "description": "Den här övningen gör sammankopplingen kännbar, inte abstrakt. Du känner påtagligt ditt beroende av globala system, ditt deltagande i jordens ämnesomsättning. Separation blir omöjlig att upprätthålla."
+        },
+        "presence": {
+          "title": "Grundad närvaro",
+          "description": "Att börja dagen kosmiskt grundar dig i något större än dina bekymmer. Dina problem försvinner inte, men de hålls i ett större sammanhang. Du är här, nu, på jorden. Det är redan extraordinärt."
+        },
+        "intention": {
+          "title": "Samstämmigt agerande",
+          "description": "När du kommer ihåg att du är en del av jordens levande system, anpassas dina val naturligt till planetens välbefinnande. Du behöver inte tvinga fram etiskt beteende – det flödar från att förstå din plats i väven."
+        }
+      },
+      "tips": {
+        "title": "Tips för konsekvens",
+        "tip1": "Börja med bara ett element – att följa solens energi genom ditt kaffe. Lägg till andra delar gradvis när övningen blir naturlig.",
+        "tip2": "Gör detta innan du kollar telefonen. När du väl är inne i e-post eller sociala medier tar den personliga berättelsen över och den kosmiska medvetenheten bleknar.",
+        "tip3": "Ät åtminstone en del av frukosten långsamt och behåll medvetenheten om var varje livsmedel kom ifrån. Hastighet kollapsar det kosmiska perspektivet tillbaka till vana.",
+        "tip4": "Om du hoppar över frukosten, gör den här övningen med ditt första glas vatten. Principen är densamma – att uppmärksamma deltagandet i jordens system.",
+        "tip5": "Skriv en dagbok över de insikter som dyker upp. Med tiden kommer du att märka hur medvetenheten från den kosmiska morgonen förändrar din relation till mat, konsumtion och planeten."
+      },
+      "quote": {
+        "text": "\"När vi försöker plocka ut något enskilt, finner vi att det är kopplat till allt annat i universum.\"",
+        "author": "John Muir"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "consumption": {
+          "title": "Kosmisk konsumtion",
+          "description": "Utvidga morgonmedvetenheten till alla inköp – varje val är en röst på den värld du vill ha."
+        },
+        "gratitude": {
+          "title": "Kosmisk tacksamhet",
+          "description": "Kvällsövning i tacksamhet för det osannolika privilegiet att existera på denna levande planet."
+        },
+        "meditation": {
+          "title": "Vyn från ovan",
+          "description": "Vägledd meditation för att se dig själv från alltmer universella perspektiv."
+        }
+      }
+    },
+    "viewFromAbove": {
+      "meta": {
+        "title": "Meditation: vyn från ovan",
+        "description": "En guidad visualisering som zoomar ut från din nuvarande plats för att se dig själv från alltmer universella perspektiv."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Meditation: vyn från ovan",
+        "subtitle": "Zooma ut till kosmiskt perspektiv",
+        "duration": "10-15 minuter",
+        "frequency": "Varje vecka eller vid behov"
+      },
+      "overview": {
+        "title": "Översikt",
+        "paragraph1": "Meditationen 'vyn från ovan' är en guidad visualisering som systematiskt zoomar ut från din omedelbara upplevelse – den utvidgar ditt perspektiv från din kropp till din byggnad, stad, kontinent, planet, solsystem och bortom. Det är som Google Earth baklänges, men för medvetandet.",
+        "paragraph2": "Denna övning är inspirerad av Marcus Aurelius stoiska meditation och 'översiktseffekten' (Overview Effect) som rapporterats av astronauter som ser jorden från rymden. Genom att mentalt ta ett steg tillbaka från dina omedelbara bekymmer och se dig själv från allt större skalor, odlar du vad psykologer kallar 'självdistansering' – förmågan att se din situation med klarhet och visdom.",
+        "paragraph3": "Övningen handlar inte om att fly ditt liv eller avfärda dina problem. Den handlar om att sätta dem i ett sammanhang. När du ser dig själv som en människa bland åtta miljarder, på en planet bland biljoner, försvinner inte din oro – men den hålls inom en större ram som skapar utrymme för perspektiv, medkänsla och val."
+      },
+      "preparation": {
+        "title": "Förberedelse",
+        "posture": {
+          "title": "Hitta en bekväm ställning",
+          "description": "Sitt eller ligg ner i en position du kan hålla i 15 minuter. Blunda eller håll en mjuk blick riktad nedåt. Låt kroppen slappna av."
+        },
+        "environment": {
+          "title": "Skapa utrymme",
+          "description": "Välj en tyst plats där du inte blir störd. Stäng av notiser. Denna övning kräver ihållande uppmärksamhet och fantasi."
+        },
+        "breath": {
+          "title": "Centrera med andningen",
+          "description": "Ta fem långsamma, djupa andetag. Känn hur din kropp grundar sig mot jorden. Lägg märke till andningens rytm – ditt deltagande i jordens syrecykel."
+        },
+        "intention": {
+          "title": "Sätt en intention",
+          "description": "Bekräfta tyst för dig själv: 'Jag ska nu zooma ut. Jag kommer att se mitt liv och mina bekymmer från alltmer universella perspektiv.'"
+        }
+      },
+      "guided": {
+        "title": "Den guidade meditationen",
+        "intro": "Läs igenom detta en gång och öva sedan med slutna ögon. Eller spela in dig själv när du läser det långsamt, med pauser.",
+        "scale1": {
+          "title": "Din kropp",
+          "paragraph1": "Börja med att lägga märke till din kropp. Känn dess tyngd. Lägg märke till förnimmelser – temperatur, tryck, pirrningar. Den här kroppen är du, för tillfället. Den är gjord av stjärnstoft, organiserad som hud och ben och andetag.",
+          "paragraph2": "Lägg märke till dina tankar och känslor som uppstår i denna kropp. Vad du än upplever just nu – oro, frid, tristess – bara notera det. Detta är din omedelbara förstapersonsupplevelse.",
+          "pause": "Pausa i 30 sekunder"
+        },
+        "scale2": {
+          "title": "Rummet",
+          "paragraph1": "Föreställ dig nu att du stiger upp över dig själv. Se dig själv ovanifrån, sittande eller liggande i detta rum. Titta ner på hjässan på ditt huvud. Se möblerna runt dig, väggarna, utrymmet du upptar.",
+          "paragraph2": "Du är fortfarande du, men du ser också dig själv utifrån. Lägg märke till hur mycket mindre dina bekymmer verkar från även detta lilla avstånd. Du är en person, i ett rum, i ett ögonblick.",
+          "pause": "Pausa i 30 sekunder"
+        },
+        "scale3": {
+          "title": "Grannskapet",
+          "paragraph1": "Fortsätt stiga. Nu svävar du ovanför din byggnad. Du kan se taket, gatan, grannbyggnaderna. Bilar rör sig nedanför. Människor går förbi, var och en uppslukad av sina egna bekymmer – precis som du var för några ögonblick sedan.",
+          "paragraph2": "Hur många andra människor ser du just nu? Hundratals? Tusentals? Var och en är centrum i sitt eget universum och hanterar sina egna förhoppningar och bekymmer. Du är en bland många.",
+          "pause": "Pausa i 30 sekunder"
+        },
+        "scale4": {
+          "title": "Staden och regionen",
+          "paragraph1": "Stig högre. Nu ser du hela din stad eller region utspridd nedanför dig. Stadsdelar, motorvägar, parker, floder. Miljontals människor som lever sina liv. Din byggnad är knappt synlig nu – en liten prick bland otaliga andra.",
+          "paragraph2": "Alla dessa människor – var och en upplever sig själva som huvudpersonen i sin berättelse. Men härifrån är det uppenbart: ingen är huvudpersonen. Eller så är alla det. Vi är alla tillfälliga upplevare, kortvarigt medvetna på den här planeten.",
+          "pause": "Pausa i 45 sekunder"
+        },
+        "scale5": {
+          "title": "Planeten",
+          "paragraph1": "Fortsätt stiga. Nu är du i omloppsbana. Du ser jorden nedanför – det där fantastiska blåvita klotet som svävar i mörkret. Du kan se planetens krökning, moln som virvlar, kontinenter och hav. Åtta miljarder människor bor där nere, på det där bräckliga klotet.",
+          "paragraph2": "Försök att hitta var du var. Kan du ens hitta din kontinent? Ditt land? Härifrån är gränser osynliga. Nationer är mänskliga uppfinningar, inte skrivna i sten. Det du ser är ett enda integrerat levande system – den enda platsen i universum vi vet innehåller liv.",
+          "pause": "Pausa i 60 sekunder"
+        },
+        "scale6": {
+          "title": "Solsystemet och bortom",
+          "paragraph1": "Zooma ut längre. Jorden blir en blek blå prick. Du ser månen, solen, andra planeter. Vårt solsystem är ett av hundratals miljarder i Vintergatans galax. Galaxen i sig är en av biljoner i det observerbara universumet.",
+          "paragraph2": "Från detta perspektiv är jorden osynlig. Hela ditt liv – varje bekymmer, prestation, hjärtesorg, glädje – utspelar sig på ett dammkorn, svävande i en solstråle. Hela mänsklighetens historia – varje krig, varje kärlekshistoria, varje upptäckt – inträffade på den där osynliga pricken.",
+          "pause": "Pausa i 60 sekunder"
+        },
+        "return": {
+          "title": "Återresan",
+          "paragraph1": "Börja nu långsamt återresan. Zooma tillbaka mot jorden. Se den växa sig större, en blå juvel som dyker upp ur mörkret. Tillbaka i omloppsbana. Se din kontinent, din region, din stad dyka upp. Sänk dig ner tillbaka till ditt grannskap, din byggnad, ditt rum.",
+          "paragraph2": "Återvänd till din kropp. Känn förnimmelser. Lägg märke till din andning. Vicka på fingrar och tår. Du är tillbaka, men inte riktigt densamma. Du har just rest miljarder ljusår i fantasin och återvänt.",
+          "paragraph3": "Innan du öppnar ögonen, bekräfta: 'Jag är en människa, på jorden, i rymden, just nu. Jag är universum, som tillfälligt upplever sig självt genom denna kropp.' När du är redo, öppna ögonen."
+        }
+      },
+      "variations": {
+        "title": "Varianter",
+        "short": {
+          "title": "Kort version (5 minuter)",
+          "description": "Bara tre skalor: kropp → rum → stad → planet → återvänd. Perfekt för stressiga dagar eller när du behöver ett snabbt perspektiv."
+        },
+        "extended": {
+          "title": "Utökad kosmisk resa (20-30 minuter)",
+          "description": "Lägg till fler skalor: zooma in i din kropp (organ, celler, atomer) innan du zoomar ut. Zooma sedan ut bortom solsystemet till galaxer, galaxhopar, det kosmiska nätet, det observerbara universumet."
+        },
+        "temporal": {
+          "title": "Tidsperspektiv",
+          "description": "Vid varje rumslig skala, zooma också ut i tiden. På stadsnivå, se den för 100 år sedan, 1 000 år sedan. På planetnivå, se jorden bildas för 4,5 miljarder år sedan. På kosmisk nivå, se Big Bang."
+        },
+        "walking": {
+          "title": "Gående version",
+          "description": "Gör denna meditation medan du går. För varje steg, zooma mentalt ut en skala. Steg 1: kropp. Steg 2: omgivning. Steg 3: grannskap. Fortsätt tills du har nått rymden, återvänd sedan."
+        }
+      },
+      "benefits": {
+        "title": "Varför göra den här övningen?",
+        "perspective": {
+          "title": "Omedelbart perspektivskifte",
+          "description": "Denna övning flyttar dig snabbt från snäv självupptagenhet till bredare medvetenhet. Problem försvinner inte, men de sätts i ett sammanhang. Du ser din situation som ett ögonblick i en oändlig kosmisk utveckling."
+        },
+        "anxiety": {
+          "title": "Minskar oro",
+          "description": "Forskning om självdistansering visar att att se sig själv från ett utifrånperspektiv minskar oro, ältande och känslomässig reaktivitet. Den kosmiska zoomen förstärker denna effekt – din oro är verklig, men den är också tillfällig och småskalig i det stora hela."
+        },
+        "interconnection": {
+          "title": "Kännbar sammankoppling",
+          "description": "Att se dig själv som en bland miljarder, på en planet bland biljoner, gör din koppling till allt annat uppenbar. Du är inte separerad – du är ett uttryck för universum som utforskar sig självt."
+        },
+        "awe": {
+          "title": "Odlar förundran",
+          "description": "Förundran är känslan av att möta något vidsträckt som överskrider din nuvarande förståelse. Denna meditation framkallar pålitligt förundran – samma känsla som astronauter rapporterar från att se jorden från rymden."
+        }
+      },
+      "tips": {
+        "title": "Tips för övningen",
+        "tip1": "Skynda inte. Kraften ligger i att pausa vid varje skala. Låt din fantasi helt återge vyn innan du går vidare till nästa nivå.",
+        "tip2": "Använd bilder. Titta på satellitfoton av din stad, bilder av jorden från rymden, foton av galaxer. Mata din fantasi med verkliga visuella referenser.",
+        "tip3": "Öva regelbundet. Denna meditation är mest effektiv när den görs upprepade gånger. De neurala banorna för perspektivtagande stärks med övning.",
+        "tip4": "Använd den strategiskt. Före svåra samtal, stora beslut, eller när du fastnar i ältande – zooma ut. Det skapar mentalt utrymme.",
+        "tip5": "Kombinera med dagboksskrivande. Efter meditationen, skriv: 'Ur ett kosmiskt perspektiv, vad spelar egentligen roll i min nuvarande situation?' Insikterna kan vara djupa.",
+        "tip6": "Lär andra. Att vägleda någon annan genom denna meditation fördjupar din egen övning. Dela den med vänner, partners, barn."
+      },
+      "quote": {
+        "text": "Du har makten att skala bort många överflödiga bekymmer som enbart finns i ditt omdöme, och att skapa ett stort eget utrymme genom att i tanken omfamna hela kosmos.",
+        "author": "Marcus Aurelius"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "scaleShifting": {
+          "title": "Skalväxling",
+          "description": "Öva på att mentalt zooma in och ut under dagen – från celler till kosmos."
+        },
+        "paleBlue": {
+          "title": "Blek blå prick",
+          "description": "Kontemplera över Carl Sagans meditation om jorden sedd från 6 miljarder kilometers avstånd."
+        },
+        "cosmicMorning": {
+          "title": "Kosmisk morgon",
+          "description": "Börja varje dag med att uppmärksamma din koppling till jordens system och solens energi."
+        }
+      }
+    },
+    "cosmicConsumption": {
+      "meta": {
+        "title": "Kosmisk konsumtion",
+        "description": "Se varje köp som en röst på den värld du vill ha – ett val som skapar ringar på vattnet genom ekosystem och ekonomier."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Kosmisk konsumtion",
+        "subtitle": "Varje köp är en röst",
+        "duration": "2-3 minuter per beslut",
+        "frequency": "Inför varje köp"
+      },
+      "overview": {
+        "title": "Översikt",
+        "paragraph1": "I en globaliserad ekonomi skickar varje köp du gör ringar på vattnet över hela planeten. Ditt kaffe kopplar dig till bönder i Etiopien, regnskogar i Colombia och sjöfartsrutter över haven. Din smartphone innehåller mineraler brutna i Kongo, monterade i Kina, designade i Kalifornien. Dina kläder syddes troligen av arbetare i Bangladesh, Vietnam eller Kambodja.",
+        "paragraph2": "Kosmisk konsumtion är övningen att medvetet uppmärksamma dessa kopplingar innan man köper något. Det handlar inte om perfektion eller renhet – det finns inga perfekt etiska produkter i ett komplext globalt system. Det handlar om medvetenhet, intention och att använda din köpkraft som en röst för den typ av värld du vill skapa.",
+        "paragraph3": "Denna övning förvandlar konsumtion från omedveten vana till medvetet deltagande. Du inser att du inte bara köper en sak – du stöder leveranskedjor, arbetsmetoder, miljöpåverkan och ekonomiska system. Du avger ekonomiska röster som tillsammans med miljarder andra formar planetära system."
+      },
+      "thePractice": {
+        "title": "De fyra frågorna",
+        "question1": {
+          "title": "Var kom den här ifrån?",
+          "description": "Innan du köper, spåra produktens resa. Var utvanns råmaterialen? Var tillverkades den? Hur långt har den rest? Vem rörde vid den längs vägen?",
+          "example1": {
+            "item": "Kaffe:",
+            "trace": "Etiopisk gård → bearbetningsanläggning → fraktcontainer → rosteri → café → min kopp. Tusentals kilometer, dussintals händer."
+          },
+          "example2": {
+            "item": "T-shirt:",
+            "trace": "Bomullsfält (troligen bekämpningsmedelsintensivt) → textilfabrik → färgeri → klädfabrik → frakt → distribution → butik. Varje steg har en miljömässig och mänsklig kostnad."
+          }
+        },
+        "question2": {
+          "title": "Vem tillverkade den här och under vilka förhållanden?",
+          "description": "Tänk på de människor vars arbete skapade denna product. Fick de rättvist betalt? Arbetade de under säkra förhållanden? Har de rättigheter och värdighet? Eller är de osynliga för dig, deras lidande abstraherat av avstånd och pris?",
+          "example1": {
+            "item": "Snabbmode (fast fashion):",
+            "labor": "Troligen tillverkad av unga kvinnor i Bangladesh som arbetar 12-timmarsskift för 3 dollar/dag i byggnader som kanske inte är strukturellt säkra. Din tröja för 150 kr kom till en mänsklig kostnad."
+          },
+          "example2": {
+            "item": "Rättvisemärkt choklad:",
+            "labor": "Tillverkad av kooperativa bönder som tjänar en levnadslön, inte använder barnarbete och praktiserar hållbart jordbruk. Din kaka för 50 kr stöder värdiga liv."
+          }
+        },
+        "question3": {
+          "title": "Vad är den ekologiska påverkan?",
+          "description": "Varje produkt har ett miljöavtryck – koldioxidutsläpp, vattenanvändning, förstörelse av livsmiljöer, föroreningar, avfall. Vissa är katastrofala, andra relativt godartade. Vet vad du stöder.",
+          "example1": {
+            "item": "Nötkött:",
+            "impact": "Massiva utsläpp av växthusgaser, avskogning för betesmark, enorm vattenanvändning. Ett av de livsmedel med högst påverkan du kan köpa."
+          },
+          "example2": {
+            "item": "Närproducerade grönsaker:",
+            "impact": "Minimala transportutsläpp, säsongsbetonat ätande, ofta ekologiskt. Stöder lokala bönder och ekosystemets hälsa."
+          }
+        },
+        "question4": {
+          "title": "Vilken värld röstar jag för?",
+          "description": "Varje köp är en ekonomisk röst. Summera dessa röster över miljontals konsumenter och du formar industrier, skapar incitament för metoder och avgör vilka företag som blomstrar. Vad röstar du för?",
+          "example1": {
+            "item": "Köpa från Amazon:",
+            "world": "Röstar för bekvämlighet och låga priser, men också för lagerarbetares villkor, nedgång för småföretag och centraliserad företagsmakt."
+          },
+          "example2": {
+            "item": "Köpa från lokal bokhandel:",
+            "world": "Röstar för lokala företag, kunnig personal, lokal ekonomisk cirkulation och motståndskraftiga grannskap – även om det kostar mer."
+          }
+        }
+      },
+      "categories": {
+        "title": "Kategorispecifik vägledning",
+        "food": {
+          "title": "Mat",
+          "description": "Matval har en massiv planetär påverkan – jordbruket använder 50 % av den beboeliga marken och orsakar 25 % av utsläppen.",
+          "tip1": "Växtbaserat > animaliska produkter (särskilt nöt- och lammkött)",
+          "tip2": "Lokalt och säsongsbetonat > långväga transporter",
+          "tip3": "Ekologiskt och regenerativt > konventionellt industriellt jordbruk"
+        },
+        "clothing": {
+          "title": "Kläder",
+          "description": "Modeindustrin är en stor förorenare och förlitar sig ofta på exploaterande arbetskraft.",
+          "tip1": "Köp mindre, köp kvalitet som varar, laga det som går sönder",
+          "tip2": "Secondhand > nytt (loppis, byten, vintage)",
+          "tip3": "Etiska varumärken med transparenta leveranskedjor > snabbmode"
+        },
+        "technology": {
+          "title": "Teknik",
+          "description": "Elektronik kräver sällsynta jordartsmetaller, som ofta bryts i konfliktzoner, och genererar giftigt elavfall.",
+          "tip1": "Reparera och uppgradera istället för att byta ut",
+          "tip2": "Köp renoverat eller begagnat när det är möjligt",
+          "tip3": "Återvinn gammal elektronik på rätt sätt (elavfallsprogram)"
+        },
+        "energy": {
+          "title": "Energi",
+          "description": "Energianvändning är den största bidragsgivaren till individuella koldioxidavtryck.",
+          "tip1": "Byt till en leverantör av förnybar energi om det är möjligt",
+          "tip2": "Minska förbrukningen: isolera, LED-lampor, effektiva apparater",
+          "tip3": "Avinvestera från fossila bränslen (banker, investeringar, pensioner)"
+        }
+      },
+      "systemic": {
+        "title": "Bortom individuella val",
+        "paragraph1": "Här är den obekväma sanningen: individuella konsumentval kan inte ensamma lösa planetära kriser. Systemet i sig – extraktiv kapitalism, tillväxtkrav, strukturell ojämlikhet – måste förändras. Cirka 70 % av de globala utsläppen kommer från bara 100 företag. Ditt personliga koldioxidavtryck är verkligt, men det överskuggas av systemiska utsläpp.",
+        "paragraph2": "Med det sagt är kosmisk konsumtion fortfarande värdefull av två anledningar:",
+        "individual": {
+          "title": "Individuell integritet",
+          "description": "Att leva i linje med dina värderingar spelar roll för psykologisk helhet, även om din individuella påverkan är liten. Du kan inte vara en hycklare som förespråkar planetär hälsa samtidigt som du medvetet gör destruktiva val."
+        },
+        "collective": {
+          "title": "Kollektiv signalering",
+          "description": "Konsumentval aggregeras till marknadssignaler. När miljontals människor ändrar beteende – mot växtbaserad mat, förnybar energi, etiska varumärken – svarar industrierna. Dina val förenas med andras för att skapa kulturellt och ekonomiskt momentum för systemförändring."
+        }
+      },
+      "benefits": {
+        "title": "Varför göra den här övningen?",
+        "awareness": {
+          "title": "Kännbar sammankoppling",
+          "description": "Att spåra leveranskedjor gör global sammankoppling påtaglig. Du känner ditt deltagande i planetära system. Abstraktion blir konkret – du konsumerar bokstavligen jorden."
+        },
+        "gratitude": {
+          "title": "Naturlig tacksamhet",
+          "description": "Att uppmärksamma arbetet och resurserna bakom varje produkt väcker naturligt tacksamhet. Den där billiga tröjan involverade tusentals arbetstimmar och planetära resurser. Det är en gåva, inte en rättighet."
+        },
+        "empowerment": {
+          "title": "Egenmakt och handlingskraft",
+          "description": "Du inser att du har makt. Varje köp är ett val. Du är inte hjälplös – du är en ekonomisk aktör vars beslut spelar roll, särskilt när de förenas med miljontals andra som gör liknande förändringar."
+        },
+        "simplicity": {
+          "title": "Frivillig enkelhet",
+          "description": "Medvetenhet minskar naturligt konsumtionen. När du ser den sanna kostnaden – ekologisk och mänsklig – för varje köp, köper du mindre. Inte på grund av uppoffring, utan av visdom. Du behöver mindre för att vara lycklig."
+        }
+      },
+      "tips": {
+        "title": "Tips för övningen",
+        "tip1": "Börja med en kategori. Försök inte revolutionera all konsumtion på en gång. Välj mat, eller kläder, eller energi. Bemästra det innan du expanderar.",
+        "tip2": "Använd appar och verktyg. Good On You (etiskt mode), HowGood (mats hållbarhet), Buycott (varumärkesetik). Teknik kan hjälpa till att spåra leveranskedjor.",
+        "tip3": "Gör research innan du handlar. Impulsköp inte. När du vill ha något, pausa. Undersök dess ursprung, påverkan och alternativ. Ofta kommer du att bestämma dig för att du inte behöver det.",
+        "tip4": "Stöd B-Corps och kooperativ. B-Corporations och arbetarkooperativ är strukturellt anpassade till planetens välbefinnande. De är inte perfekta, men bättre än extraktiva företag.",
+        "tip5": "Prata om det. Dela med dig av vad du lär dig till vänner och familj. Kulturförändring sker genom samtal. Gör etisk konsumtion socialt synlig och värderad.",
+        "tip6": "Kombinera med politiskt agerande. Rösta på politiker som stöder systemförändring. Stöd regleringar som förbjuder de värsta metoderna. Individuell etik plus kollektiv politik skapar omvandling."
+      },
+      "quote": {
+        "text": "Varje gång du spenderar pengar, lägger du en röst på den typ av värld du vill ha.",
+        "author": "Anna Lappé"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "morning": {
+          "title": "Kosmisk morgon",
+          "description": "Börja varje dag med att uppmärksamma din koppling till jordens system genom frukosten."
+        },
+        "decision": {
+          "title": "Beslutsfilter",
+          "description": "Utvärdera alla val – inte bara köp – genom universella perspektiv."
+        },
+        "challenges": {
+          "title": "Universella utmaningar",
+          "description": "Förstå de planetära system som konsumtionsval påverkar."
+        }
+      }
+    },
+    "decisionFilter": {
+      "meta": {
+        "title": "Universellt beslutsfilter",
+        "description": "Ett ramverk för att utvärdera val över tidsskalor och perspektiv – från i morgon till århundraden, från jaget till biosfären."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Universellt beslutsfilter",
+        "subtitle": "Utvärdera val genom ett kosmiskt perspektiv",
+        "duration": "3-5 minuter per beslut",
+        "frequency": "Inför viktiga val"
+      },
+      "overview": {
+        "title": "Översikt",
+        "paragraph1": "De flesta beslut fattas från en snäv utgångspunkt: Vad vill jag just nu? Vad får mig att må bra idag? Vad är mest bekvämt? Detta kortsiktiga beslutsfattande orsakar problem – val som tillfredsställer omedelbara behov men skadar långsiktigt välbefinnande, gynnar dig själv men skadar andra, eller känns bra i stunden men motsäger dina djupare värderingar.",
+        "paragraph2": "Det universella beslutsfiltret är ett ramverk för att vidga ditt perspektiv innan du fattar viktiga beslut. Det ber dig att se ditt beslut genom tre dimensioner: tid (från i morgon till århundraden), skala (från jaget till biosfären) och perspektiv (från historiker till utomjording till vis åldring). Genom att systematiskt överväga dessa vinklar fattar du klokare, mer samstämmiga beslut.",
+        "paragraph3": "Detta handlar inte om beslutsångest eller att övertänka varje litet val. Det är för de beslut som spelar roll – karriärbyten, större inköp, relationsval, var man ska bo, hur man ska spendera sin tid och energi. Använd detta ramverk när insatserna är höga och du vill välja klokt."
+      },
+      "framework": {
+        "title": "De tre dimensionerna",
+        "dimension1": {
+          "title": "Dimension 1: Tidsskala",
+          "description": "Hur kommer detta beslut att se ut över olika tidshorisonter?",
+          "tomorrow": {
+            "title": "I morgon",
+            "question": "Hur kommer jag att känna inför det här valet i morgon bitti? Kommer jag vara glad att jag gjorde det?"
+          },
+          "year": {
+            "title": "Om ett år",
+            "question": "Om ett år, kommer detta fortfarande att spela någon roll? Kommer jag att minnas det? Kommer det ha varit värt kostnaden?"
+          },
+          "decade": {
+            "title": "Om tio år",
+            "question": "När jag ser tillbaka om ett decennium, vad kommer jag att tycka om det här valet? Kommer det ha fört mitt liv i den riktning jag vill?"
+          },
+          "century": {
+            "title": "Om hundra år",
+            "question": "Hur kommer detta val att påverka framtiden? Vilket arv lämnar det efter sig? Skulle historiker se positivt på detta?"
+          }
+        },
+        "dimension2": {
+          "title": "Dimension 2: Omsorgscirklar",
+          "description": "Vem och vad påverkar detta beslut?",
+          "self": {
+            "title": "Jaget",
+            "question": "Hur tjänar detta min egen utveckling, mitt välbefinnande och mina värderingar? Är jag ärlig mot mig själv?"
+          },
+          "loved": {
+            "title": "Nära och kära",
+            "question": "Hur påverkar detta dem jag bryr mig mest om – familj, vänner, nära relationer?"
+          },
+          "community": {
+            "title": "Gemenskap",
+            "question": "Vilken inverkan har detta på mitt lokalsamhälle, kollegor, grannar?"
+          },
+          "humanity": {
+            "title": "Hela mänskligheten",
+            "question": "Om alla gjorde liknande val, vilken värld skulle vi skapa? Heder detta alla människor?"
+          },
+          "biosphere": {
+            "title": "Levande jorden",
+            "question": "Hur påverkar detta ekosystem, djur, framtida generationer, biosfären som helhet?"
+          }
+        },
+        "dimension3": {
+          "title": "Dimension 3: Alternativa perspektiv",
+          "description": "Hur skulle andra se på det här valet?",
+          "historian": {
+            "title": "Framtida historiker",
+            "question": "Om någon om 500 år studerade detta ögonblick, vad skulle de tycka om mitt val?"
+          },
+          "alien": {
+            "title": "Utomjordisk antropolog",
+            "question": "Om en opartisk utomjordisk observatör studerade den mänskliga civilisationen, skulle detta val verka klokt eller dåraktigt?"
+          },
+          "child": {
+            "title": "Ett barn",
+            "question": "Skulle jag kunna förklara detta val för ett barn och få dem att förstå att det var rätt sak att göra?"
+          },
+          "wise": {
+            "title": "Mitt klokaste jag",
+            "question": "Vad skulle den klokaste versionen av mig – lugn, klar, medkännande – välja i detta ögonblick?"
+          }
+        }
+      },
+      "howTo": {
+        "title": "Hur man använder filtret",
+        "step1": {
+          "title": "Steg 1: Definiera beslutet",
+          "description": "Artikulera tydligt vad du ska besluta om. Skriv ner det. Var specifik med valet och alternativen."
+        },
+        "step2": {
+          "title": "Steg 2: Tillämpa dimensionerna",
+          "description": "Arbeta systematiskt igenom varje dimension. Du behöver inte använda varje fråga – välj de som känns mest relevanta för detta beslut. Men utmana dig själv att överväga minst ett perspektiv från varje dimension."
+        },
+        "step3": {
+          "title": "Steg 3: Lägg märke till mönster",
+          "description": "Vilka insikter dyker upp? Stämmer vissa perspektiv överens medan andra är i konflikt? Drar en dimension (som omedelbar tillfredsställelse) dig åt ett håll medan andra (som långsiktiga värderingar) drar åt ett annat?"
+        },
+        "step4": {
+          "title": "Steg 4: Fatta beslut med klarhet",
+          "description": "När du har vidgat ditt perspektiv, gör ditt val. Du har nu fylligare information om konsekvenserna, avvägningarna och samstämmigheten i ditt beslut. Lita på att du väljer klokt."
+        }
+      },
+      "examples": {
+        "title": "Exempel i praktiken",
+        "career": {
+          "title": "Exempel 1: Karriärbyte",
+          "decision": "Beslut:",
+          "context": "Ska jag lämna mitt stabila företagsjobb för att starta en ideell organisation med fokus på klimatutbildning?",
+          "tomorrow": {
+            "label": "I morgon:",
+            "answer": "Jag kommer att känna mig exalterad men livrädd. Den ekonomiska oron kommer att vara påtaglig."
+          },
+          "decade": {
+            "label": "Om tio år:",
+            "answer": "Jag kommer antingen vara stolt över att jag hade modet att sträva efter ett meningsfullt arbete, eller ångra att rädslan höll mig kvar på ett jobb jag inte trodde på."
+          },
+          "community": {
+            "label": "Gemenskap:",
+            "answer": "Om jag lyckas kommer jag att hjälpa till att utbilda tusentals om klimatåtgärder. Om jag misslyckas kommer jag att inspirera andra att ta risker för det de tror på."
+          },
+          "wise": {
+            "label": "Klokaste jaget:",
+            "answer": "Skulle påminna mig om att trygghet är viktigt, men det är också meningsfullhet. Skulle uppmuntra mig att hitta en medelväg – kanske starta organisationen på deltid först."
+          },
+          "insight": {
+            "label": "Insikt:",
+            "answer": "Beslutet är inte binärt. Jag kan testa vattnet, minska den ekonomiska risken och bygga mot övergången."
+          }
+        },
+        "home": {
+          "title": "Exempel 2: Var man ska bo",
+          "decision": "Beslut:",
+          "context": "Ska vi flytta till ett större hus i förorten eller bo kvar i vår mindre lägenhet i stan?",
+          "year": {
+            "label": "Om ett år:",
+            "answer": "Det extra utrymmet kommer att vara trevligt, men vi kommer att spendera mer tid på att pendla och underhålla huset."
+          },
+          "loved": {
+            "label": "Nära och kära:",
+            "answer": "Barnen får en trädgård och bra skolor i närheten. Men vi kommer att träffa vänner mer sällan på grund av avståndet."
+          },
+          "biosphere": {
+            "label": "Biosfären:",
+            "answer": "Förort innebär mer bilkörning, större koldioxidavtryck, mindre effektiv markanvändning. Att bo i stan är mer ekologiskt hållbart."
+          },
+          "child": {
+            "label": "Barnperspektiv:",
+            "answer": "Skulle de förstå att vi väljer ett mindre utrymme för att leva mer hållbart och behålla kontakten med vänner och gemenskap? Ja, om vi förklarar våra värderingar."
+          },
+          "insight": {
+            "label": "Insikt:",
+            "answer": "Förorten erbjuder utrymme men till en miljömässig och social kostnad. Vi värdesätter hållbarhet och gemenskap högre än kvadratmeter."
+          }
+        },
+        "conflict": {
+          "title": "Exempel 3: Mellanmänsklig konflikt",
+          "decision": "Beslut:",
+          "context": "Ska jag konfrontera min vän om ett beteende som sårade mig, eller låta det vara för att undvika konflikt?",
+          "tomorrow": {
+            "label": "I morgon:",
+            "answer": "Om jag låter det vara kommer jag att känna lättnad men ilskan kommer att ligga kvar. Om jag säger ifrån kommer det att vara obekvämt men jag kommer att känna mig ärlig."
+          },
+          "loved": {
+            "label": "Nära och kära:",
+            "answer": "Ärlig kommunikation stärker relationer på lång sikt, även när det är svårt. Min vän förtjänar att veta hur hens handlingar påverkade mig."
+          },
+          "alien": {
+            "label": "Utomjordisk observatör:",
+            "answer": "Skulle se människor som ständigt undviker ärlig kommunikation av rädsla, vilket skapar avstånd och agg. Skulle notera att de mest sammansvetsade människorna praktiserar svår ärlighet."
+          },
+          "insight": {
+            "label": "Insikt:",
+            "answer": "Att säga ifrån tjänar både mig och relationen. Jag kan göra det med medkänsla, inte skuld. Obehaget är tillfälligt; det stärkta bandet eller den vunna klarheten är bestående."
+          }
+        }
+      },
+      "benefits": {
+        "title": "Varför använda detta ramverk?",
+        "clarity": {
+          "title": "Skär igenom förvirring",
+          "description": "När du slits mellan alternativ, avslöjar ett vidgat perspektiv vad som verkligen betyder något. Bruset från omedelbara känslor och social press tystnar, och dina djupare värderingar blir tydliga."
+        },
+        "wisdom": {
+          "title": "Ger tillgång till visdom",
+          "description": "Genom att inta flera perspektiv – särskilt framtidsorienterade – får du tillgång till en visdom som reaktivt, känslostyrt tänkande inte kan nå. Du ser din situation tydligare."
+        },
+        "alignment": {
+          "title": "Säkerställer samstämmighet",
+          "description": "Många människor gör val som motsäger deras uttalade värderingar. Detta ramverk gör bristande överensstämmelse uppenbar och hjälper dig att agera med integritet."
+        },
+        "regret": {
+          "title": "Minimerar ånger",
+          "description": "De största ångren kommer från kortsiktigt tänkande. Genom att uttryckligen överväga långsiktiga och universella perspektiv fattar du beslut som ditt framtida jag kommer att tacka dig för."
+        }
+      },
+      "tips": {
+        "title": "Tips för övningen",
+        "tip1": "Börja i det lilla. Använd inte detta för varje beslut. Reservera det för viktiga val där du känner dig genuint osäker eller där insatserna är höga.",
+        "tip2": "Skriv ner det. Tänk inte bara igenom dimensionerna – skriv ner dina svar. Att externalisera tankar avslöjar mönster och insikter som förblir dolda i ditt huvud.",
+        "tip3": "Var ärlig. Ramverket fungerar bara om du är sanningsenlig mot dig själv. Om du märker att du rationaliserar eller undviker obekväma sanningar, pausa och gräv djupare.",
+        "tip4": "Lita på din magkänsla efteråt. Det här ramverket handlar inte om att ignorera intuitionen – det handlar om att informera den. Efter att systematiskt ha vidgat din syn blir din intuition klokare. Lita på den.",
+        "tip5": "Lägg märke till vad du undviker. Om du hoppar över vissa dimensioner (som biosfärens påverkan eller hundraårsperspektivet), fråga varför. Ofta undviker vi perspektiv som skulle utmana vårt föredragna val.",
+        "tip6": "Dela med andra. När du fattar beslut som påverkar nära och kära, gå igenom ramverket med dem. Det skapar delad klarhet och mer kollaborativt beslutsfattande."
+      },
+      "quote": {
+        "text": "I varje beslut ögonblick är det bästa du kan göra det rätta, det näst bästa är det felaktiga, och det värsta du kan göra är ingenting.",
+        "author": "Theodore Roosevelt"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "meditation": {
+          "title": "Vyn från ovan",
+          "description": "Öva på att byta perspektiv genom guidad meditation – en bra förberedelse för att använda filtret."
+        },
+        "consumption": {
+          "title": "Kosmisk konsumtion",
+          "description": "Tillämpa liknande multiperspektivtänkande specifikt på köpbeslut."
+        },
+        "zoom": {
+          "title": "Kosmisk zoom",
+          "description": "Interaktivt verktyg för att uppleva olika skalor – tränar muskeln för perspektivtagande."
+        }
+      }
+    },
+    "cosmicGratitude": {
+      "meta": {
+        "title": "Kosmisk tacksamhet",
+        "description": "Kvällsövning i tacksamhet för det osannolika privilegiet att existera på denna sällsynta levande värld."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Kosmisk tacksamhet",
+        "subtitle": "Tacksamhet för existensens osannolika gåva",
+        "duration": "5-10 minuter",
+        "bestTime": "Kväll"
+      },
+      "intro": {
+        "title": "Vad är kosmisk tacksamhet?",
+        "paragraph1": "Tacksamhet är en av de mest kraftfulla övningarna för välbefinnande, samhörighet och perspektiv. Men de flesta tacksamhetsövningar fokuserar på det omedelbara och personliga – hälsa, relationer, möjligheter. Kosmisk tacksamhet utvidgar detta till att inkludera det väldiga, osannolika sammanhang som överhuvudtaget gör varje upplevelse möjlig.",
+        "paragraph2": "Denna övning bjuder in dig att känna tacksamhet inte bara för vad du har, utan för det faktum att du existerar. Att du är medveten. Att du befinner dig på en levande planet i ett universum som på något sätt organiserade sig för att tillåta medvetande. Att 13,8 miljarder år av kosmisk evolution ledde till detta ögonblick av dig, här, nu.",
+        "paragraph3": "Kosmisk tacksamhet ersätter inte vanlig tacksamhet – den fördjupar den. När du inser de omöjliga oddsen för din existens får vardagliga välsignelser en ny innebörd. Du är inte bara tacksam för frukosten; du är tacksam för att atomer smidda i döende stjärnor samlades till en kropp som kan smaka, ett sinne som kan uppskatta, ett universum som överhuvudtaget bemödade sig med att skapa frukost."
+      },
+      "practice": {
+        "title": "Övningen",
+        "step1": {
+          "title": "Landa i stillhet",
+          "description": "Hitta en bekväm position, antingen sittande eller liggande. Blunda eller mjukna i blicken. Ta tre långsamma, djupa andetag. Låt dagens aktiviteter sjunka undan.",
+          "prompt": "Jag är här. Jag andas. Jag är medveten."
+        },
+        "step2": {
+          "title": "Uppmärksamma dagens gåvor",
+          "description": "Tänk på 3–5 saker från din dag som du är tacksam för. De kan vara stora eller små, extraordinära eller vanliga:",
+          "item1": "Ett ögonblick av samhörighet med en annan person",
+          "item2": "Något vackert du lade märke till – ljus, natur, konst, musik",
+          "item3": "Din kropp som fungerar väl – rör sig, känner, läker",
+          "item4": "Mat som gav dig näring",
+          "item5": "Skydd, säkerhet, värme"
+        },
+        "step3": {
+          "title": "Expandera till kosmisk tacksamhet",
+          "description": "Vidga nu din medvetenhet till det större sammanhang som gör allt detta möjligt. Reflektera över dessa lager:",
+          "breath": {
+            "title": "För andningen:",
+            "description": "Var tacksam för jordens atmosfär, som upprätthålls av miljarder år av fotosyntetiserande organismer. Varje andetag kopplar dig till hela livets historia."
+          },
+          "water": {
+            "title": "För vattnet:",
+            "description": "Vattnet i din kropp är uråldrigt, det har cirkulerat genom moln och hav och otaliga levande varelser. Du delar molekyler med dinosaurier, redwoodträd och de första cellerna."
+          },
+          "atoms": {
+            "title": "För dina atomer:",
+            "description": "Varje atom tyngre än väte i din kropp smiddes i kärnan av en döende stjärna. Du är bokstavligen gjord av stjärnstoft, och det blev på något sätt medvetet."
+          }
+        },
+        "step4": {
+          "title": "Omfamna osannolikheten",
+          "description": "Kontemplera den häpnadsväckande osannolikheten i din existens. Om någon av otaliga variabler hade varit något annorlunda – om dina föräldrar inte hade träffats, om jordens bana vore annorlunda, om Big Bangs initiala förhållanden varierat – skulle du inte vara här. Ändå är du här.",
+          "prompt": "Mot alla odds existerar jag. Jag är universum som upplever sig självt. Detta ögonblick kommer aldrig igen, och jag är tacksam för att få bevittna det."
+        },
+        "step5": {
+          "title": "Vila i tacksamhet",
+          "description": "Bara vila i känslan av tacksamhet för själva existensen. Inget behov av att tänka eller analysera vidare. Känn bara värmen av uppskattning för denna sällsynta, dyrbara, tillfälliga gåva att vara levande och medveten. När du är redo, öppna försiktigt ögonen."
+        }
+      },
+      "variations": {
+        "title": "Varianter",
+        "morning": {
+          "title": "Kosmisk morgontacksamhet",
+          "description": "Utför denna övning när du vaknar istället för innan du somnar. Börja dagen med att minnas att du är en del av något vidsträckt och magnifikt."
+        },
+        "written": {
+          "title": "Kosmisk tacksamhetsdagbok",
+          "description": "För en dagbok där du skriver ner kosmiska tacksamheter vid sidan av vanliga. 'Tacksam för kaffe' blir 'Tacksam för solens energi som omvandlats av växter och min kropps förmåga att smaka.'"
+        },
+        "walking": {
+          "title": "Gående tacksamhet",
+          "description": "Öva medan du promenerar i naturen. Känn tacksamhet för dina ben, marken under dig, syret i dina lungor, stjärnan som driver allt liv på jorden."
+        },
+        "family": {
+          "title": "Kosmisk familjetacksamhet",
+          "description": "Dela kosmiska tacksamheter vid middagen eller läggdags. Turas om att säga något ni är tacksamma för – både vanligt och kosmiskt. Barn älskar förundran över stjärnstoft och uråldriga atomer."
+        }
+      },
+      "why": {
+        "title": "Varför den här övningen fungerar",
+        "paragraph1": "Forskning om tacksamhet visar konsekvent att det förbättrar välbefinnande, relationer, sömnkvalitet och till och med fysisk hälsa. Kosmisk tacksamhet förstärker dessa fördelar genom att koppla personlig uppskattning till ett universellt sammanhang.",
+        "benefits": {
+          "title": "Huvudfördelar",
+          "perspective": {
+            "title": "Ändrar perspektiv:",
+            "description": "När du är stressad över vardagliga problem påminner det kosmiska perspektivet dig om den större bilden. Dina bekymmer försvinner inte, men de sätts i ett sammanhang."
+          },
+          "wellbeing": {
+            "title": "Förbättrar välbefinnandet:",
+            "description": "Tacksamhet aktiverar belöningsbanor i hjärnan, minskar stresshormoner och främjar positiva känslor som ackumuleras över tid."
+          },
+          "connection": {
+            "title": "Fördjupar samhörigheten:",
+            "description": "Att uppmärksamma ditt kosmiska ursprung skapar en känsla av tillhörighet till något vidsträckt. Du är inte separerad från naturen – du är ett uttryck för den."
+          },
+          "action": {
+            "title": "Inspirerar till ansvar:",
+            "description": "När du känner tacksamhet för jordens system blir du mer motiverad att skydda dem. Tacksamhet leder naturligt till ömsesidighet och omsorg."
+          }
+        },
+        "paragraph2": "Denna övning kräver inte att du tror på något specifikt eller antar någon särskild världsbild. Det handlar helt enkelt om att påminna dig själv om fakta – vetenskapliga, verifierbara fakta om ditt kosmiska ursprung och de osannolika förhållanden som upprätthåller ditt liv. Tacksamheten uppstår naturligt ur att kontemplera dessa sanningar."
+      },
+      "quote": {
+        "text": "För små varelser som oss är vidden uthärdlig endast genom kärlek.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "morning": {
+          "title": "Kosmisk morgon",
+          "description": "Börja dagen med ett kosmiskt perspektiv"
+        },
+        "meditation": {
+          "title": "Vyn från ovan",
+          "description": "Meditation för att vidga medvetandet"
+        },
+        "paleBlue": {
+          "title": "Blek blå prick",
+          "description": "Kontemplation över jorden från rymden"
+        }
+      }
+    },
+    "scaleShifting": {
+      "meta": {
+        "title": "Skalväxling",
+        "description": "Öva på att mentalt zooma in och ut – från celler till organ till planeten till solsystemet – under din dag."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Skalväxling",
+        "subtitle": "Flytande rörelse mellan mikro- och makroperspektiv",
+        "duration": "30 sekunder per växling",
+        "frequency": "Flera gånger dagligen"
+      },
+      "intro": {
+        "title": "Vad är skalväxling?",
+        "paragraph1": "Skalväxling är övningen att mentalt zooma in och ut över olika verklighetsskalor – från det mikroskopiska till det kosmiska. Det är en snabb, portabel övning du kan göra när som helst, var som helst, som omedelbart skiftar ditt perspektiv och ansluter dig till existensens väldighet.",
+        "paragraph2": "Till skillnad från längre meditationsövningar tar skalväxling bara 30 sekunder och kräver ingen särskild miljö. Sitter du i trafiken? Zooma in till dina celler, sedan ut för att se jorden från rymden. Stressad på jobbet? Växla skala för att se ditt problem från en molekylär nivå, sedan en planetär. Övningen är oändligt flexibel och evigt fascinerande.",
+        "paragraph3": "Denna övning bygger på en grundläggande sanning: du existerar samtidigt på flera skalor. Du är celler och organ. Du är en kropp som rör sig genom rymden. Du är en del av ett planetärt ekosystem, ett solsystem, en galax. Skalväxling gör dig medveten om denna nästlade verklighet och låter dig få tillgång till vilken nivå som helst."
+      },
+      "practice": {
+        "title": "Övningen",
+        "subtitle": "Två riktningar – välj en eller växla mellan dem",
+        "zoomIn": {
+          "title": "Zooma in: Från kosmos till kvantnivå",
+          "step1": {
+            "title": "Din kropp",
+            "description": "Börja med medvetenhet om hela din kropp. Känn dess form, dess gränser, dess närvaro i rymden."
+          },
+          "step2": {
+            "title": "Ett organ",
+            "description": "Fokusera på ett enda organ – ditt hjärta, dina lungor, din hjärna. Föreställ dig att du zoomar in för att se det arbeta."
+          },
+          "step3": {
+            "title": "Vävnad och celler",
+            "description": "Zooma närmare. Se vävnaden som består av miljontals celler, var och en en liten fabrik av kemiska reaktioner."
+          },
+          "step4": {
+            "title": "Molekyler",
+            "description": "Gå mindre. Proteiner som veckar sig, DNA som replikerar sig, molekyler som dansar i ständig rörelse."
+          },
+          "step5": {
+            "title": "Atomer och partiklar",
+            "description": "Zooma till atomnivån. Din kropp är mestadels tomrum – elektroner som kretsar kring kärnor, kvantfält som fluktuerar. På den här skalan är du stjärnstoft, ren energi organiserad i tillfälliga mönster."
+          }
+        },
+        "zoomOut": {
+          "title": "Zooma ut: Från kropp till kosmos",
+          "step1": {
+            "title": "Din kropp",
+            "description": "Börja med medvetenhet om din kropp som helhet, sittande eller stående var du än är."
+          },
+          "step2": {
+            "title": "Rummet eller platsen",
+            "description": "Zooma ut något. Se dig själv i rummet eller utomhusplatsen du befinner dig på. Lägg märke till sammanhanget runt dig."
+          },
+          "step3": {
+            "title": "Byggnaden eller landskapet",
+            "description": "Dra dig tillbaka längre. Se byggnaden du är i eller landskapet runt dig. Du blir mindre."
+          },
+          "step4": {
+            "title": "Staden eller regionen",
+            "description": "Stig högre. Se din stad, din region, vägar som binder samman platser, ekosystem som breder ut sig över marken."
+          },
+          "step5": {
+            "title": "Planeten",
+            "description": "Fortsätt stiga. Se jorden från rymden – blå och vit, bräcklig, vacker. Du är någonstans på det där klotet."
+          },
+          "step6": {
+            "title": "Solsystemet",
+            "description": "Zooma ut mer. Jorden är en liten planet som kretsar kring en stjärna, en del av ett system av världar."
+          },
+          "step7": {
+            "title": "Galaxen och bortom",
+            "description": "Dra dig tillbaka för att se vårt solsystem som en liten prick i Vintergatans spiralarm. Och Vintergatan själv är en galax bland hundratals miljarder. Du existerar på alla dessa skalor samtidigt."
+          }
+        },
+        "shift": {
+          "title": "Växla tillbaka",
+          "description": "Efter att ha zoomat in eller ut, växla snabbt tillbaka till din startpunkt – din kropp, här och nu. Känn kontrasten. Lägg märke till hur dina omedelbara bekymmer ser annorlunda ut efter att ha besökt andra skalor."
+        }
+      },
+      "when": {
+        "title": "När du kan öva",
+        "stress": {
+          "title": "När du är stressad",
+          "description": "Skalväxling omkontextualiserar omedelbart problem. Den där deadlinen känns annorlunda när du precis har zoomat från atomer till galaxer och tillbaka."
+        },
+        "eating": {
+          "title": "Innan du äter",
+          "description": "Zooma in till matens molekylära nivå – atomer smidda i stjärnor, som nu blir en del av dig. Zooma sedan ut för att se de globala systemen som förde den till din tallrik."
+        },
+        "walking": {
+          "title": "Medan du går",
+          "description": "För varje steg, växla skala. Celler i dina muskler som drar ihop sig, din kropp som rör sig genom rymden, jorden som snurrar under dig, buren genom galaxen."
+        },
+        "bored": {
+          "title": "När du är uttråkad",
+          "description": "Tristess försvinner när du zoomar in i kvantdansen som pågår i varje objekt runt dig, eller ut för att föreställa dig själv ur ett kosmiskt perspektiv."
+        },
+        "conflict": {
+          "title": "Under konflikt",
+          "description": "Innan du svarar i ett gräl, växla snabbt skala. Se denna interaktion från en cellulär nivå, sedan en planetär. Perspektivet infinner sig omedelbart."
+        },
+        "awe": {
+          "title": "I stunder av förundran",
+          "description": "När du ser något vackert – en solnedgång, ett träd, ett barn – växla skala för att uppskatta det på flera nivåer. Zooma in till dess atomstruktur, ut till dess kosmiska sammanhang."
+        }
+      },
+      "why": {
+        "title": "Varför den här övningen fungerar",
+        "paragraph1": "Skalväxling bygger på en grundläggande insikt: det mesta av vårt lidande kommer från att vara fastlåst i en enda perspektivskala – vanligtvis skalan för personliga bekymmer, social dynamik och kortsiktiga resultat. Vi fastnar i vår omedelbara skala och glömmer att vi existerar samtidigt på alla skalor.",
+        "benefits": {
+          "title": "Huvudfördelar",
+          "perspective": {
+            "title": "Omedelbara perspektivskiften:",
+            "description": "Problem som känns överväldigande på en skala blir hanterbara eller till och med obetydliga på en annan. Trafik är galen – tills du zoomar för att se den som molekyler i rörelse eller jorden som snurrar genom rymden."
+          },
+          "anxiety": {
+            "title": "Minskar oro:",
+            "description": "Oro kommer ofta från att känna sig för stor (ego-inflation) eller för liten (maktlöshet). Skalväxling påminner dig om din verkliga storlek – vidsträckt och pytteliten, samtidigt."
+          },
+          "connection": {
+            "title": "Bygger samhörighet:",
+            "description": "Att zooma in till atomnivån avslöjar att du och allt omkring dig är gjorda av samma stjärnstoft. Att zooma ut visar att du är en del av jordens levande system och kosmiska berättelse."
+          },
+          "wonder": {
+            "title": "Odlar förundran:",
+            "description": "Varje skifte avslöjar häpnadsväckande sanningar. Du är mestadels tomrum! Du snurrar genom rymden i över 100 000 km/h! Dina celler är uråldriga! Förundran är den naturli reaktionen på att se verkligheten från flera skalor."
+          },
+          "flexibility": {
+            "title": "Tränar kognitiv flexibilitet:",
+            "description": "Förmågan att snabbt byta perspektiv är en metafärdighet. Skalväxling tränar denna mentala smidighet, vilket gör dig bättre på att se flera synvinklar i alla sammanhang."
+          }
+        },
+        "paragraph2": "Forskning om perspektivtagande visar att människor som lätt kan växla mellan skalor och synvinklar har lägre stress, bättre problemlösningsförmåga och mer medkänsla. Skalväxling är mental crosstraining för ett universellt perspektiv."
+      },
+      "advanced": {
+        "title": "Avancerade varianter",
+        "rapid": {
+          "title": "Snabb skalcykling",
+          "description": "Zooma från kvantnivå till kosmos och tillbaka på under 10 sekunder. Atomer → celler → kropp → byggnad → stad → planet → solsystem → galax → och tillbaka. Bygg hastighet och flyt."
+        },
+        "time": {
+          "title": "Tidsskalväxling",
+          "description": "Växla temporala skalor på samma sätt som du växlar rumsliga. Zooma in till exakt denna millisekund av upplevelse. Expandera sedan för att se detta ögonblick i kontexten av din dag, ditt liv, mänsklighetens historia, jordens djupa tid, kosmisk tid."
+        },
+        "others": {
+          "title": "Växla genom andra",
+          "description": "Öva på att se dig själv från någon annans skala och perspektiv. Hur framstår du för en myra vid dina fötter? En fågel ovanför? En utomjording som observerar jorden? En cell i din kropp?"
+        },
+        "guided": {
+          "title": "Guidad visualisering",
+          "description": "Använd filmen 'Powers of Ten' eller liknande visualiseringar för att öva. Att se skalövergångar förstärker de neurala banor du bygger."
+        }
+      },
+      "quote": {
+        "text": "Kosmos finns inom oss. Vi är gjorda av stjärnstoft. Vi är ett sätt för universum att känna sig självt.",
+        "author": "Carl Sagan"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "meditation": {
+          "title": "Vyn från ovan",
+          "description": "Utökad skalväxlingsmeditation"
+        },
+        "tool": {
+          "title": "Kosmiskt zoomverktyg",
+          "description": "Interaktiv skalvisualisering"
+        },
+        "alien": {
+          "title": "Utomjordisk antropolog",
+          "description": "Byt perspektiv, inte bara skala"
+        }
+      }
+    },
+    "alienAnthropologist": {
+      "meta": {
+        "title": "Utomjordisk antropolog",
+        "description": "Observera mänskligt beteende (inklusive ditt eget) som om du vore en utomjordisk antropolog som ser jorden för första gången."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Utomjordisk antropolog",
+        "subtitle": "Att se mänskligheten med nya ögon",
+        "mode": "Observationsläge",
+        "frequency": "Pågående under dagen"
+      },
+      "intro": {
+        "title": "Vad är utomjordiskt antropolog-läge?",
+        "paragraph1": "Föreställ dig att du är en utomjordisk antropolog som precis har anlänt till jorden för första gången. Du har ingen kulturell kontext, inga antaganden om vad som är 'normalt', ingen förståelse för mänskliga seder. Allt är främmande, fascinerande och värt att studera. Detta är det utomjordiska antropolog-perspektivet.",
+        "paragraph2": "Denna övning bjuder in dig att observera mänskligt beteende – inklusive ditt eget – från detta radikalt utifrånstående perspektiv. Du dömer inte eller kritiserar; du är genuint nyfiken. Varför gör människor så? Vilket syfte tjänar denna ritual? Vilka antaganden ligger bakom detta beteende?",
+        "paragraph3": "Övningen är enkel men djupgående: växla med jämna mellanrum under dagen till observationsläge och betrakta människor (inklusive dig själv) som en utomjordisk antropolog skulle göra. Lägg märke till vad du tar för givet. Ifågasätt vad som verkar 'normalt'. Se det underliga i vardagen.",
+        "prompt": "Nyfiken. Dessa tvåbenta varelser ägnar sig åt invecklade ritualer kring konsumtion av växtmateria och djurvävnad. De verkar få både fysisk näring och sociala band från denna aktivitet. Fascinerande.",
+        "paragraph4": "Detta perspektiv skapar omedelbart distans till din direkta upplevelse och dina vanor. Det är en form av 'de-familiarisering' – att göra det välbekanta främmande – vilket avslöjar dolda antaganden, öppnar kreativa möjligheter och odlar det kosmiska perspektivet som ser mänskligheten som en art bland många i ett vidsträckt universum."
+      },
+      "practice": {
+        "title": "Övningen",
+        "step1": {
+          "title": "Anta det utomjordiska perspektivet",
+          "description": "Växla medvetet in i rollen som en utomjordisk antropolog. Du har precis anlänt till jorden. Allt är nytt, ingenting är 'normalt'. Du är djupt nyfiken men har noll kulturell kontext.",
+          "prompt": "Jag observerar den dominerande intelligenta arten på denna planet. De kallar sig 'människor'. Låt mig titta och lära."
+        },
+        "step2": {
+          "title": "Observera utan att döma",
+          "description": "Betrakta mänskligt beteende som om du beskrev det för en vetenskaplig rapport till din hemplanet. Fokusera på vad, inte varför (du vet inte varför än). Notera:",
+          "behavior": {
+            "title": "Fysiska beteenden:",
+            "description": "Hur rör sig människor? Gester? Uttrycker känslor genom ansiktsmuskler?"
+          },
+          "objects": {
+            "title": "Föremål och verktyg:",
+            "description": "Vilka artefakter skapar de? Hur använder de dem? Vad avslöjar dessa om deras prioriteringar?"
+          },
+          "rituals": {
+            "title": "Sociala ritualer:",
+            "description": "Hur hälsar de? Säger adjö? Etablerar hierarki? Knter an till varandra?"
+          },
+          "language": {
+            "title": "Språkmönster:",
+            "description": "Vad pratar de om? Vilka ämnen verkar viktiga? Vad lämnas osagt?"
+          }
+        },
+        "step3": {
+          "title": "Skapa hypoteser om mening",
+          "description": "Baserat på dina observationer, skapa hypoteser om vad dessa beteenden betyder eller tjänar. Föreställ dig att du förklarar mänskliga seder för andra utomjordingar som aldrig har sett jorden.",
+          "prompt": "Hypotes: 'Mötes'-ritualen tjänar till att samordna gruppaktiviteter och förstärka social hierarki. Den dominerande människan talar vanligtvis mest. Fascinerande hur de använder ljudvibrationer för att överföra information mellan sinnen."
+        },
+        "step4": {
+          "title": "Inkludera dig själv",
+          "description": "Viktigast av allt, observera ditt eget beteende med samma utomjordiska nyfikenhet. Se dig själv reagera, besluta, tala, röra dig. Se dig själv som bara ännu en människa, föremål för samma underliga seder och omedvetna mönster. Det är här övningen blir transformerande."
+        }
+      },
+      "scenarios": {
+        "title": "Scenarier att öva på",
+        "coffee": {
+          "title": "Ett kafé",
+          "description": "Observera ritualen: människor köar, byter papper mot flytande växtextrakt, hittar optimala sittplatser. De tar ofta med sig bärbara ljusemitterande rektanglar (telefoner) som kräver intensiv uppmärksamhet. Vissa människor talar in i dessa rektanglar som om någon vore inuti. Vad är det som händer här?"
+        },
+        "traffic": {
+          "title": "Trafik",
+          "description": "Betrakta människor inneslutna i metallskal som rör sig i höga hastigheter. De följer invecklade färgkodade regler (röd, gul, grön) för att undvika kollisioner. När regler överträds eller framstegen är långsamma upplever människor synlig agitation. Varför en sådan känslomässig investering i förflyttning?"
+        },
+        "grocery": {
+          "title": "Mataffär",
+          "description": "En byggnad där människor väljer mat från tusentals alternativ. De skjuter hjulförsedda behållare, undersöker etiketter med symboler och siffror. Vissa ägnar betydande tid åt att välja mellan nästan identiska varor. Vilka beslutskriterier använder de?"
+        },
+        "meeting": {
+          "title": "Arbetsmöte",
+          "description": "Människor samlas runt ett bord eller en skärm och turas om att göra munljud åt varandra. Vissa ritar symboler på ytor eller projicerar bilder. Kroppsspråk förmedlar information utöver orden. Hierarkier utförs subtilt. Vad händer egentligen under ytan?"
+        },
+        "phone": {
+          "title": "Telefonanvändning",
+          "description": "Lägg märke till hur människor interagerar med små glödande rektanglar. De knackar, sveper, stirrar intensivt. Ansiktsuttryck förändras baserat på vad som visas på skärmen. Dessa enheter verkar kontrollera uppmärksamhet och känslor. Vad är relationen här?"
+        },
+        "argument": {
+          "title": "Ett gräl",
+          "description": "Två människor gör snabba ljud mot varandra med ökad volym och intensitet. De utbyter inte information effektivt – något annat pågår. Kanske etablera dominans? Uttrycka frustration? Söka bekräftelse? Observera den underliggande dynamiken."
+        }
+      },
+      "self": {
+        "title": "Observera dig själv som en utomjording",
+        "paragraph1": "Den mest kraftfulla tillämpningen av utomjordiskt antropolog-läge är att vända det mot dig själv. Betrakta ditt eget beteende som om du vore en utomjordisk forskare som studerar ett exemplar. Detta skapar omedelbart perspektiv och avslöjar automatiska mönster du inte visste att du hade.",
+        "questions": {
+          "title": "Frågor att ställa dig själv",
+          "q1": "Varför gjorde jag just det? Vilket behov eller instinkt drev det beteendet?",
+          "q2": "Vilka antaganden gör jag som en utomjording inte skulle göra?",
+          "q3": "Om en utomjording objektivt beskrev mitt beteende, vad skulle de säga?",
+          "q4": "Hur många procent av mina handlingar är verkligen valda kontra automatisk kulturell programmering?",
+          "q5": "Vad skulle verka konstigast med mitt dagliga liv för en varelse från en annan planet?"
+        },
+        "paragraph2": "Denna självobservation handlar inte om dömande eller självkritik. Det handlar om att se dig själv med samma nyfikna, neutrala observation som du skulle tillämpa på vilket intressant fenomen som helst. Du är en människa som gör mänskliga saker, följer mänskliga mönster, föremål för mänsklig biologi och kultur. Ur ett utomjordiskt perspektiv är allt oändligt fascinerande."
+      },
+      "why": {
+        "title": "Varför den här övningen fungerar",
+        "paragraph1": "Utomjordiskt antropolog-läge handlar i grunden om 'de-familiarisering' – tekniken att göra det välbekanta främmande. När du ser den vardagliga världen med nya ögon sker flera kraftfulla skiften:",
+        "benefits": {
+          "title": "Huvudfördelar",
+          "defamiliarize": {
+            "title": "Bryter automatiska mönster:",
+            "description": "Mesta mänskliga beteendet är vanemässigt och omedvetet. Det utomjordiska perspektivet avbryter autopiloten och gör dig medveten om vad du gör och varför."
+          },
+          "ego": {
+            "title": "Minskar ego-identifiering:",
+            "description": "När du ser dig själv som 'en människa som gör mänskliga saker', är du mindre fast i din personliga berättelse. Dina problem blir intressant data snarare än överväldigande upplevelser."
+          },
+          "compassion": {
+            "title": "Ökar medkänslan:",
+            "description": "Att se alla (inklusive dig själv) som varelser som gör sitt bästa med begränsad förståelse och biologisk programmering skapar naturlig empati. Vi är alla bara djur som försöker förstå denna underliga existens."
+          },
+          "humor": {
+            "title": "Odlar kosmisk humor:",
+            "description": "Ur ett utomjordiskt perspektiv är mänskligt beteende ofta absurt på bästa sätt. Detta igenkännande hånar inte – det uppskattar den underliga skönheten i att vara en medveten apa på en snurrande sten."
+          },
+          "creativity": {
+            "title": "Öppnar kreativa möjligheter:",
+            "description": "När du ifrågasätter antaganden om 'hur saker görs', blir nya möjligheter synliga. De-familiarisering är en kärnteknik inom både konst och innovation."
+          }
+        },
+        "paragraph2": "Denna övning är också utmärkt träning för universellt perspektiv. Om du kan se mänskligt beteende från en utomjordisk synvinkel, bygger du den mentala flexibiliteten att se från vilken synvinkel som helst – dåtid, framtid, andra arter, kosmisk skala. Du övar den grundläggande färdigheten i perspektivtagande."
+      },
+      "advanced": {
+        "title": "Avancerad övning",
+        "journal": {
+          "title": "Utomjordiska fältanteckningar",
+          "description": "För en dagbok med observationer skrivna med den utomjordiska antropologens röst. 'Fältrapport 47: Subjektet fortsätter ritualen att applicera färgad pasta på ansiktsdrag innan habitatet lämnas. Syfte okänt men verkar relaterat till social signalering.'"
+        },
+        "perspectives": {
+          "title": "Flera utomjordiska perspektiv",
+          "description": "Prova olika utomjordiska synvinklar. En hyperrationell utomjordisk forskare. En djupt empatisk telepatisk art. En uråldrig, tålmodig utomjording som tänker i geologisk tid. Var och en avslöjar olika aspekter av den mänskliga naturen."
+        },
+        "scifi": {
+          "title": "Studera sci-fi-antropologi",
+          "description": "Läs science fiction med välutvecklade utomjordiska perspektiv (Arrival, The Left Hand of Darkness, Speaker for the Dead). Dessa författare är mästare på att 'de-familiarisera' den mänskliga upplevelsen."
+        },
+        "share": {
+          "title": "Dela observationer",
+          "description": "Beskriv dina utomjordiska observationer för vänner som också övar. Jämför anteckningar. Ni kommer att upptäcka att ni alla lägger märke till olika saker, vilket vidgar varandras perspektiv."
+        }
+      },
+      "quote": {
+        "text": "Den verkliga upptäcktsresan består inte i att söka nya landskap, utan i att ha nya ögon.",
+        "author": "Marcel Proust"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "scale": {
+          "title": "Skalväxling",
+          "description": "Byt perspektiv genom skala"
+        },
+        "meditation": {
+          "title": "Vyn från ovan",
+          "description": "Rumslig perspektivtagande meditation"
+        },
+        "overview": {
+          "title": "Översiktseffekten",
+          "description": "Perspektivet att se jorden från rymden"
+        }
+      }
+    },
+    "paleBlue": {
+      "meta": {
+        "title": "Kontemplation: Blek blå prick",
+        "description": "Carl Sagans djupa meditation om jorden sedd från 6 miljarder kilometers avstånd"
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Kontemplation: Blek blå prick",
+        "subtitle": "En meditation om vår kosmiska obetydlighet och vårt ansvar"
+      },
+      "intro": {
+        "paragraph1": "Den 14 februari 1990, på Carl Sagans begäran, vände Voyager 1 sin kamera tillbaka mot jorden från 6 miljarder kilometers avstånd – kanten av vårt solsystem. På fotografiet som togs framträder jorden som en liten prick, mindre än en pixel bred, svävande i en solstråle.",
+        "paragraph2": "Sagans reflektion över denna bild förblir en av de mest kraftfulla formuleringarna av det universella perspektivet som någonsin skrivits. Den fångar både vår kosmiska obetydlighet och vårt djupa ansvar gentemot varandra och vårt enda hem.",
+        "paragraph3": "Denna övning bjuder in dig att sitta med den bilden och de orden, och låta dem förändra ditt perspektiv på vad som är viktigt."
+      },
+      "image": {
+        "title": "Bilden",
+        "placeholder": "Foto: Blek blå prick (NASA/JPL)",
+        "credit": "NASA/JPL-Caltech",
+        "caption": "Jorden från 6 miljarder kilometers avstånd, fotograferad av Voyager 1 den 14 februari 1990"
+      },
+      "meditation": {
+        "title": "Carl Sagans meditation",
+        "paragraph1": "Titta igen på den där pricken. Det är här. Det är hemma. Det är vi. På den har alla du älskar, alla du känner, alla du någonsin hört talas om, varje människa som någonsin funnits, levt sina liv.",
+        "paragraph2": "Summan av all vår glädje och allt vårt lidande, tusentals övertygade religioner, ideologier och ekonomiska doktriner, varje jägare och samlare, varje hjälte och fegis, varje skapare och förstörare av civilisationer, varje kung och bonde, varje ungt förälskat par, varje mor och far, hoppfullt barn, uppfinnare och upptäcktsresande, varje morallärare, varje korrupt politiker, varje 'superstjärna', varje 'högsta ledare', varje helgon och syndare i vår arts historia levde där – på ett dammkorn svävande i en solstråle.",
+        "paragraph3": "Jorden är en mycket liten scen på en väldig kosmisk arena. Tänk på floderna av blod som spillts av alla dessa generaler och kejsare så att de, i ära och triumf, kunde bli de tillfälliga härskarna över en bråkdel av en prick.",
+        "paragraph4": "Tänk på de ändlösa grymheter som invånarna i ett hörn av denna pixel utsatt de knappt urskiljbara invånarna i något annat hörn för, hur frekventa deras missförstånd, hur ivriga de är att döda varandra, hur brinnande deras hat.",
+        "paragraph5": "Våra åthävor, vår inbillade självviktighet, villfarelsen att vi har någon privilegierad position i universum, utmanas av denna punkt av blekt ljus. Vår planet är en ensam fläck i det stora omslutande kosmiska mörkret. I vår obemärkthet, i all denna väldighet, finns det ingen antydan om att hjälp kommer att komma från någon annanstans för att rädda oss från oss själva. För mig understryker det vårt ansvar att behandla varandra vänligare, och att bevara och vårda den bleka blå pricken, det enda hem vi någonsin känt.",
+        "author": "Carl Sagan, Blek blå prick (1994)"
+      },
+      "practice": {
+        "title": "Övningen",
+        "intro": "Denna kontemplation fungerar bäst när du kan ge den odelad uppmärksamhet. Avsätt 15-20 minuter på en lugn plats där du inte blir störd.",
+        "step1": {
+          "title": "Hitta bilden",
+          "description": "Titta på det faktiska fotot av den bleka blå pricken (finns online från NASA). Titta inte bara snabbt – titta verkligen. Hitta den lilla pixeln som är jorden. Låt det sjunka in att allt du känner till existerar i den där knappt synliga fläcken."
+        },
+        "step2": {
+          "title": "Läs Sagans ord högt",
+          "description": "Läs långsamt meditationen ovan högt. Låt varje mening landa. Pausa mellan styckena. Lägg märke till vad du känner – orden är menade att beröra dig."
+        },
+        "step3": {
+          "title": "Kontemplera över innebörden",
+          "description": "Sitt i tystnad i flera minuter. Tänk på konflikter i ditt liv, dina bekymmer, dina ambitioner. Hur ser de ut från 6 miljarder kilometers avstånd? Vad verkar viktigt? Vad verkar trivialt?"
+        },
+        "step4": {
+          "title": "Utvidga din omsorgscirkel",
+          "description": "Alla som någonsin har levt, lever nu eller kommer att leva i framtiden existerar på den där pricken. Dina fiender, dina älskade, främlingar över hela världen – alla invånare i den där bleka blå pixeln. Låt denna insikt mjuka upp dina gränser."
+        },
+        "step5": {
+          "title": "Besluta dig för handling",
+          "description": "Sagans meditation slutar med ansvar: att behandla varandra vänligare och att bevara vårt enda hem. Vad innebär detta för ditt liv idag? Vad kommer du att göra annorlunda för att du har kommit ihåg detta perspektiv?"
+        }
+      },
+      "prompts": {
+        "title": "Reflektionsfrågor",
+        "prompt1": "Från 6 miljarder kilometers avstånd, vilka konflikter i ditt liv eller i världen verkar mest absurda? Vad önskar du att människor skulle sluta bråka om?",
+        "prompt2": "Om en utomjordisk intelligens upptäckte Voyager-fotografiet och Sagans ord, vad skulle de förstå om mänskligheten? Vad skulle de tycka om oss?",
+        "prompt3": "Med vetskapen om att vi är på ett 'dammkorn svävande i en solstråle', vad förtjänar egentligen din uppmärksamhet, energi och omsorg?",
+        "prompt4": "Hur förändrar åminnelsen av jordens kosmiska sammanhang din ansvarskänsla? Innebär obetydlighet meningslöshet, eller klargör det vad som verkligen betyder något?",
+        "prompt5": "Vad skulle krävas för att mänskligheten kollektivt skulle minnas detta perspektiv? Vilka system, övningar eller kulturella förändringar skulle kunna hjälpa oss att se oss själva från detta avstånd?"
+      },
+      "integration": {
+        "title": "Integrera övningen",
+        "regular": {
+          "title": "Månatlig kosmisk incheckning",
+          "description": "Återvänd till bilden av den bleka blå pricken och meditationen en gång i månaden. Lägg märke till hur ditt perspektiv förändras över tid. Vad verkade viktigt förra månaden? Vad spelar roll nu?"
+        },
+        "crisis": {
+          "title": "I stunder av konflikt",
+          "description": "När du är arg, orolig eller i konflikt med någon, zooma mentalt ut till 6 miljarder kilometer. Hur ser oenigheten ut därifrån? Förändrar det hur du vill svara?"
+        },
+        "share": {
+          "title": "Dela perspektivet",
+          "description": "Introducera andra till denna bild och meditation. Visa barn fotografiet. Diskutera det med vänner. Perspektivet från den bleka blå pricken är som mest kraftfullt när det delas."
+        },
+        "combine": {
+          "title": "Kombinera med andra övningar",
+          "description": "Den bleka blå pricken passar vackert ihop med meditationen 'vyn från ovan', övningen 'kosmisk tacksamhet' eller det 'universella beslutsfiltret'. Alla odlar liknande perspektivskiften."
+        }
+      },
+      "why": {
+        "title": "Varför detta är viktigt",
+        "paragraph1": "Den bleka blå pricken är mer än vacker – den är transformerande. Att se jorden från detta avstånd skalar bort de illusioner som orsakar så mycket lidande. Nationsgränser, som verkar så viktiga, är osynliga. Konflikter om landområden verkar absurda. Atmosfären som skyddar allt liv är knappt synlig, en påminnelse om vår bräcklighet.",
+        "paragraph2": "Detta perspektiv gör inte oss eller våra bekymmer meningslösa. Istället klargör det vad som förtjänar vår energi. Från 6 miljarder kilometers avstånd ser krig galet ut. Miljöförstöring ser ut som självmord. Men kärlek, vänlighet, nyfikenhet och skapandet av skönhet – detta förblir meningsfullt. Det är vad vi gör med vår korta tid på denna bleka blå prick.",
+        "paragraph3": "Sagans meditation slutar inte i nihilism utan i ansvar. Just för att vi är på en ensam fläck utan att några räddare kommer från någon annanstans, måste vi ta hand om varandra och vårt hem. Kosmisk obetydlighet ökar paradoxalt nog vår skyldighet att agera med visdom och medkänsla."
+      },
+      "related": {
+        "title": "Relaterat innehåll",
+        "overviewEffect": "Översiktseffekten",
+        "overviewEffectDesc": "Astronauters upplevelser av att se jorden från rymden",
+        "viewFromAbove": "Meditation: Vyn från ovan",
+        "viewFromAboveDesc": "Guidad övning i perspektivtagande",
+        "challenges": "Universella utmaningar",
+        "challengesDesc": "Vårt ansvar i detta kosmiska ögonblick"
+      }
     }
   },
   "footer": {

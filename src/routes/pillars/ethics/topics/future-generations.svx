@@ -1,0 +1,417 @@
+---
+title: Future generations
+description: Those who will exist after us deserve representation now—advocating for people who can't vote
+icon: 👶
+---
+
+# Future generations
+
+Right now, you're making decisions that will affect people who don't exist yet.
+
+The carbon you emit today will warm the planet for centuries. The policies you support (or don't) will shape societies your great-great-grandchildren inherit. The technologies being developed now will determine what kinds of lives are possible in 2100, 2200, and beyond.
+
+**Yet future generations have no voice.** They can't vote, can't protest, can't advocate for themselves. Their interests are systematically excluded from nearly every decision-making process.
+
+This is a profound moral and practical problem. How do we represent those who aren't yet here? How do we balance present needs with future wellbeing? And how do we avoid the tyranny of the present—where each generation consumes resources and creates problems for the next?
+
+## Why future generations matter
+
+### The non-identity problem
+
+Philosopher **Derek Parfit** identified a puzzle: future people don't exist yet, so how can we harm them?
+
+**The problem:** If we make different choices, different people will be born. The people who exist in a polluted future wouldn't exist in a clean future—they'd be entirely different individuals. So we can't say we harmed *them* by polluting, because they wouldn't exist otherwise.
+
+**Parfit's response:** Even though we can't harm specific individuals, we can create worse outcomes. A world of suffering is worse than a world of flourishing, regardless of which specific people inhabit it.
+
+**Practical implication:** We have obligations to make the future good, even though we don't know who will live there.
+
+### Temporal location is arbitrary
+
+**You happened to be born in the 21st century.** This is pure luck—you could have been born in 1825 or 2225.
+
+If temporal location is morally arbitrary (like race or gender), then **people in 2125 deserve the same moral consideration as people in 2025**. Their interests don't count less just because they're later.
+
+### The vastness of the future
+
+**How many future people might exist?**
+
+If humanity survives for:
+- Another 10,000 years (conservative): Hundreds of billions of people
+- Another million years (possible): Trillions of people
+- Becomes spacefaring (speculative): Potentially quadrillions
+
+**Most people who will ever live haven't been born yet.** The decisions we make now could affect more lives than the total number who have existed so far.
+
+**Implication:** Future people vastly outnumber present people. From a utilitarian perspective, their wellbeing should heavily outweigh present convenience.
+
+### Irreversible harms
+
+Some harms can't be undone:
+
+**Species extinction:** Once gone, a species is lost forever. Future generations will never see or benefit from these forms of life.
+
+**Climate change:** Carbon stays in the atmosphere for centuries. The climate we create now locks in conditions for hundreds of years.
+
+**Nuclear waste:** Remains hazardous for tens of thousands of years, requiring multigenerational stewardship.
+
+**Cultural loss:** Languages, knowledge systems, and traditions once lost are often irretrievable.
+
+**Technology lock-in:** Decisions about AI, genetic engineering, and other transformative technologies may be irreversible.
+
+### Precedent and reciprocity
+
+**We benefit from past sacrifices.** Previous generations built infrastructure, preserved knowledge, protected ecosystems, and fought for rights we now enjoy.
+
+Many explicitly did this *for us*—they planted trees whose shade they'd never sit under.
+
+**Reciprocity suggests:** We owe future generations the same consideration. It's a form of intergenerational contract—each generation inherits and then passes on, ideally in better condition.
+
+## Challenges in representing the future
+
+### Discount rates and time preference
+
+**Economic discounting:** Standard economic analysis applies "discount rates" to future benefits, making them worth less than present benefits.
+
+**Example:** At a 5% annual discount rate, a benefit 100 years from now is worth only 0.76% of its value today. Preventing $1 billion in damages in 2125 is "worth" only $7.6 million in present value.
+
+**Rationale:**
+- Money now can be invested to grow
+- Uncertainty increases with time
+- People naturally prefer present gratification
+
+**Problem:** This systematically undervalues the future. Climate change, nuclear waste disposal, and ecosystem collapse all become "economically rational" when future costs are heavily discounted.
+
+**Alternative approaches:**
+- Lower discount rates for intergenerational issues
+- Zero discounting for existential risks (you can't discount human extinction)
+- Declining discount rates (the distant future matters more than exponential discounting suggests)
+
+### Uncertainty and knowledge limits
+
+**We don't know:**
+- What future people will value
+- What technologies they'll have
+- What resources they'll need
+- How many people will exist
+
+**Risk of paternalism:** Might we impose our values on a future that has different priorities?
+
+**Response:** While specific preferences may differ, basic needs (clean air/water, stable climate, biodiversity, functioning ecosystems) are likely universal. We can focus on preserving options rather than determining outcomes.
+
+### Present needs vs. future needs
+
+**Objection:** "Why should I sacrifice for hypothetical future people when real people suffer now?"
+
+**Tension:** Resources devoted to the future can't be used for present problems—poverty, disease, inequality.
+
+**Response:** This is often a false dichotomy. Many pro-future actions also benefit the present:
+- Clean energy creates jobs and improves health
+- Ecosystem protection provides immediate benefits
+- Investing in education pays off in decades, not centuries
+- Preventing catastrophic risks protects both present and future
+
+**True tension:** Sometimes present sacrifice is necessary. But the question is how much, not whether.
+
+### Political incentives
+
+**Electoral cycles are short:** Politicians face re-election in 2-6 years. Long-term planning is politically costly.
+
+**Benefits now, costs later:** Policies that create immediate benefits but long-term costs are politically attractive (and common).
+
+**Concentrated present interests vs. diffuse future interests:** Present groups can organize and lobby. Future people can't.
+
+**Result:** Systematic bias toward short-term thinking in democratic systems.
+
+## Mechanisms for future representation
+
+How can we give future generations a voice?
+
+### Future generations commissioners
+
+**Wales (2015):** Created the world's first **Future Generations Commissioner for Wales**—an independent advocate ensuring government decisions consider long-term impacts.
+
+**Powers:**
+- Review legislation and policy for future impacts
+- Advise government departments
+- Investigate complaints
+- Promote public awareness
+
+**Seven wellbeing goals:** Including prosperous, resilient, healthier, more equal Wales—all with explicit future orientation.
+
+**Limitations:** Advisory, not binding. Can't veto decisions. Depends on political will.
+
+**But:** Normalizes long-term thinking, creates institutional pressure, provides framework for advocacy.
+
+### Hungary's Ombudsman for Future Generations
+
+**Hungary (2008-2012):** Brief experiment with a constitutional officer representing future generations.
+
+**Ended after political changes,** but demonstrated the concept's viability.
+
+### Parliamentary committees for the future
+
+**Finland:** Parliamentary Committee for the Future—permanent committee focused on long-term trends and futures studies.
+
+**Role:** Reviews government reports, commissions foresight studies, engages in futures-oriented policy dialogue.
+
+**Model:** Could be replicated elsewhere—embedding future thinking in legislative processes.
+
+### Long-term governance institutions
+
+**Global Governance Frameworks** has developed comprehensive models for long-term thinking:
+
+**Deep Time & Relativistic Governance Framework:** Addresses how institutions can think in centuries and millennia rather than electoral cycles.
+
+**Key elements:**
+- Constitutional provisions requiring long-term impact assessments
+- Mandatory future generations impact statements for major policies
+- Intergenerational equity principles in law
+- Long-term budget allocations (infrastructure, research, preservation)
+
+**Example mechanisms:**
+- Citizen assemblies representing future interests
+- Youth councils with formal advisory power
+- Judicial review for intergenerational harm
+- Long-term planning horizons (50-100 years) for critical decisions
+
+### Trusts and guardianships
+
+**Legal innovation:** Establish trusts where future generations are beneficiaries.
+
+**Example applications:**
+- Environmental trusts (protecting resources for future use)
+- Cultural preservation trusts
+- Sovereign wealth funds (investing resource revenues for future generations)
+
+**Alaska Permanent Fund:** Oil revenue invested for long-term benefit, distributing dividends to all residents. Balances present and future claims on resources.
+
+### Moral Markets and future-focused incentives
+
+**Prediction markets for long-term outcomes:** Create financial incentives for accurate long-term forecasting.
+
+**Long-term stock exchanges:** Companies valued partly on 50-100 year sustainability metrics, not just quarterly earnings.
+
+**Impact bonds:** Financial instruments where returns depend on achieving long-term outcomes (education, health, environment).
+
+## Ethical frameworks
+
+### The veil of ignorance (John Rawls)
+
+**Thought experiment:** Imagine choosing principles of justice without knowing when you'll be born—1925, 2025, or 2225.
+
+**Behind the veil:** You don't know your temporal location. What principles would you choose?
+
+**Result:** You'd want protections against your generation being exploited by earlier generations. You'd support:
+- Sustainability principles
+- Intergenerational equity
+- Preservation of options and resources
+- Limits on irreversible harms
+
+**Implication:** Justice requires considering future interests as if they were your own.
+
+### Just savings principle (Rawls)
+
+**Principle:** Each generation should save an appropriate amount for future generations—leaving them at least as well off as themselves.
+
+**Application:**
+- Preserve natural capital (ecosystems, resources)
+- Invest in human capital (education, knowledge)
+- Maintain infrastructure and institutions
+- Avoid debts (financial, ecological) that burden the future
+
+**Challenge:** How much saving is "appropriate"? How do we balance present needs with future provision?
+
+### Sustainability frameworks
+
+**Brundtland definition (1987):** "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+
+**Three pillars:**
+1. Environmental sustainability (don't degrade Earth's systems)
+2. Economic sustainability (maintain productive capacity)
+3. Social sustainability (preserve social cohesion and justice)
+
+**Planetary boundaries:** Scientific framework identifying nine Earth system processes that must remain stable for human flourishing. Transgressing boundaries threatens future wellbeing.
+
+**Strong vs. weak sustainability:**
+- **Weak:** Natural capital can be substituted with manufactured capital (technology can replace nature)
+- **Strong:** Some natural capital is irreplaceable (you can't substitute biodiversity or climate stability)
+
+### The seventh generation principle
+
+**Indigenous wisdom:** Haudenosaunee (Iroquois) Confederacy's principle: Consider the impact of decisions on the seventh generation into the future (~140 years).
+
+**Not literal:** The number seven is symbolic. The principle is: **Think about descendants you'll never meet.**
+
+**Application:**
+- Would this decision benefit or harm people 140 years from now?
+- Are we being good ancestors?
+- What legacy are we creating?
+
+### Longtermism (Oxford philosophers)
+
+**Claim:** Positively influencing the long-term future is a key moral priority of our time, potentially the most important priority.
+
+**Reasoning:**
+- Future people vastly outnumber present people
+- We can significantly affect long-term outcomes
+- The stakes are enormous (existential risks, trajectory of civilization)
+
+**Focus:** Reducing existential risks (AI alignment, nuclear war, pandemics, climate tipping points) that could prevent flourishing futures.
+
+**Critique:** Risk of neglecting present suffering for speculative future benefits. How do we balance immediate needs with distant possibilities?
+
+## Existential risks and trajectory changes
+
+### Existential risks
+
+**Definition:** Risks that threaten human extinction or permanent civilization collapse.
+
+**Major risks:**
+- **Unaligned AI:** Superintelligent systems pursuing goals incompatible with human flourishing
+- **Nuclear war:** Particularly nuclear winter scenarios
+- **Engineered pandemics:** Biotechnology enabling catastrophic bioweapons
+- **Climate tipping points:** Runaway feedback loops making Earth uninhabitable
+- **Asteroid impact:** Low probability but high consequence
+
+**Future generations perspective:** These risks eliminate not just present people but all potential future people. The moral stakes are astronomical.
+
+### Trajectory changes
+
+**Not just survival—flourishing:** Some decisions don't risk extinction but shape what kind of future is possible.
+
+**Examples:**
+- **AI governance:** Will AI be aligned with human values, or will it concentrate power and deepen inequality?
+- **Space exploration:** Will we become multiplanetary, or remain confined to Earth?
+- **Genetic engineering:** Will we enhance human capacities, and if so, equitably or only for elites?
+- **Global governance:** Will we develop effective planetary coordination, or remain fragmented?
+
+**Lock-in:** Some choices are difficult or impossible to reverse. Once AI is smarter than humans, course-correction becomes difficult. Once genetic modifications are widespread, rollback is infeasible.
+
+**Implication:** We're in a critical period where decisions have unusually large and lasting effects.
+
+## Practical actions
+
+### Individual level
+
+**Long-term thinking practices:**
+- **Ask "seventh generation" questions:** How will this choice affect people 140 years from now?
+- **Support long-term causes:** Climate action, existential risk reduction, education, preservation
+- **Create for posterity:** Art, writing, knowledge, gardens—things that outlive you
+- **Teach the long view:** Help children and youth develop future-oriented thinking
+
+**Consumption and lifestyle:**
+- **Reduce carbon footprint:** The clearest direct impact on future generations
+- **Avoid irreversible harms:** Choose products and practices with long-term sustainability
+- **Invest ethically:** Put money into companies and funds prioritizing long-term value, not just short-term profits
+
+### Advocacy and political action
+
+**Support future-focused policies:**
+- Carbon pricing and climate action
+- Renewable energy and sustainability transitions
+- Long-term infrastructure investment
+- Education and research funding
+- Protection of biodiversity and ecosystems
+
+**Demand institutional reform:**
+- Future generations commissioners or ombudsmen
+- Mandatory long-term impact assessments
+- Youth representation in decision-making
+- Lower discount rates for intergenerational issues
+
+**Vote and organize:**
+- Support politicians with long-term vision
+- Join advocacy organizations focused on future wellbeing
+- Participate in deliberative processes (citizen assemblies, forums)
+
+### Systemic change
+
+**Global Governance Frameworks** offers models for:
+- **Constitutional provisions:** Enshrining intergenerational equity in law
+- **Governance innovations:** Structures that resist short-term pressures
+- **Accountability mechanisms:** Holding present generations responsible for future impacts
+
+**Business and economic reform:**
+- Long-term value accounting (beyond quarterly earnings)
+- B Corporations and benefit corporations (legally required to consider stakeholders, not just shareholders)
+- Intergenerational equity bonds and investment vehicles
+
+### Cultural shifts
+
+**Narrative change:** From "live in the moment" and "YOLO" to "be a good ancestor."
+
+**Celebrate long-term thinking:**
+- Honor those who plant trees they won't sit under
+- Tell stories of foresight and sacrifice for future benefit
+- Recognize that caring about the future is morally serious, not just idealistic
+
+**Educational reform:** Teach systems thinking, long-term consequences, intergenerational ethics, and futures studies in schools.
+
+## The universal perspective
+
+From a universal standpoint, future generations are:
+
+**Us, later:** You're not fundamentally different from your descendants. Same basic needs, same capacity for suffering and flourishing. Temporal location is arbitrary.
+
+**Part of the whole:** The human story doesn't end with us. We're one chapter in an ongoing narrative. Our role is to ensure there are many more chapters.
+
+**Dependent on us:** Future people are radically vulnerable to our choices. They depend on us completely, yet have no power over us. This asymmetry creates profound responsibility.
+
+**The majority:** Most people who will ever live haven't been born yet. In any utilitarian calculus, they should matter enormously.
+
+**Witnesses to our choices:** Future generations will look back at us. What will they see? A generation that rose to challenges, or one that chose comfort over responsibility?
+
+## The long now
+
+**The Long Now Foundation** uses five-digit years (02025 instead of 2025) to emphasize our place in a 10,000-year frame.
+
+They ask: **What are you doing that will matter in 10,000 years?**
+
+**Most of our concerns won't:** Celebrity gossip, stock fluctuations, political scandals—ephemeral.
+
+**Some things will:**
+- Climate stability
+- Biodiversity
+- Accumulated knowledge and wisdom
+- Institutions that endure
+- Art and culture that transcends time
+
+**The question reframes priorities:** What if we measured success not in years but in generations? Not in profit but in legacy?
+
+## Conclusion: Being good ancestors
+
+**The challenge:** Live well now while ensuring future generations can also live well.
+
+**The tension:** Real. Sometimes present sacrifice is necessary. But often, good ancestors and good people today want the same things—clean air, stable climate, thriving ecosystems, just societies.
+
+**The opportunity:** We're the first generations fully aware of our long-term impacts and the first with tools to model and plan for deep time. We can be the generation that learned to think long-term.
+
+**The choice:** Be ancestors future generations thank, or ones they curse. The choice is made daily, in how we vote, what we buy, what we build, what we teach, and what we protect.
+
+**The call:** Plant trees whose shade you'll never enjoy. Build systems that outlast you. Protect things you'll never see. Teach wisdom you learned too late.
+
+This is what it means to live with universal perspective—recognizing that your life is a brief moment in a vast story, and choosing to make it a moment that helps, not harms, the chapters yet to come.
+
+## Further exploration
+
+**Key readings:**
+- *The Precipice* by Toby Ord (existential risks)
+- *What We Owe The Future* by William MacAskill (longtermism)
+- *The Clock of the Long Now* by Stewart Brand
+- *Future Ethics* edited by Cécile Fabre and others
+
+**Organizations:**
+- The Long Now Foundation
+- Future of Humanity Institute (Oxford)
+- Centre for the Study of Existential Risk (Cambridge)
+- Future Generations Commissioner for Wales
+
+**Related topics:**
+- [Deep time](/explore/deep-time) - Geological timescales and perspective
+- [Universal challenges](/pillars/challenges) - Existential risks we face
+- [Global governance](/pillars/ethics/topics/global-governance) - Institutions for long-term thinking
+
+**Frameworks:**
+- [Deep Time & Relativistic Governance](https://globalgovernanceframeworks.org) - GGF's framework for long-term thinking
+- [Planetary boundaries](/tools/planetary-boundaries) - Earth's life-support systems
