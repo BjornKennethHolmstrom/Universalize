@@ -12,9 +12,18 @@ const config = {
     mdsvex(mdsvexConfig)
   ],
 
-  kit: {
-    adapter: adapter()
-  }
+	kit: {
+		adapter: adapter({
+			pages: 'build',
+			assets: 'build',
+			fallback: undefined,
+			precompress: false,
+			strict: true
+		}),
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '' : ''
+		}
+	}
 };
 
 export default config;
