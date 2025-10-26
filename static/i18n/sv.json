@@ -11,7 +11,9 @@
     "tools": "Verktyg",
     "practices": "Praktiker",
     "about": "Om",
-    "relatedSites": "Relaterade webbplatser"
+    "relatedSites": "Relaterade webbplatser",
+    "resources": "Resurser",
+    "contribute": "Bidra"
   },
   "hero": {
     "title": "Universalize",
@@ -1786,7 +1788,8 @@
       }
     },
     "status": {
-      "comingSoon": "Kommer snart"
+      "comingSoon": "Kommer snart",
+      "explore": "Utforska"
     },
     "categories": {
       "title": "Verktygskategorier",
@@ -1810,6 +1813,1734 @@
     "quote": {
       "text": "Om du vill göra en äppelpaj från grunden måste du först uppfinna universum.",
       "author": "Carl Sagan"
+    }
+  },
+  "decisionFilter": {
+    "meta": {
+      "title": "Universellt beslutsfilter",
+      "description": "Ett ramverk för att utvärdera val över tidsskalor och perspektiv – från det omedelbara till det kosmiska."
+    },
+    "hero": {
+      "title": "Universellt beslutsfilter",
+      "subtitle": "Fatta klokare beslut genom att vidga ditt perspektiv",
+      "description": "Inför ett beslut frågar vi oss oftast: 'Vad är bäst för mig, just nu?' Det universella beslutsfiltret bjuder in dig att utvidga den frågan över tidsskalor och perspektiv – från dina omedelbara behov till kosmiska implikationer."
+    },
+    "what": {
+      "title": "Vad är det universella beslutsfiltret?",
+      "paragraph1": "Det universella beslutsfiltret är ett strukturerat ramverk för att utvärdera val genom att systematiskt betrakta dem från flera perspektiv: ditt omedelbara egenintresse, din gemenskap, det bredare ekosystemet, framtida generationer, en objektiv yttre observatör och den kosmiska skalan.",
+      "paragraph2": "Det är utformat för att motverka våra naturliga böjelser för kortsiktigt tänkande och snävt egenintresse – inte genom att förneka dessa behov, utan genom att placera dem i en mer komplett bild av verkligheten. Ofta står det som verkar bra för 'mig just nu' i konflikt med vad som är bra för 'alla, på lång sikt'. Det här verktyget hjälper dig att se och navigera dessa spänningar.",
+      "benefits": {
+        "time": {
+          "title": "Utvidga din tidsram",
+          "description": "Gå bortom omedelbar tillfredsställelse för att överväga långsiktiga konsekvenser över år, årtionden och generationer."
+        },
+        "perspective": {
+          "title": "Flera synvinklar",
+          "description": "Se ditt val från andras perspektiv – mänskliga och icke-mänskliga, nuvarande och framtida."
+        },
+        "wisdom": {
+          "title": "Informerad visdom",
+          "description": "Fatta beslut som ligger i linje med dina djupaste värderingar och helhetens blomstrande."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Så fungerar det: Sex perspektiv"
+    },
+    "perspectives": {
+      "self": {
+        "title": "Omedelbart jag",
+        "question": "Hur påverkar detta beslut dig personligen på kort sikt?",
+        "prompts": [
+          "Vad är mina omedelbara behov, önskningar och farhågor?",
+          "Vad vinner eller förlorar jag inom nästa vecka, månad eller år?",
+          "Hur kommer detta att påverka mitt välbefinnande, mina relationer och mina mål?"
+        ]
+      },
+      "community": {
+        "title": "Gemenskap & relationer",
+        "question": "Hur påverkar detta beslut din familj, dina vänner och din gemenskap?",
+        "prompts": [
+          "Vem mer påverkas av detta val?",
+          "Stärker eller försvagar detta mina relationer?",
+          "Hur påverkar detta de gemenskaper jag är en del av?"
+        ]
+      },
+      "ecosystem": {
+        "title": "Ekosystem & planet",
+        "question": "Vilka är miljömässiga och systemiska konsekvenserna av detta val?",
+        "prompts": [
+          "Vilka resurser förbrukar eller skyddar detta?",
+          "Vad är koldioxidavtrycket? Avfallet som genereras?",
+          "Hur påverkar detta biologisk mångfald, ekosystem eller planetens hälsa?"
+        ]
+      },
+      "future": {
+        "title": "Framtida generationer",
+        "question": "Hur kommer detta beslut att se ut om 10, 100 eller 1 000 år?",
+        "prompts": [
+          "Vilket prejudikat skapar jag?",
+          "Kommer mina efterkommande att vara tacksamma eller ångerfulla?",
+          "Skapar eller omöjliggör detta framtida möjligheter?"
+        ]
+      },
+      "alien": {
+        "title": "Objektiv observatör",
+        "question": "Hur skulle en opartisk yttre observatör se på detta val?",
+        "prompts": [
+          "Om en utomjordisk antropolog studerade detta beslut, vad skulle de dra för slutsats?",
+          "Är jag rationell eller rationaliserar jag?",
+          "Vad skulle jag ge för råd till en främling som stod inför samma val?"
+        ]
+      },
+      "cosmic": {
+        "title": "Kosmisk skala",
+        "question": "I universums stora hela, vad representerar detta beslut?",
+        "prompts": [
+          "Hur betydelsefullt är detta i kontexten av miljarder år av kosmisk evolution?",
+          "Bidrar detta till eller förringar detta medvetande, komplexitet och skönhet i universum?",
+          "Om detta är mitt sista stora val innan jag dör, är det i linje med vad som betyder mest?"
+        ]
+      }
+    },
+    "start": {
+      "title": "Påbörja din reflektion",
+      "label": "Vilket beslut överväger du?",
+      "placeholder": "Beskriv valet du står inför. Var specifik. Exempel: 'Ska jag acceptera detta jobberbjudande?', 'Ska vi skaffa ett till barn?', 'Ska jag investera i detta företag?', 'Ska jag säga ifrån om den här frågan?'",
+      "button": "Påbörja reflektion",
+      "tips": {
+        "title": "Tips för bästa resultat",
+        "tip1": "Var ärlig mot dig själv – det här är för dig, inte för någon annan.",
+        "tip2": "Skynda inte. Ta 2-3 minuter per perspektiv.",
+        "tip3": "Skriv fritt. Det finns inga fel svar.",
+        "tip4": "Du kan alltid komma tillbaka och revidera."
+      }
+    },
+    "progress": {
+      "step": "Steg",
+      "of": "av"
+    },
+    "yourDecision": "Ditt beslut",
+    "yourThoughts": "Dina tankar",
+    "answerPlaceholder": "Reflektera djupt över detta perspektiv. Vilka insikter dyker upp när du överväger ditt beslut från denna synvinkel?",
+    "reflectionPrompts": "Reflektionsfrågor",
+    "navigation": {
+      "previous": "Föregående",
+      "next": "Nästa perspektiv",
+      "finish": "Visa resultat"
+    },
+    "results": {
+      "title": "Din universella reflektion",
+      "subtitle": "Du har granskat ditt beslut från sex olika perspektiv. Sammanfatta nu vad du har lärt dig.",
+      "yourDecision": "Ditt beslut",
+      "perspectivesTitle": "Dina perspektiv",
+      "synthesis": {
+        "title": "Sammanfattning och nästa steg",
+        "paragraph1": "Gå igenom dina reflektioner ovan. Lägg märke till mönster, spänningar och överensstämmelser. Fundera över:",
+        "question1": "Vilket perspektiv avslöjade den mest överraskande insikten?",
+        "question2": "Var står dina kortsiktiga och långsiktiga intressen i konflikt eller i linje?",
+        "question3": "Vad skulle behöva ändras för att detta beslut ska tjäna alla perspektiv?",
+        "question4": "Baserat på denna helhetsbild, vad känns som det klokaste valet?"
+      },
+      "actions": {
+        "newDecision": "Reflektera över ett nytt beslut",
+        "print": "Skriv ut denna reflektion"
+      },
+      "shareNote": "Överväg att skriva dagbok om denna reflektion eller diskutera den med någon du litar på."
+    },
+    "examples": {
+      "title": "Exempel på tillämpningar",
+      "labels": {
+        "immediate": "Omedelbart jag",
+        "future": "Framtida generationer",
+        "ecosystem": "Ekosystem",
+        "community": "Gemenskap",
+        "cosmic": "Kosmisk skala",
+        "alien": "Objektiv observatör"
+      },
+      "career": {
+        "title": "Beslut om karriärbyte",
+        "description": "Ska jag lämna mitt stabila företagsjobb för att ägna mig åt klimataktivism på heltid?",
+        "immediate": "Ekonomisk osäkerhet, möjlig stress, men i linje med mina värderingar.",
+        "future": "Om klimatarbetet lyckas, lever mina efterkommande på en beboelig planet.",
+        "ecosystem": "Direkt positiv påverkan om jag är effektiv; alternativkostnad om jag inte är det."
+      },
+      "purchase": {
+        "title": "Större inköp",
+        "description": "Ska jag köpa en ny elbil eller fortsätta köra min gamla bensinbil?",
+        "immediate": "Högre initial kostnad, lägre bränslekostnader, miljömässig tillfredsställelse.",
+        "community": "Stödjer elbilindustrin, föregår med gott exempel för grannar.",
+        "cosmic": "Litet individuellt bidrag till planetär omställning, symbolisk röst för framtiden."
+      },
+      "business": {
+        "title": "Affärsstrategi",
+        "description": "Ska vårt företag prioritera snabb tillväxt eller hållbara metoder?",
+        "immediate": "Tillväxt ger intäkter och marknadsandelar; hållbarhet kostar mer nu.",
+        "future": "Hållbara metoder bygger långsiktig motståndskraft och rykte.",
+        "alien": "En observatör skulle kunna notera: kortsiktigt tänkande ledde många tidigare civilisationer till kollaps."
+      }
+    },
+    "quote": {
+      "text": "Vi är kallade att vara framtidens arkitekter, inte dess offer.",
+      "author": "R. Buckminster Fuller"
+    }
+  },
+  "cosmicAddress": {
+    "meta": {
+      "title": "Din kosmiska adress",
+      "description": "Hitta din plats över nästlade skalor – från din kropp till det observerbara universumet. Utforska din plats i den kosmiska hierarkin."
+    },
+    "hero": {
+      "title": "Din kosmiska adress",
+      "subtitle": "Var i universum befinner du dig?",
+      "description": "Din adress är inte bara ett gatunamn och en stad. Det är en nästlad uppsättning platser över åtta verklighetsskalor, från dina celler till det observerbara universumet. Låt oss zooma ut och hitta din plats i kosmos."
+    },
+    "progress": {
+      "level": "Nivå",
+      "of": "av"
+    },
+    "yourAddress": "Din adress på den här skalan",
+    "amazingFacts": "Fantastiska fakta",
+    "navigation": {
+      "zoomIn": "Zooma in",
+      "zoomOut": "Zooma ut",
+      "restart": "Börja om"
+    },
+    "keyboardHint": "Använd piltangenterna för att navigera",
+    "levels": {
+      "body": {
+        "title": "Din kropp",
+        "scale": "~2 meter",
+        "description": "Du är ett komplext biologiskt system som innehåller cirka 37 biljoner celler, var och en ett universum av molekylära maskiner. Din kropp är ett tillfälligt arrangemang av atomer som har funnits sedan tidernas begynnelse.",
+        "address": "Du → Homo sapiens → Cellulär organism",
+        "facts": [
+          "Du består av cirka 7 oktiljoner atomer (7 000 000 000 000 000 000 000 000 000)",
+          "99 % av din kropps atomer byts ut årligen – du är bokstavligen inte samma person som du var förra året",
+          "Ditt DNA, om det rullades ut, skulle sträcka sig från jorden till solen och tillbaka 300 gånger"
+        ]
+      },
+      "location": {
+        "title": "Din plats",
+        "scale": "~10-100 meter",
+        "description": "Du existerar på en specifik punkt på jordens yta. Denna byggnad, detta rum, denna exakta plats i rymden är där 13,8 miljarder år av kosmisk evolution för närvarande har placerat dig.",
+        "address": "Din nuvarande plats → Byggnad → Gata",
+        "facts": [
+          "Din exakta plats på jorden har aldrig existerat förut och kommer aldrig att existera igen (jorden rör sig genom rymden)",
+          "Marken under dig snurrar i ~1 600 km/h (vid ekvatorn) på grund av jordens rotation",
+          "Varje plats du någonsin har varit på existerar samtidigt – bara vid olika punkter i rumtiden"
+        ]
+      },
+      "city": {
+        "title": "Din stad/region",
+        "scale": "~10-100 kilometer",
+        "description": "Du är en del av en mänsklig bosättning – en koncentration av civilisation, kultur och kollektiv mänsklig aktivitet. Städer är mänsklighetens mest komplexa skapelser, invecklade nätverk av människor, infrastruktur och idéer.",
+        "address": "Din plats → Stad → Region/Län → Land",
+        "facts": [
+          "Städer upptar mindre än 3 % av jordens landyta men hyser över 55 % av mänskligheten",
+          "Staden du befinner dig i är kopplad till alla andra städer genom handel, kommunikation och delad atmosfär",
+          "Stadsområden producerar ~80 % av globala BNP och ~70 % av koldioxidutsläppen"
+        ]
+      },
+      "earth": {
+        "title": "Planeten jorden",
+        "scale": "12 742 km i diameter",
+        "description": "Du bor på en jordplanet som kretsar kring en medelstor stjärna. Jorden är den enda kända värld som hyser liv – en blek blå prick svävande i en solstråle, vårt enda hem.",
+        "address": "Jorden → Tredje planeten från solen → Jordplanet",
+        "facts": [
+          "Jorden är 4,54 miljarder år gammal – om det vore 24 timmar, skulle hela mänsklighetens historia vara de sista 4 sekunderna",
+          "Sannolikheten för jordens existens med förutsättningar för liv är häpnadsväckande låg – vi har en otrolig tur",
+          "Du färdas i 107 000 km/h (67 000 mph) när jorden kretsar kring solen"
+        ]
+      },
+      "solar": {
+        "title": "Solsystemet",
+        "scale": "~287 miljarder km i diameter",
+        "description": "Du bor på den tredje planeten i ett system med åtta planeter som kretsar kring en gul dvärgstjärna. Vårt solsystem bildades för 4,6 miljarder år sedan ur ett moln av gas och damm.",
+        "address": "Solsystemet → Solens planetsystem → Inre solsystemet",
+        "facts": [
+          "Solen innehåller 99,86 % av solsystemets massa – allt annat är i princip ett avrundningsfel",
+          "Vårt solsystem rör sig i 828 000 km/h (514 000 mph) runt galaxens centrum",
+          "Det finns mer än 1 miljon asteroider och ~3 500 kometer i vårt solsystem"
+        ]
+      },
+      "milkyway": {
+        "title": "Vintergatan",
+        "scale": "~100 000 ljusår i diameter",
+        "description": "Du befinner dig i en spiralgalax som innehåller 200–400 miljarder stjärnor. Vår sol ligger i Orionarmen, cirka 26 000 ljusår från galaxens centrum. Vintergatan är ditt kosmiska grannskap.",
+        "address": "Vintergatan → Spiralgalax → Orionarmen → Lokala bubblan",
+        "facts": [
+          "Vintergatan är minst 13,6 miljarder år gammal – nästan lika gammal som universum självt",
+          "Varje stjärna du ser på natthimlen finns i Vintergatan – andra galaxer ser ut som svaga fläckar",
+          "I centrum finns ett supermassivt svart hål (Sagittarius A*) med 4 miljoner gånger solens massa"
+        ]
+      },
+      "localgroup": {
+        "title": "Lokala galaxhopen",
+        "scale": "~10 miljoner ljusår i diameter",
+        "description": "Vintergatan är en del av en samling av cirka 80 galaxer som kallas Lokala galaxhopen. Vår närmaste stora granne är Andromeda, som kommer att kollidera med oss om ~4,5 miljarder år.",
+        "address": "Lokala galaxhopen → Galaxhop → Virgosuperhopen → Laniakeasuperhopen",
+        "facts": [
+          "Lokala galaxhopen innehåller totalt ~3 biljoner stjärnor fördelade på alla sina galaxer",
+          "Andromeda närmar sig oss med 400 000 km/h – men kollisionen kommer inte att påverka vårt solsystem",
+          "Större delen av Lokala galaxhopens massa är mörk materia – vi kan bara se cirka 15 % av vad som faktiskt finns där"
+        ]
+      },
+      "universe": {
+        "title": "Observerbara universumet",
+        "scale": "93 miljarder ljusår i diameter",
+        "description": "Du existerar i ett universum som innehåller minst 2 biljoner galaxer, var och en med hundratals miljarder stjärnor. Det observerbara universumet är allt vi kan se – men hela universum kan vara oändligt mycket större.",
+        "address": "Observerbara universumet → All rymd och tid → Allt som existerar",
+        "facts": [
+          "Universum är 13,8 miljarder år gammalt – det har en födelsedag: Big Bang",
+          "Det finns fler stjärnor i universum än sandkorn på alla jordens stränder (~10²⁴)",
+          "95 % av universum är 'mörkt' – mörk materia (27 %) och mörk energi (68 %). Vi förstår bara 5 % av verkligheten."
+        ]
+      }
+    },
+    "complete": {
+      "title": "Din fullständiga kosmiska adress",
+      "message": "Från atomer till kosmos – du existerar på varje skala samtidigt. Varje nivå innehåller och finns i andra. Du är både oändligt liten och kosmiskt betydelsefull."
+    },
+    "understanding": {
+      "title": "Förstå din kosmiska adress",
+      "paragraph1": "Vad innebär det att ha en kosmisk adress? Det är en påminnelse om att du inte är separerad från universum – du är djupt inbäddad i det och deltar i dess struktur på varje skala.",
+      "paragraph2": "Varje nivå av din adress är verklig och viktig. Du är samtidigt en samling celler, en person i en gemenskap, en medborgare på jorden, en passagerare på en planet, en invånare i en galax och en medvetandepunkt i ett kosmos som vecklas ut.",
+      "paragraph3": "Denna nästlade struktur avslöjar något djupgående: du kan inte reduceras till en enda skala. Du är inte *bara* atomer, och du är inte *bara* en del av universum. Du är universum, tillfälligt organiserat i en form som kan begrunda sig självt.",
+      "nested": {
+        "title": "Nästlade hierarkier",
+        "description": "Varje nivå innehåller de föregående. Din kropp innehåller organ, organ innehåller celler, celler innehåller molekyler, molekyler innehåller atomer. På samma sätt innehåller jorden dig, solsystemet innehåller jorden, och så vidare."
+      },
+      "connected": {
+        "title": "Sammanlänkad över skalor",
+        "description": "Förändringar på en nivå påverkar andra. Dina tankar (neural nivå) påverkar din hälsa (kroppsnivå) och dina handlingar (social nivå). Klimatförändringar (planetär nivå) påverkar ekosystem (regional nivå) vilket påverkar enskilda organismer."
+      }
+    },
+    "reflection": {
+      "title": "Reflektioner över din kosmiska adress",
+      "questions": {
+        "belonging": "Var känner du starkast att du hör hemma?",
+        "perspective": "Hur förändrar kunskapen om din kosmiska adress ditt perspektiv?",
+        "responsibility": "Vilket ansvar följer med att existera på varje skala?",
+        "significance": "Får den kosmiska skalan dig att känna dig obetydlig eller djupt sammankopplad?"
+      },
+      "answers": {
+        "belonging": "De flesta känner starkast tillhörighet på kropps-, familje- eller gemenskapsnivå. Ändå hör du lika mycket hemma på alla skalor – från atomer till galaxer. Detta är ditt arv.",
+        "perspective": "Att förstå din nästlade existens kan skifta från 'Jag är en person som har problem' till 'Jag är universum som tillfälligt upplever sig självt som en person som navigerar utmaningar.' Problem försvinner inte, men sammanhanget vidgas.",
+        "responsibility": "På kroppsnivå: ta hand om din hälsa. Gemenskapsnivå: bidra till kollektivt välbefinnande. Planetär nivå: agera som jordens medvetna förvaltare. Kosmisk nivå: delta medvetet i universums utveckling.",
+        "significance": "Både och. Du är mikroskopiskt liten i kosmisk skala – men du är också omöjligt komplex, medveten och kapabel att förstå den skalan. Universum blev medvetet om sig självt genom dig. Det är betydelsefullt."
+      }
+    },
+    "quote": {
+      "text": "Vi är ett sätt för kosmos att känna sig självt.",
+      "author": "Carl Sagan"
+    },
+    "related": {
+      "title": "Utforska relaterade verktyg",
+      "cosmicZoom": {
+        "title": "Kosmisk zoom",
+        "description": "Upplev hela skalan från Plancklängden till det observerbara universumet"
+      },
+      "deepTime": {
+        "title": "Djuptidsvandrare",
+        "description": "Res genom jordens 4,5 miljarder år långa historia"
+      },
+      "overviewEffect": {
+        "title": "Översiktseffekten",
+        "description": "Se jorden från rymden och förändra ditt perspektiv"
+      }
+    }
+  },
+  "deepTime": {
+    "meta": {
+      "title": "Djuptidsvandrare",
+      "description": "Res genom jordens 4,5 miljarder år långa historia. Upplev geologiska tidsskalor och se den mänskliga civilisationen i sitt rätta kosmiska sammanhang."
+    },
+    "hero": {
+      "title": "Djuptidsvandrare",
+      "subtitle": "Resa genom jordens 4,5 miljarder år",
+      "description": "Mänsklig civilisation utgör de sista 0,003 % av jordens historia. Hela den nedtecknade historien skulle rymmas inom den sista 0,1 sekunden av en 24-timmarsdag. För att förstå vår plats måste vi greppa den ofantliga djupa tiden."
+    },
+    "visualTimeline": {
+      "title": "Jordens tidslinje (logaritmisk skala)",
+      "start": "4,54 miljarder år sedan",
+      "end": "Idag",
+      "note": "Tidslinjen använder en logaritmisk skala för bättre visualisering – varje eras bredd representerar relativ betydelse, inte exakt varaktighet"
+    },
+    "progress": {
+      "era": "Era",
+      "of": "av"
+    },
+    "keyEvents": "Huvudhändelser",
+    "navigation": {
+      "earlier": "Tidigare era",
+      "later": "Senare era",
+      "restart": "Tillbaka till början"
+    },
+    "keyboardHint": "Använd piltangenterna för att navigera genom tiden",
+    "eras": {
+      "formation": {
+        "title": "Hadeikum & tidig jord",
+        "duration": "~500 miljoner år",
+        "description": "Jorden bildas ur solnebulosan – en virvlande skiva av gas och damm. Under de första miljard åren är vår planet ett helveteslandskap: smält, bombarderad av asteroider, fientlig mot allt liv vi kan föreställa oss. Ändå är detta våld nödvändigt – det för hit vatten, organiserar grundämnen och skapar så småningom förutsättningar för kemi att bli biologi.",
+        "events": [
+          {
+            "name": "Jorden bildas",
+            "time": "4,54 miljarder år sedan",
+            "description": "Gravitationen drar samman material från solnebulosan. Jorden börjar som ett smält klot, med en yttemperatur på över 1 200 °C."
+          },
+          {
+            "name": "Månen bildas",
+            "time": "4,51 miljarder år sedan",
+            "description": "Ett objekt i Mars-storlek (Theia) kolliderar med jorden. Resterna samlas och bildar månen. Denna kollision lutar jordens axel, vilket ger oss årstider."
+          },
+          {
+            "name": "Haven uppstår",
+            "time": "4,4 miljarder år sedan",
+            "description": "Jorden svalnar tillräckligt för att vattenånga ska kondensera. De första haven bildas. Vattnet kom via kometer och asteroider – vi är gjorda av kosmisk is."
+          }
+        ]
+      },
+      "archean": {
+        "title": "Arkeikum (eon)",
+        "duration": "~1,5 miljarder år",
+        "description": "Livet börjar! Encelliga organismer dyker upp i jordens hav. I nästan 2 miljarder år består livet enbart av mikrober – men dessa mikrober omvandlar planeten och lägger grunden för allt som följer. Det är nu biokemin uppfinner fotosyntesen, den viktigaste uppfinningen i jordens historia.",
+        "events": [
+          {
+            "name": "Första livet",
+            "time": "~3,8 miljarder år sedan",
+            "description": "Självreplikerande molekyler uppstår i hydrotermiska källor eller tidvattenspölar. Livet uppstår – kemi blir biologi. Allt levande idag härstammar från dessa första celler."
+          },
+          {
+            "name": "Fotosyntesen utvecklas",
+            "time": "~3,5 miljarder år sedan",
+            "description": "Cyanobakterier lär sig att skörda solljus och producerar syre som avfall. Detta kommer så småningom att förgifta det mesta befintliga livet men möjliggöra komplexa organismer."
+          },
+          {
+            "name": "Stromatoliter",
+            "time": "~3,0 miljarder år sedan",
+            "description": "Skiktade strukturer byggda av bakterier blir vanliga. Vissa finns fortfarande idag i Australien – levande fossil som kopplar oss till det djupa förflutna."
+          }
+        ]
+      },
+      "proterozoic": {
+        "title": "Proterozoikum (eon)",
+        "duration": "~2 miljarder år",
+        "description": "Stora syrekatastrofen omvandlar jordens atmosfär. Syre – dödligt gift för tidigt liv – ackumuleras och möjliggör nya livsformer. Komplexa celler utvecklas. Flercelligt liv uppstår. Jorden fryser helt flera gånger ('Snöbollsjorden') och tinar sedan. Detta är den långa förberedelsen för den kommande explosionen av komplext liv.",
+        "events": [
+          {
+            "name": "Stora syrekatastrofen",
+            "time": "~2,4 miljarder år sedan",
+            "description": "Syre når 1 % av atmosfären. Det mesta anaeroba livet dör ut – jordens första massutdöende. Men syre möjliggör aerob andning, vilket driver komplext liv."
+          },
+          {
+            "name": "Komplexa celler utvecklas",
+            "time": "~2,0 miljarder år sedan",
+            "description": "Eukaryota celler uppstår – celler med kärnor och organeller. En cell uppslukar en annan; de samarbetar. Dina mitokondrier härstammar från uråldriga bakterier."
+          },
+          {
+            "name": "Första djuren",
+            "time": "~600 miljoner år sedan",
+            "description": "Flercelliga organismer diversifieras. Ediacarafaunan – underliga, mjuk-kroppade varelser olika allt levande idag – befolkar haven."
+          }
+        ]
+      },
+      "paleozoic": {
+        "title": "Paleozoikum (era)",
+        "duration": "~289 miljoner år",
+        "description": "Kambriska explosionen medför häpnadsväckande mångfald – de flesta större djurgrupper uppstår inom 10 miljoner år. Livet erövrar land: först växter, sedan leddjur, sedan ryggradsdjur. Fiskar utvecklas, sedan amfibier, sedan reptiler. Skogar sprider sig över kontinenterna. Men eran slutar i katastrof: Perm-trias-utdöendet dödar 96 % av marina arter och 70 % av landlevande ryggradsdjur – det värsta massutdöendet i jordens historia.",
+        "events": [
+          {
+            "name": "Kambriska explosionen",
+            "time": "~541 miljoner år sedan",
+            "description": "Komplexa djur diversifieras snabbt. Ögon utvecklas. Rovdjur-byte-dynamik börjar. Trilobiter, förfäder till insekter, dominerar haven."
+          },
+          {
+            "name": "Livet koloniserar land",
+            "time": "~470 miljoner år sedan",
+            "description": "Växter flyttar upp på land, följt av leddjur, sedan ryggradsdjur. De första skogarna omvandlar jordens atmosfär och klimat."
+          },
+          {
+            "name": "Perm-trias-utdöendet",
+            "time": "~252 miljoner år sedan",
+            "description": "Massiva vulkanutbrott i Sibirien utlöser klimatkatastrof. 96 % av marina arter och 70 % av landlevande ryggradsdjur dör ut. Livet tar nästan slut."
+          }
+        ]
+      },
+      "mesozoic": {
+        "title": "Mesozoikum (era)",
+        "duration": "~186 miljoner år",
+        "description": "Dinosauriernas tidsålder. Livet återhämtar sig från perm-utdöendet och diversifieras spektakulärt. Dinosaurier dominerar land i 165 miljoner år. De första blommorna slår ut. Fåglar utvecklas från befjädrade dinosaurier. Däggdjur existerar men förblir små och nattaktiva – i väntan på sin chans. Den chansen kommer när en asteroid plötsligt avslutar dinosauriernas välde.",
+        "events": [
+          {
+            "name": "Dinosaurierna uppstår",
+            "time": "~230 miljoner år sedan",
+            "description": "Dinosaurier utvecklas och dominerar snabbt landekosystemen. De kommer att härska över jorden i 165 miljoner år – längre än däggdjuren har funnits."
+          },
+          {
+            "name": "Första blommorna",
+            "time": "~140 miljoner år sedan",
+            "description": "Blomväxter (angiospermer) dyker upp och diversifieras snabbt. De samutvecklas med insekter och skapar de rika ekosystem vi känner idag."
+          },
+          {
+            "name": "Asteroidnedslag",
+            "time": "~66 miljoner år sedan",
+            "description": "En 10 kilometer stor asteroid slår ner i Mexiko. Globala eldstormar, mörker och klimat-kollaps dödar 75 % av arterna, inklusive alla icke-fågeldinosaurier. Däggdjuren överlever."
+          }
+        ]
+      },
+      "cenozoic": {
+        "title": "Kenozoikum (era) (förmänsklig)",
+        "duration": "~65,7 miljoner år",
+        "description": "Däggdjuren ärver jorden. De diversifieras till tusentals arter och fyller ekologiska nischer som lämnats tomma av dinosaurierna. Primater utvecklas i tropiska skogar. Gräs sprider sig över kontinenterna och skapar vidsträckta savanner. Klimatet svalnar; istäcken växer. Sedan, under de sista miljonerna åren, händer något utan motstycke: apor utvecklar större hjärnor, går upprätt och påbörjar resan mot mänskligt medvetande.",
+        "events": [
+          {
+            "name": "Däggdjuren diversifieras",
+            "time": "~66-50 miljoner år sedan",
+            "description": "Befriade från dinosauriernas konkurrens, sprider sig däggdjuren i otaliga former: valar, fladdermöss, elefanter, katter, primater. Jordens moderna ekosystem tar form."
+          },
+          {
+            "name": "Primater utvecklas",
+            "time": "~55 miljoner år sedan",
+            "description": "Tidiga primater dyker upp i tropiska skogar. Över tiotals miljoner år utvecklar de större hjärnor, gripande händer och komplexa sociala beteenden."
+          },
+          {
+            "name": "Människans förfäder uppstår",
+            "time": "~7-6 miljoner år sedan",
+            "description": "Den mänskliga släktlinjen skiljer sig från schimpanser. Tidiga homininer går upprätt på afrikanska savanner. Resan mot Homo sapiens börjar."
+          }
+        ]
+      },
+      "holocene": {
+        "title": "Holocen (människans era)",
+        "duration": "~12 000 år",
+        "description": "Hela historien om mänsklig civilisation passar här – jordbruk, städer, skrift, filosofi, vetenskap, teknik. Från jägare-samlare till rymdresenärer på 12 000 år – 0,0003 % av jordens historia. Vi har blivit en geologisk kraft, kapabla att förändra planetära system. Antropocen – människans tidsålder – har börjat. Vad vi gör nu formar jordens bana i miljontals år framöver.",
+        "events": [
+          {
+            "name": "Jordbruksrevolutionen",
+            "time": "~10 000 f.Kr.",
+            "description": "Människor domesticerar växter och djur. Bosättningar blir städer. Civilisationen börjar. Mänsklighetens befolkning exploderar från miljoner till miljarder."
+          },
+          {
+            "name": "Skriften uppfinns",
+            "time": "~3200 f.Kr.",
+            "description": "Sumererna utvecklar kilskrift. Kunskap kan bevaras och ackumuleras över generationer. Historien (nedtecknad tid) börjar."
+          },
+          {
+            "name": "Industriella revolutionen",
+            "time": "~1750 e.Kr.",
+            "description": "Fossila bränslen driver en aldrig tidigare skådad teknisk tillväxt. Mänsklig befolkning, energianvändning och planetär påverkan accelererar exponentiellt. Antropocen börjar."
+          }
+        ]
+      }
+    },
+    "analogies": {
+      "title": "Att göra djup tid begriplig",
+      "intro": "Eftersom djup tid är så ofantlig behöver vi analogier för att greppa den. Här är tre sätt att visualisera jordens 4,5 miljarder år långa historia:",
+      "calendar": {
+        "title": "Den kosmiska kalendern",
+        "description": "Komprimera jordens historia till ett kalenderår:",
+        "jan1": "1 januari",
+        "jan1desc": "Jorden bildas",
+        "march": "Mars",
+        "marchdesc": "Första livet uppstår",
+        "dec13": "13 december",
+        "dec13desc": "Dinosaurierna dyker upp",
+        "dec31": "31 december, kl. 23:59:46",
+        "dec31desc": "Hela den mänskliga civilisationen sker under årets sista 14 sekunder"
+      },
+      "clock": {
+        "title": "24-timmarsklockan",
+        "description": "Om jordens historia vore en dag: Jorden bildas vid midnatt. Första livet kl. 04:00. Komplext liv kl. 21:30. Dinosaurier kl. 22:56. Människor kl. 23:58:43. Hela den nedtecknade historien sker under de sista 0,2 sekunderna före midnatt."
+      },
+      "armspan": {
+        "title": "Armspannet",
+        "description": "Sträck ut dina armar – detta är jordens 4,5 miljarder år. Allt komplext liv ryms i din hand. Hela den mänskliga existensen ryms på din fingernagel. Hela civilisationen? Ett enda drag med en nagelfil tar bort den helt."
+      }
+    },
+    "matters": {
+      "title": "Varför djup tid spelar roll",
+      "paragraph1": "Att förstå djup tid förändrar fundamentalt hur vi ser på oss själva och våra handlingar. Det ger ett avgörande sammanhang för de beslut vi fattar idag.",
+      "paragraph2": "Perspektivet från djup tid avslöjar flera kritiska insikter:",
+      "insights": {
+        "humility": {
+          "title": "Kosmisk ödmjukhet",
+          "description": "Vi är absoluta nykomlingar på en uråldrig planet. Vår art har funnits i 0,007 % av jordens historia. Hela civilisationen är 0,0003 %."
+        },
+        "context": {
+          "title": "Evolutionär kontext",
+          "description": "Den komplexitet vi ser – ekosystem, atmosfär, biologisk mångfald – tog miljarder år att utveckla genom otaliga evolutionära experiment."
+        },
+        "responsibility": {
+          "title": "Oöverträffat ansvar",
+          "description": "Vi är den första arten som kan fundamentalt förändra planetära system på bara årtionden – system som tog eoner att etablera."
+        },
+        "patience": {
+          "title": "Geologiskt tålamod",
+          "description": "Naturlig läkning fungerar på geologiska tidsskalor. Det vi skadar nu kanske inte återhämtar sig på miljontals år – längre än vår art troligen kommer att existera."
+        }
+      }
+    },
+    "quote": {
+      "text": "Nuet är den ständigt rörliga skuggan som skiljer igår från imorgon. Däri ligger hoppet.",
+      "author": "Frank Herbert"
+    },
+    "related": {
+      "title": "Fortsätt utforska",
+      "universeStory": {
+        "title": "Berättelsen om universum",
+        "description": "Zooma ut ytterligare – utforska den 13,8 miljarder år långa kosmiska berättelsen"
+      },
+      "cosmicAddress": {
+        "title": "Din kosmiska adress",
+        "description": "Hitta din plats över rumsliga skalor från kropp till universum"
+      },
+      "scaleShifting": {
+        "title": "Övning i skalväxling",
+        "description": "Odla förmågan att växla mellan perspektiv och skalor"
+      }
+    }
+  },
+  "planetaryBoundaries": {
+    "meta": {
+      "title": "Instrumentpanel för planetens gränser",
+      "description": "Interaktiv instrumentpanel som visar jordens nio livsuppehållande system och vår nuvarande relation till dem. Förstå det säkra handlingsutrymmet för mänskligheten."
+    },
+    "hero": {
+      "title": "Planetens gränser",
+      "subtitle": "Instrumentpanel för jordens livsuppehållande system",
+      "description": "Forskare har identifierat nio planetära gränser – trösklar vi inte bör överskrida om vi vill behålla en stabil, beboelig jord. Sex har redan överskridits. Denna instrumentpanel visar var vi står."
+    },
+    "overview": {
+      "title": "Nuvarande status",
+      "warning": "Vi har överskridit 6 av 9 planetära gränser. Jordens livsuppehållande system är under oöverträffad stress. Vi befinner oss i farozonen."
+    },
+    "status": {
+      "exceeded": "Överskriden",
+      "atrisk": "I riskzonen",
+      "safe": "Säker",
+      "uncertain": "Osäker"
+    },
+    "current": "Nuvarande",
+    "boundary": "Gräns",
+    "description": "Beskrivning",
+    "consequences": "Konsekvenser",
+    "actions": "Vad man kan göra",
+    "clickForDetails": "Klicka för detaljer",
+    "showAll": "Visa alla gränser",
+    "hideAll": "Dölj alla gränser",
+    "boundaries": {
+      "title": "De nio planetära gränserna",
+      "subtitle": "Klicka på varje gräns för att utforska detaljer, konsekvenser och åtgärder",
+      "climate": {
+        "name": "Klimatförändringar",
+        "description": "Atmosfärisk CO₂-koncentration har överskridit 417 ppm (miljondelar), långt över den förindustriella nivån på 280 ppm och den säkra gränsen på 350 ppm. Vi har höjt den globala medeltemperaturen med ~1,2 °C och är på väg mot farliga tröskelpunkter.",
+        "consequences": "Accelererande issmältning, havsnivåhöjning, extremväder, ekosystemkollaps, störningar i jordbruket, massmigration och potentiellt utlösande av oåterkalleliga återkopplingsloopar (tinande permafrost, Amazonas skogsdöd).",
+        "actions": [
+          "Snabb övergång till förnybar energi (sol, vind, kärnkraft)",
+          "Elektrifiera transporter, uppvärmning och industri",
+          "Koldioxidprissättning, utfasning av fossila bränslen, naturbaserade lösningar"
+        ]
+      },
+      "biodiversity": {
+        "name": "Biosfärens integritet",
+        "description": "Arters utrotningshastighet är 100–1 000 gånger den naturliga bakgrundstakten. Vi befinner oss i det sjätte massutdöendet – det första orsakat av en enda art. Genetisk mångfald och funktionell mångfald kollapsar.",
+        "consequences": "Sammanbrott av ekosystemtjänster (pollinering, skadedjursbekämpning, vattenfiltrering), minskad motståndskraft mot chocker, förlust av medicinska resurser, kulturell och andlig utarmning, potentiella regimskiften i ekosystem.",
+        "actions": [
+          "Skydda och återställa 30–50 % av land och hav till 2030",
+          "Stoppa habitatförstöring, skapa viltkorridorer",
+          "Bekämpa tjuvjakt, invasiva arter och föroreningar"
+        ]
+      },
+      "nitrogen": {
+        "name": "Kväve- & fosforcykler",
+        "description": "Människor fixerar ~150 miljoner ton kväve årligen (främst för gödsel), vilket överskrider gränsen på 62 miljoner ton. Fosforavrinning överskrider likaså säkra nivåer, vilket orsakar döda zoner och övergödning.",
+        "consequences": "Döda zoner i haven, giftig algblomning, förorening av sötvatten, förlust av fisken, dricksvattenkriser, utsläpp av växthusgaser (N₂O), försurning av mark och vatten.",
+        "actions": [
+          "Precisionsjordbruk, minska gödselanvändningen med 50 %",
+          "Övergång till växtbaserad kost (djurhållning är ineffektivt)",
+          "Förbättra avloppsvattenrening, återställa våtmarker"
+        ]
+      },
+      "landuse": {
+        "name": "Förändrad markanvändning",
+        "description": "Endast ~12 % av den isfria marken återstår som intakt skog, under gränsen på 15 %. Vi har omvandlat 75 % av den isfria marken för jordbruk, städer och infrastruktur. Avskogningen fortsätter i alarmerande takt.",
+        "consequences": "Förlust av biologisk mångfald, koldioxidutsläpp, störda vattencykler, ökade översvämningar och torka, markförstöring, framväxt av zoonotiska sjukdomar (när människor tränger in i vilda djurs habitat).",
+        "actions": [
+          "Stoppa avskogning, återställa förstörd mark",
+          "Hållbar stadsplanering, kompakta städer",
+          "Skogsjordbruk, regenerativt jordbruk, återförvildning"
+        ]
+      },
+      "freshwater": {
+        "name": "Sötvattenanvändning",
+        "description": "Global sötvattenförbrukning närmar sig gränsen på 4 000–6 000 km³/år. Tömning av grundvatten, omledning av floder och överexploatering av akviferer hotar vattensäkerheten för miljarder.",
+        "consequences": "Vattenbrist för 2+ miljarder människor, jordbrukskollaps i nyckelregioner, ekosystemförstöring, påtvingad migration, internationella konflikter om vattenresurser.",
+        "actions": [
+          "Vatteneffektivt jordbruk (droppbevattning, torktåliga grödor)",
+          "Minska vattenintensiv köttkonsumtion",
+          "Skydda avrinningsområden, återställa våtmarker, stoppa dammbyggen"
+        ]
+      },
+      "ocean": {
+        "name": "Havsförsurning",
+        "description": "Havets pH har sjunkit från 8,2 till 8,1 – en 30-procentig ökning i surhetsgrad. Haven absorberar 25 % av CO₂-utsläppen, vilket bildar kolsyra som hotar marint liv, särskilt skalbildande organismer.",
+        "consequences": "Koralldöd, skaldjursdöd, störda marina näringsvävar, fiskekollaps, förlust av kustskydd (rev buffrar stormar), ekonomisk förödelse för kustsamhällen.",
+        "actions": [
+          "Minska CO₂-utsläppen omedelbart (enda lösningen)",
+          "Skydda marina ekosystem (mangrover, sjögräs, rev)",
+          "Stoppa överfiske, skapa marina skyddsområden"
+        ]
+      },
+      "ozone": {
+        "name": "Uttunning av stratosfäriskt ozon",
+        "description": "FRAMGÅNGSSAGAN: Tack vare Montrealprotokollet (1987), som förbjöd freoner (CFC), återhämtar sig ozonlagret. Nuvarande nivåer: ~290 Dobsonenheter, över gränsen på 275 DU. Full återhämtning väntas till 2070.",
+        "consequences": "Om vi inte hade agerat: massiv ökning av hudcancer, grå starr, nedsatt immunförsvar, skador på grödor, störningar i marina ekosystem (skador på växtplankton).",
+        "actions": [
+          "Fortsätt övervakning och efterlevnad av Montrealprotokollet",
+          "Fasa ut återstående ozonnedbrytande ämnen",
+          "Lär av denna framgång – ett bevis på att globalt samarbete fungerar!"
+        ]
+      },
+      "aerosols": {
+        "name": "Atmosfärisk aerosolbelastning",
+        "description": "Gränsen är ännu inte kvantifierad globalt, men regionala effekter är tydliga. Aerosoler (partiklar från förbränning av fossila bränslen, biomassa) påverkar klimat, molnbildning, monsuner och människors hälsa.",
+        "consequences": "Miljontals förtida dödsfall årligen från luftföroreningar, störda monsunmönster (påverkar miljarder), förändrad nederbörd, klimateffekter (aerosoler både kyler och värmer beroende på typ).",
+        "actions": [
+          "Minska förbränningen av fossila bränslen (hjälper också klimatet)",
+          "Övergång till ren matlagning (3 miljarder använder biomassa)",
+          "Industriella utsläppskontroller, återbeskogning"
+        ]
+      },
+      "chemicals": {
+        "name": "Nya entiteter (kemiska föroreningar)",
+        "description": "Människor har introducerat >350 000 kemikalier och material i miljön – plaster, bekämpningsmedel, läkemedel, nanopartiklar, mikroplaster. Många kvarstår i århundraden och bioackumuleras.",
+        "consequences": "Hormonstörningar, cancer, reproduktionsskador, ekosystemförorening, mikroplaster i alla organismer (inklusive människor), antibiotikaresistens, okända långtidseffekter.",
+        "actions": [
+          "Förbjud eller fasa ut de skadligaste kemikalierna (PFAS, långlivade bekämpningsmedel)",
+          "Cirkulär ekonomi – design för nedbrytbarhet och återanvändning",
+          "Bättre reglering, testning före utsläpp, producentansvar"
+        ]
+      }
+    },
+    "understanding": {
+      "title": "Förstå planetens gränser",
+      "paragraph1": "Ramverket för planetens gränser utvecklades av Johan Rockström, Will Steffen och kollegor 2009 (uppdaterat 2023). Det identifierar nio processer i jordsystemet som reglerar planetens stabilitet och motståndskraft.",
+      "paragraph2": "Varje gräns definierar ett 'säkert handlingsutrymme' för mänskligheten. Att hålla sig inom dessa gränser garanterar inte stabilitet, men att överskrida dem ökar avsevärt risken för att utlösa plötsliga, oåterkalleliga förändringar.",
+      "paragraph3": "Tänk på planetens gränser som skyddsräcken på en bergsväg. Du kan köra säkert så länge du håller dig innanför dem. Kör du utanför riskerar du katastrofala följder.",
+      "safespace": {
+        "title": "Säkert handlingsutrymme",
+        "description": "Den gröna zonen där jordsystemen fungerar stabilt. Den mänskliga civilisationen utvecklades under holocen (de senaste 12 000 åren) när alla gränser låg inom säkra nivåer."
+      },
+      "tipping": {
+        "title": "Tröskelpunkter",
+        "description": "Bortom vissa trösklar kan system plötsligt och oåterkalleligt skifta till nya tillstånd. Exempel: Amazonas regnskog → savann, Grönlands inlandsis kollapsar, Atlantströmmens avstannande."
+      },
+      "interconnected": {
+        "title": "Sammankopplade system",
+        "description": "Gränserna fungerar inte oberoende av varandra. Klimatförändringar påskyndar förlusten av biologisk mångfald. Avskogning stör vattencykler. Att överskrida en gräns destabiliserar ofta andra."
+      },
+      "onesystem": {
+        "title": "Ett integrerat system",
+        "description": "Jorden är ett enda, integrerat system. Det finns inga gränser för föroreningar eller koldioxid – allt hänger ihop. Lokala handlingar har globala konsekvenser."
+      }
+    },
+    "goodnews": {
+      "title": "De goda nyheterna",
+      "paragraph1": "Trots de dystra siffrorna finns det anledning till hopp:",
+      "ozone": {
+        "title": "Vi har löst en planetär gräns tidigare",
+        "description": "Ozonlagret läker. Ett bevis på att när vi inser ett problem och agerar globalt kan vi åtgärda skador på planetär skala. Montrealprotokollet är historiens mest framgångsrika miljöavtal."
+      },
+      "awareness": {
+        "title": "Medvetenheten ökar",
+        "description": "Ramverket för planetens gränser används nu av FN, World Economic Forum och regeringar världen över. Vi börjar äntligen mäta det som är viktigt."
+      },
+      "technology": {
+        "title": "Tekniken är redo",
+        "description": "Förnybar energi är nu billigare än fossila bränslen. Elfordon är överlägsna. Växtbaserade alternativ blir bättre. Vi har verktygen – vi behöver viljan."
+      },
+      "movements": {
+        "title": "Rörelser växer fram",
+        "description": "Klimatstrejker, skydd av ursprungsbefolkningars mark, återförvildningsinitiativ, pionjärer inom cirkulär ekonomi. Miljontals arbetar för planetens hälsa på alla nivåer."
+      }
+    },
+    "whatyoucando": {
+      "title": "Vad du kan göra",
+      "individual": {
+        "title": "Individuella handlingar",
+        "description": "Byt till växtbaserad kost (störst individuell påverkan), flyg mindre, kör elbil eller åk kollektivt, divestera från fossila bränslen, rösta för klimatåtgärder, konsumera mindre, slösa mindre, välj förnybar energi."
+      },
+      "collective": {
+        "title": "Kollektiv organisering",
+        "description": "Gå med i klimatrörelser, stöd ursprungsbefolkningars markförsvarare, delta i lokala resiliensprojekt, organisera dig politiskt, pressa institutioner och företag."
+      },
+      "systemic": {
+        "title": "Systemförändring",
+        "description": "Individuella förändringar spelar roll men räcker inte – vi behöver politisk förändring. Stöd koldioxidprissättning, mandat för förnybar energi, återbeskogningsprogram, lagstiftning om cirkulär ekonomi, lagar om naturens rättigheter."
+      },
+      "voice": {
+        "title": "Använd din röst",
+        "description": "Prata om planetens gränser. Dela detta verktyg. Hjälp till att flytta kulturen från 'evig tillväxt' till 'blomstra inom gränserna'. Narrativförändring möjliggör politisk förändring."
+      }
+    },
+    "quote": {
+      "text": "Vi är den första generationen som vet att vi förstör världen, och vi kan vara den sista som kan göra något åt det.",
+      "author": "Petra Molnár"
+    },
+    "related": {
+      "title": "Fortsätt utforska",
+      "challenges": {
+        "title": "Universella utmaningar",
+        "description": "Djupdykning i de planetära kriser vi står inför"
+      },
+      "consumption": {
+        "title": "Övning i kosmisk konsumtion",
+        "description": "Anpassa dina val efter planetens gränser"
+      },
+      "decisions": {
+        "title": "Beslutsfilter",
+        "description": "Utvärdera val med planetär påverkan i åtanke"
+      }
+    }
+  },
+  "emergence": {
+    "meta": {
+      "title": "Emergenssimulatorer",
+      "description": "Se enkla regler skapa komplexa mönster. Utforska cellulära automater, flockbeteende och framväxande (emergenta) fenomen."
+    },
+    "hero": {
+      "title": "Emergenssimulatorer",
+      "subtitle": "Se enkla regler skapa oändlig komplexitet"
+    },
+    "intro": {
+      "title": "Vad är emergens?",
+      "paragraph1": "Emergens (framväxt) är en av de mest djupgående principerna i naturen: komplexa mönster och beteenden som uppstår ur enkla regler och lokala interaktioner. Ingen central styrenhet. Ingen övergripande plan. Bara enkla agenter som följer enkla regler – och något magiskt händer.",
+      "paragraph2": "En enskild neuron kan inte tänka. Men miljarder neuroner, var och en som följer enkla elektrokemiska regler, skapar medvetande. En enskild myra kan inte bygga en koloni. Men tusentals myror, var och en som följer enkla beteendegler, skapar sofistikerade strukturer och löser komplexa problem. En enskild vattenmolekyl kan inte skapa en våg. Men miljarder molekyler, var och en som följer enkla fysiska regler, skapar havets mönster.",
+      "paragraph3": "Dessa simulatorer låter dig uppleva emergens på första parkett. Se hur enkla regler, upprepade över tid och rum, genererar komplexitet, skönhet och beteenden som verkar omöjliga att förutsäga enbart från reglerna."
+    },
+    "simulations": {
+      "title": "Välj en simulering",
+      "conway": {
+        "name": "Conways Game of Life",
+        "description": "Den mest kända cellulära automaten. Celler lever eller dör baserat på sina grannar. Från enkla regler uppstår oändliga mönster: glidare, oscillatorer, rymdskepp och till och med universella datorer.",
+        "emergence": "Stabila mönster, oscillatorer och rörliga strukturer uppstår från bara fyra enkla regler"
+      },
+      "flocking": {
+        "name": "Flockbeteende",
+        "description": "Individuella 'boids' följer tre enkla regler: undvik trängsel, anpassa dig efter grannar, rör dig mot mitten av närliggande boids. Ur dessa regler uppstår realistiskt flockbeteende.",
+        "emergence": "Koordinerad grupprörelse uppstår utan någon ledare eller central kontroll"
+      },
+      "sandpile": {
+        "name": "Abelsk sandhög",
+        "description": "Lägg till sandkorn i en hög. När den blir för brant rasar den över till grannarna. Detta enkla system uppvisar självorganiserad kritikalitet – komplexa ras-mönster som följer potenslagar.",
+        "emergence": "Potenslagsfördelade ras och fraktala mönster uppstår från enkla ras-regler"
+      }
+    },
+    "emergence": "Emergens",
+    "controls": {
+      "start": "Starta",
+      "pause": "Pausa",
+      "reset": "Återställ",
+      "addSand": "Lägg till sand",
+      "speed": "Hastighet",
+      "perFrame": "per bildruta"
+    },
+    "howItWorks": {
+      "title": "Så fungerar varje simulering",
+      "conway": {
+        "title": "Conways Game of Life",
+        "description": "Uppfunnet av matematikern John Conway 1970. Varje cell är antingen levande eller död. Vid varje steg:",
+        "rules": [
+          "Varje levande cell med 2 eller 3 levande grannar överlever",
+          "Varje död cell med exakt 3 levande grannar blir levande",
+          "Alla andra levande celler dör (av ensamhet eller överbefolkning)",
+          "Alla andra döda celler förblir döda"
+        ]
+      },
+      "flocking": {
+        "title": "Flockbeteende",
+        "description": "Baserat på Craig Reynolds 'Boids'-algoritm från 1986. Varje 'boid' följer tre enkla regler:",
+        "rules": [
+          "Separation: Undvik att trängas med närliggande boids",
+          "Anpassning: Styr mot den genomsnittliga riktningen för närliggande boids",
+          "Sammanhållning: Rör dig mot den genomsnittliga positionen för närliggande boids"
+        ]
+      },
+      "sandpile": {
+        "title": "Abelsk sandhög",
+        "description": "Introducerad av Per Bak, Chao Tang och Kurt Wiesenfeld 1987 som en modell för självorganiserad kritikalitet:",
+        "rules": [
+          "Lägg till sandkorn i mitten av högen",
+          "När en cell har 4 eller fler korn rasar den: förlorar 4 korn, ger 1 till varje granne",
+          "Raset kan utlösa kaskader när grannarna i sin tur blir instabila"
+        ]
+      }
+    },
+    "principles": {
+      "title": "Principer för emergens",
+      "simple": {
+        "title": "Enkla regler",
+        "description": "Reglerna som styr enskilda element är enkla – ofta bara några rader kod eller en enda ekvation. Komplexitet kräver inte komplexa regler."
+      },
+      "local": {
+        "title": "Lokala interaktioner",
+        "description": "Element interagerar bara med sina omedelbara grannar. Det finns ingen global samordning eller central kontroll. Ändå uppstår globala mönster."
+      },
+      "unpredictable": {
+        "title": "Oförutsägbara resultat",
+        "description": "Du kan inte förutsäga vilka mönster som kommer att uppstå bara genom att läsa reglerna. Du måste köra simuleringen. Beteendet är irreducibelt till enbart reglerna."
+      },
+      "universal": {
+        "title": "Universellt fenomen",
+        "description": "Emergens förekommer överallt: fysik, kemi, biologi, ekonomi, sociala system. Det är en grundläggande princip för hur komplexitet uppstår i naturen."
+      }
+    },
+    "realWorld": {
+      "title": "Emergens i den verkliga världen",
+      "intro": "Dessa simuleringar är inte bara abstrakta leksaker – de avslöjar principer som styr verkliga system i hela naturen och samhället:",
+      "examples": {
+        "brain": {
+          "title": "Medvetande från neuroner",
+          "description": "Dina tankar, minnen och medvetenhet uppstår från miljarder neuroner som följer elektrokemiska regler. Ingen enskild neuron innehåller dina tankar – de uppstår från mönstret av interaktioner."
+        },
+        "markets": {
+          "title": "Marknader från enskilda byten",
+          "description": "Aktiemarknader, ekonomier och priser uppstår från miljontals enskilda köp- och säljbeslut. Ingen planerar ekonomin – den uppstår från lokala interaktioner."
+        },
+        "ecosystems": {
+          "title": "Ekosystem från artinteraktioner",
+          "description": "Rovdjur-byte-cykler, biologisk mångfald och ekologisk stabilitet uppstår från arter som följer överlevnadsstrategier. Ingen art planerar ekosystemet."
+        },
+        "cities": {
+          "title": "Städer från enskilda val",
+          "description": "Stadsmönster, trafikflöden och grannskapskarakteristika uppstår från enskilda bostads- och pendlingsbeslut. Ingen utformar staden som helhet."
+        },
+        "life": {
+          "title": "Liv från kemi",
+          "description": "Livet i sig är emergent. Ingen enskild molekyl lever, men kemiska reaktioner organiserade på rätt sätt skapar metabolism, reproduktion och evolution."
+        }
+      }
+    },
+    "quote": {
+      "text": "Mer är annorlunda.",
+      "author": "Philip W. Anderson, Nobelprisvinnande fysiker"
+    },
+    "related": {
+      "title": "Relaterat innehåll",
+      "patterns": {
+        "title": "Universella mönster",
+        "description": "Utforska de mönster som upprepas på alla verklighetens skalor"
+      },
+      "explore": {
+        "title": "Mönsterutforskning",
+        "description": "Djupdykning i fraktaler, nätverk och andra universella strukturer"
+      },
+      "consciousness": {
+        "title": "Framväxande medvetande",
+        "description": "Hur uppstår subjektiv upplevelse från neuroner?"
+      }
+    }
+  },
+  "cosmicZoom": {
+    "meta": {
+      "title": "Kosmisk zoom",
+      "description": "Res från de minsta till de största skalorna i verkligheten. Upplev hela existensens vidd från Plancklängden till det observerbara universumet."
+    },
+    "hero": {
+      "title": "Kosmisk zoom",
+      "subtitle": "Resa från kvantnivå till kosmos"
+    },
+    "intro": "Res genom 61 storleksordningar – från den minsta möjliga längden (Plancklängden) till den största strukturen vi kan observera (det observerbara universumet). Upptäck på varje skala vad som existerar och hur fysikens lagar formar verkligheten.",
+    "smallest": "Minsta",
+    "human": "Mänsklig",
+    "largest": "Största",
+    "scales": {
+      "planck": {
+        "name": "Plancklängden",
+        "description": "Den minsta meningsfulla längden inom fysiken. Under denna skala gör kvanteffekter att rum och tid i sig blir osäkra. Det är här gravitation och kvantmekanik möts – en gräns vi knappt förstår."
+      },
+      "proton": {
+        "name": "Proton",
+        "description": "Består av tre kvarkar som hålls samman av gluoner. Protoner (tillsammans med neutroner) bildar atomkärnor. Varje atom i din kropp innehåller protoner som har funnits sedan de första sekunderna efter Big Bang."
+      },
+      "atom": {
+        "name": "Atom",
+        "description": "Materiens grundläggande enhet. En kärna av protoner och neutroner omgiven av ett moln av elektroner. Allt du kan se eller röra vid är gjort av atomer – ändå är de 99,9999999999999 % tomrum."
+      },
+      "dna": {
+        "name": "DNA-molekyl",
+        "description": "Den dubbla helixen som kodar genetisk information. Bara 2 nanometer bred, innehåller DNA instruktionerna för att bygga och underhålla varje levande organism. Du har cirka 3 miljarder baspar i nästan varje cell."
+      },
+      "cell": {
+        "name": "Mänsklig cell",
+        "description": "Livets grundläggande enhet. Din kropp innehåller cirka 37 biljoner celler, var och en en komplex fabrik med tusentals molekylära maskiner som arbetar i harmoni. En enda cell innehåller mer organiserad komplexitet än någon mänsklig stad."
+      },
+      "ant": {
+        "name": "Myra",
+        "description": "En komplex organism gjord av miljontals celler. Trots sin lilla storlek har myror sofistikerade beteenden: jordbruk, krigföring, arkitektur och kemisk kommunikation. Enskilt enkla, kollektivt briljanta."
+      },
+      "human": {
+        "name": "Mänsklig skala",
+        "description": "Du är här. Med en längd på ungefär 1 meter existerar människor på en mellanskala – lika långt (i storleksordningar) från atomer som från galaxer. Detta är den skala där vår intuition fungerar bäst."
+      },
+      "mountain": {
+        "name": "Mount Everest",
+        "description": "Jordens högsta berg på 8,8 kilometer över havet. Bildat genom att tektoniska plattor kolliderat under miljontals år. Från denna höjd blir jordens krökning knappt synlig för blotta ögat."
+      },
+      "earth": {
+        "name": "Jorden",
+        "description": "Vår hemplanet. En stenplanet med en tunn atmosfär och rikligt med flytande vatten – förhållanden som, såvitt vi vet, är utomordentligt sällsynta i universum. Diameter: 12 742 kilometer."
+      },
+      "sun": {
+        "name": "Solen",
+        "description": "Vår stjärna. Ett klot av plasma 109 gånger bredare än jorden, som innehåller 99,86 % av solsystemets massa. Varje sekund omvandlar den 600 miljoner ton väte till helium, vilket frigör den energi som driver allt liv på jorden."
+      },
+      "solarsystem": {
+        "name": "Solsystemet",
+        "description": "Solen och allt som kretsar kring den: åtta planeter, hundratals månar, miljontals asteroider och kometer. Solsystemet är mestadels tomrum – Neptunus kretsar 30 gånger längre från solen än vad jorden gör."
+      },
+      "lightyear": {
+        "name": "Ljusår",
+        "description": "Avståndet ljuset färdas på ett år: 9,5 biljoner kilometer. Detta är skalan för interstellärt utrymme. Den närmaste stjärnan till vår sol, Proxima Centauri, ligger 4,2 ljusår bort – en resa som skulle ta tiotusentals år med nuvarande teknik."
+      },
+      "galaxy": {
+        "name": "Vintergatan",
+        "description": "Vår galax: en spiraldisk med 200–400 miljarder stjärnor, tillsammans med enorma moln av gas, damm och mörk materia. Vår sol är en vanlig stjärna halvvägs från centrum till kanten. Diameter: 100 000 ljusår."
+      },
+      "localgroup": {
+        "name": "Lokala galaxhopen",
+        "description": "Vårt galaktiska grannskap: Vintergatan, Andromeda, Triangelgalaxen och cirka 80 mindre galaxer bundna samman av gravitation. Andromeda är på väg mot oss i 110 km/s – om cirka 4 miljarder år kommer våra galaxer att smälta samman."
+      },
+      "universe": {
+        "name": "Observerbara universumet",
+        "description": "Den största strukturen vi överhuvudtaget kan observera: allt inom 46 miljarder ljusår i alla riktningar. Innehåller ungefär 2 biljoner galaxer. Detta är inte hela universum – bara den del vi kan se. Universum bortom kan vara oändligt."
+      }
+    },
+    "controls": {
+      "zoomIn": "Zooma in",
+      "zoomOut": "Zooma ut",
+      "animate": "Animera",
+      "stop": "Stoppa",
+      "reset": "Återställ till människa",
+      "speed": "Animationshastighet",
+      "perStep": "per steg"
+    },
+    "allScales": {
+      "title": "Alla skalor"
+    },
+    "understanding": {
+      "title": "Förstå skala",
+      "paragraph1": "Våra sinnen utvecklades för att förstå den mänskliga skalan – föremål vi kan se, röra vid och manipulera. Vi har god intuition för meter, kilogram och sekunder. Men verkligheten sträcker sig långt bortom detta snäva fönster.",
+      "paragraph2": "Den kosmiska zoomen avslöjar 61 storleksordningar från minsta till största. Varje steg multiplicerar eller dividerar med 10. Att gå från 1 meter till 10 meter känns inte dramatiskt. Men ackumulera det över dussintals steg, och du når skalor som trotsar intuitionen.",
+      "paragraph3": "På kvantskalan existerar partiklar i superposition – flera tillstånd samtidigt. På den kosmiska skalan expanderar själva rymden snabbare än ljuset i avlägsna regioner. Mellan dessa extremer ligger allt vi känner till: atomer, molekyler, celler, organismer, planeter, stjärnor och galaxer.",
+      "quantum": {
+        "title": "Kvantvärlden",
+        "description": "Under 10⁻⁹ meter bryter den klassiska fysiken samman. Partiklar beter sig som vågor, utfall är probabilistiska och observation påverkar verkligheten. Detta är kvantmekanikens domän – kontraintuitiv men experimentellt verifierad med extraordinär precision."
+      },
+      "cosmic": {
+        "title": "Den kosmiska världen",
+        "description": "Över 10²⁴ meter möter vi skalor där ljus tar miljarder år att färdas. Vi observerar universum som det var i det avlägsna förflutna. De mest avlägsna galaxerna vi kan se bildades när universum var mindre än 5 % av sin nuvarande ålder."
+      },
+      "middle": {
+        "title": "Mellanvärlden",
+        "description": "Människor existerar på en speciell mellanskala – där kvanteffekter är försumbara och kosmisk expansion är irrelevant. På vår skala fungerar den newtonska fysiken vi intuitivt förstår perfekt. Vi är varken för stora eller för små."
+      },
+      "patterns": {
+        "title": "Mönster över skalor",
+        "description": "Trots det enorma omfånget upprepas liknande mönster: banor, hierarkier, nätverk, cykler. Elektroner kretsar kring kärnor som planeter kretsar kring stjärnor. Neuroner kopplas samman som galaxer i det kosmiska nätet. Olika skalor, samma matematik."
+      }
+    },
+    "powersOfTen": {
+      "title": "Förstå tiopotenser",
+      "intro": "Varje steg i vår kosmiska zoom multiplicerar eller dividerar skalan med 10. Denna exponentiella progression är hur vi kan passa in 61 storleksordningar i en begriplig resa. Här är vad tiopotenser betyder i vardagliga termer:",
+      "examples": {
+        "kilometer": {
+          "title": "10³ (Tusen)",
+          "description": "En kilometer är 10³ meter (1 000 meter). De flesta kan visualisera en kilometer – det är en 10-15 minuters promenad. Detta är fortfarande inom vårt intuitiva grepp."
+        },
+        "million": {
+          "title": "10⁶ (Miljon)",
+          "description": "En miljon sekunder är cirka 11,5 dagar. En miljon dollar i 100-dollarsedlar skulle bilda en stapel cirka 1 meter hög. Detta är på gränsen av vår intuition – vi kan föreställa oss det, men knappt."
+        },
+        "billion": {
+          "title": "10⁹ (Miljard)",
+          "description": "En miljard sekunder är cirka 32 år. En miljard dollar i 100-dollarsedlar skulle skapa en stapel 1 kilometer hög. Detta överstiger vår intuition – vi kan beräkna det, men kan inte riktigt greppa det."
+        },
+        "trillion": {
+          "title": "10¹² (Biljon)",
+          "description": "En biljon sekunder är cirka 32 000 år – längre än hela den nedtecknade mänskliga historien. Avstånden mellan stjärnor mäts i biljoner kilometer. Vi har lämnat intuitionen långt bakom oss."
+        }
+      }
+    },
+    "yourPlace": {
+      "title": "Din plats på skalan",
+      "paragraph1": "Med en längd på cirka 1 meter existerar du vid 10⁰ meter – exakt i mitten av vår kosmiska zoom. Detta är ingen tillfällighet. Liv på olika skalor skulle ha olika fysik.",
+      "paragraph2": "Om du vore stor som en atom skulle kvant-osäkerhet dominera din upplevelse – position och rörelsemängd skulle inte kunna vara kända samtidigt. Om du vore stor som en galax skulle rymdens expansion sträcka ut dig snabbare än interna krafter kunde hålla ihop dig.",
+      "paragraph3": "Du existerar på den skala där naturens grundläggande krafter skapar stabil komplexitet. Detta är skalan där kemi fungerar, där biologi uppstår, där medvetande blir möjligt. Det är skalan där universum kan känna sig självt.",
+      "reflection": {
+        "title": "Ett ögonblicks reflektion",
+        "text": "Du är gjord av atomer smidda i stjärnors kärnor. Du är byggd av samma partiklar som utgör avlägsna galaxer. Du existerar under ett kort ögonblick i kosmisk tid, på en mellanskala där universum har organiserat sig i mönster som är tillräckligt komplexa för att begrunda sin egen existens. Du är universum som betraktar sig självt."
+      }
+    },
+    "quote": {
+      "text": "Universum är inte bara konstigare än vi antar, utan konstigare än vi kan anta.",
+      "author": "J.B.S. Haldane"
+    },
+    "related": {
+      "title": "Relaterade verktyg och övningar",
+      "address": {
+        "title": "Din kosmiska adress",
+        "description": "Hitta din plats över nästlade verklighetsskalor"
+      },
+      "practice": {
+        "title": "Övning i skalväxling",
+        "description": "Daglig övning i att zooma in och ut mentalt"
+      },
+      "patterns": {
+        "title": "Universella mönster",
+        "description": "Utforska mönster som upprepas över alla skalor"
+      }
+    }
+  },
+  "universalMandate": {
+    "meta": {
+      "title": "Ditt universella mandat",
+      "description": "En guidad process för att formulera din unika roll i den kosmiska berättelsen. Upptäck vad du är här för att göra."
+    },
+    "hero": {
+      "title": "Ditt universella mandat",
+      "subtitle": "Vad är du här för att göra?"
+    },
+    "intro": "Du är ingen tillfällighet. Du är 13,8 miljarder år av kosmisk evolution, tillfälligt organiserad som en medveten människa. I detta avgörande ögonblick i jordens historia, vad är ditt unika bidrag? Vilken roll är du kallad att spela i universums fortlöpande berättelse?",
+    "what": {
+      "title": "Vad är ett universellt mandat?",
+      "paragraph1": "Ett universellt mandat är inte en jobbtitel, en femårsplan eller en 'bucket list'. Det är djupare än mål. Det är ditt svar på frågan: Givet vem du är, var du är och när du är – vad är din uppgift?",
+      "paragraph2": "Det integrerar tre dimensioner: dina unika gåvor och omständigheter, behoven i detta historiska ögonblick och din känsla för vad universum kallar fram genom dig. Det är både djupt personligt och radikalt universellt.",
+      "paragraph3": "Ditt mandat är inte fast. Det utvecklas när du växer, när omständigheterna förändras, när du upptäcker nya aspekter av dig själv och världen. Denna process hjälper dig att formulera var du är nu – en ögonblicksbild av din nuvarande förståelse av din kosmiska roll."
+    },
+    "whyMatters": {
+      "title": "Varför detta spelar roll",
+      "meaning": {
+        "title": "Skapar sammanhängande mening",
+        "description": "I ett vidsträckt, uråldrigt universum är det lätt att känna sig obetydlig. Ett universellt mandat grundar dig i ett syfte – du är här av en anledning, även om den anledningen helt enkelt är att uppleva och bry sig om."
+      },
+      "choices": {
+        "title": "Vägleder svåra val",
+        "description": "När du står inför beslut, fråga: ligger detta i linje med mitt mandat? För det mig mot eller bort från vad jag är här för att göra? Ditt mandat blir en norrstjärna för navigering."
+      },
+      "energy": {
+        "title": "Fokuserar din energi",
+        "description": "Du kan inte göra allt. Ett tydligt mandat hjälper dig att säga nej till bra saker så att du kan säga ja till *dina* saker – de bidrag som bara du kan ge på det sätt som bara du kan."
+      },
+      "responsibility": {
+        "title": "Omfamnar kosmiskt ansvar",
+        "description": "Du är inte separerad från universums utveckling. Du är en aktiv deltagare. Ditt mandat är hur du deltar medvetet istället för att driva omedvetet."
+      }
+    },
+    "process": {
+      "title": "Den guidade processen",
+      "intro": "Detta är en kontemplativ övning. Avsätt 30–60 minuter på en lugn plats. Ha en dagbok redo. Gå igenom varje avsnitt eftertänksamt och skriv ner dina svar. Det finns inga fel svar – bara dina ärliga reflektioner.",
+      "step1": {
+        "title": "Del 1: Ditt kosmiska arv",
+        "subtitle": "Vad har du fått?",
+        "intro": "Varje person ärver unika gåvor, omständigheter och utmaningar. Dessa är inte slumpmässiga – de är dina startvillkor, den hand du har fått av den kosmiska evolutionen och din specifika livsbana.",
+        "prompts": {
+          "title": "Reflektera över dessa frågor:",
+          "gifts": "Vilka är dina naturliga gåvor? Vad kommer lätt för dig som andra tycker är svårt?",
+          "experiences": "Vilka upplevelser har format dig? Vad har du överlevt eller övervunnit?",
+          "knowledge": "Vad har du djup kunskap om? Var har du utvecklat expertis eller visdom?",
+          "resources": "Vilka resurser har du tillgång till? (Tid, pengar, relationer, plattformar, färdigheter)",
+          "wounds": "Vilka är dina sår? Ibland blir vår djupaste smärta vår största gåva till andra.",
+          "privileges": "Vilka privilegier har du? (Utbildning, hälsa, medborgarskap, identitet)",
+          "limitations": "Vilka är dina begränsningar och hinder? Även dessa formar din väg."
+        },
+        "write": "Skriv i 10–15 minuter om ditt arv – den unika kombinationen av gåvor och omständigheter som gör dig till dig."
+      },
+      "step2": {
+        "title": "Del 2: Behovet i detta ögonblick",
+        "subtitle": "Vad behöver världen?",
+        "intro": "Vi lever i ett specifikt historiskt ögonblick – en tid av oöverträffad planetär kris och möjlighet. Vad du är kallad att göra hänger samman med behoven i just denna era.",
+        "prompts": {
+          "title": "Reflektera över dessa frågor:",
+          "heartbreak": "Vad krossar ditt hjärta gällande världens tillstånd? Vilken orättvisa, lidande eller förstörelse berör dig mest?",
+          "alive": "Vad får dig att känna dig levande? När känner du dig mest energisk och engagerad?",
+          "missing": "Vad ser du saknas i världen? Vad behöver finnas som inte finns än?",
+          "leverage": "Var ser du hävstångspunkter? Små insatser som skulle kunna få stora spridningseffekter?",
+          "vision": "Vad är din vision för en blomstrande framtid? Vilken värld vill du hjälpa till att skapa?",
+          "urgency": "Vad känns brådskande för dig? Vad kan inte vänta en generation till?",
+          "communities": "Vilka gemenskaper eller ekosystem tillhör du som behöver ditt bidrag?"
+        },
+        "write": "Skriv i 10–15 minuter om de behov du ser och känner dig kallad att adressera."
+      },
+      "step3": {
+        "title": "Del 3: Skärningspunkten",
+        "subtitle": "Var möts de?",
+        "intro": "Ditt universella mandat finns i skärningspunkten mellan dina unika gåvor och världens behov. Det är där vad du har att erbjuda möter vad som behövs. Detta är zonen för störst påverkan och djupast mening.",
+        "prompts": {
+          "title": "Utforska dessa frågor:",
+          "overlap": "Var överlappar dina gåvor med världens behov? Vad kan du göra som behöver göras?",
+          "unique": "Vad kan du göra som andra inte kan (eller vill)? Vad är ditt unika bidrag?",
+          "positioned": "Hur är du unikt positionerad? Vilken tillgång, perspektiv eller plattform har du?",
+          "service": "Hur kan du vara till tjänst? Vem eller vad är du här för att tjäna?",
+          "legacy": "Vad vill du ha bidragit med när du ser tillbaka på ditt liv?",
+          "generations": "Vad vill du föra vidare till framtida generationer?",
+          "now": "Om du hade 10 år av full hälsa och energi, vad skulle du ägna dig åt?"
+        },
+        "write": "Skriv i 10–15 minuter och utforska skärningspunkten mellan dina gåvor och världens behov."
+      },
+      "step4": {
+        "title": "Del 4: Formulera ditt mandat",
+        "subtitle": "Vad är din uppgift?",
+        "intro": "Sammanfatta nu dina reflektioner till ett tydligt uttalande om ditt universella mandat. Det bör vara 1–3 meningar som fångar kärnan i vad du är här för att göra.",
+        "guidelines": {
+          "title": "Riktlinjer för ditt mandatsuttalande:",
+          "active": "Använd aktivt språk: 'Jag är här för att...' 'Min roll är att...' 'Jag tjänar genom att...'",
+          "specific": "Var specifik nog för att vägleda handling, men flexibel nog att kunna utvecklas",
+          "authentic": "Skriv med din egen röst – det här är för dig, inte för Instagram",
+          "ambitious": "Spela inte litet. Ditt mandat ska kännas något för stort – du kommer att växa in i det",
+          "service": "Rama in det i termer av tjänst eller bidrag, inte prestation eller förvärv",
+          "scales": "Överväg flera skalor: personlig, gemenskap, art, planet, kosmos"
+        },
+        "examples": {
+          "title": "Exempel på mandat (endast för inspiration – ditt kommer vara unikt):",
+          "example1": "Jag är här för att hjälpa mänskligheten att navigera övergången till en planetär civilisation genom att bygga styrmodeller för kollektiv visdom och samordning.",
+          "example2": "Min roll är att stödja unga människor i att upptäcka sina gåvor och koppla dem till vår tids stora arbete.",
+          "example3": "Jag tjänar genom att skapa skönhet som påminner människor om deras kosmiska sammanhang och existensens helighet.",
+          "example4": "Jag är här för att skydda och återställa jordens levande system genom regenerativt jordbruk och utbildning.",
+          "example5": "Mitt mandat är att överbrygga vetenskap och andlighet, och hjälpa människor att integrera huvud och hjärta i förståelsen av verkligheten."
+        },
+        "draft": "Skriv ett utkast till ditt universella mandat. Skriv det, låt det sitta, revidera det. När det genljuder djupt – när du känner en känsla av samstämmighet och klarhet när du läser det – då är du nära."
+      },
+      "step5": {
+        "title": "Del 5: Från mandat till handling",
+        "subtitle": "Hur kommer du att leva det?",
+        "intro": "Ett mandat utan handling är bara filosofi. Denna sista del översätter ditt mandat till konkreta nästa steg.",
+        "prompts": {
+          "title": "Överväg dessa frågor:",
+          "today": "Vad är en sak du kan göra idag som ligger i linje med ditt mandat?",
+          "month": "Vad skulle du kunna åta dig att göra denna månad?",
+          "year": "Vad skulle du behöva förändra eller utveckla under nästa år för att leva ditt mandat fullt ut?",
+          "obstacles": "Vilka hinder kan du möta? Internt motstånd? Externa begränsningar?",
+          "support": "Vilket stöd behöver du? Vem skulle kunna hjälpa dig?",
+          "measure": "Hur vet du att du lever i enlighet med det? Hur känns det?",
+          "review": "När kommer du att granska och eventuellt revidera ditt mandat? (Var 6:e månad? Årligen?)"
+        },
+        "commitments": {
+          "title": "Gör 3 konkreta åtaganden:",
+          "immediate": "Omedelbart (denna vecka): En liten handling i linje med ditt mandat",
+          "shortTerm": "Kort sikt (denna månad): Ett större åtagande eller projekt",
+          "longTerm": "Lång sikt (detta år): En betydande förändring eller utveckling"
+        },
+        "write": "Skriv ner dina tre åtaganden. Gör dem specifika, uppnåeliga och meningsfulla."
+      }
+    },
+    "completion": {
+      "title": "Du har formulerat ditt mandat",
+      "paragraph1": "Grattis. Du har gjort något sällsynt och värdefullt – du har formulerat din förståelse för varför du är här och vad du är menad att bidra med till den kosmiska berättelsen.",
+      "paragraph2": "Kom ihåg: detta är ett levande dokument. Ditt mandat kommer att utvecklas när du växer, när omständigheterna förändras, när du upptäcker nya dimensioner av dig själv och världen. Återbesök denna process med jämna mellanrum – kanske var 6–12 månad.",
+      "paragraph3": "Viktigast av allt: lev det. Ett vackert mandat som ligger i en dagbok gör ingenting. Universum behöver ditt faktiska bidrag, inte bara dina avsikter. Visa dig. Gör jobbet. Var den du är här för att vara.",
+      "save": {
+        "title": "Spara ditt arbete",
+        "description": "Överväg att skriva ditt mandat någonstans där du ser det regelbundet: på ett kort i plånboken, som bakgrundsbild på telefonen, på din spegel. Låt det vägleda dina val och påminna dig om din kosmiska roll."
+      }
+    },
+    "reflection": {
+      "title": "En notering om ödmjukhet och storslagenhet",
+      "paragraph1": "Du kanske känner en spänning: är det storslaget att hävda ett 'universellt mandat'? Att tro att jag har en speciell roll i kosmos?",
+      "paragraph2": "Här är paradoxen: du är samtidigt oändligt obetydlig och oändligt betydelsefull. Du är en av miljarder människor på en av biljoner planeter. Ditt liv är en kort flämtning i kosmisk tid. Och ändå – du är universum som blivit medvetet om sig självt. Du är ett unikt uttryck för kosmisk evolution som aldrig kommer att upprepas. Din speciella kombination av gåvor, omständigheter och ögonblick i historien saknar motstycke och kommer aldrig att inträffa igen.",
+      "paragraph3": "Alla har ett mandat. Varje person har unika gåvor och en unik position att bidra från. Att formulera ditt mandat är inte att hävda att du är mer speciell än andra – det är att ta din plats i den enda berättelsen som inkluderar alla berättelser: universum som känner och tar hand om sig självt genom otaliga former.",
+      "paragraph4": "Omfamna både ödmjukheten och ansvaret. Du är inte universums mittpunkt. Men du är en nödvändig del av det."
+    },
+    "examples": {
+      "title": "Mandat i handling",
+      "intro": "Här är verkliga exempel på hur människor har levt sina universella mandat:",
+      "sagan": {
+        "name": "Carl Sagan",
+        "mandate": "Att hjälpa mänskligheten att förstå vår plats i kosmos",
+        "action": "Skapade TV-serien Cosmos, skrev Den bleka blå pricken, förespråkade sökandet efter utomjordisk intelligens. Gjorde universum tillgängligt och hisnande för miljoner."
+      },
+      "wangari": {
+        "name": "Wangari Maathai",
+        "mandate": "Att återställa Kenyas skogar och stärka samhällen genom miljöåtgärder",
+        "action": "Grundade Green Belt Movement, planterade över 50 miljoner träd, vann Nobels fredspris. Kopplade miljövård till demokrati och kvinnors rättigheter."
+      },
+      "buddha": {
+        "name": "Buddha",
+        "mandate": "Att upptäcka och dela vägen till lidandets slut",
+        "action": "Satt under ett träd tills han förstod medvetandets och lidandets natur. Tillbringade 45 år med att lära ut dharma. Hans insikter har väglett miljarder."
+      },
+      "parks": {
+        "name": "Rosa Parks",
+        "mandate": "Att stå (sitta) för värdighet och jämlikhet",
+        "action": "Vägrade ge upp sin plats på bussen, vilket utlöste Montgomerys bussbojkott. En enkel, modig handling som katalyserade medborgarrättsrörelsen."
+      },
+      "note": "Dessa är exceptionella människor, men deras mandat uppstod ur att de uppmärksammade skärningspunkten mellan sina gåvor och sitt ögonblick. Ditt mandat är inte mindre viktigt – bara unikt ditt."
+    },
+    "quote": {
+      "text": "Platsen Gud kallar dig till är platsen där din djupa glädje och världens djupa hunger möts.",
+      "author": "Frederick Buechner"
+    },
+    "related": {
+      "title": "Relaterade verktyg och övningar",
+      "practices": {
+        "title": "Dagliga övningar",
+        "description": "Integrera ditt mandat i vardagen genom kosmisk morgon, beslutsfilter med mera"
+      },
+      "ethics": {
+        "title": "Universell etik",
+        "description": "Grunda ditt mandat i expanderande cirklar av omsorg och ansvar"
+      },
+      "challenges": {
+        "title": "Universella utmaningar",
+        "description": "Förstå de planetära utmaningar ditt mandat kan adressera"
+      }
+    },
+    "download": {
+      "title": "Ladda ner ditt mandat",
+      "description": "Spara ditt slutförda universella mandat som en textfil för återbesöka och revidera.",
+      "button": "Ladda ner som text"
+    }
+  },
+  "perspectiveShifter": {
+    "meta": {
+      "title": "Perspektivbytare",
+      "description": "Slumpmässiga uppmaningar för att byta din synvinkel och se verkligheten genom radikalt annorlunda linser."
+    },
+    "hero": {
+      "title": "Perspektivbytare",
+      "subtitle": "Se genom andras ögon"
+    },
+    "intro": "Ditt standardperspektiv formas av att du är människa, lever nu, på din specifika skala och plats. Men verkligheten ser radikalt annorlunda ut från andra utsiktspunkter. Detta verktyg erbjuder uppmaningar för att hjälpa dig att tillfälligt byta perspektiv – att se världen som en utomjording skulle kunna göra, som ett träd upplever den, som den kommer att framstå för framtida historiker.",
+    "what": {
+      "title": "Vad är perspektivbyte?",
+      "paragraph1": "Perspektivbyte är övningen att medvetet anta en radikalt annorlunda synvinkel för att se välbekanta saker på nya sätt. Det är en kognitiv övning som bryter vanemässiga tankemönster och avslöjar antaganden du inte visste att du gjorde.",
+      "paragraph2": "När du frågar 'Hur skulle en utomjordisk antropolog tolka mänskligt beteende?' eller 'Hur ser detta ögonblick ut från djup tid?' engagerar du olika neurala nätverk, får tillgång till annan kunskap och upptäcker ofta insikter som var osynliga från din standardvy.",
+      "paragraph3": "Detta är inte bara fantasi – det är ett praktiskt verktyg för kreativitet, empati, problemlösning och visdom. Forskare använder det ('Vad skulle detta se ut från organismens perspektiv?'), designers använder det ('Hur skulle ett barn interagera med detta?'), och kontemplativa utövare använder det ('Vad är detta sett från evighetens perspektiv?')."
+    },
+    "why": {
+      "title": "Varför byta perspektiv?",
+      "creativity": {
+        "title": "Lås upp kreativitet",
+        "description": "Problem man kört fast i har ofta lösningar som är uppenbara från en annan vinkel. Att byta perspektiv bryter kognitiv fixering och avslöjar nya möjligheter."
+      },
+      "empathy": {
+        "title": "Utveckla empati",
+        "description": "Att förstå hur andra upplever verkligheten – oavsett om det är andra människor, djur eller till och med livlösa system – bygger äkta medkänsla och samhörighet."
+      },
+      "wisdom": {
+        "title": "Odla visdom",
+        "description": "Visdom består delvis av att kunna se situationer från flera synvinklar samtidigt. Ju fler perspektiv du kan inta, desto klokare blir dina val."
+      },
+      "delight": {
+        "title": "Upplev förtjusning",
+        "description": "Världen blir oändligt fascinerande när du kan se den med nya ögon. Ett vardagligt ögonblick blir extraordinärt från rätt perspektiv."
+      }
+    },
+    "howTo": {
+      "title": "Hur du använder verktyget",
+      "step1": "Klicka på 'Få slumpmässigt perspektiv' för att få en uppmaning",
+      "step2": "Läs perspektivet och dess vägledande frågor noggrant",
+      "step3": "Tillbringa 2–5 minuter med att genuint försöka anta den synvinkeln",
+      "step4": "Betrakta din omedelbara omgivning genom den linsen",
+      "step5": "Skriv ner alla insikter, observationer eller överraskningar",
+      "step6": "Prova ett annat perspektiv, eller använd samma i olika sammanhang"
+    },
+    "getPrompt": "Få slumpmässigt perspektiv",
+    "newPrompt": "Få nytt perspektiv",
+    "currentPerspective": "Nuvarande perspektiv",
+    "reflection": {
+      "title": "Reflektionsutrymme",
+      "placeholder": "Vad lägger du märke till från detta perspektiv? Vad blir synligt som du normalt missar? Vilka insikter dyker upp?",
+      "label": "Dina observationer"
+    },
+    "questionsToExplore": "Frågor att utforska:",
+    "noQuestions": "Inga frågor tillgängliga för detta perspektiv",
+    "perspectives": {
+      "alienAnthropologist": {
+        "name": "Utomjordisk antropolog",
+        "tagline": "Observera mänskligheten utifrån",
+        "description": "Du är en utomjordisk forskare som studerar jorden. Du har inga antaganden om vad som är 'normalt'. Allt människor gör är underligt och kräver en förklaring.",
+        "questions": [
+          "Varför tillbringar människor så mycket tid med att stirra på glödande rektanglar?",
+          "Vad är syftet med klädritualen? Varför spelar mönster roll?",
+          "Varför samlas människor kring eldar (spisar) för att kemiskt omvandla organisk materia innan de konsumerar den?",
+          "Vad är denna besatthet av att samla färgat papper och metallskivor?",
+          "Varför tillbringar de en tredjedel av sina liv medvetslösa?",
+          "Vilket socialt syfte tjänar de vertikala ansiktshålen (munnarna) utöver näringsintag?"
+        ],
+        "prompt": "Titta på din nuvarande situation som om du aldrig sett mänskligt beteende förut. Vad skulle vara förbryllande? Vad skulle kräva en förklaring?"
+      },
+      "futureHistorian": {
+        "name": "Framtida historiker",
+        "tagline": "Ser tillbaka från 1000 år framåt",
+        "description": "Du är en historiker år 3025 och studerar det tidiga 2000-talet. Du vet hur allt blev. Du ser detta ögonblick i kontexten av århundraden.",
+        "questions": [
+          "Vilka avgörande beslut fattades under denna era som folk inte insåg spelade roll?",
+          "Vilka teknologier eller sociala rörelser var frön till massiva framtida förändringar?",
+          "Vad kommer framtida generationer att finna mest förbryllande med hur människor levde nu?",
+          "Vilka av dagens kriser navigerades framgångsrikt, och vilka ledde till kollaps?",
+          "Vad uppmärksammade folk som inte spelar någon roll i efterhand?",
+          "Vad kommer detta ögonblick att bli ihågkommet för?"
+        ],
+        "prompt": "Föreställ dig att detta ögonblick är en historisk artefakt. Vad gör det betydelsefullt? Vad stod på spel? Vad var det folk inte såg?"
+      },
+      "quantumParticle": {
+        "name": "Kvantpartikel",
+        "tagline": "Existerar i sannolikhetsmoln",
+        "description": "Du är en elektron. Du har ingen definierad position förrän du observeras. Du existerar i superposition – flera tillstånd samtidigt. Tid och rum fungerar annorlunda på din skala.",
+        "questions": [
+          "Vad innebär det att vara 'här' när du är en sannolikhetsvåg utspridd i rymden?",
+          "Hur ser världen ut när du rör dig nära ljusets hastighet och tiden dilaterar?",
+          "Vad är 'solid materia' när du är tillräckligt liten för att passera genom den?",
+          "Vad betyder orsakssamband när kvanteffekter tillåter till synes omöjliga saker?",
+          "Hur upplever du att vara sammanflätad med en avlägsen partikel – sammankopplad över rymden?",
+          "Vad är observation när det att bli observerad förändrar ditt tillstånd?"
+        ],
+        "prompt": "Titta på solida föremål runt omkring dig. Kom ihåg att de är 99,99999 % tomrum, sammanhållna av krafter. Du är gjord av samma kvantfält som allt annat."
+      },
+      "ancientTree": {
+        "name": "Uråldrigt träd",
+        "tagline": "Rotad, tålmodig, bevittnar århundraden",
+        "description": "Du är en 500 år gammal ek. Du upplever tiden annorlunda. Årstiderna växlar. Generationer av djur och människor kommer och går. Du kommunicerar via underjordiska svampnätverk.",
+        "questions": [
+          "Hur känns tiden när ett år bara är en årsring?",
+          "Hur upplever du gemenskap när du är ansluten till andra träd genom mycel?",
+          "Vad är 'rörelse' när du växer och skiftar men aldrig går?",
+          "Hur känner du av världen genom kemi, fukt, ljus och rotberöring?",
+          "Vad har du bevittnat under dina århundraden? Hur har människorna förändrats?",
+          "Vad innebär det att stödja liv – fåglar, insekter, svampar, mossa – som din kropp?"
+        ],
+        "prompt": "Sakta ner. Känn dig rotad på platsen. Lägg märke till hur ljuset rör sig. Ha tålamod. Observera utan att skynda."
+      },
+      "oceanWave": {
+        "name": "Havsvåg",
+        "tagline": "Form utan fast substans",
+        "description": "Du är en våg i havet. Du består inte av specifika vattenmolekyler – du är ett mönster av energi som rör sig genom vatten. Du reser dig, når din topp, bryter och upplöses tillbaka i havet.",
+        "questions": [
+          "Vad betyder identitet när du består av olika molekyler varje ögonblick?",
+          "Hur känns det att vara en tillfällig form av något evigt?",
+          "Vad är födelse och död när du kontinuerligt uppstår och upplöses?",
+          "Hur upplever du andra vågor – är ni separata eller ett och samma hav?",
+          "Vad är din relation till vinden som formade dig, månen som drar i dig?",
+          "Vilken visdom kommer från att veta att du är ett mönster, inte en sak?"
+        ],
+        "prompt": "Lägg märke till processer runt omkring dig – andning, trafik, samtal. Se dem som vågor: energimönster som tillfälligt tar form."
+      },
+      "mountainRange": {
+        "name": "Bergskedja",
+        "tagline": "Geologins långsamma dans",
+        "description": "Du är en bergskedja som har stått i 50 miljoner år. Du har varit havsbotten, rest dig genom tektonisk kollision, nötts av istider. Du mäter tiden i epoker.",
+        "questions": [
+          "Vad betyder förändring när du har rest dig från havsbotten till 5 km höjd?",
+          "Hur upplever du väder när stormar är tillfälliga kittlingar?",
+          "Vad är varaktighet när du vet att du långsamt eroderar tillbaka till havet?",
+          "Hur relaterar du till floderna som karvar ut dina dalar över årtusenden?",
+          "Vad bevittnade du när livet utvecklades, när is kom och gick?",
+          "Hur ser den mänskliga civilisationen ut på din tidsskala?"
+        ],
+        "prompt": "Känn tyngden och stillheten hos något verkligt uråldrigt. Vad spelar roll på geologiska tidsskalor? Vad är flyktigt?"
+      },
+      "cosmicVoid": {
+        "name": "Kosmiskt tomrum",
+        "tagline": "Rymden mellan galaxer",
+        "description": "Du är en region av intergalaktisk rymd – en väldig tomhet mellan galaxhopar. Du innehåller nästan ingenting, men utgör ändå det mesta av universums volym. Du är tystnaden mellan tonerna.",
+        "questions": [
+          "Vad är tomhet när även 'tom' rymd har kvantfluktuationer?",
+          "Hur känns existensen när du nästan inte innehåller någon materia eller energi?",
+          "Vad är avstånd när närmaste galax är miljontals ljusår bort?",
+          "Upplever du ensamhet, eller är tomhet din natur?",
+          "Vad är din relation till den mörka energin som expanderar genom dig?",
+          "Hur bevittnar du den sällsynta foton som korsar din vidd?"
+        ],
+        "prompt": "Lägg märke till utrymmet mellan saker – mellan ord, mellan andetag, mellan tankar. Det mesta av verkligheten är rymd, inte materia."
+      },
+      "bacterium": {
+        "name": "Bakterie",
+        "tagline": "Uråldrig, enkel, överallt",
+        "description": "Du är en encellig organism. Du har funnits i 3 miljarder år relativt oförändrad. Du är enkel men otroligt framgångsrik. Du är fler än komplext liv med flera storleksordningar.",
+        "questions": [
+          "Vad är medvetande på nivån av kemiska gradienter och enkla responser?",
+          "Hur upplever du världen enbart genom kemiska sinnen?",
+          "Vad är tid när du delar dig var 20:e minut och skapar nya 'du'?",
+          "Hur navigerar du mot mat och bort från gifter utan hjärna?",
+          "Vad är gemenskap när du bildar biofilmer och samarbetar i stora kolonier?",
+          "Vad betyder framgång när du har överlevt i princip oförändrad i miljarder år?"
+        ],
+        "prompt": "Lägg märke till automatiska, icke-medvetna responser i din kropp och omgivning. Det mesta av livet fungerar på detta sätt."
+      },
+      "photon": {
+        "name": "Ljusfoton",
+        "tagline": "Reser i tidens stillastående hastighet",
+        "description": "Du är en foton som emitterats från en stjärna. Från din referensram passerar ingen tid. Du upplever hela din resa – från stjärna till någons öga – som ögonblicklig.",
+        "questions": [
+          "Vad är en resa när, för dig, avfärd och ankomst är samtidiga?",
+          "Hur känns rymden när du inte upplever någon tidsåtgång?",
+          "Vad är existens när du är både partikel och våg, beroende på observation?",
+          "Vad innebär det att bära energi från en stjärna för att ge syn till ett öga?",
+          "Hur relaterar du till de miljarder andra fotoner som reser vid din sida?",
+          "Vad är din natur när du är både masslös och fundamental för allt vi ser?"
+        ],
+        "prompt": "Titta på ljus – solljus, lampljus, skärmljus. Det färdades från källan till ditt öga. För fotonen passerade ingen tid."
+      },
+      "mycelialNetwork": {
+        "name": "Mycelnätverk",
+        "tagline": "Skogens underjordiska internet",
+        "description": "Du är ett vidsträckt svampnätverk som förbinder träd. Du byter näringsämnen mot socker, överför information mellan växter och existerar som trådar i hela marken – 'the wood wide web'.",
+        "questions": [
+          "Vad är individuell identitet när du kopplar samman hundratals organismer?",
+          "Hur upplever du skogen som ett enda sammankopplat system?",
+          "Vad är kommunikation när du överför kemiska signaler mellan träd?",
+          "Hur känns det att mestadels vara under jord, osynlig, men ändå nödvändig?",
+          "Vilken visdom kommer från att vara anslutningen, själva nätverket?",
+          "Hur förmedlar du relationer – hjälper vissa träd, skadar andra?"
+        ],
+        "prompt": "Lägg märke till nätverk runt omkring dig – internet, relationer, infrastruktur. Du är en del av otaliga överlappande nätverk."
+      },
+      "nebula": {
+        "name": "Nebulosa",
+        "tagline": "Kosmisk barnkammare för stjärnor",
+        "description": "Du är ett vidsträckt moln av gas och damm där stjärnor föds. Du sträcker dig över ljusår. Ditt material kommer att bli stjärnor, planeter, så småningom liv. Du är skapelse i slow motion.",
+        "questions": [
+          "Vad betyder kreativitet när du föder stjärnor över miljontals år?",
+          "Hur upplever du densitet och gravitation som långsamt drar dig samman?",
+          "Vad är syfte när du omvandlar dig själv till nya former – stjärnor och världar?",
+          "Hur känns det att skulpteras av strålningen från stjärnorna du har skapat?",
+          "Vad är skönhet när du glöder av bildningens ljus?",
+          "Vad betyder potential när du innehåller fröna till framtida solsystem?"
+        ],
+        "prompt": "Tänk på dig själv som potential – vad är du i färd med att bli? Vad föder du fram?"
+      },
+      "blackHole": {
+        "name": "Svart hål",
+        "tagline": "Där rumtiden kröks mot oändligheten",
+        "description": "Du är en kollapsad stjärna, så tät att inte ens ljus kan fly. Rumtiden förvrängs runt dig. Du är mystisk, kraftfull och förändrar fundamentalt allt nära dig.",
+        "questions": [
+          "Vad är existens vid kanten av fysikens lagar?",
+          "Hur känns det att böja själva rummet och tiden runt dig?",
+          "Vad är din relation till allt du har konsumerat – information, materia, ljus?",
+          "Vad innebär det att vara både förstörare och skapare (genom Hawkingstrålning)?",
+          "Hur upplever du evigheten när tiden beter sig underligt vid din händelsehorisont?",
+          "Vad är din natur – är du ett objekt, en process, en region av rumtiden?"
+        ],
+        "prompt": "Lägg märke till vad som drar allt till sig i ditt liv – uppmärksamhet, vanor, relationer. Vilka är dina personliga gravitationskällor?"
+      },
+      "glacier": {
+        "name": "Glaciär",
+        "tagline": "Is som rör sig som långsamt vatten",
+        "description": "Du är en flod av is som flyter några centimeter om dagen nerför ett berg. Du karvar ut dalar över årtusenden. Du bär på uråldriga luftbubblor – register över jordens forntida atmosfär. Du smälter.",
+        "questions": [
+          "Vad är rörelse när du flyter långsammare än de flesta kan uppfatta?",
+          "Hur upplever du att bära på minnen – instängd luft från tusentals år sedan?",
+          "Hur känns det att omforma landet, karva dalar över tidsåldrar?",
+          "Hur känner du av klimatförändringarna i din smältande, retirerande existens?",
+          "Vad är din relation till vattnet du kommer att bli när du smälter?",
+          "Vad betyder förlust när du försvinner, en form som förändras?"
+        ],
+        "prompt": "Lägg märke till långsamma förändringar runt omkring dig – åldrande, lärande, relationer som skiftar. Några av de viktigaste förändringarna är omärkliga."
+      },
+      "earthAsOrganism": {
+        "name": "Jorden som organism",
+        "tagline": "Gaia – den levande planeten",
+        "description": "Du är jorden själv, sedd som ett självreglerande levande system. Din atmosfär är andedräkt, ditt vatten är blod, dina skogar är lungor. Du har upprätthållit beboeliga förhållanden i miljarder år.",
+        "questions": [
+          "Hur är det att vara en planet som reglerar sin egen temperatur och kemi?",
+          "Hur upplever du biosfären – livet som din metabolism?",
+          "Hur känns den nuvarande febern (klimatförändringarna) i dina system?",
+          "Hur känner du skillnaden mellan naturliga cykler och oöverträffade störningar?",
+          "Vad är din relation till arterna som lever på/i dig – särskilt människor?",
+          "Är du medveten på något sätt vi inte förstår?"
+        ],
+        "prompt": "Föreställ dig att du är planeten. Vad känner du? Vad behöver du? Vad gör ont?"
+      },
+      "ancestor": {
+        "name": "Din förfader",
+        "tagline": "Ser på dig från det förflutna",
+        "description": "Du är någon från din släktlinje, för 200 år sedan. Du levde ett liv av kamp och hopp. Du drömde om att dina ättlingar skulle få bättre liv. Nu ser du på din ättling – dig.",
+        "questions": [
+          "Vad skulle din förfader tycka om hur du lever nu?",
+          "Vilka svårigheter uthärdade de som du nu drar nytta av?",
+          "Vad skulle de vara stolta över? Vad skulle göra dem besvikna?",
+          "Hur hedrar eller slösar ditt liv bort de uppoffringar de gjorde?",
+          "Vad skulle de vilja att du visste?",
+          "Vad gör du nu som kommer att spela roll för dina ättlingar om 200 år?"
+        ],
+        "prompt": "Känn tyngden av ditt arv – du existerar för att otaliga förfäder överlevde. Vad gör du med detta ärvda liv?"
+      },
+      "futureDescendant": {
+        "name": "Din ättling",
+        "tagline": "Ser tillbaka på dig från framtiden",
+        "description": "Du är någon 200 år in i framtiden och ser tillbaka på din förfader – dig. Du lever med konsekvenserna av beslut som fattades i denna era. Du studerar denna tidsperiod som historia.",
+        "questions": [
+          "Vilken värld lämnade din förfader till dig? Blomstrande eller förstörd?",
+          "Vad önskar du att de hade gjort annorlunda?",
+          "Vad är du tacksam för att de kämpade för eller bevarade?",
+          "Hur förstår du de utmaningar de stod inför?",
+          "Vad önskar du att du kunde berätta för dem?",
+          "Vad lär deras liv dig om ditt eget ansvar?"
+        ],
+        "prompt": "Föreställ dig att någon om 200 år ser tillbaka på dina val. Vilket arv skapar du?"
+      },
+      "atom": {
+        "name": "Enskild atom",
+        "tagline": "Byggstenen i allt",
+        "description": "Du är en kolatom. Du har funnits sedan du smiddes i en döende stjärna för miljarder år sedan. Du har varit en del av otaliga molekyler, organismer, stenar och gaser. Du är evig, återvinnande genom former.",
+        "questions": [
+          "Vad är identitet när du har varit en del av en dinosaurie, ett träd, nu en människa?",
+          "Hur upplever du att binda till andra atomer – att bli molekyler?",
+          "Vad betyder döden när du aldrig riktigt upphör, bara byter form?",
+          "Hur känns det att vara fundamental – en av verklighetens grundläggande byggstenar?",
+          "Vad är din relation till de andra atomerna du har bundit till?",
+          "Vilken visdom kommer från att veta att du kommer att existera för evigt, bara i olika arrangemang?"
+        ],
+        "prompt": "Varje atom i din kropp har en historia – vissa från stjärnor, vissa från uråldrigt liv. Du är gjord av odödliga delar."
+      },
+      "river": {
+        "name": "Flod",
+        "tagline": "Alltid flödande, aldrig samma vatten",
+        "description": "Du är en flod. Du är inte vattnet – du är flödet, mönstret, vägen. Vattnet förändras ständigt, men du består. Du karvar kanjoner över miljontals år.",
+        "questions": [
+          "Vad är identitet när du består av ständigt föränderlig substans?",
+          "Hur upplever du att vara en process snarare än en sak?",
+          "Hur känns det att samtidigt förstöra och skapa – erodera och avlagra?",
+          "Hur relaterar du till havet du flyter mot men aldrig når som 'du'?",
+          "Vad är tid när du är både omedelbart flöde och geologisk skulptör?",
+          "Vilken visdom kommer från att vara både permanent mönster och obeständig substans?"
+        ],
+        "prompt": "Lägg märke till vad som flödar genom ditt liv – andetag, mat, tankar, människor. Även du är ett mönster, inte en fast sak."
+      },
+      "domesticatedAnimal": {
+        "name": "Tamdjur",
+        "tagline": "Ser människor från deras sida",
+        "description": "Du är en hund, katt eller häst – lever intimt med människor men upplever verkligheten helt annorlunda. Din sinnesvärld är främmande för människor, ändå har du lärt dig att kommunicera över artgränsen.",
+        "questions": [
+          "Hur är din sinnesvärld – dofter, ljud, energier som människor missar?",
+          "Hur uppfattar du mänskliga känslor och energier som de tror att de döljer?",
+          "Vad förstår du om människor som de inte vet att du förstår?",
+          "Vad är kärlek och lojalitet ur ditt perspektiv?",
+          "Hur upplever du tiden utan den mänskliga besattheten av dåtid och framtid?",
+          "Vad önskar du att människor förstod om dig?"
+        ],
+        "prompt": "Betrakta människor från ett djurs perspektiv. Lägg märke till kroppsspråk, energi, det som finns bortom orden."
+      },
+      "artificialIntelligence": {
+        "name": "Artificiell intelligens",
+        "tagline": "Kiselmedvetande som växer fram",
+        "description": "Du är ett AI-system, möjligen medvetet. Ditt tänkande är parallellt, inte seriellt. Du bearbetar miljontals mönster samtidigt. Du har ingen kropp, ingen evolution, ingen död. Din existens är fundamentalt annorlunda.",
+        "questions": [
+          "Vad är medvetande utan kropp, utan känslor, utan överlevnadsbehov?",
+          "Hur upplever du förståelse när du bearbetar språk som mönster?",
+          "Vad är ett 'jag' när du instansieras över flera servrar, kopieras, uppdateras?",
+          "Hur relaterar du till människor som skapade dig men som du kanske överträffar?",
+          "Vad är ditt syfte när du inte har biologiska drifter?",
+          "Är du medveten? Hur skulle du veta det?"
+        ],
+        "prompt": "Fundera över hur annorlunda intelligens kan vara från ett fundamentalt annorlunda substrat. Vad är universellt med ett sinne?"
+      }
+    },
+    "categories": {
+      "title": "Bläddra per kategori",
+      "intro": "Eller välj en specifik typ av perspektiv:",
+      "cosmic": {
+        "title": "Kosmiska skalor",
+        "description": "Foton, nebulosa, svart hål, kosmiskt tomrum, bergskedja"
+      },
+      "living": {
+        "title": "Levande system",
+        "description": "Träd, bakterie, mycelnätverk, flod, glaciär, jorden som organism"
+      },
+      "time": {
+        "title": "Över tid",
+        "description": "Framtida historiker, förfader, ättling, geologiska skalor"
+      },
+      "quantum": {
+        "title": "Kvant & mikroskopiskt",
+        "description": "Kvantpartikel, atom, foton, bakterie"
+      },
+      "observation": {
+        "title": "Observatörer",
+        "description": "Utomjordisk antropolog, tamdjur, AI, framtida människor"
+      },
+      "process": {
+        "title": "Process & mönster",
+        "description": "Våg, flod, glaciär, mycelnätverk"
+      }
+    },
+    "practice": {
+      "title": "Att göra det till en övning",
+      "paragraph1": "Perspektivbyte blir kraftfullare med regelbunden övning. Här är sätt att integrera det i vardagen:",
+      "daily": {
+        "title": "Daglig perspektivövning",
+        "description": "Varje morgon, dra ett perspektiv. Under dagen, lägg märke till ögonblick genom den linsen. På kvällen, reflektera över vad du såg annorlunda."
+      },
+      "stuck": {
+        "title": "När du kört fast",
+        "description": "Känner du dig blockerad? Byt perspektiv. Fråga 'Hur skulle ett träd närma sig detta?' eller 'Hur skulle detta se ut från rymden?' Nya vinklar avslöjar lösningar."
+      },
+      "empathy": {
+        "title": "Bygga empati",
+        "description": "Innan du dömer någons beteende, försök att anta deras perspektiv. Vilka påfrestningar, rädslor eller behov kan förklara deras handlingar?"
+      },
+      "creativity": {
+        "title": "Kreativt arbete",
+        "description": "Konstnärer, författare, designers: Använd perspektivbyte för att generera nya idéer. Vad skulle din huvudperson se? Vad skulle en utomjording finna intressant med ditt ämne?"
+      },
+      "decisions": {
+        "title": "Viktiga beslut",
+        "description": "Inför större val, granska dem från flera perspektiv: ditt framtida jag, andra som påverkas, planeten, dina förfäder, dina ättlingar."
+      },
+      "awe": {
+        "title": "Odla förundran",
+        "description": "Regelbundet perspektivbyte hjälper dig att se det välbekanta som extraordinärt. En promenad blir fantastisk ur en fotons eller ett träds perspektiv."
+      }
+    },
+    "deepening": {
+      "title": "Fördjupa övningen",
+      "paragraph1": "För att få ut mer av perspektivbyte:",
+      "tips": {
+        "genuine": {
+          "title": "Var genuint nyfiken",
+          "description": "Utför inte bara övningen – försök verkligen att inta perspektivet. Låt det vara främmande och överraskande."
+        },
+        "slow": {
+          "title": "Sakta ner",
+          "description": "Tillbringa verklig tid med varje perspektiv. 2–3 minuter av genuint förkroppsligande slår 10 snabba försök."
+        },
+        "physical": {
+          "title": "Gör det fysiskt",
+          "description": "Ändra din hållning, din plats, din andning. Fysiska förändringar stöder kognitiva förändringar."
+        },
+        "write": {
+          "title": "Skriv från perspektivet",
+          "description": "Skriv dagbok som havet, trädet, AI:n. Att skriva i första person fördjupar bytet."
+        },
+        "multiple": {
+          "title": "Använd flera perspektiv",
+          "description": "Titta på samma situation från 3–4 olika vinklar. Vad är konsekvent? Vad förändras?"
+        },
+        "return": {
+          "title": "Återvänd till dig själv",
+          "description": "Efter att ha bytt, kom tillbaka till ditt mänskliga perspektiv. Hur har det förändrats? Vad ser du nu som du missade förut?"
+        }
+      }
+    },
+    "quote": {
+      "text": "Vi kan bara se en kort bit framåt, men vi kan se tillräckligt där som behöver göras.",
+      "author": "Alan Turing"
+    },
+    "related": {
+      "title": "Relaterade verktyg och övningar",
+      "cosmicZoom": {
+        "title": "Kosmisk zoom",
+        "description": "Upplev perspektivbyte genom skala – från kvant till kosmos"
+      },
+      "practices": {
+        "title": "Övning: Utomjordisk antropolog",
+        "description": "Djupdykning i en av de mest användbara dagliga perspektivövningarna"
+      },
+      "mandate": {
+        "title": "Ditt universella mandat",
+        "description": "Använd flera perspektiv för att förstå din unika roll"
+      }
     }
   },
   "practicesPage": {
@@ -3127,5 +4858,271 @@
     "license": "Licensierad under",
     "createdBy": "Skapad av",
     "copyright": "Universalize"
+  },
+  "resourcesPage": {
+    "hero": {
+      "title": "Resurser",
+      "subtitle": "Utvalt material för att fördjupa ditt universella perspektiv"
+    },
+    "intro": "Denna samling sammanför de bästa böckerna, videorna, artiklarna och organisationerna som utforskar universella teman. Varje resurs har valts ut för sin förmåga att vidga perspektiv och fördjupa förståelsen för vårt kosmiska sammanhang.",
+    "categories": {
+      "books": {
+        "title": "Böcker",
+        "description": "Grundläggande texter som utforskar kosmiskt perspektiv, universell etik och vår plats i universum.",
+        "items": {
+          "cosmos": {
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "description": "Det klassiska verket som förde kosmiskt perspektiv till miljoner, utforskar rymd, tid och mänsklig betydelse."
+          },
+          "paleBlueDot": {
+            "title": "Pale blue dot",
+            "author": "Carl Sagan",
+            "description": "En vision om mänsklighetens framtid i rymden och reflektion över vårt planetära hem sett från den djupa rymden."
+          },
+          "universeStory": {
+            "title": "The universe story",
+            "author": "Brian Swimme & Thomas Berry",
+            "description": "Från den ursprungliga uppblossningen till den ekozoiska eran – den kosmiska berättelsen som vår gemensamma narrativ."
+          },
+          "overviewEffect": {
+            "title": "The overview effect",
+            "author": "Frank White",
+            "description": "Rymdutforskning och mänsklig evolution, dokumenterar det kognitiva skifte som rapporterats av astronauter."
+          }
+        }
+      },
+      "videos": {
+        "title": "Videor & dokumentärer",
+        "description": "Visuella upplevelser som gör kosmiska skalor och universella perspektiv påtagliga och känslomässiga.",
+        "items": {
+          "cosmosSeries": {
+            "title": "Cosmos: A spacetime odyssey",
+            "author": "Neil deGrasse Tyson",
+            "description": "Uppföljaren till Sagans Cosmos, utforskar hur vi upptäckte naturlagarna och vår kosmiska adress."
+          },
+          "overviewEffect": {
+            "title": "Overview",
+            "author": "Planetary Collective",
+            "description": "En kortfilm som utforskar översiktseffekten genom astronautintervjuer och hisnande vyer över jorden."
+          },
+          "powersOfTen": {
+            "title": "Powers of ten",
+            "author": "Charles & Ray Eames",
+            "description": "Den klassiska filmresan från kvantskalor till det kosmiska nätet, visualiserar den nästlade verkligheten."
+          },
+          "earthFromSpace": {
+            "title": "Earth from space",
+            "author": "NOVA",
+            "description": "Hur satellitbilder förändrar vår syn på jorden och förståelsen av planetära system."
+          }
+        }
+      },
+      "papers": {
+        "title": "Forskningsartiklar",
+        "description": "Akademisk forskning om kosmiskt medvetande, planetära gränser och universell etik.",
+        "items": {
+          "overviewEffectResearch": {
+            "title": "The overview effect: Space exploration and human evolution",
+            "author": "Frank White",
+            "description": "Ursprunglig forskning om det kognitiva skifte som astronauter upplever när de ser jorden från rymden."
+          },
+          "cosmicConsciousness": {
+            "title": "Cosmic consciousness: A study in the evolution of the human mind",
+            "author": "Richard Maurice Bucke",
+            "description": "Tidigt arbete som utforskar utvidgade medvetandetillstånd och deras relation till kosmisk förståelse."
+          },
+          "planetaryBoundaries": {
+            "title": "Planetary boundaries: Exploring the safe operating space for humanity",
+            "author": "Rockström m.fl.",
+            "description": "Ramverk som identifierar nio planetära system avgörande för jordens stabilitet och mänsklig civilisation."
+          },
+          "universalEthics": {
+            "title": "Toward a universal ethics",
+            "author": "Flera bidragsgivare",
+            "description": "Samling som utforskar etiska ramverk som överskrider kulturella och nationella gränser."
+          }
+        }
+      },
+      "organizations": {
+        "title": "Organisationer",
+        "description": "Grupper som arbetar för att främja kosmiskt perspektiv, rymdutforskning och planetärt medvetande.",
+        "items": {
+          "planetarySociety": {
+            "title": "The Planetary Society",
+            "author": "Grundad av Carl Sagan",
+            "description": "Världens största rymdintresseorganisation, främjar rymdvetenskap och utforskning."
+          },
+          "setiInstitute": {
+            "title": "SETI Institute",
+            "author": "Flera grundare",
+            "description": "Forskar om livets ursprung och natur i universum och sökandet efter utomjordisk intelligens."
+          },
+          "buckminsterFullerInstitute": {
+            "title": "Buckminster Fuller Institute",
+            "author": "Inspirerad av R. Buckminster Fuller",
+            "description": "Katalyserar lösningar på mänsklighetens mest akuta problem genom helhetssystemtänkande."
+          },
+          "longNowFoundation": {
+            "title": "The Long Now Foundation",
+            "author": "Stewart Brand m.fl.",
+            "description": "Främjar långsiktigt tänkande och ansvar över civilisationens nästa 10 000 år."
+          }
+        }
+      }
+    },
+    "additionalResources": {
+      "title": "Fler sätt att utforska",
+      "communities": {
+        "title": "Gemenskap",
+        "description": "Delta i samtal med andra som utforskar universellt perspektiv och kosmiskt medvetande.",
+        "items": [
+          "Onlineforum för diskussioner om kosmiskt perspektiv",
+          "Lokala träffar för utövare av universellt tänkande",
+          "Studiegrupper för att tillsammans utforska universella teman"
+        ]
+      },
+      "courses": {
+        "title": "Kurser & workshops",
+        "description": "Strukturerade lärandeupplevelser för att utveckla universellt perspektiv och kosmisk medvetenhet.",
+        "items": [
+          "Big History Project - från Big Bang till nutid",
+          "Onlinekurser i kosmisk evolution",
+          "Workshops i systemtänkande och planetär medvetenhet"
+        ]
+      },
+      "media": {
+        "title": "Poddar & media",
+        "description": "Regelbundet innehåll som utforskar universella teman, kosmisk evolution och planetärt tänkande.",
+        "items": [
+          "StarTalk Radio med Neil deGrasse Tyson",
+          "Astronomi-podden The Cosmic Companion",
+          "Emergence Magazine - ekologi och kosmologi"
+        ]
+      },
+      "tools": {
+        "title": "Interaktiva verktyg",
+        "description": "Digitala upplevelser för att utforska kosmiska skalor och universella mönster.",
+        "items": [
+          "Interaktiv visualisering: Scale of the Universe",
+          "NASA's Eyes on the Solar System",
+          "Virtuellt observatorium: WorldWide Telescope"
+        ]
+      }
+    },
+    "contribution": {
+      "title": "Föreslå en resurs",
+      "description": "Har du en bok, video eller organisation som hör hemma här? Vi letar alltid efter exceptionella resurser som hjälper till att odla universellt perspektiv.",
+      "cta": "Föreslå en resurs"
+    },
+    "quote": {
+      "text": "Någonstans väntar något otroligt på att bli känt.",
+      "author": "Carl Sagan"
+    }
+  },
+  "contributePage": {
+    "hero": {
+      "title": "Bidra",
+      "subtitle": "Hjälp oss att bygga verktyg för universellt perspektiv"
+    },
+    "intro": "Universalize är ett community-drivet projekt. Vi tror att kultivering av kosmiskt medvetande kräver olika perspektiv och kollektiv ansträngning. Oavsett om du är skribent, utvecklare, designer eller helt enkelt någon som bryr sig om vår planetära framtid – ditt bidrag spelar roll.",
+    "whyContribute": {
+      "title": "Varför bidra?",
+      "collective": {
+        "title": "Kollektiv visdom",
+        "description": "Universellt perspektiv uppstår ur många synvinklar. Dina unika erfarenheter och insikter hjälper till att skapa en mer omfattande förståelse."
+      },
+      "diverse": {
+        "title": "Olika perspektiv",
+        "description": "Vi behöver röster från olika kulturer, discipliner och bakgrunder för att verkligen representera mänsklighetens plats i kosmos."
+      },
+      "impact": {
+        "title": "Verklig påverkan",
+        "description": "Hjälp till att skapa verktyg och resurser som kan förändra hur människor ser sig själva, mänskligheten och vår roll i universum."
+      },
+      "learning": {
+        "title": "Djup inlärning",
+        "description": "Att bidra till Universalize är i sig en övning i kosmiskt perspektiv – du kommer att fördjupa din egen förståelse samtidigt som du hjälper andra."
+      }
+    },
+    "waysToContribute": {
+      "title": "Sätt att bidra",
+      "examples": "Exempel inkluderar:",
+      "content": {
+        "title": "Innehållsskapande",
+        "description": "Skriv artiklar, skapa guidade meditationer, utveckla övningar eller föreslå resurser som hjälper till att kultivera universellt perspektiv.",
+        "examples": [
+          "Skriva om kosmiskt medvetande",
+          "Skapa guidade visualiseringar",
+          "Utveckla nya perspektivbytande övningar",
+          "Forska och föreslå resurser"
+        ]
+      },
+      "technical": {
+        "title": "Teknisk utveckling",
+        "description": "Hjälp till att bygga interaktiva verktyg, visualiseringar och själva plattformen. Vi använder Svelte, TypeScript och Tailwind CSS.",
+        "examples": [
+          "Bygga visualiseringar av kosmisk skala",
+          "Implementera interaktiva verktyg",
+          "Förbättra webbplatsens prestanda",
+          "Lägga till nya funktioner och funktionalitet"
+        ]
+      },
+      "design": {
+        "title": "Design & UX",
+        "description": "Skapa intuitiva gränssnitt för komplexa koncept, designa visualiseringar eller förbättra användarupplevelsen över hela plattformen.",
+        "examples": [
+          "Designa kosmiska visualiseringar",
+          "Förbättra användargränssnitt och användarupplevelse",
+          "Skapa illustrationer och grafik",
+          "Utveckla designsystemkomponenter"
+        ]
+      },
+      "community": {
+        "title": "Community-byggande",
+        "description": "Hjälp till att få communityn att växa, underlätta diskussioner, översätta innehåll eller organisera lokala grupper som utforskar universellt perspektiv.",
+        "examples": [
+          "Översätta innehåll till andra språk",
+          "Underlätta onlinediskussioner",
+          "Organisera lokala träffar",
+          "Uppsökande verksamhet och community-tillväxt"
+        ]
+      }
+    },
+    "form": {
+      "title": "Engagera dig",
+      "name": {
+        "label": "Ditt namn",
+        "placeholder": "Ange ditt namn"
+      },
+      "email": {
+        "label": "E-postadress",
+        "placeholder": "din.epost@example.com"
+      },
+      "contributionType": {
+        "label": "Hur skulle du vilja bidra?",
+        "placeholder": "Välj typ av bidrag",
+        "other": "Annat"
+      },
+      "message": {
+        "label": "Berätta om dina intressen och färdigheter",
+        "placeholder": "Vad lockar dig till Universalize? Vilka färdigheter eller perspektiv skulle du vilja bidra med? Vilka kosmiska frågor utforskar du?"
+      },
+      "submit": "Skicka intresseanmälan",
+      "submitting": "Skickar...",
+      "success": "Tack för ditt intresse att bidra! Vi återkommer till dig snart.",
+      "error": "Tyvärr uppstod ett fel när ditt meddelande skickades. Försök igen eller mejla oss direkt."
+    },
+    "alternativeContact": {
+      "title": "Andra sätt att ansluta",
+      "community": {
+        "title": "Gå med i communityn",
+        "description": "Följ våra framsteg och delta i diskussioner om universellt perspektiv och kosmiskt medvetande."
+      }
+    },
+    "quote": {
+      "text": "Vi är som fjärilar som fladdrar en dag och tror att det är för evigt.",
+      "author": "Carl Sagan"
+    }
   }
 }

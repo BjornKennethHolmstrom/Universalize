@@ -511,9 +511,9 @@ Och kanske är det den verkliga skönheten: **Att använda frågan om främmande
 av Thomas Nagel
 - "The Cognitive Basis of Human Aesthetics" - diverse neurovetenskapliga artiklar
 
-**Övning**:
-- [Skapa främmande konst](/practices/alien-aesthetics) - Designövningar
-- [SETI-meddelandedesign](/practices/message-design) - Kommunikationsutmaningar
+**Övning (planerat kommande)**:
+- [Skapa främmande konst] /practices/alien-aesthetics - Designövningar
+- [SETI-meddelandedesign] /practices/message-design - Kommunikationsutmaningar
 
 **Relaterat**:
 - [Konst som kommunikation](/pillars/aesthetics/topics/art-communication) - Voyagers gyllene skiva

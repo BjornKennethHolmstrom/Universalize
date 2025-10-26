@@ -303,9 +303,9 @@ This is true of all universal patterns: they appear everywhere but are always ex
 - *The Writer's Journey* by Christopher Vogler
 - *The Heroine's Journey* by Maureen Murdock
 
-**Practice**:
-- [Story analysis exercise](/practices/story-patterns) - Identify archetypes in films
-- [Personal journey mapping](/practices/hero-journey) - Map your own life as Hero's Journey
+**Practice (upcoming)**:
+- [Story analysis exercise] /practices/story-patterns - Identify archetypes in films
+- [Personal journey mapping] /practices/hero-journey - Map your own life as Hero's Journey
 
 **Related**:
 - [Universal patterns](/pillars/patterns) - Patterns across all scales

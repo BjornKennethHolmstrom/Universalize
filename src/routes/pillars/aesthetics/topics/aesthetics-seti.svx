@@ -503,9 +503,9 @@ And perhaps that's the real beauty: **Using the question of alien art to see our
 - "What Is It Like to Be a Bat?" by Thomas Nagel
 - "The Cognitive Basis of Human Aesthetics" - various neuroscience papers
 
-**Practice**:
-- [Create alien art](/practices/alien-aesthetics) - Design exercises
-- [SETI message design](/practices/message-design) - Communication challenges
+**Practice (planned upcoming)**:
+- [Create alien art] /practices/alien-aesthetics - Design exercises
+- [SETI message design] /practices/message-design - Communication challenges
 
 **Related**:
 - [Art as communication](/pillars/aesthetics/topics/art-communication) - Voyager Golden Record

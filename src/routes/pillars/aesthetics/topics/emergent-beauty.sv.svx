@@ -113,8 +113,8 @@ Trots sin enkelhet kan de generera häpnadsväckande komplexitet.
 
 Game of Life skapades 1970 och använder fyra regler:
 1.  Varje levande cell med 2–3 levande grannar överlever
-2.  Varje levande cell med <2 grannar dör (underpopulation)
-3.  Varje levande cell med >3 grannar dör (överbefolkning)
+2.  Varje levande cell med \<2 grannar dör (underpopulation)
+3.  Varje levande cell med \>3 grannar dör (överbefolkning)
 4.  Varje död cell med exakt 3 levande grannar blir levande (reproduktion)
 
 Det är allt.
@@ -467,9 +467,9 @@ Du är universum som blir medvetet om sin egen framväxande skönhet.
 - [Fraktalgallerier och generatorer](https://fractalfoundation.org/)
 - [Processing.org](https://processing.org) - Lär dig generativ kodning
 
-**Övning**:
-- [Handledning i generativ konst](/practices/generative-art) - Skapa ditt första framväxande system
-- [Mönsterobservation](/practices/emergence-spotting) - Hitta emergens i naturen
+**Övning (planerat kommande)**:
+- [Handledning i generativ konst] /practices/generative-art - Skapa ditt första framväxande system
+- [Mönsterobservation] /practices/emergence-spotting - Hitta emergens i naturen
 
 **Relaterat**:
 - [Universella mönster](/pillars/patterns) - Återkommande strukturer över skalor

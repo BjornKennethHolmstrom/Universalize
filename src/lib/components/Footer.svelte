@@ -17,7 +17,6 @@
     {
       title: $t('footer.sections.connect'),
       links: [
-        { name: $t('footer.links.theTrilogy'), href: '/trilogy' },
         { name: $t('footer.links.spiralize'), href: 'https://spiralize.org', external: true },
         { name: $t('footer.links.nondualize'), href: 'https://nondualize.org', external: true },
         { name: $t('footer.links.communize'), href: 'https://communize.org', external: true },

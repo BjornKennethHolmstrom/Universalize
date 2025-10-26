@@ -164,9 +164,9 @@ Och på något sätt finner medvetandet detta mönster vackert. Kanske är skön
 - *The Golden Ratio* av Mario Livio
 - *Divine Proportion* av Priya Hemenway
 
-**Praktik**:
-- [Skapa med gyllene snittet](/practices/golden-creation) - Konstövnignar
-- [Naturobservation](/practices/pattern-seeking) - Fältguide
+**Praktik (kommande)**:
+- [Skapa med gyllene snittet] /practices/golden-creation - Konstövnignar
+- [Naturobservation] /practices/pattern-seeking - Fältguide
 
 **Relaterat**:
 - [Universella mönster](/pillars/patterns) - Matematik i naturen

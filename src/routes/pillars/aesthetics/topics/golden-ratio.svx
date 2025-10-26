@@ -166,9 +166,9 @@ And somehow, consciousness finds this pattern beautiful. Perhaps beauty is truth
 - *The Golden Ratio* by Mario Livio
 - *Divine Proportion* by Priya Hemenway
 
-**Practice**:
-- [Create with the golden ratio](/practices/golden-creation) - Art exercises
-- [Nature observation](/practices/pattern-seeking) - Field guide
+**Practice (Upcoming)**:
+- [Create with the golden ratio] /practices/golden-creation - Art exercises
+- [Nature observation] /practices/pattern-seeking - Field guide
 
 **Related**:
 - [Universal patterns](/pillars/patterns) - Mathematics in nature

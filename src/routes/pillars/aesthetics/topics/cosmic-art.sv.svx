@@ -402,9 +402,9 @@ Det är inte bara konst. Det är heligt arbete.
 - *Space Art* av Ron Miller
 - *Cosmos* av Carl Sagan (med vackra bilder)
 
-**Övning**:
-- [Skapa kosmisk konst](/practices/cosmic-creation) - Övningar för alla medier
-- [Kosmisk fotografering](/practices/astrophotography-basics) - Att komma igång
+**Övning (planerat kommande)**:
+- [Skapa kosmisk konst] /practices/cosmic-creation - Övningar för alla medier
+- [Kosmisk fotografering] /practices/astrophotography-basics - Att komma igång
 
 **Relaterat**:
 - [Gyllene snittet](/pillars/aesthetics/topics/golden-ratio) - Matematik i skönhet

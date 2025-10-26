@@ -58,10 +58,10 @@ export async function loadTranslations(lang: string) {
   }
 }
 
-// Derived store for translation function
+// Derived store for translation function - FIXED VERSION
 export const t = derived(
   translations,
-  ($translations) => (key: string, fallback?: string): string => {
+  ($translations) => (key: string, fallback?: any): any => {
     const keys = key.split('.');
     let value: any = $translations;
     
@@ -69,11 +69,12 @@ export const t = derived(
       if (value && typeof value === 'object' && k in value) {
         value = value[k];
       } else {
-        return fallback || key;
+        return fallback !== undefined ? fallback : key;
       }
     }
     
-    return typeof value === 'string' ? value : (fallback || key);
+    // Return whatever value we found (string, array, object, etc.)
+    return value !== undefined ? value : (fallback !== undefined ? fallback : key);
   }
 );
 

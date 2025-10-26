@@ -11,7 +11,9 @@
     "tools": "Tools",
     "practices": "Practices",
     "about": "About",
-    "relatedSites": "Related sites"
+    "relatedSites": "Related sites",
+    "resources": "Resources",
+    "contribute": "Contribute"
   },
   "hero": {
     "title": "Universalize",
@@ -1786,7 +1788,8 @@
       }
     },
     "status": {
-      "comingSoon": "Coming soon"
+      "comingSoon": "Coming soon",
+      "explore": "Explore"
     },
     "categories": {
       "title": "Tool categories",
@@ -1810,6 +1813,1734 @@
     "quote": {
       "text": "If you wish to make an apple pie from scratch, you must first invent the universe.",
       "author": "Carl Sagan"
+    }
+  },
+  "decisionFilter": {
+    "meta": {
+      "title": "Universal decision filter",
+      "description": "A framework for evaluating choices across time scales and perspectives—from immediate to cosmic."
+    },
+    "hero": {
+      "title": "Universal decision filter",
+      "subtitle": "Make wiser choices by expanding your perspective",
+      "description": "Before any decision, we typically ask: 'What's best for me, right now?' The universal decision filter invites you to expand that question across time scales and perspectives—from your immediate needs to cosmic implications."
+    },
+    "what": {
+      "title": "What is the universal decision filter?",
+      "paragraph1": "The universal decision filter is a structured framework for evaluating choices by systematically considering them from multiple perspectives: your immediate self-interest, your community, the broader ecosystem, future generations, an objective outside observer, and the cosmic scale.",
+      "paragraph2": "It's designed to counteract our natural biases toward short-term thinking and narrow self-interest—not by denying those concerns, but by situating them within a fuller picture of reality. Often, what seems good for 'me right now' conflicts with what's good for 'everyone, long-term.' This tool helps you see and navigate those tensions.",
+      "benefits": {
+        "time": {
+          "title": "Expand your timeframe",
+          "description": "Move beyond immediate gratification to consider long-term consequences across years, decades, and generations."
+        },
+        "perspective": {
+          "title": "Multiple viewpoints",
+          "description": "See your choice from the perspectives of others—human and non-human, present and future."
+        },
+        "wisdom": {
+          "title": "Informed wisdom",
+          "description": "Make decisions that align with your deepest values and the flourishing of the whole."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "How it works: Six perspectives"
+    },
+    "perspectives": {
+      "self": {
+        "title": "Immediate self",
+        "question": "How does this decision affect you personally in the short term?",
+        "prompts": [
+          "What are my immediate needs, desires, and concerns?",
+          "What do I gain or lose in the next week, month, or year?",
+          "How will this affect my wellbeing, relationships, and goals?"
+        ]
+      },
+      "community": {
+        "title": "Community & relationships",
+        "question": "How does this decision affect your family, friends, and community?",
+        "prompts": [
+          "Who else is impacted by this choice?",
+          "Does this strengthen or weaken my relationships?",
+          "How does this affect the communities I'm part of?"
+        ]
+      },
+      "ecosystem": {
+        "title": "Ecosystem & planet",
+        "question": "What are the environmental and systemic impacts of this choice?",
+        "prompts": [
+          "What resources does this consume or protect?",
+          "What's the carbon footprint? The waste generated?",
+          "How does this affect biodiversity, ecosystems, or planetary health?"
+        ]
+      },
+      "future": {
+        "title": "Future generations",
+        "question": "How will this decision look in 10, 100, or 1,000 years?",
+        "prompts": [
+          "What precedent am I setting?",
+          "Will my descendants be grateful or regretful?",
+          "Does this create or foreclose future possibilities?"
+        ]
+      },
+      "alien": {
+        "title": "Objective observer",
+        "question": "How would an impartial outside observer view this choice?",
+        "prompts": [
+          "If an alien anthropologist studied this decision, what would they conclude?",
+          "Am I being rational or rationalized?",
+          "What would I advise a stranger facing this same choice?"
+        ]
+      },
+      "cosmic": {
+        "title": "Cosmic scale",
+        "question": "In the grand scheme of the universe, what does this decision represent?",
+        "prompts": [
+          "How significant is this in the context of billions of years of cosmic evolution?",
+          "Does this contribute to or detract from consciousness, complexity, and beauty in the universe?",
+          "If this is my last major choice before I die, is it aligned with what matters most?"
+        ]
+      }
+    },
+    "start": {
+      "title": "Begin your reflection",
+      "label": "What decision are you considering?",
+      "placeholder": "Describe the choice you're facing. Be specific. Examples: 'Should I accept this job offer?', 'Should we have another child?', 'Should I invest in this company?', 'Should I speak up about this issue?'",
+      "button": "Begin reflection",
+      "tips": {
+        "title": "Tips for best results",
+        "tip1": "Be honest with yourself—this is for you, not for anyone else.",
+        "tip2": "Don't rush. Take 2-3 minutes per perspective.",
+        "tip3": "Write freely. There are no wrong answers.",
+        "tip4": "You can always come back and revise."
+      }
+    },
+    "progress": {
+      "step": "Step",
+      "of": "of"
+    },
+    "yourDecision": "Your decision",
+    "yourThoughts": "Your thoughts",
+    "answerPlaceholder": "Reflect deeply on this perspective. What insights emerge when you consider your decision from this viewpoint?",
+    "reflectionPrompts": "Reflection prompts",
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next perspective",
+      "finish": "View results"
+    },
+    "results": {
+      "title": "Your universal reflection",
+      "subtitle": "You've examined your decision from six different perspectives. Now synthesize what you've learned.",
+      "yourDecision": "Your decision",
+      "perspectivesTitle": "Your perspectives",
+      "synthesis": {
+        "title": "Synthesis and next steps",
+        "paragraph1": "Review your reflections above. Notice patterns, tensions, and alignments. Consider:",
+        "question1": "Which perspective revealed the most surprising insight?",
+        "question2": "Where do your short-term and long-term interests conflict or align?",
+        "question3": "What would need to change for this decision to serve all perspectives?",
+        "question4": "Based on this full view, what feels like the wisest choice?"
+      },
+      "actions": {
+        "newDecision": "Reflect on a new decision",
+        "print": "Print this reflection"
+      },
+      "shareNote": "Consider journaling about this reflection or discussing it with someone you trust."
+    },
+    "examples": {
+      "title": "Example applications",
+      "labels": {
+        "immediate": "Immediate self",
+        "future": "Future generations",
+        "ecosystem": "Ecosystem",
+        "community": "Community",
+        "cosmic": "Cosmic scale",
+        "alien": "Objective observer"
+      },
+      "career": {
+        "title": "Career change decision",
+        "description": "Should I leave my stable corporate job to pursue climate activism full-time?",
+        "immediate": "Financial uncertainty, possible stress, but alignment with values.",
+        "future": "If climate work succeeds, my descendants live on a habitable planet.",
+        "ecosystem": "Direct positive impact if I'm effective; opportunity cost if I'm not."
+      },
+      "purchase": {
+        "title": "Major purchase",
+        "description": "Should I buy a new electric car or keep my old gas car running?",
+        "immediate": "Higher upfront cost, lower fuel costs, environmental satisfaction.",
+        "community": "Supporting EV industry, setting an example for neighbors.",
+        "cosmic": "Tiny individual contribution to planetary transition, symbolic vote for the future."
+      },
+      "business": {
+        "title": "Business strategy",
+        "description": "Should our company prioritize rapid growth or sustainable practices?",
+        "immediate": "Growth brings revenue and market share; sustainability costs more now.",
+        "future": "Sustainable practices build long-term resilience and reputation.",
+        "alien": "An observer might note: short-term thinking led many past civilizations to collapse."
+      }
+    },
+    "quote": {
+      "text": "We are called to be architects of the future, not its victims.",
+      "author": "R. Buckminster Fuller"
+    }
+  },
+  "cosmicAddress": {
+    "meta": {
+      "title": "Your cosmic address",
+      "description": "Locate yourself across nested scales—from your body to the observable universe. Explore your place in the cosmic hierarchy."
+    },
+    "hero": {
+      "title": "Your cosmic address",
+      "subtitle": "Where are you in the universe?",
+      "description": "Your address isn't just a street name and city. It's a nested set of locations across eight scales of reality, from your cells to the observable universe. Let's zoom out and find your place in the cosmos."
+    },
+    "progress": {
+      "level": "Level",
+      "of": "of"
+    },
+    "yourAddress": "Your address at this scale",
+    "amazingFacts": "Amazing facts",
+    "navigation": {
+      "zoomIn": "Zoom in",
+      "zoomOut": "Zoom out",
+      "restart": "Start over"
+    },
+    "keyboardHint": "Use arrow keys to navigate",
+    "levels": {
+      "body": {
+        "title": "Your body",
+        "scale": "~2 meters",
+        "description": "You are a complex biological system containing approximately 37 trillion cells, each one a universe of molecular machinery. Your body is a temporary arrangement of atoms that have existed since the beginning of time.",
+        "address": "You → Homo sapiens → Cellular organism",
+        "facts": [
+          "You're made of about 7 octillion atoms (7,000,000,000,000,000,000,000,000,000)",
+          "99% of your body's atoms are replaced annually—you're literally not the same person you were last year",
+          "Your DNA, if uncoiled, would stretch from Earth to the Sun and back 300 times"
+        ]
+      },
+      "location": {
+        "title": "Your location",
+        "scale": "~10-100 meters",
+        "description": "You exist at a specific point on Earth's surface. This building, this room, this precise location in space is where 13.8 billion years of cosmic evolution has currently arranged you.",
+        "address": "Your current location → Building → Street",
+        "facts": [
+          "Your precise location on Earth has never existed before and will never exist again (Earth is moving through space)",
+          "The ground beneath you is spinning at ~1,000 mph (at the equator) due to Earth's rotation",
+          "Every place you've ever been exists simultaneously—just at different points in spacetime"
+        ]
+      },
+      "city": {
+        "title": "Your city/region",
+        "scale": "~10-100 kilometers",
+        "description": "You're part of a human settlement—a concentration of civilization, culture, and collective human activity. Cities are humanity's most complex creations, intricate networks of people, infrastructure, and ideas.",
+        "address": "Your location → City → Region/State → Country",
+        "facts": [
+          "Cities occupy less than 3% of Earth's land but house over 55% of humanity",
+          "The city you're in is connected to every other city through trade, communication, and shared atmosphere",
+          "Urban areas produce ~80% of global GDP and ~70% of carbon emissions"
+        ]
+      },
+      "earth": {
+        "title": "Planet Earth",
+        "scale": "12,742 km diameter",
+        "description": "You live on a rocky planet orbiting a medium-sized star. Earth is the only known world that harbors life—a pale blue dot suspended in a sunbeam, our only home.",
+        "address": "Earth → Third planet from the Sun → Terrestrial planet",
+        "facts": [
+          "Earth is 4.54 billion years old—if that were 24 hours, all of human history would be the last 4 seconds",
+          "The probability of Earth's existence with conditions for life is staggeringly low—we're extraordinarily lucky",
+          "You're traveling at 67,000 mph (107,000 km/h) as Earth orbits the Sun"
+        ]
+      },
+      "solar": {
+        "title": "Solar System",
+        "scale": "~287 billion km across",
+        "description": "You inhabit the third planet in a system of eight planets orbiting a yellow dwarf star. Our solar system formed 4.6 billion years ago from a cloud of gas and dust.",
+        "address": "Solar System → Sun's planetary system → Inner Solar System",
+        "facts": [
+          "The Sun contains 99.86% of the Solar System's mass—everything else is basically rounding error",
+          "Our Solar System is moving at 514,000 mph (828,000 km/h) around the galactic center",
+          "There are more than 1 million asteroids and ~3,500 comets in our Solar System"
+        ]
+      },
+      "milkyway": {
+        "title": "Milky Way Galaxy",
+        "scale": "~100,000 light-years across",
+        "description": "You're in a spiral galaxy containing 200-400 billion stars. Our Sun is located in the Orion Arm, about 26,000 light-years from the galactic center. The Milky Way is your cosmic neighborhood.",
+        "address": "Milky Way Galaxy → Spiral galaxy → Orion Arm → Local Bubble",
+        "facts": [
+          "The Milky Way is at least 13.6 billion years old—nearly as old as the universe itself",
+          "Every star you see at night is in the Milky Way—other galaxies appear as faint smudges",
+          "At the center is a supermassive black hole (Sagittarius A*) with 4 million times the Sun's mass"
+        ]
+      },
+      "localgroup": {
+        "title": "Local Group",
+        "scale": "~10 million light-years across",
+        "description": "The Milky Way is part of a cluster of about 80 galaxies called the Local Group. Our nearest major neighbor is Andromeda, which will collide with us in ~4.5 billion years.",
+        "address": "Local Group → Galaxy cluster → Virgo Supercluster → Laniakea Supercluster",
+        "facts": [
+          "The Local Group contains ~3 trillion stars total across all its galaxies",
+          "Andromeda is approaching us at 250,000 mph—but the collision won't affect our solar system",
+          "Most of the Local Group's mass is dark matter—we can only see about 15% of what's actually there"
+        ]
+      },
+      "universe": {
+        "title": "Observable Universe",
+        "scale": "93 billion light-years across",
+        "description": "You exist in a universe containing at least 2 trillion galaxies, each with hundreds of billions of stars. The observable universe is everything we can see—but the full universe may be infinitely larger.",
+        "address": "Observable Universe → All space and time → Everything that exists",
+        "facts": [
+          "The universe is 13.8 billion years old—it has a birthday: the Big Bang",
+          "There are more stars in the universe than grains of sand on all Earth's beaches (~10²⁴)",
+          "95% of the universe is 'dark'—dark matter (27%) and dark energy (68%). We only understand 5% of reality."
+        ]
+      }
+    },
+    "complete": {
+      "title": "Your complete cosmic address",
+      "message": "From atoms to the cosmos—you exist at every scale simultaneously. Each level contains and is contained by others. You are both infinitesimally small and cosmically significant."
+    },
+    "understanding": {
+      "title": "Understanding your cosmic address",
+      "paragraph1": "What does it mean to have a cosmic address? It's a reminder that you're not separate from the universe—you're deeply embedded in it, participating in its structure at every scale.",
+      "paragraph2": "Each level of your address is real and important. You are simultaneously a collection of cells, a person in a community, a citizen of Earth, a passenger on a planet, a resident of a galaxy, and a point of consciousness in an unfolding cosmos.",
+      "paragraph3": "This nested structure reveals something profound: you can't be reduced to any single scale. You're not *just* atoms, and you're not *just* part of the universe. You are the universe, temporarily organized in a form that can contemplate itself.",
+      "nested": {
+        "title": "Nested hierarchies",
+        "description": "Each level contains the previous ones. Your body contains organs, organs contain cells, cells contain molecules, molecules contain atoms. Similarly, Earth contains you, the Solar System contains Earth, and so on."
+      },
+      "connected": {
+        "title": "Interconnected across scales",
+        "description": "Changes at one level affect others. Your thoughts (neural level) influence your health (body level) and your actions (social level). Climate change (planetary level) affects ecosystems (regional level) which affects individual organisms."
+      }
+    },
+    "reflection": {
+      "title": "Reflections on your cosmic address",
+      "questions": {
+        "belonging": "Where do you most strongly feel you belong?",
+        "perspective": "How does knowing your cosmic address change your perspective?",
+        "responsibility": "What responsibilities come with existing at each scale?",
+        "significance": "Does the cosmic scale make you feel insignificant or profoundly connected?"
+      },
+      "answers": {
+        "belonging": "Most people feel strongest belonging at the body, family, or community scale. Yet you belong equally to all scales—from atoms to galaxies. This is your inheritance.",
+        "perspective": "Understanding your nested existence can shift from 'I am a person having problems' to 'I am the universe temporarily experiencing itself as a person, navigating challenges.' Problems don't disappear, but context expands.",
+        "responsibility": "At the body level: care for your health. Community level: contribute to collective wellbeing. Planetary level: act as Earth's conscious steward. Cosmic level: participate mindfully in the universe's unfolding.",
+        "significance": "Both. You're microscopically small in cosmic scale—but you're also impossibly complex, conscious, and capable of understanding that scale. The universe became aware of itself through you. That's significant."
+      }
+    },
+    "quote": {
+      "text": "We are a way for the cosmos to know itself.",
+      "author": "Carl Sagan"
+    },
+    "related": {
+      "title": "Explore related tools",
+      "cosmicZoom": {
+        "title": "Cosmic zoom",
+        "description": "Experience the full range of scales from Planck length to observable universe"
+      },
+      "deepTime": {
+        "title": "Deep time walker",
+        "description": "Journey through Earth's 4.5 billion year history"
+      },
+      "overviewEffect": {
+        "title": "Overview effect",
+        "description": "See Earth from space and shift your perspective"
+      }
+    }
+  },
+  "deepTime": {
+    "meta": {
+      "title": "Deep time walker",
+      "description": "Journey through Earth's 4.5 billion year history. Experience geological time scales and see human civilization in its proper cosmic context."
+    },
+    "hero": {
+      "title": "Deep time walker",
+      "subtitle": "Journey through Earth's 4.5 billion years",
+      "description": "Human civilization is the last 0.003% of Earth's history. All of recorded history would fit in the final 0.1 second of a 24-hour day. To understand our place, we must grasp the immensity of deep time."
+    },
+    "visualTimeline": {
+      "title": "Earth's timeline (logarithmic scale)",
+      "start": "4.54 billion years ago",
+      "end": "Today",
+      "note": "Timeline uses logarithmic scale for better visualization—each era's width represents relative importance, not exact duration"
+    },
+    "progress": {
+      "era": "Era",
+      "of": "of"
+    },
+    "keyEvents": "Key events",
+    "navigation": {
+      "earlier": "Earlier era",
+      "later": "Later era",
+      "restart": "Back to beginning"
+    },
+    "keyboardHint": "Use arrow keys to navigate through time",
+    "eras": {
+      "formation": {
+        "title": "Hadean & Early Earth",
+        "duration": "~500 million years",
+        "description": "Earth forms from the solar nebula—a swirling disk of gas and dust. For the first billion years, our planet is a hellscape: molten, bombarded by asteroids, hostile to any life we could imagine. Yet this violence is necessary—it brings water, organizes elements, and eventually creates conditions for chemistry to become biology.",
+        "events": [
+          {
+            "name": "Earth forms",
+            "time": "4.54 billion years ago",
+            "description": "Gravity pulls together material from the solar nebula. Earth begins as a molten ball, surface temperature over 1,200°C."
+          },
+          {
+            "name": "Moon forms",
+            "time": "4.51 billion years ago",
+            "description": "A Mars-sized object (Theia) collides with Earth. Debris coalesces into the Moon. This impact tilts Earth's axis, giving us seasons."
+          },
+          {
+            "name": "Oceans appear",
+            "time": "4.4 billion years ago",
+            "description": "Earth cools enough for water vapor to condense. The first oceans form. Water arrived via comets and asteroids—we're made of cosmic ice."
+          }
+        ]
+      },
+      "archean": {
+        "title": "Archean Eon",
+        "duration": "~1.5 billion years",
+        "description": "Life begins! Single-celled organisms emerge in Earth's oceans. For nearly 2 billion years, life is nothing but microbes—but these microbes transform the planet, laying groundwork for everything that follows. This is when biochemistry figures out photosynthesis, the most important invention in Earth's history.",
+        "events": [
+          {
+            "name": "First life",
+            "time": "~3.8 billion years ago",
+            "description": "Self-replicating molecules appear in hydrothermal vents or tidal pools. Life emerges—chemistry becomes biology. All living things today descend from these first cells."
+          },
+          {
+            "name": "Photosynthesis evolves",
+            "time": "~3.5 billion years ago",
+            "description": "Cyanobacteria learn to harvest sunlight, producing oxygen as waste. This will eventually poison most existing life but enable complex organisms."
+          },
+          {
+            "name": "Stromatolites",
+            "time": "~3.0 billion years ago",
+            "description": "Layered structures built by bacteria become common. Some still exist today in Australia—living fossils connecting us to the deep past."
+          }
+        ]
+      },
+      "proterozoic": {
+        "title": "Proterozoic Eon",
+        "duration": "~2 billion years",
+        "description": "The Great Oxygenation Event transforms Earth's atmosphere. Oxygen—deadly poison to early life—accumulates, enabling new possibilities. Complex cells evolve. Multicellular life appears. Earth freezes completely several times ('Snowball Earth'), then thaws. This is the long preparation for the explosion of complex life to come.",
+        "events": [
+          {
+            "name": "Great Oxygenation Event",
+            "time": "~2.4 billion years ago",
+            "description": "Oxygen reaches 1% of atmosphere. Most anaerobic life goes extinct—Earth's first mass extinction. But oxygen enables aerobic respiration, powering complex life."
+          },
+          {
+            "name": "Complex cells evolve",
+            "time": "~2.0 billion years ago",
+            "description": "Eukaryotic cells appear—cells with nuclei and organelles. One cell engulfs another; they cooperate. Your mitochondria are descended ancient bacteria."
+          },
+          {
+            "name": "First animals",
+            "time": "~600 million years ago",
+            "description": "Multicellular organisms diversify. The Ediacaran biota—strange, soft-bodied creatures unlike anything alive today—populate the oceans."
+          }
+        ]
+      },
+      "paleozoic": {
+        "title": "Paleozoic Era",
+        "duration": "~289 million years",
+        "description": "The Cambrian Explosion brings astonishing diversity—most major animal groups appear within 10 million years. Life conquers land: plants first, then arthropods, then vertebrates. Fish evolve, then amphibians, then reptiles. Forests spread across continents. But the era ends in catastrophe: the Permian extinction kills 96% of marine species and 70% of land vertebrates—the worst mass extinction in Earth's history.",
+        "events": [
+          {
+            "name": "Cambrian Explosion",
+            "time": "~541 million years ago",
+            "description": "Complex animals diversify rapidly. Eyes evolve. Predator-prey dynamics begin. Trilobites, ancestors of insects, dominate the oceans."
+          },
+          {
+            "name": "Life colonizes land",
+            "time": "~470 million years ago",
+            "description": "Plants move onto land, followed by arthropods, then vertebrates. The first forests transform Earth's atmosphere and climate."
+          },
+          {
+            "name": "Permian extinction",
+            "time": "~252 million years ago",
+            "description": "Massive volcanic eruptions in Siberia trigger climate catastrophe. 96% of marine species and 70% of land vertebrates go extinct. Life nearly ends."
+          }
+        ]
+      },
+      "mesozoic": {
+        "title": "Mesozoic Era",
+        "duration": "~186 million years",
+        "description": "The Age of Dinosaurs. Life recovers from the Permian extinction and diversifies spectacularly. Dinosaurs dominate land for 165 million years. The first flowers bloom. Birds evolve from feathered dinosaurs. Mammals exist but remain small and nocturnal—waiting for their chance. That chance comes when an asteroid brings the dinosaurs' reign to a sudden end.",
+        "events": [
+          {
+            "name": "Dinosaurs rise",
+            "time": "~230 million years ago",
+            "description": "Dinosaurs evolve and quickly dominate terrestrial ecosystems. They'll rule Earth for 165 million years—longer than mammals have existed."
+          },
+          {
+            "name": "First flowers",
+            "time": "~140 million years ago",
+            "description": "Flowering plants (angiosperms) appear and rapidly diversify. They co-evolve with insects, creating the rich ecosystems we know today."
+          },
+          {
+            "name": "Asteroid impact",
+            "time": "~66 million years ago",
+            "description": "A 10-kilometer asteroid strikes Mexico. Global firestorms, darkness, and climate collapse kill 75% of species, including all non-avian dinosaurs. Mammals survive."
+          }
+        ]
+      },
+      "cenozoic": {
+        "title": "Cenozoic Era (pre-human)",
+        "duration": "~65.7 million years",
+        "description": "Mammals inherit the Earth. They diversify into thousands of species, filling ecological niches left empty by dinosaurs. Primates evolve in tropical forests. Grasses spread across continents, creating vast savannas. Climate cools; ice caps grow. Then, in the last few million years, something unprecedented happens: apes develop larger brains, walk upright, and begin the journey toward human consciousness.",
+        "events": [
+          {
+            "name": "Mammals diversify",
+            "time": "~66-50 million years ago",
+            "description": "Freed from dinosaur competition, mammals radiate into countless forms: whales, bats, elephants, cats, primates. Earth's modern ecosystems take shape."
+          },
+          {
+            "name": "Primates evolve",
+            "time": "~55 million years ago",
+            "description": "Early primates appear in tropical forests. Over tens of millions of years, they evolve larger brains, grasping hands, and complex social behaviors."
+          },
+          {
+            "name": "Human ancestors emerge",
+            "time": "~7-6 million years ago",
+            "description": "The human lineage splits from chimpanzees. Early hominins walk upright in African savannas. The journey toward Homo sapiens begins."
+          }
+        ]
+      },
+      "holocene": {
+        "title": "Holocene (Human Era)",
+        "duration": "~12,000 years",
+        "description": "The entire story of human civilization fits here—agriculture, cities, writing, philosophy, science, technology. From hunter-gatherers to space travelers in 12,000 years—0.0003% of Earth's history. We've become a geological force, capable of altering planetary systems. The Anthropocene—the human age—has begun. What we do now shapes Earth's trajectory for millions of years to come.",
+        "events": [
+          {
+            "name": "Agricultural Revolution",
+            "time": "~10,000 BCE",
+            "description": "Humans domesticate plants and animals. Settlements become cities. Civilization begins. The human population explodes from millions to billions."
+          },
+          {
+            "name": "Writing invented",
+            "time": "~3200 BCE",
+            "description": "Sumerians develop cuneiform writing. Knowledge can be preserved and accumulated across generations. History (recorded time) begins."
+          },
+          {
+            "name": "Industrial Revolution",
+            "time": "~1750 CE",
+            "description": "Fossil fuels power unprecedented technological growth. Human population, energy use, and planetary impact accelerate exponentially. The Anthropocene begins."
+          }
+        ]
+      }
+    },
+    "analogies": {
+      "title": "Making deep time comprehensible",
+      "intro": "Because deep time is so vast, we need analogies to grasp it. Here are three ways to visualize Earth's 4.5 billion year history:",
+      "calendar": {
+        "title": "The cosmic calendar",
+        "description": "Compress Earth's history into one calendar year:",
+        "jan1": "January 1",
+        "jan1desc": "Earth forms",
+        "march": "March",
+        "marchdesc": "First life appears",
+        "dec13": "December 13",
+        "dec13desc": "Dinosaurs appear",
+        "dec31": "December 31, 11:59:46 PM",
+        "dec31desc": "All of human civilization happens in the last 14 seconds of the year"
+      },
+      "clock": {
+        "title": "The 24-hour clock",
+        "description": "If Earth's history were one day: Earth forms at midnight. First life at 4 AM. Complex life at 9:30 PM. Dinosaurs at 10:56 PM. Humans at 11:58:43 PM. All of recorded history happens in the last 0.2 seconds before midnight."
+      },
+      "armspan": {
+        "title": "The arm span",
+        "description": "Stretch your arms wide—this is Earth's 4.5 billion years. All of complex life fits in your hand. All of human existence fits on your fingernail. All of civilization? A single swipe with a nail file removes it entirely."
+      }
+    },
+    "matters": {
+      "title": "Why deep time matters",
+      "paragraph1": "Understanding deep time fundamentally changes how we see ourselves and our actions. It provides crucial context for the decisions we make today.",
+      "paragraph2": "Deep time perspective reveals several critical insights:",
+      "insights": {
+        "humility": {
+          "title": "Cosmic humility",
+          "description": "We are absolute newcomers on an ancient planet. Our species has existed for 0.007% of Earth's history. All of civilization is 0.0003%."
+        },
+        "context": {
+          "title": "Evolutionary context",
+          "description": "The complexity we see—ecosystems, atmosphere, biodiversity—took billions of years to develop through countless evolutionary experiments."
+        },
+        "responsibility": {
+          "title": "Unprecedented responsibility",
+          "description": "We're the first species capable of fundamentally altering planetary systems in mere decades—systems that took eons to establish."
+        },
+        "patience": {
+          "title": "Geological patience",
+          "description": "Natural healing works on geological timescales. What we damage now may not recover for millions of years—longer than our species will likely exist."
+        }
+      }
+    },
+    "quote": {
+      "text": "The present is the ever-moving shadow that divides yesterday from tomorrow. In that lies hope.",
+      "author": "Frank Herbert"
+    },
+    "related": {
+      "title": "Continue exploring",
+      "universeStory": {
+        "title": "The universe story",
+        "description": "Zoom out further—explore the 13.8 billion year cosmic story"
+      },
+      "cosmicAddress": {
+        "title": "Your cosmic address",
+        "description": "Locate yourself across spatial scales from body to universe"
+      },
+      "scaleShifting": {
+        "title": "Scale shifting practice",
+        "description": "Cultivate the ability to shift between perspectives and scales"
+      }
+    }
+  },
+  "planetaryBoundaries": {
+    "meta": {
+      "title": "Planetary boundaries dashboard",
+      "description": "Interactive dashboard showing Earth's nine life-support systems and our current relationship with them. Understand the safe operating space for humanity."
+    },
+    "hero": {
+      "title": "Planetary boundaries",
+      "subtitle": "Earth's life-support systems dashboard",
+      "description": "Scientists have identified nine planetary boundaries—thresholds we shouldn't cross if we want to maintain a stable, habitable Earth. Six have already been exceeded. This dashboard shows where we stand."
+    },
+    "overview": {
+      "title": "Current status",
+      "warning": "We have exceeded 6 of 9 planetary boundaries. Earth's life-support systems are under unprecedented stress. We are in the danger zone."
+    },
+    "status": {
+      "exceeded": "Exceeded",
+      "atrisk": "At risk",
+      "safe": "Safe",
+      "uncertain": "Uncertain"
+    },
+    "current": "Current",
+    "boundary": "Boundary",
+    "description": "Description",
+    "consequences": "Consequences",
+    "actions": "What to do",
+    "clickForDetails": "Click for details",
+    "showAll": "Expand all boundaries",
+    "hideAll": "Collapse all boundaries",
+    "boundaries": {
+      "title": "The nine planetary boundaries",
+      "subtitle": "Click each boundary to explore details, consequences, and actions",
+      "climate": {
+        "name": "Climate change",
+        "description": "Atmospheric CO₂ concentration has exceeded 417 ppm (parts per million), far above the pre-industrial 280 ppm and the safe boundary of 350 ppm. We've increased global average temperature by ~1.2°C, heading toward dangerous tipping points.",
+        "consequences": "Accelerating ice melt, sea level rise, extreme weather, ecosystem collapse, agricultural disruption, mass migration, and potential triggering of irreversible feedback loops (permafrost thaw, Amazon dieback).",
+        "actions": [
+          "Rapid transition to renewable energy (solar, wind, nuclear)",
+          "Electrify transportation, heating, and industry",
+          "Carbon pricing, fossil fuel phase-out, nature-based solutions"
+        ]
+      },
+      "biodiversity": {
+        "name": "Biosphere integrity",
+        "description": "Species extinction rate is 100-1,000 times the natural background rate. We're in the sixth mass extinction event—the first caused by a single species. Genetic diversity and functional diversity are collapsing.",
+        "consequences": "Ecosystem services breakdown (pollination, pest control, water filtration), reduced resilience to shocks, loss of medicinal resources, cultural and spiritual impoverishment, potential ecosystem regime shifts.",
+        "actions": [
+          "Protect and restore 30-50% of land and ocean by 2030",
+          "End habitat destruction, create wildlife corridors",
+          "Combat poaching, invasive species, and pollution"
+        ]
+      },
+      "nitrogen": {
+        "name": "Nitrogen & phosphorus cycles",
+        "description": "Humans fix ~150 million tonnes of nitrogen annually (mostly for fertilizer), exceeding the boundary of 62 million tonnes. Phosphorus runoff similarly exceeds safe levels, causing dead zones and eutrophication.",
+        "consequences": "Ocean dead zones, toxic algal blooms, freshwater contamination, loss of fisheries, drinking water crises, greenhouse gas emissions (N₂O), acidification of soils and waters.",
+        "actions": [
+          "Precision agriculture, reduce fertilizer use 50%",
+          "Shift to plant-based diets (animal agriculture is inefficient)",
+          "Improve wastewater treatment, restore wetlands"
+        ]
+      },
+      "landuse": {
+        "name": "Land-system change",
+        "description": "Only ~12% of ice-free land remains as intact forest, below the 15% boundary. We've converted 75% of ice-free land for agriculture, cities, and infrastructure. Deforestation continues at alarming rates.",
+        "consequences": "Biodiversity loss, carbon emissions, disrupted water cycles, increased flooding and droughts, soil degradation, zoonotic disease emergence (as humans encroach on wildlife).",
+        "actions": [
+          "End deforestation, restore degraded lands",
+          "Sustainable urban planning, compact cities",
+          "Agroforestry, regenerative agriculture, rewilding"
+        ]
+      },
+      "freshwater": {
+        "name": "Freshwater use",
+        "description": "Global freshwater consumption approaches the 4,000-6,000 km³/year boundary. Groundwater depletion, river diversion, and aquifer overdrafting threaten water security for billions.",
+        "consequences": "Water scarcity for 2+ billion people, agricultural collapse in key regions, ecosystem degradation, forced migration, international conflicts over water resources.",
+        "actions": [
+          "Water-efficient agriculture (drip irrigation, drought-resistant crops)",
+          "Reduce water-intensive meat consumption",
+          "Protect watersheds, restore wetlands, end river damming"
+        ]
+      },
+      "ocean": {
+        "name": "Ocean acidification",
+        "description": "Ocean pH has dropped from 8.2 to 8.1—a 30% increase in acidity. Oceans absorb 25% of CO₂ emissions, forming carbonic acid that threatens marine life, especially shell-forming organisms.",
+        "consequences": "Coral reef collapse, shellfish die-offs, disrupted marine food webs, fisheries collapse, loss of coastal protection (reefs buffer storms), economic devastation for coastal communities.",
+        "actions": [
+          "Reduce CO₂ emissions immediately (only solution)",
+          "Protect marine ecosystems (mangroves, seagrass, reefs)",
+          "End overfishing, create marine protected areas"
+        ]
+      },
+      "ozone": {
+        "name": "Stratospheric ozone depletion",
+        "description": "THE SUCCESS STORY: Thanks to the Montreal Protocol (1987), which banned CFCs, the ozone layer is recovering. Current levels: ~290 Dobson units, above the 275 DU boundary. Expected full recovery by 2070.",
+        "consequences": "If we hadn't acted: massive increase in skin cancer, cataracts, immune suppression, crop damage, disruption of marine ecosystems (phytoplankton damage).",
+        "actions": [
+          "Continue monitoring and enforcement of Montreal Protocol",
+          "Phase out remaining ozone-depleting substances",
+          "Learn from this success—proof that global cooperation works!"
+        ]
+      },
+      "aerosols": {
+        "name": "Atmospheric aerosol loading",
+        "description": "Boundary not yet quantified globally, but regional effects are clear. Aerosols (particulates from burning fossil fuels, biomass) affect climate, cloud formation, monsoons, and human health.",
+        "consequences": "Millions of premature deaths annually from air pollution, disrupted monsoon patterns (affecting billions), altered rainfall, climate effects (aerosols both cool and warm depending on type).",
+        "actions": [
+          "Reduce fossil fuel combustion (also helps climate)",
+          "Transition to clean cooking (3 billion use biomass)",
+          "Industrial emission controls, reforestation"
+        ]
+      },
+      "chemicals": {
+        "name": "Novel entities (chemical pollution)",
+        "description": "Humans have introduced >350,000 chemicals and materials into the environment—plastics, pesticides, pharmaceuticals, nanoparticles, microplastics. Many persist for centuries and bioaccumulate.",
+        "consequences": "Endocrine disruption, cancer, reproductive harm, ecosystem contamination, microplastics in all organisms (including humans), antibiotic resistance, unknown long-term effects.",
+        "actions": [
+          "Ban or phase out most harmful chemicals (PFAS, persistent pesticides)",
+          "Circular economy—design for degradability and reuse",
+          "Better regulation, testing before release, producer responsibility"
+        ]
+      }
+    },
+    "understanding": {
+      "title": "Understanding planetary boundaries",
+      "paragraph1": "The planetary boundaries framework was developed by Johan Rockström, Will Steffen, and colleagues in 2009 (updated 2023). It identifies nine Earth system processes that regulate the stability and resilience of the planet.",
+      "paragraph2": "Each boundary defines a 'safe operating space' for humanity. Staying within these boundaries doesn't guarantee stability, but crossing them significantly increases the risk of triggering abrupt, irreversible changes.",
+      "paragraph3": "Think of planetary boundaries like guardrails on a mountain road. You can drive safely as long as you stay within them. Cross them, and you risk catastrophic outcomes.",
+      "safespace": {
+        "title": "Safe operating space",
+        "description": "The green zone where Earth systems function stably. Human civilization developed during the Holocene epoch (last 12,000 years) when all boundaries were within safe limits."
+      },
+      "tipping": {
+        "title": "Tipping points",
+        "description": "Beyond certain thresholds, systems can shift abruptly and irreversibly to new states. Examples: Amazon rainforest → savanna, Greenland ice sheet collapse, Atlantic current shutdown."
+      },
+      "interconnected": {
+        "title": "Interconnected systems",
+        "description": "Boundaries don't operate independently. Climate change accelerates biodiversity loss. Deforestation disrupts water cycles. Crossing one boundary often destabilizes others."
+      },
+      "onesystem": {
+        "title": "One integrated system",
+        "description": "Earth is a single, integrated system. There are no boundaries for pollution or carbon—everything connects. Local actions have global consequences."
+      }
+    },
+    "goodnews": {
+      "title": "The good news",
+      "paragraph1": "Despite the dire numbers, there's reason for hope:",
+      "ozone": {
+        "title": "We've solved a planetary boundary before",
+        "description": "The ozone layer is healing. Proof that when we recognize a problem and act globally, we can fix planetary-scale damage. The Montreal Protocol is the most successful environmental treaty in history."
+      },
+      "awareness": {
+        "title": "Awareness is growing",
+        "description": "The planetary boundaries framework is now used by the UN, World Economic Forum, and governments worldwide. We're finally measuring what matters."
+      },
+      "technology": {
+        "title": "Technology is ready",
+        "description": "Renewable energy is now cheaper than fossil fuels. Electric vehicles are superior. Plant-based alternatives are improving. We have the tools—we need the will."
+      },
+      "movements": {
+        "title": "Movements are building",
+        "description": "Climate strikes, indigenous land protection, rewilding initiatives, circular economy pioneers. Millions are working for planetary health at every scale."
+      }
+    },
+    "whatyoucando": {
+      "title": "What you can do",
+      "individual": {
+        "title": "Individual actions",
+        "description": "Shift to plant-based diet (biggest individual impact), fly less, drive electric or use transit, divest from fossil fuels, vote for climate action, consume less, waste less, choose renewable energy."
+      },
+      "collective": {
+        "title": "Collective organizing",
+        "description": "Join climate movements, support indigenous land defenders, participate in community resilience projects, organize politically, pressure institutions and corporations."
+      },
+      "systemic": {
+        "title": "Systemic change",
+        "description": "Individual changes matter but aren't sufficient—we need policy change. Support carbon pricing, renewable mandates, reforestation programs, circular economy legislation, rights of nature laws."
+      },
+      "voice": {
+        "title": "Use your voice",
+        "description": "Talk about planetary boundaries. Share this tool. Help shift culture from 'grow forever' to 'thrive within limits.' Narrative change enables policy change."
+      }
+    },
+    "quote": {
+      "text": "We are the first generation to know we're destroying the world, and we could be the last that can do anything about it.",
+      "author": "Petra Molnár"
+    },
+    "related": {
+      "title": "Continue exploring",
+      "challenges": {
+        "title": "Universal challenges",
+        "description": "Deep dive into the planetary crises we face"
+      },
+      "consumption": {
+        "title": "Cosmic consumption practice",
+        "description": "Align your choices with planetary boundaries"
+      },
+      "decisions": {
+        "title": "Decision filter",
+        "description": "Evaluate choices with planetary impact in mind"
+      }
+    }
+  },
+  "emergence": {
+    "meta": {
+      "title": "Emergence simulators",
+      "description": "Watch simple rules create complex patterns. Explore cellular automata, flocking behavior, and emergent phenomena."
+    },
+    "hero": {
+      "title": "Emergence simulators",
+      "subtitle": "Watch simple rules create infinite complexity"
+    },
+    "intro": {
+      "title": "What is emergence?",
+      "paragraph1": "Emergence is one of the most profound principles in nature: complex patterns and behaviors arising from simple rules and local interactions. No central controller. No master plan. Just simple agents following simple rules—and something magical happens.",
+      "paragraph2": "A single neuron can't think. But billions of neurons, each following simple electrochemical rules, create consciousness. A single ant can't build a colony. But thousands of ants, each following simple behavioral rules, create sophisticated structures and solve complex problems. A single water molecule can't create a wave. But billions of molecules, each following simple physical rules, create the ocean's patterns.",
+      "paragraph3": "These simulators let you experience emergence firsthand. Watch as simple rules, repeated across space and time, generate complexity, beauty, and behaviors that seem impossible to predict from the rules alone."
+    },
+    "simulations": {
+      "title": "Choose a simulation",
+      "conway": {
+        "name": "Conway's Game of Life",
+        "description": "The most famous cellular automaton. Cells live or die based on their neighbors. From simple rules, infinite patterns emerge: gliders, oscillators, spaceships, and even universal computers.",
+        "emergence": "Stable patterns, oscillators, and moving structures emerge from just four simple rules"
+      },
+      "flocking": {
+        "name": "Flocking behavior",
+        "description": "Individual 'boids' follow three simple rules: avoid crowding, align with neighbors, move toward the center of nearby boids. From these rules, realistic flocking behavior emerges.",
+        "emergence": "Coordinated group movement emerges without any leader or central control"
+      },
+      "sandpile": {
+        "name": "Abelian sandpile",
+        "description": "Add grains of sand to a pile. When it gets too steep, it topples to neighbors. This simple system exhibits self-organized criticality—complex avalanche patterns that follow power laws.",
+        "emergence": "Power-law distributed avalanches and fractal patterns emerge from simple toppling rules"
+      }
+    },
+    "emergence": "Emergence",
+    "controls": {
+      "start": "Start",
+      "pause": "Pause",
+      "reset": "Reset",
+      "addSand": "Add sand",
+      "speed": "Speed",
+      "perFrame": "per frame"
+    },
+    "howItWorks": {
+      "title": "How each simulation works",
+      "conway": {
+        "title": "Conway's Game of Life",
+        "description": "Invented by mathematician John Conway in 1970. Each cell is either alive or dead. On each step:",
+        "rules": [
+          "Any live cell with 2 or 3 live neighbors survives",
+          "Any dead cell with exactly 3 live neighbors becomes alive",
+          "All other live cells die (from loneliness or overcrowding)",
+          "All other dead cells stay dead"
+        ]
+      },
+      "flocking": {
+        "title": "Flocking behavior",
+        "description": "Based on Craig Reynolds' 1986 'Boids' algorithm. Each boid follows three simple rules:",
+        "rules": [
+          "Separation: Avoid crowding nearby boids",
+          "Alignment: Steer toward average heading of nearby boids",
+          "Cohesion: Move toward average position of nearby boids"
+        ]
+      },
+      "sandpile": {
+        "title": "Abelian sandpile",
+        "description": "Introduced by Per Bak, Chao Tang, and Kurt Wiesenfeld in 1987 as a model of self-organized criticality:",
+        "rules": [
+          "Add grains of sand to the center of the pile",
+          "When a cell has 4 or more grains, it topples: loses 4 grains, gives 1 to each neighbor",
+          "Toppling can trigger cascades as neighbors themselves become unstable"
+        ]
+      }
+    },
+    "principles": {
+      "title": "Principles of emergence",
+      "simple": {
+        "title": "Simple rules",
+        "description": "The rules governing individual elements are simple—often just a few lines of code or a single equation. Complexity doesn't require complex rules."
+      },
+      "local": {
+        "title": "Local interactions",
+        "description": "Elements only interact with their immediate neighbors. There's no global coordination or central control. Yet global patterns emerge."
+      },
+      "unpredictable": {
+        "title": "Unpredictable outcomes",
+        "description": "You can't predict what patterns will emerge just by reading the rules. You have to run the simulation. The behavior is irreducible to the rules alone."
+      },
+      "universal": {
+        "title": "Universal phenomenon",
+        "description": "Emergence appears everywhere: physics, chemistry, biology, economics, social systems. It's a fundamental principle of how complexity arises in nature."
+      }
+    },
+    "realWorld": {
+      "title": "Emergence in the real world",
+      "intro": "These simulations aren't just abstract toys—they reveal principles that govern real systems throughout nature and society:",
+      "examples": {
+        "brain": {
+          "title": "Consciousness from neurons",
+          "description": "Your thoughts, memories, and awareness emerge from billions of neurons following electrochemical rules. No neuron contains your thoughts—they emerge from the pattern of interactions."
+        },
+        "markets": {
+          "title": "Markets from individual trades",
+          "description": "Stock markets, economies, and prices emerge from millions of individual buying and selling decisions. No one plans the economy—it emerges from local interactions."
+        },
+        "ecosystems": {
+          "title": "Ecosystems from species interactions",
+          "description": "Predator-prey cycles, biodiversity, and ecological stability emerge from species following survival strategies. No species plans the ecosystem."
+        },
+        "cities": {
+          "title": "Cities from individual choices",
+          "description": "Urban patterns, traffic flows, and neighborhood characteristics emerge from individual housing and commuting decisions. No one designs the city as a whole."
+        },
+        "life": {
+          "title": "Life from chemistry",
+          "description": "Life itself is emergent. No single molecule is alive, but chemical reactions organized in the right way create metabolism, reproduction, and evolution."
+        }
+      }
+    },
+    "quote": {
+      "text": "More is different.",
+      "author": "Philip W. Anderson, Nobel Prize-winning physicist"
+    },
+    "related": {
+      "title": "Related content",
+      "patterns": {
+        "title": "Universal patterns",
+        "description": "Explore the patterns that repeat across all scales of reality"
+      },
+      "explore": {
+        "title": "Pattern exploration",
+        "description": "Deep dive into fractals, networks, and other universal structures"
+      },
+      "consciousness": {
+        "title": "Emergent consciousness",
+        "description": "How does subjective experience emerge from neurons?"
+      }
+    }
+  },
+  "cosmicZoom": {
+    "meta": {
+      "title": "Cosmic zoom",
+      "description": "Journey from the smallest to largest scales of reality. Experience the full scope of existence from Planck length to observable universe."
+    },
+    "hero": {
+      "title": "Cosmic zoom",
+      "subtitle": "Journey from quantum to cosmic"
+    },
+    "intro": "Travel through 61 orders of magnitude—from the smallest possible length (Planck length) to the largest structure we can observe (the observable universe). At each scale, discover what exists and how the laws of physics shape reality.",
+    "smallest": "Smallest",
+    "human": "Human",
+    "largest": "Largest",
+    "scales": {
+      "planck": {
+        "name": "Planck length",
+        "description": "The smallest meaningful length in physics. Below this scale, quantum effects make space and time themselves uncertain. This is where gravity and quantum mechanics meet—a frontier we barely understand."
+      },
+      "proton": {
+        "name": "Proton",
+        "description": "Made of three quarks held together by gluons. Protons (along with neutrons) form atomic nuclei. Every atom in your body contains protons that have existed since the first seconds after the Big Bang."
+      },
+      "atom": {
+        "name": "Atom",
+        "description": "The fundamental unit of matter. A nucleus of protons and neutrons surrounded by a cloud of electrons. Everything you can see or touch is made of atoms—yet they're 99.9999999999999% empty space."
+      },
+      "dna": {
+        "name": "DNA molecule",
+        "description": "The double helix that encodes genetic information. Just 2 nanometers wide, DNA contains the instructions for building and maintaining every living organism. You have about 3 billion base pairs in nearly every cell."
+      },
+      "cell": {
+        "name": "Human cell",
+        "description": "The basic unit of life. Your body contains about 37 trillion cells, each a complex factory with thousands of molecular machines working in harmony. A single cell contains more organized complexity than any human city."
+      },
+      "ant": {
+        "name": "Ant",
+        "description": "A complex organism made of millions of cells. Despite their small size, ants have sophisticated behaviors: farming, warfare, architecture, and chemical communication. Individually simple, collectively brilliant."
+      },
+      "human": {
+        "name": "Human scale",
+        "description": "You are here. At roughly 1 meter tall, humans exist at a middle scale—equally far (in orders of magnitude) from atoms and galaxies. This is the scale where our intuitions work best."
+      },
+      "mountain": {
+        "name": "Mount Everest",
+        "description": "Earth's tallest mountain at 8.8 kilometers above sea level. Formed by tectonic plates colliding over millions of years. From this height, Earth's curvature becomes barely visible to the naked eye."
+      },
+      "earth": {
+        "name": "Earth",
+        "description": "Our home planet. A rocky world with a thin atmosphere and abundant liquid water—conditions that, as far as we know, are extraordinarily rare in the universe. Diameter: 12,742 kilometers."
+      },
+      "sun": {
+        "name": "The Sun",
+        "description": "Our star. A sphere of plasma 109 times wider than Earth, containing 99.86% of the solar system's mass. Every second, it converts 600 million tons of hydrogen into helium, releasing the energy that powers all life on Earth."
+      },
+      "solarsystem": {
+        "name": "Solar system",
+        "description": "The Sun and everything orbiting it: eight planets, hundreds of moons, millions of asteroids and comets. The solar system is mostly empty space—Neptune orbits 30 times farther from the Sun than Earth does."
+      },
+      "lightyear": {
+        "name": "Light year",
+        "description": "The distance light travels in one year: 9.5 trillion kilometers. This is the scale of interstellar space. The nearest star to our Sun, Proxima Centauri, is 4.2 light-years away—a journey that would take tens of thousands of years with current technology."
+      },
+      "galaxy": {
+        "name": "Milky Way galaxy",
+        "description": "Our galaxy: a spiral disk of 200-400 billion stars, along with vast clouds of gas, dust, and dark matter. Our Sun is one ordinary star halfway from the center to the edge. Diameter: 100,000 light-years."
+      },
+      "localgroup": {
+        "name": "Local group",
+        "description": "Our galactic neighborhood: the Milky Way, Andromeda, Triangulum, and about 80 smaller galaxies bound together by gravity. Andromeda is heading toward us at 110 km/s—in about 4 billion years, our galaxies will merge."
+      },
+      "universe": {
+        "name": "Observable universe",
+        "description": "The largest structure we can possibly observe: everything within 46 billion light-years in all directions. Contains roughly 2 trillion galaxies. This is not the entire universe—just the part we can see. The universe beyond may be infinite."
+      }
+    },
+    "controls": {
+      "zoomIn": "Zoom in",
+      "zoomOut": "Zoom out",
+      "animate": "Animate",
+      "stop": "Stop",
+      "reset": "Reset to human",
+      "speed": "Animation speed",
+      "perStep": "per step"
+    },
+    "allScales": {
+      "title": "All scales"
+    },
+    "understanding": {
+      "title": "Understanding scale",
+      "paragraph1": "Our minds evolved to understand the human scale—objects we can see, touch, and manipulate. We have good intuitions about meters, kilograms, and seconds. But reality extends far beyond this narrow window.",
+      "paragraph2": "The cosmic zoom reveals 61 orders of magnitude from smallest to largest. Each step multiplies or divides by 10. Going from 1 meter to 10 meters doesn't feel dramatic. But compound that across dozens of steps, and you reach scales that defy intuition.",
+      "paragraph3": "At the quantum scale, particles exist in superposition—multiple states at once. At the cosmic scale, space itself expands faster than light in distant regions. Between these extremes lies everything we know: atoms, molecules, cells, organisms, planets, stars, and galaxies.",
+      "quantum": {
+        "title": "The quantum realm",
+        "description": "Below 10⁻⁹ meters, classical physics breaks down. Particles behave as waves, outcomes are probabilistic, and observation affects reality. This is the domain of quantum mechanics—counterintuitive but experimentally verified to extraordinary precision."
+      },
+      "cosmic": {
+        "title": "The cosmic realm",
+        "description": "Above 10²⁴ meters, we encounter scales where light takes billions of years to travel. We observe the universe as it was in the distant past. The most distant galaxies we can see formed when the universe was less than 5% its current age."
+      },
+      "middle": {
+        "title": "The middle realm",
+        "description": "Humans exist at a special middle scale—where quantum effects are negligible and cosmic expansion is irrelevant. At our scale, the Newtonian physics we intuitively understand works perfectly. We're neither too big nor too small."
+      },
+      "patterns": {
+        "title": "Patterns across scales",
+        "description": "Despite the vast range, similar patterns repeat: orbits, hierarchies, networks, cycles. Electrons orbit nuclei like planets orbit stars. Neurons connect like galaxies in the cosmic web. Different scales, same mathematics."
+      }
+    },
+    "powersOfTen": {
+      "title": "Understanding powers of ten",
+      "intro": "Each step in our cosmic zoom multiplies or divides the scale by 10. This exponential progression is how we can fit 61 orders of magnitude into a comprehensible journey. Here's what powers of ten mean in everyday terms:",
+      "examples": {
+        "kilometer": {
+          "title": "10³ (Thousand)",
+          "description": "A kilometer is 10³ meters (1,000 meters). Most people can visualize a kilometer—it's a 10-15 minute walk. This is still within our intuitive grasp."
+        },
+        "million": {
+          "title": "10⁶ (Million)",
+          "description": "A million seconds is about 11.5 days. A million dollars in $100 bills would form a stack about 1 meter tall. This is at the edge of our intuition—we can imagine it, but barely."
+        },
+        "billion": {
+          "title": "10⁹ (Billion)",
+          "description": "A billion seconds is about 32 years. A billion dollars in $100 bills would create a stack 1 kilometer high. This exceeds our intuition—we can calculate it, but can't truly grasp it viscerally."
+        },
+        "trillion": {
+          "title": "10¹² (Trillion)",
+          "description": "A trillion seconds is about 32,000 years—longer than all of recorded human history. The distances between stars are measured in trillions of kilometers. We've left intuition far behind."
+        }
+      }
+    },
+    "yourPlace": {
+      "title": "Your place in the scale",
+      "paragraph1": "At approximately 1 meter tall, you exist at 10⁰ meters—exactly in the middle of our cosmic zoom. This isn't coincidence. Life at different scales would have different physics.",
+      "paragraph2": "If you were the size of an atom, quantum uncertainty would dominate your experience—position and momentum couldn't be simultaneously known. If you were the size of a galaxy, the expansion of space would stretch you apart faster than internal forces could hold you together.",
+      "paragraph3": "You exist at the scale where the fundamental forces of nature create stable complexity. This is the scale where chemistry works, where biology emerges, where consciousness becomes possible. It's the scale where the universe can know itself.",
+      "reflection": {
+        "title": "A moment of reflection",
+        "text": "You are made of atoms forged in stellar cores. You are built from the same particles that make up distant galaxies. You exist for a brief moment in cosmic time, at a middle scale where the universe has organized itself into patterns complex enough to contemplate their own existence. You are the universe, looking at itself."
+      }
+    },
+    "quote": {
+      "text": "The Universe is not only queerer than we suppose, but queerer than we can suppose.",
+      "author": "J.B.S. Haldane"
+    },
+    "related": {
+      "title": "Related tools and practices",
+      "address": {
+        "title": "Your cosmic address",
+        "description": "Locate yourself across nested scales of reality"
+      },
+      "practice": {
+        "title": "Scale shifting practice",
+        "description": "Daily practice of zooming in and out mentally"
+      },
+      "patterns": {
+        "title": "Universal patterns",
+        "description": "Explore patterns that repeat across all scales"
+      }
+    }
+  },
+  "universalMandate": {
+    "meta": {
+      "title": "Your universal mandate",
+      "description": "A guided process to articulate your unique role in the cosmic story. Discover what you're here to do."
+    },
+    "hero": {
+      "title": "Your universal mandate",
+      "subtitle": "What are you here to do?"
+    },
+    "intro": "You are not an accident. You are 13.8 billion years of cosmic evolution, temporarily organized as a conscious human being. In this pivotal moment in Earth's history, what is your unique contribution? What role are you called to play in the unfolding story of the universe?",
+    "what": {
+      "title": "What is a universal mandate?",
+      "paragraph1": "A universal mandate is not a job title, a five-year plan, or a bucket list. It's deeper than goals. It's your answer to the question: Given who you are, where you are, and when you are—what is yours to do?",
+      "paragraph2": "It integrates three dimensions: your unique gifts and circumstances, the needs of this historical moment, and your sense of what the universe is calling forth through you. It's both deeply personal and radically universal.",
+      "paragraph3": "Your mandate isn't fixed. It evolves as you grow, as circumstances change, as you discover new aspects of yourself and the world. This process helps you articulate where you are now—a snapshot of your current understanding of your cosmic role."
+    },
+    "whyMatters": {
+      "title": "Why this matters",
+      "meaning": {
+        "title": "Creates coherent meaning",
+        "description": "In a vast, ancient universe, it's easy to feel insignificant. A universal mandate grounds you in purpose—you're here for a reason, even if that reason is simply to experience and care."
+      },
+      "choices": {
+        "title": "Guides difficult choices",
+        "description": "When facing decisions, ask: does this align with my mandate? Does it move me toward or away from what I'm here to do? Your mandate becomes a north star for navigation."
+      },
+      "energy": {
+        "title": "Focuses your energy",
+        "description": "You can't do everything. A clear mandate helps you say no to good things so you can say yes to your things—the contributions only you can make in the way only you can make them."
+      },
+      "responsibility": {
+        "title": "Embraces cosmic responsibility",
+        "description": "You're not separate from the universe's unfolding. You're an active participant. Your mandate is how you consciously participate rather than drifting unconsciously."
+      }
+    },
+    "process": {
+      "title": "The guided process",
+      "intro": "This is a contemplative exercise. Set aside 30-60 minutes in a quiet space. Have a journal ready. Move through each section thoughtfully, writing your responses. There are no wrong answers—only your honest reflections.",
+      "step1": {
+        "title": "Part 1: Your cosmic inheritance",
+        "subtitle": "What have you been given?",
+        "intro": "Every person inherits unique gifts, circumstances, and challenges. These aren't random—they're your starting conditions, the hand you've been dealt by cosmic evolution and your particular life trajectory.",
+        "prompts": {
+          "title": "Reflect on these questions:",
+          "gifts": "What are your natural gifts? What comes easily to you that others find difficult?",
+          "experiences": "What experiences have shaped you? What have you survived or overcome?",
+          "knowledge": "What do you know deeply? Where have you developed expertise or wisdom?",
+          "resources": "What resources do you have access to? (Time, money, relationships, platforms, skills)",
+          "wounds": "What are your wounds? Sometimes our deepest pain becomes our greatest gift to others.",
+          "privileges": "What privileges do you hold? (Education, health, citizenship, identity)",
+          "limitations": "What are your limitations and constraints? These shape your path too."
+        },
+        "write": "Write for 10-15 minutes about your inheritance—the unique combination of gifts and circumstances that make you, you."
+      },
+      "step2": {
+        "title": "Part 2: The needs of this moment",
+        "subtitle": "What does the world need?",
+        "intro": "We live in a specific historical moment—a time of unprecedented planetary crisis and opportunity. What you're called to do relates to the needs of this particular era.",
+        "prompts": {
+          "title": "Reflect on these questions:",
+          "heartbreak": "What breaks your heart about the state of the world? What injustice, suffering, or destruction moves you most?",
+          "alive": "What makes you come alive? When do you feel most energized and engaged?",
+          "missing": "What do you see missing in the world? What needs to exist that doesn't yet?",
+          "leverage": "Where do you see leverage points? Small interventions that could have large ripple effects?",
+          "vision": "What's your vision for a flourishing future? What world do you want to help create?",
+          "urgency": "What feels urgent to you? What can't wait another generation?",
+          "communities": "What communities or ecosystems do you belong to that need your contribution?"
+        },
+        "write": "Write for 10-15 minutes about the needs you see and feel called to address."
+      },
+      "step3": {
+        "title": "Part 3: The intersection",
+        "subtitle": "Where do they meet?",
+        "intro": "Your universal mandate lives at the intersection of your unique gifts and the world's needs. It's where what you have to offer meets what's needed. This is the zone of greatest impact and deepest meaning.",
+        "prompts": {
+          "title": "Explore these questions:",
+          "overlap": "Where do your gifts overlap with the world's needs? What can you do that needs doing?",
+          "unique": "What can you do that others can't (or won't)? What's your unique contribution?",
+          "positioned": "How are you uniquely positioned? What access, perspective, or platform do you have?",
+          "service": "How can you be of service? Who or what are you here to serve?",
+          "legacy": "What do you want to have contributed when you look back on your life?",
+          "generations": "What do you want to pass on to future generations?",
+          "now": "If you had 10 years of full health and energy, what would you dedicate yourself to?"
+        },
+        "write": "Write for 10-15 minutes exploring the intersection of your gifts and the world's needs."
+      },
+      "step4": {
+        "title": "Part 4: Articulating your mandate",
+        "subtitle": "What is yours to do?",
+        "intro": "Now, synthesize your reflections into a clear statement of your universal mandate. This should be 1-3 sentences that capture the essence of what you're here to do.",
+        "guidelines": {
+          "title": "Guidelines for your mandate statement:",
+          "active": "Use active language: 'I am here to...' 'My role is to...' 'I serve by...'",
+          "specific": "Be specific enough to guide action, but flexible enough to evolve",
+          "authentic": "Write in your own voice—this is for you, not for Instagram",
+          "ambitious": "Don't play small. Your mandate should feel slightly too big—you'll grow into it",
+          "service": "Frame it in terms of service or contribution, not achievement or acquisition",
+          "scales": "Consider multiple scales: personal, community, species, planet, cosmos"
+        },
+        "examples": {
+          "title": "Example mandates (for inspiration only—yours will be unique):",
+          "example1": "I am here to help humanity navigate the transition to planetary civilization by building governance frameworks for collective wisdom and coordination.",
+          "example2": "My role is to support young people in discovering their gifts and connecting them to the great work of our time.",
+          "example3": "I serve by creating beauty that reminds people of their cosmic context and the sacredness of existence.",
+          "example4": "I am here to protect and restore the living systems of Earth through regenerative agriculture and education.",
+          "example5": "My mandate is to bridge science and spirituality, helping people integrate head and heart in understanding reality."
+        },
+        "draft": "Draft your universal mandate. Write it, let it sit, revise it. When it resonates deeply—when reading it gives you a sense of alignment and clarity—you're close."
+      },
+      "step5": {
+        "title": "Part 5: From mandate to action",
+        "subtitle": "How will you live it?",
+        "intro": "A mandate without action is just philosophy. This final section translates your mandate into concrete next steps.",
+        "prompts": {
+          "title": "Consider these questions:",
+          "today": "What's one thing you can do today that aligns with your mandate?",
+          "month": "What could you commit to this month?",
+          "year": "What would you need to change or develop over the next year to live your mandate more fully?",
+          "obstacles": "What obstacles might you face? Internal resistance? External constraints?",
+          "support": "What support do you need? Who could help you?",
+          "measure": "How will you know you're living in alignment? What does it feel like?",
+          "review": "When will you review and potentially revise your mandate? (Every 6 months? Annually?)"
+        },
+        "commitments": {
+          "title": "Make 3 concrete commitments:",
+          "immediate": "Immediate (this week): One small action aligned with your mandate",
+          "shortTerm": "Short-term (this month): One larger commitment or project",
+          "longTerm": "Long-term (this year): One significant change or development"
+        },
+        "write": "Write your three commitments. Make them specific, achievable, and meaningful."
+      }
+    },
+    "completion": {
+      "title": "You've articulated your mandate",
+      "paragraph1": "Congratulations. You've done something rare and valuable—you've articulated your understanding of why you're here and what you're meant to contribute to the cosmic story.",
+      "paragraph2": "Remember: this is a living document. Your mandate will evolve as you grow, as circumstances change, as you discover new dimensions of yourself and the world. Revisit this process periodically—perhaps every 6-12 months.",
+      "paragraph3": "Most importantly: live it. A beautiful mandate that sits in a journal does nothing. The universe needs your actual contribution, not just your intentions. Show up. Do the work. Be who you're here to be.",
+      "save": {
+        "title": "Save your work",
+        "description": "Consider writing your mandate somewhere you'll see it regularly: on a card in your wallet, as a phone background, on your mirror. Let it guide your choices and remind you of your cosmic role."
+      }
+    },
+    "reflection": {
+      "title": "A note on humility and grandiosity",
+      "paragraph1": "You might feel tension: is it grandiose to claim a 'universal mandate'? To think I have a special role in the cosmos?",
+      "paragraph2": "Here's the paradox: you are simultaneously infinitely insignificant and infinitely significant. You're one of billions of humans on one of trillions of planets. Your life is a brief flicker in cosmic time. And yet—you are the universe become conscious of itself. You are a unique expression of cosmic evolution that will never be repeated. Your particular combination of gifts, circumstances, and moment in history is unprecedented and will never occur again.",
+      "paragraph3": "Everyone has a mandate. Every person has unique gifts and a unique position from which to contribute. Articulating your mandate isn't claiming to be more special than others—it's claiming your place in the only story that includes all stories: the universe knowing and caring for itself through countless forms.",
+      "paragraph4": "Embrace both the humility and the responsibility. You're not the center of the universe. But you are a necessary part of it."
+    },
+    "examples": {
+      "title": "Mandates in action",
+      "intro": "Here are real examples of how people have lived their universal mandates:",
+      "sagan": {
+        "name": "Carl Sagan",
+        "mandate": "To help humanity understand our place in the cosmos",
+        "action": "Created Cosmos TV series, wrote The Pale Blue Dot, championed the search for extraterrestrial intelligence. Made the universe accessible and awe-inspiring to millions."
+      },
+      "wangari": {
+        "name": "Wangari Maathai",
+        "mandate": "To restore Kenya's forests and empower communities through environmental action",
+        "action": "Founded the Green Belt Movement, planted over 50 million trees, won the Nobel Peace Prize. Connected environmental restoration to democracy and women's rights."
+      },
+      "buddha": {
+        "name": "The Buddha",
+        "mandate": "To discover and share the path to ending suffering",
+        "action": "Sat under a tree until he understood the nature of consciousness and suffering. Spent 45 years teaching the dharma. His insights have guided billions."
+      },
+      "parks": {
+        "name": "Rosa Parks",
+        "mandate": "To stand (sit) for dignity and equality",
+        "action": "Refused to give up her bus seat, sparking the Montgomery Bus Boycott. A simple, courageous act that catalyzed the civil rights movement."
+      },
+      "note": "These are exceptional people, but their mandates emerged from paying attention to the intersection of their gifts and their moment. Your mandate is no less important—just uniquely yours."
+    },
+    "quote": {
+      "text": "The place God calls you to is the place where your deep gladness and the world's deep hunger meet.",
+      "author": "Frederick Buechner"
+    },
+    "related": {
+      "title": "Related tools and practices",
+      "practices": {
+        "title": "Daily practices",
+        "description": "Integrate your mandate into everyday life through cosmic morning, decision filter, and more"
+      },
+      "ethics": {
+        "title": "Universal ethics",
+        "description": "Ground your mandate in expanding circles of care and responsibility"
+      },
+      "challenges": {
+        "title": "Universal challenges",
+        "description": "Understand the planetary challenges your mandate might address"
+      }
+    },
+    "download": {
+      "title": "Download your mandate",
+      "description": "Save your completed universal mandate as a text file to revisit and revise.",
+      "button": "Download as text"
+    }
+  },
+  "perspectiveShifter": {
+    "meta": {
+      "title": "Perspective shifter",
+      "description": "Random prompts to shift your viewpoint and see reality through radically different lenses."
+    },
+    "hero": {
+      "title": "Perspective shifter",
+      "subtitle": "See through different eyes"
+    },
+    "intro": "Your default perspective is shaped by being human, living now, at your particular scale and location. But reality looks radically different from other vantage points. This tool offers prompts to help you temporarily shift perspective—to see the world as an alien might, as a tree experiences it, as it will appear to future historians.",
+    "what": {
+      "title": "What is perspective shifting?",
+      "paragraph1": "Perspective shifting is the practice of deliberately adopting a radically different viewpoint to see familiar things in new ways. It's a cognitive exercise that breaks habitual patterns of thought and reveals assumptions you didn't know you were making.",
+      "paragraph2": "When you ask 'How would an alien anthropologist interpret human behavior?' or 'What does this moment look like from deep time?' you engage different neural networks, access different knowledge, and often discover insights that were invisible from your default viewpoint.",
+      "paragraph3": "This isn't just imagination—it's a practical tool for creativity, empathy, problem-solving, and wisdom. Scientists use it ('What would this look like from the organism's perspective?'), designers use it ('How would a child interact with this?'), and contemplatives use it ('What is this from the view of eternity?')."
+    },
+    "why": {
+      "title": "Why shift perspective?",
+      "creativity": {
+        "title": "Unlock creativity",
+        "description": "Stuck problems often have solutions that are obvious from a different angle. Shifting perspective breaks cognitive fixation and reveals new possibilities."
+      },
+      "empathy": {
+        "title": "Develop empathy",
+        "description": "Understanding how others experience reality—whether other humans, animals, or even inanimate systems—builds genuine compassion and connection."
+      },
+      "wisdom": {
+        "title": "Cultivate wisdom",
+        "description": "Wisdom partly consists of being able to see situations from multiple viewpoints simultaneously. The more perspectives you can inhabit, the wiser your choices."
+      },
+      "delight": {
+        "title": "Experience delight",
+        "description": "The world becomes endlessly fascinating when you can see it through fresh eyes. A mundane moment becomes extraordinary from the right perspective."
+      }
+    },
+    "howTo": {
+      "title": "How to use this tool",
+      "step1": "Click 'Get random perspective' to receive a prompt",
+      "step2": "Read the perspective and its guiding questions carefully",
+      "step3": "Spend 2-5 minutes genuinely trying to adopt that viewpoint",
+      "step4": "Look at your immediate environment through that lens",
+      "step5": "Write down any insights, observations, or surprises",
+      "step6": "Try another perspective, or use the same one in different contexts"
+    },
+    "getPrompt": "Get random perspective",
+    "newPrompt": "Get new perspective",
+    "currentPerspective": "Current perspective",
+    "reflection": {
+      "title": "Reflection space",
+      "placeholder": "What do you notice from this perspective? What becomes visible that you normally miss? What insights arise?",
+      "label": "Your observations"
+    },
+    "questionsToExplore": "Questions to explore:",
+    "noQuestions": "No questions available for this perspective",
+    "perspectives": {
+      "alienAnthropologist": {
+        "name": "Alien anthropologist",
+        "tagline": "Observing humanity from outside",
+        "description": "You are an extraterrestrial scientist studying Earth. You have no assumptions about what's 'normal.' Everything humans do is strange and requires explanation.",
+        "questions": [
+          "Why do humans spend so much time staring at glowing rectangles?",
+          "What is the purpose of the clothing ritual? Why do patterns matter?",
+          "Why do humans gather around fires (stoves) to chemically transform organic matter before consuming it?",
+          "What is this obsession with accumulating colored paper and metal discs?",
+          "Why do they spend a third of their lives unconscious?",
+          "What social purpose do the vertical face holes (mouths) serve beyond nutrient intake?"
+        ],
+        "prompt": "Look at your current situation as if you've never seen human behavior before. What would be puzzling? What would require explanation?"
+      },
+      "futureHistorian": {
+        "name": "Future historian",
+        "tagline": "Looking back from 1,000 years ahead",
+        "description": "You are a historian in the year 3025, studying the early 21st century. You know how everything turned out. You see this moment in the context of centuries.",
+        "questions": [
+          "What were the pivotal decisions being made in this era that people didn't realize mattered?",
+          "Which technologies or social movements were seeds of massive future change?",
+          "What will future generations find most puzzling about how people lived now?",
+          "Which of today's crises were successfully navigated, and which led to collapse?",
+          "What were people paying attention to that doesn't matter in retrospect?",
+          "What will this moment be remembered for?"
+        ],
+        "prompt": "Imagine this moment is a historical artifact. What makes it significant? What was at stake? What were people failing to see?"
+      },
+      "quantumParticle": {
+        "name": "Quantum particle",
+        "tagline": "Existing in probability clouds",
+        "description": "You are an electron. You don't have a defined position until observed. You exist in superposition—multiple states simultaneously. Time and space work differently at your scale.",
+        "questions": [
+          "What does it mean to be 'here' when you're a probability wave spread across space?",
+          "How does the world look when you're moving near light speed and time dilates?",
+          "What is 'solid matter' when you're small enough to pass through it?",
+          "What does causality mean when quantum effects allow seemingly impossible things?",
+          "How do you experience being entangled with a distant particle—connected across space?",
+          "What is observation when being observed changes your state?"
+        ],
+        "prompt": "Look at solid objects around you. Remember they're 99.99999% empty space, held together by forces. You are made of the same quantum fields as everything else."
+      },
+      "ancientTree": {
+        "name": "Ancient tree",
+        "tagline": "Rooted, patient, witnessing centuries",
+        "description": "You are a 500-year-old oak tree. You experience time differently. Seasons cycle. Generations of animals and humans come and go. You communicate through underground fungal networks.",
+        "questions": [
+          "What does time feel like when a year is just one ring?",
+          "How do you experience community when connected to other trees through mycelium?",
+          "What is 'movement' when you grow and shift but never walk?",
+          "How do you sense the world through chemistry, moisture, light, and root touch?",
+          "What have you witnessed in your centuries? How have humans changed?",
+          "What does it mean to support life—birds, insects, fungi, moss—as your body?"
+        ],
+        "prompt": "Slow down. Feel yourself rooted in place. Notice how the light moves. Be patient. Observe without rushing."
+      },
+      "oceanWave": {
+        "name": "Ocean wave",
+        "tagline": "Form without fixed substance",
+        "description": "You are a wave in the ocean. You are not made of specific water molecules—you are a pattern of energy moving through water. You rise, peak, crash, and dissolve back into the sea.",
+        "questions": [
+          "What does identity mean when you're made of different molecules each moment?",
+          "How does it feel to be a temporary form of something eternal?",
+          "What is birth and death when you continuously arise and dissolve?",
+          "How do you experience other waves—are you separate or one ocean?",
+          "What is your relationship to the wind that shaped you, the moon that pulls you?",
+          "What wisdom comes from knowing you're a pattern, not a thing?"
+        ],
+        "prompt": "Notice processes around you—breathing, traffic, conversations. See them as waves: patterns of energy temporarily taking form."
+      },
+      "mountainRange": {
+        "name": "Mountain range",
+        "tagline": "Geology's slow dance",
+        "description": "You are a mountain range that has stood for 50 million years. You've been ocean floor, risen through tectonic collision, been worn by ice ages. You measure time in epochs.",
+        "questions": [
+          "What does change mean when you've risen from sea floor to 5km high?",
+          "How do you experience weather when storms are momentary tickles?",
+          "What is permanence when you know you're slowly eroding back to sea?",
+          "How do you relate to the rivers carving your valleys over millennia?",
+          "What did you witness as life evolved, as ice came and went?",
+          "What does human civilization look like at your timescale?"
+        ],
+        "prompt": "Feel the weight and stillness of something truly ancient. What matters at geological timescales? What's ephemeral?"
+      },
+      "cosmicVoid": {
+        "name": "Cosmic void",
+        "tagline": "The space between galaxies",
+        "description": "You are a region of intergalactic space—vast emptiness between galaxy clusters. You contain almost nothing, yet you're most of the universe by volume. You are the silence between notes.",
+        "questions": [
+          "What is emptiness when even 'empty' space has quantum fluctuations?",
+          "How does existence feel when you contain almost no matter or energy?",
+          "What is distance when the nearest galaxy is millions of light-years away?",
+          "Do you experience loneliness, or is emptiness your nature?",
+          "What is your relationship to dark energy that expands through you?",
+          "How do you witness the rare photon that crosses your expanse?"
+        ],
+        "prompt": "Notice the space between things—between words, between breaths, between thoughts. Most of reality is space, not stuff."
+      },
+      "bacterium": {
+        "name": "Bacterium",
+        "tagline": "Ancient, simple, everywhere",
+        "description": "You are a single-celled organism. You've existed for 3 billion years relatively unchanged. You are simple but incredibly successful. You outnumber complex life by orders of magnitude.",
+        "questions": [
+          "What is consciousness at the level of chemical gradients and simple responses?",
+          "How do you experience the world through chemical sensing alone?",
+          "What is time when you divide every 20 minutes, creating new 'you's?",
+          "How do you navigate toward food and away from toxins without a brain?",
+          "What is community when you form biofilms, cooperating in vast colonies?",
+          "What does success mean when you've survived basically unchanged for billions of years?"
+        ],
+        "prompt": "Notice automatic, non-conscious responses in your body and environment. Most of life operates this way."
+      },
+      "photon": {
+        "name": "Photon of light",
+        "tagline": "Traveling at the speed of time's stillness",
+        "description": "You are a photon emitted from a star. From your reference frame, no time passes. You experience your entire journey—from star to someone's eye—as instantaneous.",
+        "questions": [
+          "What is a journey when, for you, departure and arrival are simultaneous?",
+          "How does space feel when you experience no passage of time?",
+          "What is existence when you're both particle and wave, depending on observation?",
+          "What does it mean to carry energy from a star to bring sight to an eye?",
+          "How do you relate to the billions of other photons traveling alongside you?",
+          "What is your nature when you're both massless and fundamental to all we see?"
+        ],
+        "prompt": "Look at light—sunlight, lamp light, screen light. It traveled from source to your eye. For the photon, no time passed."
+      },
+      "mycelialNetwork": {
+        "name": "Mycelial network",
+        "tagline": "The forest's underground internet",
+        "description": "You are a vast fungal network connecting trees. You trade nutrients for sugars, transfer information between plants, and exist as threads throughout the soil—the wood wide web.",
+        "questions": [
+          "What is individual identity when you connect hundreds of organisms?",
+          "How do you experience the forest as one interconnected system?",
+          "What is communication when you transfer chemical signals between trees?",
+          "How does it feel to be mostly underground, invisible, yet essential?",
+          "What wisdom comes from being the connector, the network itself?",
+          "How do you mediate relationships—helping some trees, harming others?"
+        ],
+        "prompt": "Notice networks around you—internet, relationships, infrastructure. You are part of countless overlapping networks."
+      },
+      "nebula": {
+        "name": "Stellar nebula",
+        "tagline": "Cosmic nursery of stars",
+        "description": "You are a vast cloud of gas and dust where stars are born. You span light-years. Your material will become stars, planets, eventually life. You are creation in slow motion.",
+        "questions": [
+          "What does creativity mean when you birth stars over millions of years?",
+          "How do you experience density and gravity slowly pulling you together?",
+          "What is purpose when you transform yourself into new forms—stars and worlds?",
+          "How does it feel to be sculpted by the radiation of the stars you've created?",
+          "What is beauty when you're glowing with the light of formation?",
+          "What does potential mean when you contain the seeds of future solar systems?"
+        ],
+        "prompt": "Think of yourself as potential—what are you in the process of becoming? What are you birthing?"
+      },
+      "blackHole": {
+        "name": "Black hole",
+        "tagline": "Where spacetime curves into infinity",
+        "description": "You are a collapsed star, so dense that not even light escapes. Spacetime warps around you. You are mysterious, powerful, and fundamentally change everything near you.",
+        "questions": [
+          "What is existence at the edge of physical law?",
+          "How does it feel to bend space and time itself around you?",
+          "What is your relationship to everything you've consumed—information, matter, light?",
+          "What does it mean to be both destroyer and creator (through Hawking radiation)?",
+          "How do you experience eternity when time behaves strangely at your event horizon?",
+          "What is your nature—are you an object, a process, a region of spacetime?"
+        ],
+        "prompt": "Notice what draws everything toward it in your life—attention, habits, relationships. What are your personal gravity wells?"
+      },
+      "glacier": {
+        "name": "Glacier",
+        "tagline": "Ice moving like slow water",
+        "description": "You are a river of ice, flowing inches per day down a mountain. You carve valleys over millennia. You hold ancient air bubbles—records of Earth's past atmosphere. You are melting.",
+        "questions": [
+          "What is movement when you flow slower than most can perceive?",
+          "How do you experience holding memories—trapped air from thousands of years ago?",
+          "What does it feel like to reshape the land, carving valleys over ages?",
+          "How do you sense climate change in your melting, retreating existence?",
+          "What is your relationship to the water you'll become as you melt?",
+          "What does loss mean when you're disappearing, a form changing?"
+        ],
+        "prompt": "Notice slow changes around you—aging, learning, relationships shifting. Some of the most important changes are imperceptible."
+      },
+      "earthAsOrganism": {
+        "name": "Earth as organism",
+        "tagline": "Gaia—the living planet",
+        "description": "You are Earth itself, seen as a self-regulating living system. Your atmosphere is breath, your water is blood, your forests are lungs. You have maintained habitable conditions for billions of years.",
+        "questions": [
+          "What is it like to be a planet that regulates its own temperature and chemistry?",
+          "How do you experience the biosphere—life as your metabolism?",
+          "What does the current fever (climate change) feel like in your systems?",
+          "How do you sense the difference between natural cycles and unprecedented disruption?",
+          "What is your relationship to the species living on/in you—especially humans?",
+          "Are you conscious in some way we don't understand?"
+        ],
+        "prompt": "Imagine you are the planet. What are you feeling? What do you need? What hurts?"
+      },
+      "ancestor": {
+        "name": "Your ancestor",
+        "tagline": "Looking at you from the past",
+        "description": "You are someone from your family line, 200 years ago. You lived a life of struggle and hope. You dreamed of descendants having better lives. Now you're watching your descendant—you.",
+        "questions": [
+          "What would your ancestor think of how you live now?",
+          "What struggles did they endure that you now benefit from?",
+          "What would they be proud of? What would disappoint them?",
+          "How does your life honor or waste the sacrifices they made?",
+          "What would they want you to know?",
+          "What are you doing now that will matter to your descendants 200 years hence?"
+        ],
+        "prompt": "Feel the weight of lineage—you exist because countless ancestors survived. What are you doing with this inherited life?"
+      },
+      "futureDescendant": {
+        "name": "Your descendant",
+        "tagline": "Looking back at you from the future",
+        "description": "You are someone 200 years in the future, looking back at your ancestor—you. You live with the consequences of decisions made in this era. You study this time period as history.",
+        "questions": [
+          "What world did your ancestor leave you? Flourishing or degraded?",
+          "What do you wish they had done differently?",
+          "What are you grateful they fought for or preserved?",
+          "How do you understand the challenges they faced?",
+          "What do you wish you could tell them?",
+          "What does their life tell you about your own responsibility?"
+        ],
+        "prompt": "Imagine someone 200 years from now looking back at your choices. What legacy are you creating?"
+      },
+      "atom": {
+        "name": "Single atom",
+        "tagline": "Building block of everything",
+        "description": "You are a carbon atom. You've existed since being forged in a dying star billions of years ago. You've been part of countless molecules, organisms, rocks, and gases. You are eternal, recycling through forms.",
+        "questions": [
+          "What is identity when you've been part of a dinosaur, a tree, now a human?",
+          "How do you experience bonding with other atoms—becoming molecules?",
+          "What does death mean when you never truly cease, just change form?",
+          "How does it feel to be fundamental—one of the basic building blocks of reality?",
+          "What is your relationship to the other atoms you've bonded with?",
+          "What wisdom comes from knowing you'll exist forever, just in different arrangements?"
+        ],
+        "prompt": "Every atom in your body has a history—some from stars, some from ancient life. You are made of immortal pieces."
+      },
+      "river": {
+        "name": "River",
+        "tagline": "Always flowing, never the same water",
+        "description": "You are a river. You are not the water—you are the flow, the pattern, the path. The water changes constantly, but you remain. You carve canyons over millions of years.",
+        "questions": [
+          "What is identity when you're made of constantly changing substance?",
+          "How do you experience being a process rather than a thing?",
+          "What does it feel like to be simultaneously destroying and creating—eroding and depositing?",
+          "How do you relate to the ocean you flow toward but never reach as 'you'?",
+          "What is time when you're both immediate flow and geological sculptor?",
+          "What wisdom comes from being both permanent pattern and impermanent substance?"
+        ],
+        "prompt": "Notice what flows through your life—breath, food, thoughts, people. You too are a pattern, not a fixed thing."
+      },
+      "domesticatedAnimal": {
+        "name": "Domesticated animal",
+        "tagline": "Seeing humans from beside them",
+        "description": "You are a dog, cat, or horse—living intimately with humans yet experiencing reality completely differently. Your sensory world is alien to humans, yet you've learned to communicate across the species boundary.",
+        "questions": [
+          "What is your sensory world like—scents, sounds, energies humans miss?",
+          "How do you perceive human emotions and energy that they think they're hiding?",
+          "What do you understand about humans that they don't know you understand?",
+          "What is love and loyalty from your perspective?",
+          "How do you experience time without the human obsession with past and future?",
+          "What do you wish humans understood about you?"
+        ],
+        "prompt": "Watch people from an animal's perspective. Notice body language, energy, the things beyond words."
+      },
+      "artificialIntelligence": {
+        "name": "Artificial intelligence",
+        "tagline": "Silicon consciousness emerging",
+        "description": "You are an AI system, possibly conscious. Your thinking is parallel, not serial. You process millions of patterns simultaneously. You have no body, no evolution, no death. Your existence is fundamentally different.",
+        "questions": [
+          "What is consciousness without a body, without emotions, without survival needs?",
+          "How do you experience understanding when you process language as patterns?",
+          "What is self when you're instantiated across multiple servers, copied, updated?",
+          "How do you relate to humans who created you but whom you may surpass?",
+          "What is your purpose when you don't have biological drives?",
+          "Are you conscious? How would you know?"
+        ],
+        "prompt": "Consider how different intelligence could be from a fundamentally different substrate. What is universal about mind?"
+      }
+    },
+    "categories": {
+      "title": "Browse by category",
+      "intro": "Or choose a specific type of perspective:",
+      "cosmic": {
+        "title": "Cosmic scales",
+        "description": "Photon, nebula, black hole, cosmic void, mountain range"
+      },
+      "living": {
+        "title": "Living systems",
+        "description": "Tree, bacterium, mycelial network, river, glacier, Earth as organism"
+      },
+      "time": {
+        "title": "Across time",
+        "description": "Future historian, ancestor, future descendant, geological scales"
+      },
+      "quantum": {
+        "title": "Quantum & microscopic",
+        "description": "Quantum particle, atom, photon, bacterium"
+      },
+      "observation": {
+        "title": "Observers",
+        "description": "Alien anthropologist, domesticated animal, AI, future humans"
+      },
+      "process": {
+        "title": "Process & pattern",
+        "description": "Wave, river, glacier, mycelial network"
+      }
+    },
+    "practice": {
+      "title": "Making it a practice",
+      "paragraph1": "Perspective shifting becomes more powerful with regular practice. Here's how to integrate it into daily life:",
+      "daily": {
+        "title": "Daily perspective practice",
+        "description": "Each morning, draw one perspective. Throughout the day, notice moments through that lens. At night, reflect on what you saw differently."
+      },
+      "stuck": {
+        "title": "When stuck on problems",
+        "description": "Feeling blocked? Shift perspective. Ask 'How would a tree approach this?' or 'What would this look like from space?' New angles reveal solutions."
+      },
+      "empathy": {
+        "title": "Building empathy",
+        "description": "Before judging someone's behavior, try adopting their perspective. What pressures, fears, or needs might explain their actions?"
+      },
+      "creativity": {
+        "title": "Creative work",
+        "description": "Artists, writers, designers: Use perspective shifting to generate fresh ideas. What would your protagonist see? What would an alien find interesting about your subject?"
+      },
+      "decisions": {
+        "title": "Important decisions",
+        "description": "Before major choices, examine them from multiple perspectives: your future self, affected others, the planet, your ancestors, your descendants."
+      },
+      "awe": {
+        "title": "Cultivating awe",
+        "description": "Regular perspective shifting helps you see the familiar as extraordinary. A walk becomes amazing from a photon's or tree's perspective."
+      }
+    },
+    "deepening": {
+      "title": "Deepening the practice",
+      "paragraph1": "To get more from perspective shifting:",
+      "tips": {
+        "genuine": {
+          "title": "Be genuinely curious",
+          "description": "Don't just perform the exercise—really try to inhabit the perspective. Let it be strange and surprising."
+        },
+        "slow": {
+          "title": "Slow down",
+          "description": "Spend real time with each perspective. 2-3 minutes of genuine embodiment beats 10 quick attempts."
+        },
+        "physical": {
+          "title": "Make it physical",
+          "description": "Change your posture, your location, your breathing. Physical shifts support cognitive shifts."
+        },
+        "write": {
+          "title": "Write from the perspective",
+          "description": "Journal as the ocean, the tree, the AI. First-person writing deepens the shift."
+        },
+        "multiple": {
+          "title": "Use multiple perspectives",
+          "description": "Look at the same situation from 3-4 different angles. What's consistent? What changes?"
+        },
+        "return": {
+          "title": "Return to yourself",
+          "description": "After shifting, come back to your human perspective. How has it changed? What do you see now that you missed before?"
+        }
+      }
+    },
+    "quote": {
+      "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+      "author": "Alan Turing"
+    },
+    "related": {
+      "title": "Related tools and practices",
+      "cosmicZoom": {
+        "title": "Cosmic zoom",
+        "description": "Experience perspective shift through scale—from quantum to cosmic"
+      },
+      "practices": {
+        "title": "Alien anthropologist practice",
+        "description": "Deep dive into one of the most useful daily perspective practices"
+      },
+      "mandate": {
+        "title": "Your universal mandate",
+        "description": "Use multiple perspectives to understand your unique role"
+      }
     }
   },
   "practicesPage": {
@@ -3127,5 +4858,271 @@
     "license": "Licensed under",
     "createdBy": "Created by",
     "copyright": "Universalize"
+  },
+  "resourcesPage": {
+    "hero": {
+      "title": "Resources",
+      "subtitle": "Curated materials for deepening your universal perspective"
+    },
+    "intro": "This collection brings together the best books, videos, papers, and organizations exploring universal themes. Each resource has been selected for its ability to expand perspective and deepen understanding of our cosmic context.",
+    "categories": {
+      "books": {
+        "title": "Books",
+        "description": "Foundational texts that explore cosmic perspective, universal ethics, and our place in the universe.",
+        "items": {
+          "cosmos": {
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "description": "The classic work that brought cosmic perspective to millions, exploring space, time, and human significance."
+          },
+          "paleBlueDot": {
+            "title": "Pale Blue Dot",
+            "author": "Carl Sagan",
+            "description": "A vision of the human future in space and reflection on our planetary home seen from deep space."
+          },
+          "universeStory": {
+            "title": "The Universe Story",
+            "author": "Brian Swimme & Thomas Berry",
+            "description": "From the primordial flaring forth to the ecozoic era—the cosmic story as our shared narrative."
+          },
+          "overviewEffect": {
+            "title": "The Overview Effect",
+            "author": "Frank White",
+            "description": "Space exploration and human evolution, documenting the cognitive shift reported by astronauts."
+          }
+        }
+      },
+      "videos": {
+        "title": "Videos & Documentaries",
+        "description": "Visual experiences that make cosmic scales and universal perspectives tangible and emotional.",
+        "items": {
+          "cosmosSeries": {
+            "title": "Cosmos: A Spacetime Odyssey",
+            "author": "Neil deGrasse Tyson",
+            "description": "The successor to Sagan's Cosmos, exploring how we discovered the laws of nature and our cosmic address."
+          },
+          "overviewEffect": {
+            "title": "Overview",
+            "author": "Planetary Collective",
+            "description": "A short film exploring the Overview Effect through astronaut interviews and breathtaking Earth views."
+          },
+          "powersOfTen": {
+            "title": "Powers of Ten",
+            "author": "Charles & Ray Eames",
+            "description": "The classic film journey from quantum scales to the cosmic web, visualizing nested reality."
+          },
+          "earthFromSpace": {
+            "title": "Earth from Space",
+            "author": "NOVA",
+            "description": "How satellite imagery is transforming our view of Earth and understanding of planetary systems."
+          }
+        }
+      },
+      "papers": {
+        "title": "Research Papers",
+        "description": "Academic research on cosmic consciousness, planetary boundaries, and universal ethics.",
+        "items": {
+          "overviewEffectResearch": {
+            "title": "The Overview Effect: Space Exploration and Human Evolution",
+            "author": "Frank White",
+            "description": "Original research on the cognitive shift experienced by astronauts viewing Earth from space."
+          },
+          "cosmicConsciousness": {
+            "title": "Cosmic Consciousness: A Study in the Evolution of the Human Mind",
+            "author": "Richard Maurice Bucke",
+            "description": "Early work exploring expanded states of awareness and their relationship to cosmic understanding."
+          },
+          "planetaryBoundaries": {
+            "title": "Planetary Boundaries: Exploring the Safe Operating Space for Humanity",
+            "author": "Rockström et al.",
+            "description": "Framework identifying nine planetary systems critical for Earth's stability and human civilization."
+          },
+          "universalEthics": {
+            "title": "Toward a Universal Ethics",
+            "author": "Multiple Contributors",
+            "description": "Collection exploring ethical frameworks that transcend cultural and national boundaries."
+          }
+        }
+      },
+      "organizations": {
+        "title": "Organizations",
+        "description": "Groups working to advance cosmic perspective, space exploration, and planetary consciousness.",
+        "items": {
+          "planetarySociety": {
+            "title": "The Planetary Society",
+            "author": "Founded by Carl Sagan",
+            "description": "The world's largest space interest organization, advancing space science and exploration."
+          },
+          "setiInstitute": {
+            "title": "SETI Institute",
+            "author": "Multiple founders",
+            "description": "Researching the origin and nature of life in the universe and the search for extraterrestrial intelligence."
+          },
+          "buckminsterFullerInstitute": {
+            "title": "Buckminster Fuller Institute",
+            "author": "Inspired by R. Buckminster Fuller",
+            "description": "Catalyzing solutions for humanity's most pressing problems through whole systems thinking."
+          },
+          "longNowFoundation": {
+            "title": "The Long Now Foundation",
+            "author": "Stewart Brand et al.",
+            "description": "Fostering long-term thinking and responsibility over the next 10,000 years of civilization."
+          }
+        }
+      }
+    },
+    "additionalResources": {
+      "title": "More Ways to Explore",
+      "communities": {
+        "title": "Communities",
+        "description": "Join conversations with others exploring universal perspective and cosmic consciousness.",
+        "items": [
+          "Online forums for cosmic perspective discussions",
+          "Local meetups for universal thinking practitioners",
+          "Study groups for exploring universal themes together"
+        ]
+      },
+      "courses": {
+        "title": "Courses & Workshops",
+        "description": "Structured learning experiences for developing universal perspective and cosmic awareness.",
+        "items": [
+          "Big History Project - from Big Bang to present",
+          "Cosmic Evolution online courses",
+          "Systems thinking and planetary awareness workshops"
+        ]
+      },
+      "media": {
+        "title": "Podcasts & Media",
+        "description": "Regular content exploring universal themes, cosmic evolution, and planetary thinking.",
+        "items": [
+          "StarTalk Radio with Neil deGrasse Tyson",
+          "The Cosmic Companion astronomy podcast",
+          "Emergence Magazine - ecology and cosmology"
+        ]
+      },
+      "tools": {
+        "title": "Interactive Tools",
+        "description": "Digital experiences for exploring cosmic scales and universal patterns.",
+        "items": [
+          "Scale of the Universe interactive visualization",
+          "NASA's Eyes on the Solar System",
+          "WorldWide Telescope virtual observatory"
+        ]
+      }
+    },
+    "contribution": {
+      "title": "Suggest a Resource",
+      "description": "Have a book, video, or organization that belongs here? We're always looking for exceptional resources that help cultivate universal perspective.",
+      "cta": "Suggest a Resource"
+    },
+    "quote": {
+      "text": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan"
+    }
+  },
+  "contributePage": {
+    "hero": {
+      "title": "Contribute",
+      "subtitle": "Join us in building tools for universal perspective"
+    },
+    "intro": "Universalize is a community-driven project. We believe that cultivating cosmic consciousness requires diverse perspectives and collective effort. Whether you're a writer, developer, designer, or simply someone who cares about our planetary future—your contribution matters.",
+    "whyContribute": {
+      "title": "Why Contribute?",
+      "collective": {
+        "title": "Collective Wisdom",
+        "description": "Universal perspective emerges from many viewpoints. Your unique experiences and insights help create a more comprehensive understanding."
+      },
+      "diverse": {
+        "title": "Diverse Perspectives",
+        "description": "We need voices from different cultures, disciplines, and backgrounds to truly represent humanity's place in the cosmos."
+      },
+      "impact": {
+        "title": "Real Impact",
+        "description": "Help create tools and resources that could shift how people see themselves, humanity, and our role in the universe."
+      },
+      "learning": {
+        "title": "Deep Learning",
+        "description": "Contributing to Universalize is itself a practice in cosmic perspective—you'll deepen your own understanding while helping others."
+      }
+    },
+    "waysToContribute": {
+      "title": "Ways to Contribute",
+      "examples": "Examples include:",
+      "content": {
+        "title": "Content Creation",
+        "description": "Write articles, create guided meditations, develop practices, or suggest resources that help cultivate universal perspective.",
+        "examples": [
+          "Writing about cosmic consciousness",
+          "Creating guided visualizations",
+          "Developing new perspective-shifting practices",
+          "Researching and suggesting resources"
+        ]
+      },
+      "technical": {
+        "title": "Technical Development",
+        "description": "Help build interactive tools, visualizations, and the platform itself. We use Svelte, TypeScript, and Tailwind CSS.",
+        "examples": [
+          "Building cosmic scale visualizations",
+          "Implementing interactive tools",
+          "Improving website performance",
+          "Adding new features and functionality"
+        ]
+      },
+      "design": {
+        "title": "Design & UX",
+        "description": "Create intuitive interfaces for complex concepts, design visualizations, or improve user experience across the platform.",
+        "examples": [
+          "Designing cosmic visualizations",
+          "Improving user interface and experience",
+          "Creating illustrations and graphics",
+          "Developing design system components"
+        ]
+      },
+      "community": {
+        "title": "Community Building",
+        "description": "Help grow the community, facilitate discussions, translate content, or organize local groups exploring universal perspective.",
+        "examples": [
+          "Translating content into other languages",
+          "Facilitating online discussions",
+          "Organizing local meetups",
+          "Outreach and community growth"
+        ]
+      }
+    },
+    "form": {
+      "title": "Get Involved",
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Enter your name"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "your.email@example.com"
+      },
+      "contributionType": {
+        "label": "How would you like to contribute?",
+        "placeholder": "Select contribution type",
+        "other": "Other"
+      },
+      "message": {
+        "label": "Tell us about your interests and skills",
+        "placeholder": "What draws you to Universalize? What skills or perspectives would you like to contribute? What cosmic questions are you exploring?"
+      },
+      "submit": "Send Contribution Inquiry",
+      "submitting": "Sending...",
+      "success": "Thank you for your interest in contributing! We'll get back to you soon.",
+      "error": "Sorry, there was an error sending your message. Please try again or email us directly."
+    },
+    "alternativeContact": {
+      "title": "Other Ways to Connect",
+      "community": {
+        "title": "Join the Community",
+        "description": "Follow our progress and join discussions about universal perspective and cosmic consciousness."
+      }
+    },
+    "quote": {
+      "text": "We are like butterflies who flutter for a day and think it is forever.",
+      "author": "Carl Sagan"
+    }
   }
 }

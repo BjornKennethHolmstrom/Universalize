@@ -271,16 +271,16 @@
   <div class="mx-auto max-w-4xl">
     <h2 class="mb-8 text-center text-3xl font-bold text-white">{$t('pillars.patterns.related.title')}</h2>
     
-    <div class="grid gap-6 md:grid-cols-3">
+    <div class="grid gap-6 md:grid-cols-1">
       <a 
-        href="/explore/scale-journey"
+        href="/practices/scale-shifting"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-teal-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔬</div>
         <h3 class="mb-2 text-lg font-bold text-teal-300">{$t('pillars.patterns.related.scaleJourney')}</h3>
         <p class="text-sm text-slate-400">{$t('pillars.patterns.related.scaleJourneyDesc')}</p>
       </a>
-      
+      <!--
       <a 
         href="/tools/pattern-finder"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-emerald-500 hover:bg-slate-700"
@@ -297,7 +297,7 @@
         <div class="mb-3 text-4xl">🧩</div>
         <h3 class="mb-2 text-lg font-bold text-cyan-300">{$t('pillars.patterns.related.systemsThinking')}</h3>
         <p class="text-sm text-slate-400">{$t('pillars.patterns.related.systemsThinkingDesc')}</p>
-      </a>
+      </a> -->
     </div>
   </div>
 </section>

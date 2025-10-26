@@ -601,7 +601,7 @@ This is what it means to have universal perspective: seeing yourself simultaneou
 - [Emergence](/pillars/patterns/topics/emergence) - How higher levels arise
 - [Fractals](/pillars/patterns/topics/fractals) - Self-similar patterns across scales
 - [Networks](/pillars/patterns/topics/networks) - Alternative organizational pattern
-- [Systems thinking](/practices/systems-thinking) - Thinking across levels
+- [Systems thinking (upcoming)] /practices/systems-thinking - Thinking across levels
 
 **Practice:**
 - Map the hierarchies you're embedded in

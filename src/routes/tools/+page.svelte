@@ -15,7 +15,7 @@
       icon: '📍',
       description: $t('toolsPage.tools.cosmicAddress.description'),
       link: '/tools/cosmic-address',
-      status: $t('toolsPage.status.comingSoon'),
+      status: $t('toolsPage.status.explore'),
       color: 'purple'
     },
     {
@@ -23,7 +23,7 @@
       icon: '⏳',
       description: $t('toolsPage.tools.deepTime.description'),
       link: '/tools/deep-time',
-      status: $t('toolsPage.status.comingSoon'),
+      status: $t('toolsPage.status.explore'),
       color: 'blue'
     },
     {
@@ -31,7 +31,7 @@
       icon: '🎯',
       description: $t('toolsPage.tools.decisionFilter.description'),
       link: '/tools/decision-filter',
-      status: $t('toolsPage.status.comingSoon'),
+      status: $t('toolsPage.status.explore'),
       color: 'green'
     },
     {
@@ -39,7 +39,7 @@
       icon: '🌍',
       description: $t('toolsPage.tools.planetaryBoundaries.description'),
       link: '/tools/planetary-boundaries',
-      status: $t('toolsPage.status.comingSoon'),
+      status: $t('toolsPage.status.explore'),
       color: 'green'
     },
     {
@@ -47,7 +47,7 @@
       icon: '🌀',
       description: $t('toolsPage.tools.emergence.description'),
       link: '/tools/emergence',
-      status: $t('toolsPage.status.comingSoon'),
+      status: $t('toolsPage.status.explore'),
       color: 'purple'
     },
     {

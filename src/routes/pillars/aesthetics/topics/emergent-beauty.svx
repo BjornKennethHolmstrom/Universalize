@@ -111,8 +111,8 @@ Complex variations on IFS that create ethereal, fire-like fractal forms. Artists
 
 Created in 1970, the Game of Life uses four rules:
 1. Any live cell with 2-3 live neighbors survives
-2. Any live cell with <2 neighbors dies (underpopulation)
-3. Any live cell with >3 neighbors dies (overpopulation)
+2. Any live cell with \<2 neighbors dies (underpopulation)
+3. Any live cell with \>3 neighbors dies (overpopulation)
 4. Any dead cell with exactly 3 live neighbors becomes alive (reproduction)
 
 That's it. Yet from random starting conditions, complex structures emerge:
@@ -461,9 +461,9 @@ Emergent beauty invites you to:
 - [Fractal galleries and generators](https://fractalfoundation.org/)
 - [Processing.org](https://processing.org) - Learn generative coding
 
-**Practice**:
-- [Generative art tutorial](/practices/generative-art) - Create your first emergent system
-- [Pattern observation](/practices/emergence-spotting) - Find emergence in nature
+**Practice (planned upcoming)**:
+- [Generative art tutorial] /practices/generative-art - Create your first emergent system
+- [Pattern observation] /practices/emergence-spotting - Find emergence in nature
 
 **Related**:
 - [Universal patterns](/pillars/patterns) - Recurring structures across scales

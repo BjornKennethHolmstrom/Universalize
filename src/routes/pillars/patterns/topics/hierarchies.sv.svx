@@ -596,7 +596,7 @@ Hierarkier avslöjar verklighetens grundläggande struktur: **kapslade organisat
 - [Emergens](/pillars/patterns/topics/emergence) - Hur högre nivåer uppstår
 - [Fraktaler](/pillars/patterns/topics/fractals) - Självliknande mönster över skalor
 - [Nätverk](/pillars/patterns/topics/networks) - Alternativt organisationsmönster
-- [Systemtänkande](/practices/systems-thinking) - Att tänka över nivåer
+- [Systemtänkande (kommande)] /practices/systems-thinking - Att tänka över nivåer
 
 **Praktik:**
 - Kartlägg hierarkierna du är inbäddad i

@@ -313,7 +313,7 @@
   <div class="mx-auto max-w-4xl">
     <h2 class="mb-8 text-center text-3xl font-bold text-white">{$t('pillars.aesthetics.related.title')}</h2>
     
-    <div class="grid gap-6 md:grid-cols-3">
+    <div class="grid gap-6 md:grid-cols-2">
       <a 
         href="/pillars/patterns"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
@@ -323,14 +323,14 @@
         <p class="text-sm text-slate-400">{$t('pillars.aesthetics.related.patternsDesc')}</p>
       </a>
       
-      <a 
+    <!--  <a 
         href="/explore/voyager-record"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">💿</div>
         <h3 class="mb-2 text-lg font-bold text-blue-300">{$t('pillars.aesthetics.related.voyager')}</h3>
         <p class="text-sm text-slate-400">{$t('pillars.aesthetics.related.voyagerDesc')}</p>
-      </a>
+      </a> -->
       
       <a 
         href="/explore/seti"

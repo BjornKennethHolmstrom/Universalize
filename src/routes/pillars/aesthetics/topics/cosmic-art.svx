@@ -411,9 +411,9 @@ That's not just art. That's sacred work.
 - *Space Art* by Ron Miller
 - *Cosmos* by Carl Sagan (with beautiful images)
 
-**Practice**:
-- [Create cosmic art](/practices/cosmic-creation) - Exercises for all media
-- [Cosmic photography](/practices/astrophotography-basics) - Getting started
+**Practice (planned upcoming)**:
+- [Create cosmic art] /practices/cosmic-creation - Exercises for all media
+- [Cosmic photography] /practices/astrophotography-basics - Getting started
 
 **Related**:
 - [The golden ratio](/pillars/aesthetics/topics/golden-ratio) - Mathematics in beauty

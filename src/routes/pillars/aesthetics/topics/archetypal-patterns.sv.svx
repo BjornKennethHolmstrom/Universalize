@@ -293,9 +293,9 @@ Detta gäller alla universella mönster: de förekommer överallt men uttrycks a
 - *The Writer's Journey* av Christopher Vogler
 - *The Heroine's Journey* av Maureen Murdock
 
-**Praktik**:
-- [Berättelseanalysövning](/practices/story-patterns) - Identifiera arketyper i filmer
-- [Personlig resekartläggning](/practices/hero-journey) - Kartlägg ditt eget liv som Hjältens resa
+**Praktik (planerat kommande)**:
+- [Berättelseanalysövning] /practices/story-patterns - Identifiera arketyper i filmer
+- [Personlig resekartläggning] /practices/hero-journey - Kartlägg ditt eget liv som Hjältens resa
 
 **Relaterat**:
 - [Universella mönster](/pillars/patterns) - Mönster över alla skalor
