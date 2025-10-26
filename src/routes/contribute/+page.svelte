@@ -1,6 +1,7 @@
 <!-- src/routes/contribute/+page.svelte -->
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const contributionTypes = $derived([
     {

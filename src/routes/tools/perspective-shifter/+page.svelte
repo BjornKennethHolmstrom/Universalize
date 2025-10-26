@@ -1,5 +1,6 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   let currentPerspective = $state<string | null>(null);
   let reflectionText = $state('');
@@ -391,7 +392,7 @@
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/tools/cosmic-zoom"
+        href="{base}/tools/cosmic-zoom"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">🔬</div>
@@ -400,7 +401,7 @@
       </a>
       
       <a 
-        href="/practices/alien-anthropologist"
+        href="{base}/practices/alien-anthropologist"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-purple-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">👽</div>
@@ -409,7 +410,7 @@
       </a>
       
       <a 
-        href="/tools/universal-mandate"
+        href="{base}/tools/universal-mandate"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-green-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">✨</div>

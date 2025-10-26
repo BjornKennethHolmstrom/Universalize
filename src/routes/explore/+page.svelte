@@ -1,47 +1,48 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const exploreAreas = $derived([
     {
       title: $t('explore.areas.overviewEffect.title'),
       icon: '🌍',
       description: $t('explore.areas.overviewEffect.description'),
-      link: '/explore/overview-effect',
+      link: `${base}/explore/overview-effect`,
       color: 'blue'
     },
     {
       title: $t('explore.areas.patterns.title'),
       icon: '🌐',
       description: $t('explore.areas.patterns.description'),
-      link: '/explore/patterns',
+      link: `${base}/explore/patterns`,
       color: 'purple'
     },
     {
       title: $t('explore.areas.universeStory.title'),
       icon: '✨',
       description: $t('explore.areas.universeStory.description'),
-      link: '/explore/universe-story',
+      link: `${base}/explore/universe-story`,
       color: 'blue'
     },
     {
       title: $t('explore.areas.expandingCircles.title'),
       icon: '💚',
       description: $t('explore.areas.expandingCircles.description'),
-      link: '/explore/expanding-circles',
+      link: `${base}/explore/expanding-circles`,
       color: 'green'
     },
     {
       title: $t('explore.areas.deepTime.title'),
       icon: '⏳',
       description: $t('explore.areas.deepTime.description'),
-      link: '/explore/deep-time',
+      link: `${base}/explore/deep-time`,
       color: 'purple'
     },
     {
       title: $t('explore.areas.seti.title'),
       icon: '🔭',
       description: $t('explore.areas.seti.description'),
-      link: '/explore/seti',
+      link: `${base}/explore/seti`,
       color: 'blue'
     }
   ]);
@@ -120,7 +121,7 @@
     
     <div class="grid gap-6 sm:grid-cols-2">
       <a 
-        href="/pillars"
+        href="{base}/pillars"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <h3 class="mb-2 text-xl font-bold text-blue-300">{$t('explore.lookingFor.pillars.title')}</h3>
@@ -130,7 +131,7 @@
       </a>
       
       <a 
-        href="/tools"
+        href="{base}/tools"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-800"
       >
         <h3 class="mb-2 text-xl font-bold text-purple-300">{$t('explore.lookingFor.tools.title')}</h3>
@@ -140,7 +141,7 @@
       </a>
       
       <a 
-        href="/practices"
+        href="{base}/practices"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-green-500 hover:bg-slate-800"
       >
         <h3 class="mb-2 text-xl font-bold text-green-300">{$t('explore.lookingFor.practices.title')}</h3>
@@ -150,7 +151,7 @@
       </a>
       
       <a 
-        href="/resources"
+        href="{base}/resources"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <h3 class="mb-2 text-xl font-bold text-blue-300">{$t('explore.lookingFor.resources.title')}</h3>

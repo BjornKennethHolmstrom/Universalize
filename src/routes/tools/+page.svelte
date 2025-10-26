@@ -1,12 +1,13 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   const tools = $derived([
     {
       title: $t('toolsPage.tools.cosmicZoom.title'),
       icon: '🔬',
       description: $t('toolsPage.tools.cosmicZoom.description'),
-      link: '/tools/cosmic-zoom',
+      link: `${base}/tools/cosmic-zoom`,
       status: $t('toolsPage.status.comingSoon'),
       color: 'blue'
     },
@@ -14,7 +15,7 @@
       title: $t('toolsPage.tools.cosmicAddress.title'),
       icon: '📍',
       description: $t('toolsPage.tools.cosmicAddress.description'),
-      link: '/tools/cosmic-address',
+      link: `${base}/tools/cosmic-address`,
       status: $t('toolsPage.status.explore'),
       color: 'purple'
     },
@@ -22,7 +23,7 @@
       title: $t('toolsPage.tools.deepTime.title'),
       icon: '⏳',
       description: $t('toolsPage.tools.deepTime.description'),
-      link: '/tools/deep-time',
+      link: `${base}/tools/deep-time`,
       status: $t('toolsPage.status.explore'),
       color: 'blue'
     },
@@ -30,7 +31,7 @@
       title: $t('toolsPage.tools.decisionFilter.title'),
       icon: '🎯',
       description: $t('toolsPage.tools.decisionFilter.description'),
-      link: '/tools/decision-filter',
+      link: `${base}/tools/decision-filter`,
       status: $t('toolsPage.status.explore'),
       color: 'green'
     },
@@ -38,7 +39,7 @@
       title: $t('toolsPage.tools.planetaryBoundaries.title'),
       icon: '🌍',
       description: $t('toolsPage.tools.planetaryBoundaries.description'),
-      link: '/tools/planetary-boundaries',
+      link: `${base}/tools/planetary-boundaries`,
       status: $t('toolsPage.status.explore'),
       color: 'green'
     },
@@ -46,7 +47,7 @@
       title: $t('toolsPage.tools.emergence.title'),
       icon: '🌀',
       description: $t('toolsPage.tools.emergence.description'),
-      link: '/tools/emergence',
+      link: `${base}/tools/emergence`,
       status: $t('toolsPage.status.explore'),
       color: 'purple'
     },
@@ -54,7 +55,7 @@
       title: $t('toolsPage.tools.universalMandate.title'),
       icon: '✍️',
       description: $t('toolsPage.tools.universalMandate.description'),
-      link: '/tools/universal-mandate',
+      link: `${base}/tools/universal-mandate`,
       status: $t('toolsPage.status.comingSoon'),
       color: 'blue'
     },
@@ -62,7 +63,7 @@
       title: $t('toolsPage.tools.perspectiveShifter.title'),
       icon: '👁️',
       description: $t('toolsPage.tools.perspectiveShifter.description'),
-      link: '/tools/perspective-shifter',
+      link: `${base}/tools/perspective-shifter`,
       status: $t('toolsPage.status.comingSoon'),
       color: 'purple'
     }

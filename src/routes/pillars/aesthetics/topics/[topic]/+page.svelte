@@ -1,7 +1,8 @@
 <!-- src/routes/pillars/aesthetics/topics/[topic]/+page.svelte -->
 <script lang="ts">
   import { currentLanguage } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   // Svelte 5 runes mode - use $props() instead of export let
   let { data } = $props();
   
@@ -53,7 +54,7 @@
   <section class="border-t border-slate-800 bg-slate-950 px-6 py-12">
     <div class="mx-auto max-w-4xl">
       <a 
-        href="/pillars/aesthetics" 
+        href="{base}/pillars/aesthetics" 
         class="inline-flex items-center gap-2 text-lg text-purple-300 transition hover:text-purple-200"
       >
         <span>←</span>
@@ -88,7 +89,7 @@
   <section class="border-t border-slate-800 bg-slate-950 px-6 py-12">
     <div class="mx-auto max-w-4xl">
       <a 
-        href="/pillars/aesthetics" 
+        href="{base}/pillars/aesthetics" 
         class="inline-flex items-center gap-2 text-lg text-purple-300 transition hover:text-purple-200"
       >
         <span>←</span>

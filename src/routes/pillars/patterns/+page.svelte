@@ -1,6 +1,7 @@
 <!-- src/routes/pillars/patterns/+page.svelte -->
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const topics = $derived([
     {
@@ -172,7 +173,7 @@
       {#each topics as topic}
         {@const colors = colorClasses[topic.color]}
         <a 
-          href={`/pillars/patterns/topics/${topic.slug}`}
+          href={`${base}/pillars/patterns/topics/${topic.slug}`}
           class="group rounded-xl border {colors.border} bg-slate-800/50 p-8 transition {colors.hover} hover:bg-slate-700"
         >
           <div class="mb-4 text-5xl">{topic.icon}</div>
@@ -273,7 +274,7 @@
     
     <div class="grid gap-6 md:grid-cols-1">
       <a 
-        href="/practices/scale-shifting"
+        href="{base}/practices/scale-shifting"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-teal-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔬</div>
@@ -282,7 +283,7 @@
       </a>
       <!--
       <a 
-        href="/tools/pattern-finder"
+        href="{base}/tools/pattern-finder"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-emerald-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔍</div>
@@ -291,7 +292,7 @@
       </a>
       
       <a 
-        href="/practices/systems-thinking"
+        href="{base}/practices/systems-thinking"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-cyan-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🧩</div>

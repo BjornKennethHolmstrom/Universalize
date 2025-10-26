@@ -2,6 +2,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
   
   // Timeline state
   let currentEra = $state(0);
@@ -558,7 +559,7 @@
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/explore/universe-story"
+        href="{base}/explore/universe-story"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">✨</div>
@@ -567,7 +568,7 @@
       </a>
       
       <a 
-        href="/tools/cosmic-address"
+        href="{base}/tools/cosmic-address"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-purple-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">📍</div>
@@ -576,7 +577,7 @@
       </a>
       
       <a 
-        href="/practices/scale-shifting"
+        href="{base}/practices/scale-shifting"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-green-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">🔄</div>

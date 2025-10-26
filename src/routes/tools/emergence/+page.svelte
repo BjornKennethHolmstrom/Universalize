@@ -2,6 +2,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
   
   // Simulation state
   let activeSimulation: string | null = $state('conway');
@@ -600,7 +601,7 @@
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/pillars/patterns"
+        href="{base}/pillars/patterns"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🌀</div>
@@ -609,7 +610,7 @@
       </a>
       
       <a 
-        href="/explore/patterns"
+        href="{base}/explore/patterns"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔬</div>
@@ -618,7 +619,7 @@
       </a>
       
       <a 
-        href="/pillars/mind"
+        href="{base}/pillars/mind"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-green-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🧠</div>

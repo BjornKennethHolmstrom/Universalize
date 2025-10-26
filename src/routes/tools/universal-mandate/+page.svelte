@@ -1,5 +1,6 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   let currentStep = $state(0);
   let responses = $state({
@@ -616,7 +617,7 @@ Date: ${new Date().toLocaleDateString()}
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/practices"
+        href="{base}/practices"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">🌅</div>
@@ -625,7 +626,7 @@ Date: ${new Date().toLocaleDateString()}
       </a>
       
       <a 
-        href="/pillars/ethics"
+        href="{base}/pillars/ethics"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-green-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">💚</div>
@@ -634,7 +635,7 @@ Date: ${new Date().toLocaleDateString()}
       </a>
       
       <a 
-        href="/pillars/challenges"
+        href="{base}/pillars/challenges"
         class="rounded-xl border border-slate-700 bg-slate-900/50 p-6 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <div class="mb-3 text-4xl">🌍</div>

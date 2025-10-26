@@ -1,6 +1,7 @@
 <!-- src/routes/pillars/challenges/+page.svelte -->
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const topics = $derived([
     {
@@ -156,7 +157,7 @@
       {#each topics as topic}
         {@const colors = colorClasses[topic.color]}
         <a 
-          href={`/pillars/challenges/topics/${topic.slug}`}
+          href={`${base}/pillars/challenges/topics/${topic.slug}`}
           class="group rounded-xl border {colors.border} bg-slate-800/50 p-8 transition {colors.hover} hover:bg-slate-700"
         >
           <div class="mb-4 text-5xl">{topic.icon}</div>
@@ -255,7 +256,7 @@
       </a>
       
       <a 
-        href="/tools/planetary-boundaries"
+        href="{base}/tools/planetary-boundaries"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-green-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🌍</div>
@@ -264,7 +265,7 @@
       </a>
       
       <a 
-        href="/practices/cosmic-consumption"
+        href="{base}/practices/cosmic-consumption"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🛒</div>

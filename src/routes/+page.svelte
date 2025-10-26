@@ -1,6 +1,7 @@
 <!-- /src/routes/+page.svelte -->
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const entryPoints = $derived([
     {
@@ -10,17 +11,17 @@
         {
           title: $t('entryPoints.practical.cosmicMorning.title'),
           description: $t('entryPoints.practical.cosmicMorning.description'),
-          link: '/practices/cosmic-morning'
+          link: `${base}/practices/cosmic-morning`
         },
         {
           title: $t('entryPoints.practical.decisionFilter.title'),
           description: $t('entryPoints.practical.decisionFilter.description'),
-          link: '/tools/decision-filter'
+          link: `${base}/tools/decision-filter`
         },
         {
           title: $t('entryPoints.practical.cosmicConsumption.title'),
           description: $t('entryPoints.practical.cosmicConsumption.description'),
-          link: '/practices/cosmic-consumption'
+          link: `${base}/practices/cosmic-consumption`
         }
       ]
     },
@@ -31,17 +32,17 @@
         {
           title: $t('entryPoints.wonder.cosmicAddress.title'),
           description: $t('entryPoints.wonder.cosmicAddress.description'),
-          link: '/tools/cosmic-address'
+          link: `${base}/tools/cosmic-address`
         },
         {
           title: $t('entryPoints.wonder.deepTime.title'),
           description: $t('entryPoints.wonder.deepTime.description'),
-          link: '/tools/deep-time'
+          link: `${base}/tools/deep-time`
         },
         {
           title: $t('entryPoints.wonder.overviewEffect.title'),
           description: $t('entryPoints.wonder.overviewEffect.description'),
-          link: '/explore/overview-effect'
+          link: `${base}/explore/overview-effect`
         }
       ]
     },
@@ -52,17 +53,17 @@
         {
           title: $t('entryPoints.systems.patterns.title'),
           description: $t('entryPoints.systems.patterns.description'),
-          link: '/explore/patterns'
+          link: `${base}/explore/patterns`
         },
         {
           title: $t('entryPoints.systems.boundaries.title'),
           description: $t('entryPoints.systems.boundaries.description'),
-          link: '/tools/planetary-boundaries'
+          link: `${base}/tools/planetary-boundaries`
         },
         {
           title: $t('entryPoints.systems.emergence.title'),
           description: $t('entryPoints.systems.emergence.description'),
-          link: '/tools/emergence'
+          link: `${base}/tools/emergence`
         }
       ]
     }
@@ -74,35 +75,35 @@
       subtitle: $t('pillars.mind.subtitle'),
       icon: '🧠',
       description: $t('pillars.mind.description'),
-      link: '/pillars/mind'
+      link: `${base}/pillars/mind`
     },
     {
       title: $t('pillars.ethics.title'),
       subtitle: $t('pillars.ethics.subtitle'),
       icon: '💚',
       description: $t('pillars.ethics.description'),
-      link: '/pillars/ethics'
+      link: `${base}/pillars/ethics`
     },
     {
       title: $t('pillars.patterns.title'),
       subtitle: $t('pillars.patterns.subtitle'),
       icon: '🌐',
       description: $t('pillars.patterns.description'),
-      link: '/pillars/patterns'
+      link: `${base}/pillars/patterns`
     },
     {
       title: $t('pillars.aesthetics.title'),
       subtitle: $t('pillars.aesthetics.subtitle'),
       icon: '🎨',
       description: $t('pillars.aesthetics.description'),
-      link: '/pillars/aesthetics'
+      link: `${base}/pillars/aesthetics`
     },
     {
       title: $t('pillars.challenges.title'),
       subtitle: $t('pillars.challenges.subtitle'),
       icon: '🌍',
       description: $t('pillars.challenges.description'),
-      link: '/pillars/challenges'
+      link: `${base}/pillars/challenges`
     }
   ]);
 </script>
@@ -127,7 +128,7 @@
     <!-- Large centered logo -->
     <div class="mb-8 flex justify-center">
       <img 
-        src="/logo.svg" 
+        src="{base}/logo.svg" 
         alt="Universalize logo" 
         class="h-32 w-32 sm:h-40 sm:w-40 float-animation"
       />
@@ -150,7 +151,7 @@
         {$t('hero.startExploring')}
       </a>
       <a 
-        href="/about" 
+        href="{base}/about" 
         class="rounded-lg border-2 border-blue-400 px-8 py-3 text-lg font-semibold text-blue-200 transition hover:bg-blue-900/30"
       >
         {$t('hero.learnMore')}
@@ -166,28 +167,28 @@
     <div class="grid gap-6 sm:grid-cols-4">
       <div class="rounded-lg bg-slate-800/50 p-6">
         <div class="mb-3 flex justify-center">
-          <img src="/logo-spiralize.svg" alt="Spiralize" class="h-12 w-12" />
+          <img src="{base}/logo-spiralize.svg" alt="Spiralize" class="h-12 w-12" />
         </div>
         <div class="text-lg font-semibold text-blue-300">{$t('journey.spiralize.name')}</div>
         <div class="text-sm text-slate-400">{$t('journey.spiralize.stage')}</div>
       </div>
       <div class="rounded-lg bg-slate-800/50 p-6">
         <div class="mb-3 flex justify-center">
-          <img src="/logo-nondualize.svg" alt="Nondualize" class="h-12 w-12" />
+          <img src="{base}/logo-nondualize.svg" alt="Nondualize" class="h-12 w-12" />
         </div>
         <div class="text-lg font-semibold text-purple-300">{$t('journey.nondualize.name')}</div>
         <div class="text-sm text-slate-400">{$t('journey.nondualize.stage')}</div>
       </div>
       <div class="rounded-lg bg-slate-800/50 p-6">
         <div class="mb-3 flex justify-center">
-          <img src="/logo-communize.svg" alt="Communize" class="h-12 w-12" />
+          <img src="{base}/logo-communize.svg" alt="Communize" class="h-12 w-12" />
         </div>
         <div class="text-lg font-semibold text-green-300">{$t('journey.communize.name')}</div>
         <div class="text-sm text-slate-400">{$t('journey.communize.stage')}</div>
       </div>
       <div class="rounded-lg bg-slate-800/50 p-6 ring-2 ring-blue-500">
         <div class="mb-3 flex justify-center">
-          <img src="/logo.svg" alt="Universalize" class="h-12 w-12" />
+          <img src="{base}/logo.svg" alt="Universalize" class="h-12 w-12" />
         </div>
         <div class="text-lg font-semibold text-blue-300">{$t('journey.universalize.name')}</div>
         <div class="text-sm text-slate-400">{$t('journey.universalize.stage')}</div>

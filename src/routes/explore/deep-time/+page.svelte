@@ -1,6 +1,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   const timeScales = $derived([
     {
       title: $t('deepTime.scales.cosmic.title'),
@@ -213,7 +214,7 @@
     
     <div class="rounded-xl border border-blue-500 bg-gradient-to-br from-blue-900/30 to-purple-900/30 p-8">
       <div class="mb-6 flex items-start gap-4">
-        <img src="/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
+        <img src="{base}/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
         <div>
           <h3 class="mb-2 text-2xl font-bold text-blue-300">{$t('deepTime.governance.framework.title')}</h3>
           <a 
@@ -290,13 +291,13 @@
     
     <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
       <a 
-        href="/tools/deep-time"
+        href="{base}/tools/deep-time"
         class="rounded-lg bg-purple-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-purple-500"
       >
         {$t('deepTime.cta.tool')}
       </a>
       <a 
-        href="/practices/scale-shifting"
+        href="{base}/practices/scale-shifting"
         class="rounded-lg border-2 border-purple-400 px-8 py-3 text-lg font-semibold text-purple-200 transition hover:bg-purple-900/30"
       >
         {$t('deepTime.cta.practice')}

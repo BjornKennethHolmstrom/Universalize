@@ -1,6 +1,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   const astronauts = $derived([
     {
       name: $t('overviewEffect.astronauts.0.name'),
@@ -231,13 +232,13 @@
     
     <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
       <a 
-        href="/practices/view-from-above"
+        href="{base}/practices/view-from-above"
         class="rounded-lg bg-blue-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-blue-500"
       >
         {$t('overviewEffect.cta.meditation')}
       </a>
       <a 
-        href="/tools/cosmic-zoom"
+        href="{base}/tools/cosmic-zoom"
         class="rounded-lg border-2 border-blue-400 px-8 py-3 text-lg font-semibold text-blue-200 transition hover:bg-blue-900/30"
       >
         {$t('overviewEffect.cta.explore')}

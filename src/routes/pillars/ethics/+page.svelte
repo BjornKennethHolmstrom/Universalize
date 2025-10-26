@@ -1,6 +1,7 @@
 <!-- src/routes/pillars/ethics/+page.svelte -->
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const topics = $derived([
     {
@@ -173,7 +174,7 @@
       {#each topics as topic}
         {@const colors = colorClasses[topic.color]}
         <a 
-          href={`/pillars/ethics/topics/${topic.slug}`}
+          href={`${base}/pillars/ethics/topics/${topic.slug}`}
           class="group rounded-xl border {colors.border} bg-slate-800/50 p-8 transition {colors.hover} hover:bg-slate-700"
         >
           <div class="mb-4 text-5xl">{topic.icon}</div>
@@ -274,7 +275,7 @@
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/explore/expanding-circles"
+        href="{base}/explore/expanding-circles"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-green-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔄</div>
@@ -283,7 +284,7 @@
       </a>
       
       <a 
-        href="/tools/decision-filter"
+        href="{base}/tools/decision-filter"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🎯</div>
@@ -292,7 +293,7 @@
       </a>
       
       <a 
-        href="/practices/cosmic-consumption"
+        href="{base}/practices/cosmic-consumption"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🛒</div>

@@ -22,15 +22,13 @@ const config = {
       strict: true
     }),
     paths: {
-      // For GitHub Pages, use your repository name as base
       base: process.env.NODE_ENV === 'production' ? '/Universalize' : ''
     },
-    // Add this to handle the HTTP errors
     prerender: {
       handleHttpError: ({ path, referrer, message }) => {
-        // Ignore missing links during prerender
-        if (path.includes('{base}')) {
-          console.warn(`Ignoring invalid path: ${path}`);
+        // Ignore 404s for paths that don't start with base
+        // These are internal markdown links that will be fixed by rehype
+        if (message.includes('does not begin with `base`')) {
           return;
         }
         throw new Error(message);

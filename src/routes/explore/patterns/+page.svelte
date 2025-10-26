@@ -1,5 +1,6 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const patterns = $derived([
     {
@@ -299,13 +300,13 @@
     
     <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
       <a 
-        href="/tools/emergence"
+        href="{base}/tools/emergence"
         class="rounded-lg bg-purple-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-purple-500"
       >
         {$t('universalPatterns.cta.simulator')}
       </a>
       <a 
-        href="/pillars/patterns"
+        href="{base}/pillars/patterns"
         class="rounded-lg border-2 border-purple-400 px-8 py-3 text-lg font-semibold text-purple-200 transition hover:bg-purple-900/30"
       >
         {$t('universalPatterns.cta.pillar')}

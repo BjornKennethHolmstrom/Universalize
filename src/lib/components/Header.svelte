@@ -30,7 +30,7 @@
   <nav class="mx-auto flex max-w-7xl items-center justify-between px-6 py-4" aria-label="Global">
     <!-- Logo -->
     <div class="flex lg:flex-1">
-      <a href="/" class="-m-1.5 flex items-center gap-3 p-1.5">
+      <a href="{base}/" class="-m-1.5 flex items-center gap-3 p-1.5">
         <img src="{base}/logo.svg" alt="Universalize logo" class="h-10 w-10" />
         <span class="text-xl font-bold text-white">Universalize</span>
       </a>

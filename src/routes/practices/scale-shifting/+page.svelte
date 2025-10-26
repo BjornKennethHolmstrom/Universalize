@@ -1,6 +1,7 @@
 <!-- src/routes/practices/scale-shifting/+page.svelte -->
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
 </script>
 
 <svelte:head>
@@ -12,7 +13,7 @@
 <section class="border-b border-slate-800 bg-slate-950 px-6 py-8">
   <div class="mx-auto max-w-4xl">
     <a 
-      href="/practices" 
+      href="{base}/practices" 
       class="inline-flex items-center gap-2 text-lg text-blue-300 transition hover:text-blue-200"
     >
       <span>←</span>
@@ -339,7 +340,7 @@
     
     <div class="grid gap-6 md:grid-cols-3">
       <a 
-        href="/practices/view-from-above"
+        href="{base}/practices/view-from-above"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-blue-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🧘</div>
@@ -348,7 +349,7 @@
       </a>
       
       <a 
-        href="/tools/cosmic-zoom"
+        href="{base}/tools/cosmic-zoom"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🔬</div>
@@ -357,7 +358,7 @@
       </a>
       
       <a 
-        href="/practices/alien-anthropologist"
+        href="{base}/practices/alien-anthropologist"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-green-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">👽</div>
@@ -372,7 +373,7 @@
 <section class="border-t border-slate-800 bg-slate-950 px-6 py-12">
   <div class="mx-auto max-w-4xl">
     <a 
-      href="/practices" 
+      href="{base}/practices" 
       class="inline-flex items-center gap-2 text-lg text-blue-300 transition hover:text-blue-200"
     >
       <span>←</span>

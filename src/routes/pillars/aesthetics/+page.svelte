@@ -1,6 +1,7 @@
 <!-- src/routes/pillars/aesthetics/+page.svelte -->
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const topics = $derived([
     {
@@ -149,7 +150,7 @@
       {#each topics as topic}
         {@const colors = colorClasses[topic.color]}
         <a 
-          href={`/pillars/aesthetics/topics/${topic.slug}`}
+          href={`${base}/pillars/aesthetics/topics/${topic.slug}`}
           class="group rounded-xl border {colors.border} bg-slate-800/50 p-8 transition {colors.hover} hover:bg-slate-700"
         >
           <div class="mb-4 text-5xl">{topic.icon}</div>
@@ -315,7 +316,7 @@
     
     <div class="grid gap-6 md:grid-cols-2">
       <a 
-        href="/pillars/patterns"
+        href="{base}/pillars/patterns"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">🌀</div>
@@ -333,7 +334,7 @@
       </a> -->
       
       <a 
-        href="/explore/seti"
+        href="{base}/explore/seti"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-purple-500 hover:bg-slate-700"
       >
         <div class="mb-3 text-4xl">📡</div>

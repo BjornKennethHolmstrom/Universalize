@@ -1,6 +1,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   const historicalExpansions = $derived([
     {
       era: $t('expandingCircles.history.0.era'),
@@ -193,7 +194,7 @@
     
     <div class="rounded-xl border border-green-500 bg-gradient-to-br from-green-900/30 to-blue-900/30 p-8">
       <div class="mb-6 flex items-start gap-4">
-        <img src="/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
+        <img src="{base}/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
         <div>
           <h3 class="mb-2 text-2xl font-bold text-green-300">{$t('expandingCircles.mos.framework.title')}</h3>
           <a 
@@ -289,7 +290,7 @@
     
     <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
       <a 
-        href="/pillars/ethics"
+        href="{base}/pillars/ethics"
         class="rounded-lg bg-green-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-green-500"
       >
         {$t('expandingCircles.cta.ethics')}

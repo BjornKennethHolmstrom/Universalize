@@ -1,6 +1,7 @@
 <!-- src/routes/explore/seti/+page.svelte -->
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const searchTypes = $derived([
     {
@@ -173,7 +174,7 @@
       <!-- Frontier Governance Protocol -->
       <div class="rounded-xl border border-blue-500 bg-gradient-to-br from-blue-900/30 to-purple-900/30 p-8">
         <div class="mb-6 flex items-start gap-4">
-          <img src="/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
+          <img src="{base}/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
           <div>
             <h3 class="mb-2 text-2xl font-bold text-blue-300">{$t('searchIntelligence.frameworks.frontier.title')}</h3>
             <a 
@@ -196,7 +197,7 @@
       <!-- Discovery Commons -->
       <div class="rounded-xl border border-green-500 bg-gradient-to-br from-green-900/30 to-blue-900/30 p-8">
         <div class="mb-6 flex items-start gap-4">
-          <img src="/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
+          <img src="{base}/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
           <div>
             <h3 class="mb-2 text-2xl font-bold text-green-300">{$t('searchIntelligence.frameworks.discovery.title')}</h3>
             <a 
@@ -284,13 +285,13 @@
     
     <div class="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
       <a 
-        href="/pillars/mind"
+        href="{base}/pillars/mind"
         class="rounded-lg bg-purple-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-purple-500"
       >
         {$t('searchIntelligence.cta.mind')}
       </a>
       <a 
-        href="/pillars/challenges"
+        href="{base}/pillars/challenges"
         class="rounded-lg border-2 border-purple-400 px-8 py-3 text-lg font-semibold text-purple-200 transition hover:bg-purple-900/30"
       >
         {$t('searchIntelligence.cta.challenges')}

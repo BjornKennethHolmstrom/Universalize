@@ -1,6 +1,7 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
-  
+  import { base } from '$app/paths';
+
   const pillars = $derived([
     {
       id: 'mind',
@@ -8,7 +9,7 @@
       subtitle: $t('pillars.mind.subtitle'),
       icon: '🧠',
       description: $t('pillars.mind.description'),
-      link: '/pillars/mind',
+      link: `${base}/pillars/mind`,
       color: 'blue',
       topics: [
         $t('pillarsPage.mind.topics.0'),
@@ -23,7 +24,7 @@
       subtitle: $t('pillars.ethics.subtitle'),
       icon: '💚',
       description: $t('pillars.ethics.description'),
-      link: '/pillars/ethics',
+      link: `${base}/pillars/ethics`,
       color: 'green',
       topics: [
         $t('pillarsPage.ethics.topics.0'),
@@ -38,7 +39,7 @@
       subtitle: $t('pillars.patterns.subtitle'),
       icon: '🌐',
       description: $t('pillars.patterns.description'),
-      link: '/pillars/patterns',
+      link: `${base}/pillars/patterns`,
       color: 'purple',
       topics: [
         $t('pillarsPage.patterns.topics.0'),
@@ -53,7 +54,7 @@
       subtitle: $t('pillars.aesthetics.subtitle'),
       icon: '🎨',
       description: $t('pillars.aesthetics.description'),
-      link: '/pillars/aesthetics',
+      link: `${base}/pillars/aesthetics`,
       color: 'purple',
       topics: [
         $t('pillarsPage.aesthetics.topics.0'),
@@ -68,7 +69,7 @@
       subtitle: $t('pillars.challenges.subtitle'),
       icon: '🌍',
       description: $t('pillars.challenges.description'),
-      link: '/pillars/challenges',
+      link: `${base}/pillars/challenges`,
       color: 'blue',
       topics: [
         $t('pillarsPage.challenges.topics.0'),

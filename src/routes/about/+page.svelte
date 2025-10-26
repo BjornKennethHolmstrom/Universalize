@@ -1,6 +1,7 @@
 <!-- src/routes/about/+page.svelte -->
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
 </script>
 
 <svelte:head>
@@ -43,7 +44,7 @@
         class="group rounded-xl border border-slate-700 bg-slate-900/50 p-8 transition hover:border-blue-500 hover:bg-slate-800"
       >
         <div class="mb-4 flex items-center gap-4">
-          <img src="/logo-spiralize.svg" alt="Spiralize" class="h-16 w-16" />
+          <img src="{base}/logo-spiralize.svg" alt="Spiralize" class="h-16 w-16" />
           <div>
             <h3 class="text-2xl font-bold text-blue-300 group-hover:text-blue-200">{$t('about.journey.spiralize.name')}</h3>
             <div class="text-sm text-slate-400">{$t('about.journey.spiralize.subtitle')}</div>
@@ -61,7 +62,7 @@
         class="group rounded-xl border border-slate-700 bg-slate-900/50 p-8 transition hover:border-purple-500 hover:bg-slate-800"
       >
         <div class="mb-4 flex items-center gap-4">
-          <img src="/logo-nondualize.svg" alt="Nondualize" class="h-16 w-16" />
+          <img src="{base}/logo-nondualize.svg" alt="Nondualize" class="h-16 w-16" />
           <div>
             <h3 class="text-2xl font-bold text-purple-300 group-hover:text-purple-200">{$t('about.journey.nondualize.name')}</h3>
             <div class="text-sm text-slate-400">{$t('about.journey.nondualize.subtitle')}</div>
@@ -79,7 +80,7 @@
         class="group rounded-xl border border-slate-700 bg-slate-900/50 p-8 transition hover:border-green-500 hover:bg-slate-800"
       >
         <div class="mb-4 flex items-center gap-4">
-          <img src="/logo-communize.svg" alt="Communize" class="h-16 w-16" />
+          <img src="{base}/logo-communize.svg" alt="Communize" class="h-16 w-16" />
           <div>
             <h3 class="text-2xl font-bold text-green-300 group-hover:text-green-200">{$t('about.journey.communize.name')}</h3>
             <div class="text-sm text-slate-400">{$t('about.journey.communize.subtitle')}</div>
@@ -93,7 +94,7 @@
       <!-- Universalize -->
       <div class="rounded-xl border-2 border-blue-500 bg-gradient-to-br from-blue-900/30 to-purple-900/30 p-8">
         <div class="mb-4 flex items-center gap-4">
-          <img src="/logo.svg" alt="Universalize" class="h-16 w-16" />
+          <img src="{base}/logo.svg" alt="Universalize" class="h-16 w-16" />
           <div>
             <h3 class="text-2xl font-bold text-blue-300">{$t('about.journey.universalize.name')}</h3>
             <div class="text-sm text-slate-400">{$t('about.journey.universalize.subtitle')}</div>
@@ -114,7 +115,7 @@
     
     <div class="rounded-xl border border-slate-700 bg-slate-800/50 p-8">
       <div class="mb-6 flex items-center gap-4">
-        <img src="/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
+        <img src="{base}/logo-ggf.svg" alt="Global Governance Frameworks" class="h-16 w-16" />
         <div>
           <h3 class="text-2xl font-bold text-blue-300">{$t('about.ggf.name')}</h3>
           <a 

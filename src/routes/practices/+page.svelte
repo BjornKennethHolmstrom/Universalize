@@ -1,5 +1,6 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
+  import { base } from '$app/paths';
   
   const practices = $derived([
     {
@@ -7,7 +8,7 @@
       icon: '☀️',
       description: $t('practicesPage.practices.cosmicMorning.description'),
       timeframe: $t('practicesPage.practices.cosmicMorning.timeframe'),
-      link: '/practices/cosmic-morning',
+      link: `${base}/practices/cosmic-morning`,
       color: 'blue'
     },
     {
@@ -15,7 +16,7 @@
       icon: '🧘',
       description: $t('practicesPage.practices.viewFromAbove.description'),
       timeframe: $t('practicesPage.practices.viewFromAbove.timeframe'),
-      link: '/practices/view-from-above',
+      link: `${base}/practices/view-from-above`,
       color: 'purple'
     },
     {
@@ -23,7 +24,7 @@
       icon: '🛒',
       description: $t('practicesPage.practices.cosmicConsumption.description'),
       timeframe: $t('practicesPage.practices.cosmicConsumption.timeframe'),
-      link: '/practices/cosmic-consumption',
+      link: `${base}/practices/cosmic-consumption`,
       color: 'green'
     },
     {
@@ -31,7 +32,7 @@
       icon: '🎯',
       description: $t('practicesPage.practices.decisionFilter.description'),
       timeframe: $t('practicesPage.practices.decisionFilter.timeframe'),
-      link: '/practices/decision-filter',
+      link: `${base}/practices/decision-filter`,
       color: 'blue'
     },
     {
@@ -39,7 +40,7 @@
       icon: '🙏',
       description: $t('practicesPage.practices.gratitude.description'),
       timeframe: $t('practicesPage.practices.gratitude.timeframe'),
-      link: '/practices/cosmic-gratitude',
+      link: `${base}/practices/cosmic-gratitude`,
       color: 'purple'
     },
     {
@@ -47,7 +48,7 @@
       icon: '🔄',
       description: $t('practicesPage.practices.scaleShifting.description'),
       timeframe: $t('practicesPage.practices.scaleShifting.timeframe'),
-      link: '/practices/scale-shifting',
+      link: `${base}/practices/scale-shifting`,
       color: 'blue'
     },
     {
@@ -55,7 +56,7 @@
       icon: '👽',
       description: $t('practicesPage.practices.alienAnthropologist.description'),
       timeframe: $t('practicesPage.practices.alienAnthropologist.timeframe'),
-      link: '/practices/alien-anthropologist',
+      link: `${base}/practices/alien-anthropologist`,
       color: 'purple'
     },
     {
@@ -63,7 +64,7 @@
       icon: '🌌',
       description: $t('practicesPage.practices.paleBlue.description'),
       timeframe: $t('practicesPage.practices.paleBlue.timeframe'),
-      link: '/practices/pale-blue-dot',
+      link: `${base}/practices/pale-blue-dot`,
       color: 'blue'
     }
   ]);
