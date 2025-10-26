@@ -1778,6 +1778,10 @@
         "title": "Emergence simulator",
         "description": "Watch simple rules create complex patterns. Explore cellular automata, flocking behavior, and other emergent phenomena."
       },
+      "patternFinder": {
+        "title": "Pattern finder",
+        "description": "Discover mathematical patterns in sequences and explore how these patterns appear throughout nature and the cosmos."
+      },
       "universalMandate": {
         "title": "Your universal mandate",
         "description": "A guided process to articulate your unique role in the cosmic story. What are you here to do?"
@@ -1983,6 +1987,95 @@
     "quote": {
       "text": "We are called to be architects of the future, not its victims.",
       "author": "R. Buckminster Fuller"
+    }
+  },
+  "patternFinder": {
+    "meta": {
+      "title": "Pattern finder",
+      "description": "Discover mathematical patterns in sequences and explore how patterns appear throughout nature and the cosmos."
+    },
+    "hero": {
+      "title": "Pattern finder",
+      "subtitle": "Discover the hidden order in numbers and nature"
+    },
+    "what": {
+      "title": "What is the pattern finder?",
+      "paragraph1": "The universe speaks in patterns. From the spirals of galaxies to the arrangement of seeds in a sunflower, from the breeding cycles of cicadas to the structure of snowflakes—mathematical patterns appear at every scale of reality.",
+      "paragraph2": "The pattern finder helps you recognize common mathematical sequences: Fibonacci numbers, prime numbers, geometric progressions, and arithmetic sequences. Input any series of numbers, and the tool will identify underlying patterns and predict what comes next.",
+      "paragraph3": "More importantly, it reveals how these abstract mathematical patterns manifest in the real world. The Fibonacci sequence isn't just numbers—it's the spiral of a nautilus shell, the branching of trees, the arrangement of petals. Recognizing patterns is recognizing the deep structure of reality."
+    },
+    "examples": {
+      "title": "Common patterns to explore"
+    },
+    "patterns": {
+      "fibonacci": {
+        "name": "Fibonacci sequence",
+        "description": "Each number is the sum of the two preceding ones. Appears throughout nature in spirals, branching, and growth patterns."
+      },
+      "prime": {
+        "name": "Prime numbers",
+        "description": "Numbers divisible only by 1 and themselves. The building blocks of all numbers, with mysterious distribution patterns."
+      },
+      "geometric": {
+        "name": "Geometric sequence",
+        "description": "Each term is found by multiplying the previous term by a constant. Models exponential growth and decay."
+      },
+      "arithmetic": {
+        "name": "Arithmetic sequence",
+        "description": "Each term increases by a constant difference. The simplest pattern of regular change."
+      }
+    },
+    "tool": {
+      "title": "Try it yourself",
+      "inputLabel": "Enter a sequence of numbers (comma-separated)",
+      "analyze": "Analyze pattern",
+      "predictNext": "Predict next number",
+      "detected": "Detected patterns"
+    },
+    "nature": {
+      "title": "Patterns in nature",
+      "intro": "These mathematical patterns aren't just abstract—they're the language nature uses to build reality:",
+      "fibonacci": {
+        "title": "Fibonacci in nature",
+        "description": "Sunflower seed spirals (55 and 89 spirals), pinecone scales, pineapple hexagons, nautilus shells, galaxy arms, hurricane structure, DNA molecules, human proportions—all follow Fibonacci ratios. This pattern emerges naturally from efficient packing and optimal growth."
+      },
+      "prime": {
+        "title": "Primes in nature",
+        "description": "Cicadas emerge in 13 or 17 year cycles—both prime numbers. This evolved because prime-year cycles minimize overlap with predators or competitors on other cycles. Prime numbers also appear in quantum mechanics and the distribution of energy levels in atoms."
+      },
+      "exponential": {
+        "title": "Exponential growth",
+        "description": "Bacterial reproduction, viral spread, compound interest, nuclear chain reactions, Moore's Law in computing—geometric sequences model anything that grows by a constant percentage. Understanding exponential patterns is crucial for grasping climate change, pandemics, and technological change."
+      },
+      "symmetry": {
+        "title": "Symmetry patterns",
+        "description": "Snowflakes show 6-fold symmetry. Starfish show 5-fold. Humans show bilateral symmetry. These patterns emerge from the underlying physics and chemistry. Symmetry is efficiency—nature minimizes energy by repeating successful forms."
+      }
+    },
+    "why": {
+      "title": "Why patterns matter",
+      "paragraph1": "Recognizing patterns is how we understand reality. Science is pattern recognition at scale—finding regularities in data and formulating laws that predict what comes next. The periodic table, Newton's laws, evolution by natural selection, quantum mechanics—all are statements about patterns in nature.",
+      "paragraph2": "But patterns also reveal the deep unity of existence. The same mathematical structures appear in completely different contexts—fractals in coastlines and cauliflower, power laws in earthquake magnitudes and word frequencies, normal distributions in height and measurement errors. This isn't coincidence; it's evidence that reality has a coherent underlying structure.",
+      "paragraph3": "Learning to see patterns cultivates universal perspective. You recognize that you're not observing random chaos but an ordered cosmos. The patterns in your life—behavioral loops, relationship dynamics, emotional cycles—are reflections of larger patterns. Understanding this doesn't make life predictable, but it does make it comprehensible."
+    },
+    "quote": {
+      "text": "Mathematics is the language in which God has written the universe.",
+      "author": "Galileo Galilei"
+    },
+    "related": {
+      "title": "Related content",
+      "patterns": {
+        "title": "Universal patterns",
+        "description": "Explore the deep patterns that appear across all scales of reality"
+      },
+      "emergence": {
+        "title": "Emergence simulator",
+        "description": "Watch simple rules create complex patterns"
+      },
+      "systems": {
+        "title": "Systems thinking",
+        "description": "See interconnected patterns in complex systems"
+      }
     }
   },
   "cosmicAddress": {
@@ -3589,6 +3682,11 @@
         "title": "Pale blue dot contemplation",
         "description": "Look at Earth from space (image or imagination) and reflect on Carl Sagan's Pale Blue Dot meditation.",
         "timeframe": "10-15 minutes"
+      },
+      "systemsThinking": {
+        "title": "Systems thinking",
+        "description": "Learn to see interconnected patterns, feedback loops, and leverage points rather than isolated causes and effects.",
+        "timeframe": "Ongoing mindset"
       }
     },
     "howTo": {
@@ -3885,6 +3983,193 @@
         "cosmicMorning": {
           "title": "Cosmic morning",
           "description": "Start each day recognizing your connection to Earth's systems and the sun's energy."
+        }
+      }
+    },
+    "systemsThinking": {
+      "meta": {
+        "title": "Systems thinking practice",
+        "description": "Learn to see the interconnected patterns, feedback loops, and leverage points that shape our world."
+      },
+      "backToPractices": "Back to practices",
+      "hero": {
+        "title": "Systems thinking",
+        "subtitle": "See the web, not just the threads",
+        "mode": "Analysis mode",
+        "frequency": "Daily practice"
+      },
+      "intro": {
+        "title": "What is systems thinking?",
+        "paragraph1": "We're trained to think linearly: A causes B causes C. But the world doesn't work that way. Reality is a web of interconnected systems where everything affects everything else, often in surprising ways. A butterfly flaps its wings in Brazil and contributes to a tornado in Texas. Interest rates rise in one country and factories close in another. A change in diet affects your gut microbiome, which affects your mood, which affects your relationships.",
+        "paragraph2": "Systems thinking is the practice of seeing these webs—recognizing patterns of interconnection, feedback loops, delays, and leverage points. It's understanding that most problems can't be solved by addressing symptoms in isolation; we need to understand the larger system that produces them.",
+        "paragraph3": "This isn't just an intellectual exercise. Systems thinking fundamentally changes how you approach problems, make decisions, and understand cause and effect. It reveals that most 'obvious' solutions create unintended consequences, while small changes in the right places can cascade into massive transformation.",
+        "quote": "You think because you understand 'one' you must understand 'two', because one and one makes two. But you must also understand 'and'.",
+        "paragraph4": "The practice is simple but profound: before acting, ask 'What's the system here?' Map the connections. Trace the feedback loops. Look for delays and leverage points. Think in circles, not lines."
+      },
+      "principles": {
+        "title": "Core principles of systems thinking",
+        "interconnection": {
+          "title": "Everything is connected",
+          "description": "There are no isolated parts. Every element in a system affects and is affected by other elements. When you pull on one thread, the entire web moves. The question isn't whether things are connected, but how and through what pathways."
+        },
+        "feedback": {
+          "title": "Feedback loops drive behavior",
+          "description": "Systems contain circular patterns where outputs feed back to influence inputs. Reinforcing loops amplify change (population growth, viral spread, climate feedback). Balancing loops resist change and maintain stability (temperature regulation, market equilibrium). Most system behavior emerges from these loops."
+        },
+        "emergence": {
+          "title": "The whole is more than the sum",
+          "description": "Systems exhibit emergent properties—behaviors and patterns that arise from interactions between parts but can't be predicted by examining parts in isolation. Consciousness emerges from neurons. Traffic jams emerge from individual driving decisions. Culture emerges from human interactions."
+        },
+        "delays": {
+          "title": "Delays create problems",
+          "description": "There's often a significant lag between cause and effect in systems. You turn up the heat, but the room stays cold for a while, so you turn it up more—and soon it's too hot. These delays make it hard to connect actions with consequences and often lead to overcorrection."
+        },
+        "leverage": {
+          "title": "Small changes, big impact",
+          "description": "Systems have leverage points where a small shift can produce large changes. These are often counterintuitive—not where the problem appears, but in the underlying structure. Finding leverage points is the art of systems thinking."
+        }
+      },
+      "practice": {
+        "title": "The practice",
+        "step1": {
+          "title": "Identify the system",
+          "description": "When facing any situation or problem, start by defining the system. What are the key elements? What are the boundaries? Who and what is included? Ask yourself:",
+          "question1": "What elements or actors are involved in this situation?",
+          "question2": "What are the connections between them?",
+          "question3": "What flows between elements (information, energy, money, resources)?"
+        },
+        "step2": {
+          "title": "Map the feedback loops",
+          "description": "Look for circular patterns of causation. Where do outputs loop back to become inputs? Identify reinforcing and balancing loops:",
+          "reinforcing": {
+            "title": "Reinforcing loops (amplifying)",
+            "description": "Success breeds more success. Failure breeds more failure. Population grows exponentially. Panic spreads. These loops accelerate change."
+          },
+          "balancing": {
+            "title": "Balancing loops (stabilizing)",
+            "description": "The system pushes back toward equilibrium. Your body regulates temperature. Markets find prices. Predator-prey populations balance. These loops resist change."
+          }
+        },
+        "step3": {
+          "title": "Look for delays and unintended consequences",
+          "description": "Where is there a lag between action and result? What second-order and third-order effects might occur? The 'solution' that helps today might create bigger problems tomorrow. Quick fixes often backfire because we ignore delays and downstream effects."
+        },
+        "step4": {
+          "title": "Find leverage points",
+          "description": "Where could a small intervention create significant change? Donella Meadows identified leverage points ranging from weak (changing numbers, like subsidies) to strong (changing paradigms, like worldviews). The deepest leverage is often in changing the goals, rules, and structures that generate behavior—not trying to control behavior directly."
+        }
+      },
+      "systems": {
+        "title": "Systems to explore",
+        "climate": {
+          "title": "Climate system",
+          "description": "Map the feedback loops between CO2 emissions, temperature rise, ice melt (reducing albedo), methane release from permafrost, forest die-offs, and ocean acidification. Notice how reinforcing loops accelerate change while balancing loops (like increased plant growth) are overwhelmed. Where are the leverage points?"
+        },
+        "economy": {
+          "title": "Economic systems",
+          "description": "Trace how interest rates affect borrowing, which affects spending, which affects employment, which affects wages, which loops back to spending. See how wealth concentration creates reinforcing loops (wealth generates more wealth) while balancing forces (progressive taxation, social programs) try to maintain stability."
+        },
+        "body": {
+          "title": "Your body",
+          "description": "Your body is a masterpiece of nested systems. Blood sugar regulation, immune response, hormone cycles, circadian rhythms—all interconnected through feedback loops. Notice how stress affects sleep, sleep affects immune function, immune function affects inflammation, inflammation affects mood, mood affects stress."
+        },
+        "cities": {
+          "title": "Urban systems",
+          "description": "Cities are complex adaptive systems. More people create more jobs, attracting more people (reinforcing loop). But congestion, housing costs, and pollution create balancing forces. Infrastructure creates path dependencies—highways generate more car use, which justifies more highways. Where are the leverage points for sustainable urban design?"
+        },
+        "ecosystems": {
+          "title": "Ecosystems",
+          "description": "Food webs, nutrient cycles, predator-prey dynamics, succession patterns—ecosystems are systems thinking made visible. Remove wolves from Yellowstone and deer populations explode, overgrazing vegetation, increasing erosion, changing river patterns. Reintroduce wolves and the entire system shifts. Everything is connected."
+        },
+        "social": {
+          "title": "Social dynamics",
+          "description": "How do beliefs spread? How do conflicts escalate? How do norms shift? Social systems are built on reinforcing loops of conformity and polarization, balanced by exposure to diverse views. Social media algorithms create powerful reinforcing loops that amplify outrage and division. What are the leverage points for healthier social systems?"
+        }
+      },
+      "patterns": {
+        "title": "Common system patterns (archetypes)",
+        "intro": "Certain patterns appear repeatedly across different systems. Learning to recognize these archetypes helps you quickly understand new systems:",
+        "tragedy": {
+          "title": "Tragedy of the commons",
+          "description": "Individual actors benefit from using a shared resource, but collective overuse depletes it for everyone. Fishing stocks, atmosphere as carbon sink, attention economy. Solution: Change the rules so that individual incentives align with collective benefit."
+        },
+        "fixes": {
+          "title": "Fixes that backfire",
+          "description": "A solution that works in the short term makes the problem worse in the long term. Antibiotics create resistant bacteria. Pesticides create resistant pests. Fire suppression leads to larger, more devastating fires. Prescription painkillers 'fix' pain but create addiction. Quick fixes often strengthen the problem."
+        },
+        "limits": {
+          "title": "Limits to growth",
+          "description": "A reinforcing loop drives rapid growth, but eventually hits a limiting factor. Population growth meets food limits. Companies grow until they saturate their market. The pattern: exponential growth followed by slowdown or collapse. Solution: Anticipate limits and shift to sustainable patterns before hitting them."
+        },
+        "escalation": {
+          "title": "Escalation",
+          "description": "Two actors respond to each other's actions, creating a reinforcing loop of increasing intensity. Arms races. Trade wars. Online arguments. Feuds. Each party sees their response as defensive, but the pattern is mutual amplification. Solution: One party must choose de-escalation despite short-term costs."
+        }
+      },
+      "why": {
+        "title": "Why this practice works",
+        "paragraph1": "Systems thinking transforms how you understand causation. Instead of looking for single causes and simple solutions, you see interconnected patterns. This prevents many common errors:",
+        "benefits": {
+          "title": "Key benefits",
+          "unintended": {
+            "title": "Avoid unintended consequences:",
+            "description": "By mapping downstream effects and feedback loops, you anticipate how solutions might backfire or create new problems."
+          },
+          "leverage": {
+            "title": "Find high-leverage interventions:",
+            "description": "Instead of treating symptoms, you identify structural changes that address root causes and create lasting transformation."
+          },
+          "longterm": {
+            "title": "Think long-term:",
+            "description": "Systems thinking reveals how short-term gains often create long-term losses, and vice versa. You learn to optimize for the longer game."
+          },
+          "interconnection": {
+            "title": "See interconnection:",
+            "description": "You recognize that 'your' problem isn't really yours in isolation—it's embedded in larger systems. This opens possibilities for solutions that work with system dynamics rather than against them."
+          },
+          "humility": {
+            "title": "Cultivate appropriate humility:",
+            "description": "Systems thinking shows how complex and unpredictable reality is. This prevents overconfidence and encourages experimentation, monitoring, and adaptation."
+          }
+        },
+        "paragraph2": "Most importantly, systems thinking cultivates the universal perspective. You see how everything is embedded in larger wholes, how local actions have global consequences, how short-term thinking creates long-term catastrophes. You understand that solving planetary challenges—climate, inequality, conflict—requires thinking in systems, not simplistic cause and effect."
+      },
+      "advanced": {
+        "title": "Advanced practice",
+        "mapping": {
+          "title": "Draw system maps",
+          "description": "Practice creating visual maps of systems you encounter. Use circles for elements, arrows for relationships, plus/minus signs for positive and negative influences. Draw loops and identify their type. The act of drawing forces clarity and reveals hidden connections."
+        },
+        "simulation": {
+          "title": "Mental simulation",
+          "description": "Before making a decision, mentally simulate the system forward in time. If I do X, what happens? Then what? What feedback loops get triggered? What delays will occur? What might I be missing? Run the movie forward and backward."
+        },
+        "reading": {
+          "title": "Study system dynamics",
+          "description": "Read Donella Meadows' 'Thinking in Systems', Peter Senge's 'The Fifth Discipline', or explore system dynamics modeling. The more patterns you recognize, the faster you can understand new systems."
+        },
+        "group": {
+          "title": "Group systems mapping",
+          "description": "Complex systems are best understood collectively. Map systems with others—bring diverse perspectives to reveal different parts of the web. Organizations, communities, and social movements benefit enormously from collaborative systems thinking."
+        }
+      },
+      "quote": {
+        "text": "We can't impose our will on a system. We can listen to what the system tells us, and discover how its properties and our values can work together to bring forth something much better than could ever be produced by our will alone.",
+        "author": "Donella Meadows"
+      },
+      "related": {
+        "title": "Related practices",
+        "scale": {
+          "title": "Scale shifting",
+          "description": "Systems exist at multiple nested scales—understand the system at each level"
+        },
+        "alien": {
+          "title": "Alien anthropologist",
+          "description": "Observe patterns without cultural assumptions to see system structures more clearly"
+        },
+        "patterns": {
+          "title": "Universal patterns",
+          "description": "Explore the deep patterns that appear across all systems in nature"
         }
       }
     },

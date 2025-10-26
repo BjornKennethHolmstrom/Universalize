@@ -1778,6 +1778,10 @@
         "title": "Emergenssimulator",
         "description": "Se enkla regler skapa komplexa mönster. Utforska cellulära automater, flockbeteende och andra emergenta fenomen."
       },
+      "patternFinder": {
+        "title": "Mönstersökare",
+        "description": "Upptäck matematiska mönster i sekvenser och utforska hur dessa mönster förekommer i naturen och kosmos."
+      },
       "universalMandate": {
         "title": "Ditt universella mandat",
         "description": "En vägledd process för att formulera din unika roll i den kosmiska berättelsen. Vad är du här för att göra?"
@@ -1983,6 +1987,95 @@
     "quote": {
       "text": "Vi är kallade att vara framtidens arkitekter, inte dess offer.",
       "author": "R. Buckminster Fuller"
+    }
+  },
+  "patternFinder": {
+    "meta": {
+      "title": "Mönsterfinnare",
+      "description": "Upptäck matematiska mönster i sekvenser och utforska hur mönster förekommer i naturen och kosmos."
+    },
+    "hero": {
+      "title": "Mönsterfinnare",
+      "subtitle": "Upptäck den dolda ordningen i siffror och naturen"
+    },
+    "what": {
+      "title": "Vad är mönsterfinnaren?",
+      "paragraph1": "Universum talar i mönster. Från galaxernas spiraler till arrangemanget av frön i en solros, från cikadornas fortplantningscykler till snöflingors struktur – matematiska mönster förekommer på varje skala av verkligheten.",
+      "paragraph2": "Mönsterfinnaren hjälper dig att känna igen vanliga matematiska sekvenser: Fibonaccital, primtal, geometriska följder och aritmetiska följder. Ange valfri serie av siffror, och verktyget kommer att identifiera underliggande mönster och förutsäga vad som kommer härnäst.",
+      "paragraph3": "Ännu viktigare är att den avslöjar hur dessa abstrakta matematiska mönster manifesteras i den verkliga världen. Fibonaccisekvensen är inte bara siffror – det är spiralen i ett pärlbåtsskal, trädens förgrening, arrangemanget av kronblad. Att känna igen mönster är att känna igen verklighetens djupa struktur."
+    },
+    "examples": {
+      "title": "Vanliga mönster att utforska"
+    },
+    "patterns": {
+      "fibonacci": {
+        "name": "Fibonaccisekvensen",
+        "description": "Varje tal är summan av de två föregående. Förekommer i hela naturen i spiraler, förgreningar och tillväxtmönster."
+      },
+      "prime": {
+        "name": "Primtal",
+        "description": "Tal som endast är delbara med 1 och sig själva. Byggstenarna i alla tal, med mystiska fördelningsmönster."
+      },
+      "geometric": {
+        "name": "Geometrisk följd",
+        "description": "Varje term hittas genom att multiplicera föregående term med en konstant. Modellerar exponentiell tillväxt och avtagande."
+      },
+      "arithmetic": {
+        "name": "Aritmetisk följd",
+        "description": "Varje term ökar med en konstant differens. Det enklaste mönstret för regelbunden förändring."
+      }
+    },
+    "tool": {
+      "title": "Prova själv",
+      "inputLabel": "Ange en sekvens av siffror (kommaseparerade)",
+      "analyze": "Analysera mönster",
+      "predictNext": "Förutsäg nästa tal",
+      "detected": "Upptäckta mönster"
+    },
+    "nature": {
+      "title": "Mönster i naturen",
+      "intro": "Dessa matematiska mönster är inte bara abstrakta – de är språket naturen använder för att bygga verkligheten:",
+      "fibonacci": {
+        "title": "Fibonacci i naturen",
+        "description": "Solrosfröspiraler (55 och 89 spiraler), kottfjäll, ananashexagoner, pärlbåtsskal, galaxarmar, orkanstruktur, DNA-molekyler, mänskliga proportioner – alla följer Fibonacciförhållanden. Detta mönster uppstår naturligt från effektiv packning och optimal tillväxt."
+      },
+      "prime": {
+        "title": "Primtal i naturen",
+        "description": "Cikador dyker upp i 13- eller 17-årscykler – båda primtal. Detta utvecklades eftersom primtalscykler minimerar överlappning med rovdjur eller konkurrenter på andra cykler. Primtal förekommer också inom kvantmekanik och fördelningen av energinivåer i atomer."
+      },
+      "exponential": {
+        "title": "Exponentiell tillväxt",
+        "description": "Bakteriereproduktion, virusspridning, ränta på ränta, kärnkedjereaktioner, Moores lag inom databehandling – geometriska följder modellerar allt som växer med en konstant procentsats. Att förstå exponentiella mönster är avgörande för att greppa klimatförändringar, pandemier och teknologisk förändring."
+      },
+      "symmetry": {
+        "title": "Symmetrimönster",
+        "description": "Snöflingor visar 6-faldig symmetri. Sjöstjärnor visar 5-faldig. Människor visar bilateral symmetri. Dessa mönster uppstår ur den underliggande fysiken och kemin. Symmetri är effektivitet – naturen minimerar energi genom att upprepa framgångsrika former."
+      }
+    },
+    "why": {
+      "title": "Varför mönster spelar roll",
+      "paragraph1": "Att känna igen mönster är hur vi förstår verkligheten. Vetenskap är mönsterigenkänning i stor skala – att hitta regelbundenheter i data och formulera lagar som förutsäger vad som kommer härnäst. Periodiska systemet, Newtons lagar, evolution genom naturligt urval, kvantmekanik – alla är uttalanden om mönster i naturen.",
+      "paragraph2": "Men mönster avslöjar också existensens djupa enhet. Samma matematiska strukturer förekommer i helt olika sammanhang – fraktaler i kustlinjer och blomkål, potenslagar i jordbävningsmagnituder och ordfrekvenser, normalfördelningar i längd och mätfel. Detta är ingen slump; det är bevis på att verkligheten har en sammanhängande underliggande struktur.",
+      "paragraph3": "Att lära sig se mönster odlar universellt perspektiv. Du inser att du inte observerar slumpmässigt kaos utan ett ordnat kosmos. Mönstren i ditt liv – beteendeslingor, relationsdynamik, känslomässiga cykler – är reflektioner av större mönster. Att förstå detta gör inte livet förutsägbart, men det gör det begripligt."
+    },
+    "quote": {
+      "text": "Matematiken är det språk med vilket Gud har skrivit universum.",
+      "author": "Galileo Galilei"
+    },
+    "related": {
+      "title": "Relaterat innehåll",
+      "patterns": {
+        "title": "Universella mönster",
+        "description": "Utforska de djupa mönster som förekommer på alla verklighetens skalor"
+      },
+      "emergence": {
+        "title": "Emergenssimulator",
+        "description": "Se enkla regler skapa komplexa mönster"
+      },
+      "systems": {
+        "title": "Systemtänkande",
+        "description": "Se sammankopplade mönster i komplexa system"
+      }
     }
   },
   "cosmicAddress": {
@@ -3589,6 +3682,11 @@
         "title": "Blek blå prick-kontemplation",
         "description": "Titta på jorden från rymden (bild eller fantasi) och reflektera över Carl Sagans meditation om den bleka blå pricken.",
         "timeframe": "10-15 minuter"
+      },
+      "systemsThinking": {
+        "title": "Systemtänkande",
+        "description": "Lär dig att se sammankopplade mönster, återkopplingsslingor och hävstångspunkter snarare än isolerade orsaker och effekter.",
+        "timeframe": "Pågående tankesätt"
       }
     },
     "howTo": {
@@ -3630,7 +3728,7 @@
       "author": "Carl Sagan"
     }
   },
-"practices": {
+  "practices": {
     "cosmicMorning": {
       "meta": {
         "title": "Din kosmiska morgon",
@@ -3885,6 +3983,193 @@
         "cosmicMorning": {
           "title": "Kosmisk morgon",
           "description": "Börja varje dag med att uppmärksamma din koppling till jordens system och solens energi."
+        }
+      }
+    },
+    "systemsThinking": {
+      "meta": {
+        "title": "Övning i systemtänkande",
+        "description": "Lär dig att se de sammankopplade mönstren, återkopplingsslingorna och hävstångspunkterna som formar vår värld."
+      },
+      "backToPractices": "Tillbaka till övningar",
+      "hero": {
+        "title": "Systemtänkande",
+        "subtitle": "Se väven, inte bara trådarna",
+        "mode": "Analysläge",
+        "frequency": "Daglig övning"
+      },
+      "intro": {
+        "title": "Vad är systemtänkande?",
+        "paragraph1": "Vi är tränade att tänka linjärt: A orsakar B som orsakar C. Men världen fungerar inte så. Verkligheten är en väv av sammankopplade system där allt påverkar allt annat, ofta på överraskande sätt. En fjäril slår med vingarna i Brasilien och bidrar till en tornado i Texas. Räntorna stiger i ett land och fabriker stänger i ett annat. En kostförändring påverkar din tarmflora, vilket påverkar ditt humör, vilket påverkar dina relationer.",
+        "paragraph2": "Systemtänkande är övningen att se dessa vävar – att känna igen mönster av sammankoppling, återkopplingsslingor, fördröjningar och hävstångspunkter. Det är att förstå att de flesta problem inte kan lösas genom att isolerat åtgärda symptom; vi måste förstå det större systemet som producerar dem.",
+        "paragraph3": "Detta är inte bara en intellektuell övning. Systemtänkande förändrar fundamentalt hur du närmar dig problem, fattar beslut och förstår orsak och verkan. Det avslöjar att de flesta 'uppenbara' lösningar skapar oavsiktliga konsekvenser, medan små förändringar på rätt ställen kan kaskadera till massiv omvandling.",
+        "quote": "Du tror att eftersom du förstår 'ett' måste du förstå 'två', eftersom ett och ett blir två. Men du måste också förstå 'och'.",
+        "paragraph4": "Övningen är enkel men djupgående: innan du agerar, fråga 'Vad är systemet här?' Kartlägg kopplingarna. Spåra återkopplingsslingorna. Leta efter fördröjningar och hävstångspunkter. Tänk i cirklar, inte linjer."
+      },
+      "principles": {
+        "title": "Kärnprinciper i systemtänkande",
+        "interconnection": {
+          "title": "Allt är sammankopplat",
+          "description": "Det finns inga isolerade delar. Varje element i ett system påverkar och påverkas av andra element. När du drar i en tråd rör sig hela väven. Frågan är inte om saker är sammankopplade, utan hur och genom vilka vägar."
+        },
+        "feedback": {
+          "title": "Återkopplingsslingor driver beteende",
+          "description": "System innehåller cirkulära mönster där utdata återkopplas för att påverka indata. Förstärkande slingor förstärker förändring (befolkningstillväxt, virusspridning, klimatåterkoppling). Balanserande slingor motstår förändring och upprätthåller stabilitet (temperaturreglering, marknadsjämvikt). Det mesta systembeteendet uppstår ur dessa slingor."
+        },
+        "emergence": {
+          "title": "Helheten är mer än summan",
+          "description": "System uppvisar emergenta egenskaper – beteenden och mönster som uppstår ur interaktioner mellan delar men som inte kan förutsägas genom att undersöka delarna isolerat. Medvetande uppstår ur neuroner. Trafikstockningar uppstår ur enskilda körbeslut. Kultur uppstår ur mänskliga interaktioner."
+        },
+        "delays": {
+          "title": "Fördröjningar skapar problem",
+          "description": "Det finns ofta en betydande fördröjning mellan orsak och verkan i system. Du höjer värmen, men rummet förblir kallt ett tag, så du höjer den mer – och snart är det för varmt. Dessa fördröjningar gör det svårt att koppla handlingar till konsekvenser och leder ofta till överkorrigering."
+        },
+        "leverage": {
+          "title": "Små förändringar, stor påverkan",
+          "description": "System har hävstångspunkter där en liten förändring kan producera stora förändringar. Dessa är ofta kontraintuitiva – inte där problemet uppstår, utan i den underliggande strukturen. Att hitta hävstångspunkter är konsten i systemtänkande."
+        }
+      },
+      "practice": {
+        "title": "Övningen",
+        "step1": {
+          "title": "Identifiera systemet",
+          "description": "När du står inför en situation eller ett problem, börja med att definiera systemet. Vilka är nyckelelementen? Vilka är gränserna? Vem och vad ingår? Fråga dig själv:",
+          "question1": "Vilka element eller aktörer är inblandade i denna situation?",
+          "question2": "Vilka är kopplingarna mellan dem?",
+          "question3": "Vad flödar mellan elementen (information, energi, pengar, resurser)?"
+        },
+        "step2": {
+          "title": "Kartlägg återkopplingsslingorna",
+          "description": "Leta efter cirkulära orsaksmönster. Var återkopplas utdata för att bli indata? Identifiera förstärkande och balanserande slingor:",
+          "reinforcing": {
+            "title": "Förstärkande slingor (amplifierande)",
+            "description": "Framgång föder mer framgång. Misslyckande föder mer misslyckande. Befolkningen växer exponentiellt. Panik sprider sig. Dessa slingor accelererar förändring."
+          },
+          "balancing": {
+            "title": "Balanserande slingor (stabiliserande)",
+            "description": "Systemet trycker tillbaka mot jämvikt. Din kropp reglerar temperaturen. Marknader hittar priser. Rovdjurs-bytespopulationer balanserar. Dessa slingor motstår förändring."
+          }
+        },
+        "step3": {
+          "title": "Leta efter fördröjningar och oavsiktliga konsekvenser",
+          "description": "Var finns det en fördröjning mellan handling och resultat? Vilka andra och tredje ordningens effekter kan uppstå? 'Lösningen' som hjälper idag kan skapa större problem imorgon. Snabba fixar slår ofta tillbaka eftersom vi ignorerar fördröjningar och nedströmseffekter."
+        },
+        "step4": {
+          "title": "Hitta hävstångspunkter",
+          "description": "Var skulle en liten insats kunna skapa betydande förändring? Donella Meadows identifierade hävstångspunkter som sträcker sig från svaga (ändra siffror, som subventioner) till starka (ändra paradigm, som världsbilder). Den djupaste hävstången ligger ofta i att ändra målen, reglerna och strukturerna som genererar beteende – inte att försöka kontrollera beteendet direkt."
+        }
+      },
+      "systems": {
+        "title": "System att utforska",
+        "climate": {
+          "title": "Klimatsystemet",
+          "description": "Kartlägg återkopplingsslingorna mellan CO2-utsläpp, temperaturökning, issmältning (minskar albedo), metanutsläpp från permafrost, skogsdöd och havsförsurning. Lägg märke till hur förstärkande slingor accelererar förändring medan balanserande slingor (som ökad växttillväxt) blir överväldigade. Var finns hävstångspunkterna?"
+        },
+        "economy": {
+          "title": "Ekonomiska system",
+          "description": "Spåra hur räntor påverkar lån, vilket påverkar konsumtion, vilket påverkar sysselsättning, vilket påverkar löner, vilket återkopplar till konsumtion. Se hur förmögenhetskoncentration skapar förstärkande slingor (förmögenhet genererar mer förmögenhet) medan balanserande krafter (progressiv beskattning, sociala program) försöker upprätthålla stabilitet."
+        },
+        "body": {
+          "title": "Din kropp",
+          "description": "Din kropp är ett mästerverk av nästlade system. Blodsockerreglering, immunförsvar, hormoncykler, dygnsrytmer – allt sammankopplat genom återkopplingsslingor. Lägg märke till hur stress påverkar sömn, sömn påverkar immunfunktion, immunfunktion påverkar inflammation, inflammation påverkar humör, humör påverkar stress."
+        },
+        "cities": {
+          "title": "Urbana system",
+          "description": "Städer är komplexa adaptiva system. Fler människor skapar fler jobb, vilket lockar fler människor (förstärkande slinga). Men trängsel, bostadskostnader och föroreningar skapar balanserande krafter. Infrastruktur skapar stigberoenden – motorvägar genererar mer bilanvändning, vilket motiverar fler motorvägar. Var finns hävstångspunkterna för hållbar stadsdesign?"
+        },
+        "ecosystems": {
+          "title": "Ekosystem",
+          "description": "Näringsvävar, näringscykler, rovdjurs-bytesdynamik, successionsmönster – ekosystem är systemtänkande synliggjort. Ta bort vargar från Yellowstone och hjortpopulationerna exploderar, överbetar vegetationen, ökar erosionen, förändrar flodmönster. Återinför vargar och hela systemet skiftar. Allt är sammankopplat."
+        },
+        "social": {
+          "title": "Social dynamik",
+          "description": "Hur sprids övertygelser? Hur eskalerar konflikter? Hur skiftar normer? Sociala system bygger på förstärkande slingor av konformitet och polarisering, balanserade av exponering för olika åsikter. Algoritmer i sociala medier skapar kraftfulla förstärkande slingor som förstärker ilska och splittring. Vilka är hävstångspunkterna för hälsosammare sociala system?"
+        }
+      },
+      "patterns": {
+        "title": "Vanliga systemmönster (arketyper)",
+        "intro": "Vissa mönster dyker upp upprepade gånger i olika system. Att lära sig känna igen dessa arketyper hjälper dig att snabbt förstå nya system:",
+        "tragedy": {
+          "title": "Allmänningens tragedi",
+          "description": "Enskilda aktörer gynnas av att använda en gemensam resurs, men kollektiv överanvändning utarmar den för alla. Fiskbestånd, atmosfären som kolsänka, uppmärksamhetsekonomin. Lösning: Ändra reglerna så att individuella incitament överensstämmer med kollektiv nytta."
+        },
+        "fixes": {
+          "title": "Åtgärder som slår tillbaka",
+          "description": "En lösning som fungerar på kort sikt förvärrar problemet på lång sikt. Antibiotika skapar resistenta bakterier. Bekämpningsmedel skapar resistenta skadedjur. Brandbekämpning leder till större, mer förödande bränder. Receptbelagda smärtstillande medel 'fixar' smärta men skapar beroende. Snabba fixar förstärker ofta problemet."
+        },
+        "limits": {
+          "title": "Tillväxtens gränser",
+          "description": "En förstärkande slinga driver snabb tillväxt, men stöter så småningom på en begränsande faktor. Befolkningstillväxt möter matgränser. Företag växer tills de mättar sin marknad. Mönstret: exponentiell tillväxt följt av avmattning eller kollaps. Lösning: Förutse gränser och byt till hållbara mönster innan du når dem."
+        },
+        "escalation": {
+          "title": "Eskalering",
+          "description": "Två aktörer reagerar på varandras handlingar, vilket skapar en förstärkande slinga av ökande intensitet. Kapprustning. Handelskrig. Online-argument. Fejder. Varje part ser sitt svar som defensivt, men mönstret är ömsesidig förstärkning. Lösning: En part måste välja nedtrappning trots kortsiktiga kostnader."
+        }
+      },
+      "why": {
+        "title": "Varför denna övning fungerar",
+        "paragraph1": "Systemtänkande transformerar hur du förstår orsakssamband. Istället för att leta efter enskilda orsaker och enkla lösningar ser du sammankopplade mönster. Detta förhindrar många vanliga misstag:",
+        "benefits": {
+          "title": "Huvudfördelar",
+          "unintended": {
+            "title": "Undvik oavsiktliga konsekvenser:",
+            "description": "Genom att kartlägga nedströmseffekter och återkopplingsslingor förutser du hur lösningar kan slå tillbaka eller skapa nya problem."
+          },
+          "leverage": {
+            "title": "Hitta insatser med hög hävstång:",
+            "description": "Istället för att behandla symptom identifierar du strukturella förändringar som adresserar grundorsaker och skapar varaktig omvandling."
+          },
+          "longterm": {
+            "title": "Tänk långsiktigt:",
+            "description": "Systemtänkande avslöjar hur kortsiktiga vinster ofta skapar långsiktiga förluster, och vice versa. Du lär dig att optimera för det längre spelet."
+          },
+          "interconnection": {
+            "title": "Se sammankoppling:",
+            "description": "Du inser att 'ditt' problem egentligen inte är ditt isolerat sett – det är inbäddat i större system. Detta öppnar möjligheter för lösningar som arbetar med systemdynamiken snarare än mot den."
+          },
+          "humility": {
+            "title": "Odla lämplig ödmjukhet:",
+            "description": "Systemtänkande visar hur komplex och oförutsägbar verkligheten är. Detta förhindrar övermod och uppmuntrar experimenterande, övervakning och anpassning."
+          }
+        },
+        "paragraph2": "Viktigast av allt, systemtänkande odlar det universella perspektivet. Du ser hur allt är inbäddat i större helheter, hur lokala handlingar har globala konsekvenser, hur kortsiktigt tänkande skapar långsiktiga katastrofer. Du förstår att lösningen på planetära utmaningar – klimat, ojämlikhet, konflikt – kräver tänkande i system, inte förenklad orsak och verkan."
+      },
+      "advanced": {
+        "title": "Avancerad övning",
+        "mapping": {
+          "title": "Rita systemkartor",
+          "description": "Öva på att skapa visuella kartor över system du möter. Använd cirklar för element, pilar för relationer, plus/minus-tecken för positiva och negativa influenser. Rita slingor och identifiera deras typ. Handlingen att rita tvingar fram klarhet och avslöjar dolda kopplingar."
+        },
+        "simulation": {
+          "title": "Mental simulering",
+          "description": "Innan du fattar ett beslut, simulera systemet mentalt framåt i tiden. Om jag gör X, vad händer? Sedan då? Vilka återkopplingsslingor utlöses? Vilka fördröjningar kommer att inträffa? Vad kan jag missa? Kör filmen framåt och bakåt."
+        },
+        "reading": {
+          "title": "Studera systemdynamik",
+          "description": "Läs Donella Meadows 'Thinking in Systems', Peter Senges 'The Fifth Discipline', eller utforska systemdynamisk modellering. Ju fler mönster du känner igen, desto snabbare kan du förstå nya system."
+        },
+        "group": {
+          "title": "Gruppsystemkartläggning",
+          "description": "Komplexa system förstås bäst kollektivt. Kartlägg system med andra – ta in olika perspektiv för att avslöja olika delar av väven. Organisationer, samhällen och sociala rörelser gynnas enormt av kollaborativt systemtänkande."
+        }
+      },
+      "quote": {
+        "text": "Vi kan inte påtvinga ett system vår vilja. Vi kan lyssna på vad systemet säger oss, och upptäcka hur dess egenskaper och våra värderingar kan samverka för att frambringa något mycket bättre än vad som någonsin skulle kunna produceras av vår vilja ensam.",
+        "author": "Donella Meadows"
+      },
+      "related": {
+        "title": "Relaterade övningar",
+        "scale": {
+          "title": "Skalväxling",
+          "description": "System existerar på flera nästlade skalor – förstå systemet på varje nivå"
+        },
+        "alien": {
+          "title": "Utomjordisk antropolog",
+          "description": "Observera mönster utan kulturella antaganden för att se systemstrukturer tydligare"
+        },
+        "patterns": {
+          "title": "Universella mönster",
+          "description": "Utforska de djupa mönster som dyker upp i alla system i naturen"
         }
       }
     },

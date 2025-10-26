@@ -52,6 +52,14 @@
       color: 'purple'
     },
     {
+      title: $t('toolsPage.tools.patternFinder.title'),
+      icon: '🔍',
+      description: $t('toolsPage.tools.patternFinder.description'),
+      link: `${base}/tools/pattern-finder`,
+      status: $t('toolsPage.status.explore'),
+      color: 'blue'
+    },
+    {
       title: $t('toolsPage.tools.universalMandate.title'),
       icon: '✍️',
       description: $t('toolsPage.tools.universalMandate.description'),

@@ -66,6 +66,14 @@
       timeframe: $t('practicesPage.practices.paleBlue.timeframe'),
       link: `${base}/practices/pale-blue-dot`,
       color: 'blue'
+    },
+    {
+      title: $t('practicesPage.practices.systemsThinking.title'),
+      icon: '🕸️',
+      description: $t('practicesPage.practices.systemsThinking.description'),
+      timeframe: $t('practicesPage.practices.systemsThinking.timeframe'),
+      link: `${base}/practices/systems-thinking`,
+      color: 'purple'
     }
   ]);
   
