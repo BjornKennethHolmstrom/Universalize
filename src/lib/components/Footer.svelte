@@ -5,14 +5,15 @@
   
   const currentYear = new Date().getFullYear();
 
+  // Use the actual base variable, not template literals
   const footerSections = $derived([
     {
       title: $t('footer.sections.explore'),
       links: [
-        { name: $t('footer.links.fivePillars'), href: '{base}/pillars' },
-        { name: $t('footer.links.toolsPractices'), href: '{base}/tools' },
-        { name: $t('footer.links.aboutUniversalize'), href: '{base}/about' },
-        { name: $t('footer.links.resources'), href: '{base}/resources' }
+        { name: $t('footer.links.fivePillars'), href: `${base}/pillars` },
+        { name: $t('footer.links.toolsPractices'), href: `${base}/tools` },
+        { name: $t('footer.links.aboutUniversalize'), href: `${base}/about` },
+        { name: $t('footer.links.resources'), href: `${base}/resources` }
       ]
     },
     {
@@ -28,7 +29,7 @@
       title: $t('footer.sections.contribute'),
       links: [
         { name: $t('footer.links.github'), href: 'https://github.com/BjornKennethHolmstrom/Universalize', external: true },
-        { name: $t('footer.links.suggestContent'), href: '{base}/contribute' },
+        { name: $t('footer.links.suggestContent'), href: `${base}/contribute` },
         { name: $t('footer.links.reportIssues'), href: 'https://github.com/BjornKennethHolmstrom/Universalize/issues', external: true }
       ]
     }
@@ -42,6 +43,7 @@
       <!-- Branding section -->
       <div class="lg:col-span-1">
         <div class="mb-4 flex items-center gap-3">
+          <!-- Fix logo path -->
           <img src="{base}/logo.svg" alt="Universalize logo" class="h-10 w-10" />
           <span class="text-xl font-bold text-white">Universalize</span>
         </div>

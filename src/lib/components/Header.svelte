@@ -6,19 +6,19 @@
   let mobileMenuOpen = $state(false);
 
   const navigation = $derived([
-    { name: $t('nav.home'), href: '{base}/' },
-    { name: $t('nav.explore'), href: '{base}/explore' },
-    { name: $t('nav.pillars'), href: '{base}/pillars' },
-    { name: $t('nav.tools'), href: '{base}/tools' },
-    { name: $t('nav.practices'), href: '{base}/practices' },
-    { name: $t('nav.about'), href: '{base}/about' }
+    { name: $t('nav.home'), href: `${base}` },
+    { name: $t('nav.explore'), href: `${base}/explore` },
+    { name: $t('nav.pillars'), href: `${base}/pillars` },
+    { name: $t('nav.tools'), href: `${base}/tools` },
+    { name: $t('nav.practices'), href: `${base}/practices` },
+    { name: $t('nav.about'), href: `${base}/about` }
   ]);
 
   const relatedSites = [
-    { name: 'Spiralize', href: 'https://spiralize.org', logo: '{base}/logo-spiralize.svg' },
-    { name: 'Nondualize', href: 'https://nondualize.org', logo: '{base}/logo-nondualize.svg' },
-    { name: 'Communize', href: 'https://communize.org', logo: '{base}/logo-communize.svg' },
-    { name: 'Global Governance Frameworks', href: 'https://globalgovernanceframeworks.org', logo: '{base}/logo-ggf.svg' }
+    { name: 'Spiralize', href: 'https://spiralize.org', logo: `${base}/logo-spiralize.svg` },
+    { name: 'Nondualize', href: 'https://nondualize.org', logo: `${base}/logo-nondualize.svg` },
+    { name: 'Communize', href: 'https://communize.org', logo: `${base}/logo-communize.svg` },
+    { name: 'Global Governance Frameworks', href: 'https://globalgovernanceframeworks.org', logo: `${base}/logo-ggf.svg` }
   ];
   
   function handleLanguageChange(lang: string) {
