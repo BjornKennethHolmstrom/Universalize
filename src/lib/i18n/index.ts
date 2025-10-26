@@ -1,5 +1,6 @@
 import { writable, derived } from 'svelte/store';
 import { browser } from '$app/environment';
+import { base } from '$app/paths';
 
 // Available languages
 export const languages = {
@@ -44,7 +45,7 @@ export const translations = writable({});
 // Load translations for a language
 export async function loadTranslations(lang: string) {
   try {
-    const response = await fetch(`/i18n/${lang}.json`);
+    const response = await fetch(`${base}/i18n/${lang}.json`);
     const data = await response.json();
     translations.set(data);
     return data;
@@ -58,7 +59,7 @@ export async function loadTranslations(lang: string) {
   }
 }
 
-// Derived store for translation function - FIXED VERSION
+// Derived store for translation function
 export const t = derived(
   translations,
   ($translations) => (key: string, fallback?: any): any => {
@@ -73,7 +74,6 @@ export const t = derived(
       }
     }
     
-    // Return whatever value we found (string, array, object, etc.)
     return value !== undefined ? value : (fallback !== undefined ? fallback : key);
   }
 );
