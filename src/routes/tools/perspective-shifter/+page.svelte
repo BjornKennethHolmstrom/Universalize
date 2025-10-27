@@ -1,6 +1,8 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
   
   let currentPerspective = $state<string | null>(null);
   let reflectionText = $state('');
@@ -88,10 +90,12 @@
 
 </script>
 
-<svelte:head>
-  <title>{$t('perspectiveShifter.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('perspectiveShifter.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('toolsPage.tools.perspectiveShifter.title')}
+  description={$t('toolsPage.tools.perspectiveShifter.description')}
+  keywords="perspective shift, viewpoint, empathy, universal consciousness, meditation"
+  image="/tools/perspective-shifter-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-purple-950 to-slate-900 px-6 py-20">
@@ -372,6 +376,16 @@
         <p class="text-slate-300">{$t('perspectiveShifter.deepening.tips.return.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('toolsPage.tools.perspectiveShifter.title')}
+      description={$t('toolsPage.tools.perspectiveShifter.description')}
+    />
   </div>
 </section>
 

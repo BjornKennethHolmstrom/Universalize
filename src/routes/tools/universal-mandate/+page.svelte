@@ -1,7 +1,9 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';  
+
   let currentStep = $state(0);
   let responses = $state({
     inheritance: '',
@@ -78,10 +80,12 @@ Date: ${new Date().toLocaleDateString()}
   }
 </script>
 
-<svelte:head>
-  <title>{$t('universalMandate.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('universalMandate.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('toolsPage.tools.universalMandate.title')}
+  description={$t('toolsPage.tools.universalMandate.description')}
+  keywords="purpose, meaning, cosmic role, self-reflection, life mission"
+  image="/tools/universal-mandate-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-purple-950 to-slate-900 px-6 py-20">
@@ -597,6 +601,16 @@ Date: ${new Date().toLocaleDateString()}
     </div>
     
     <p class="mt-8 text-center text-sm italic text-slate-400">{$t('universalMandate.examples.note')}</p>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('toolsPage.tools.universalMandate.title')}
+      description={$t('toolsPage.tools.universalMandate.description')}
+    />
   </div>
 </section>
 

@@ -3,7 +3,9 @@
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+ 
   // Timeline state
   let currentEra = $state(0);
   let isAnimating = $state(false);
@@ -263,10 +265,12 @@
   });
 </script>
 
-<svelte:head>
-  <title>{$t('deepTime.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('deepTime.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('deepTime.meta.title')}
+  description={$t('deepTime.meta.description')}
+  keywords="deep time, geological time, earth history, cosmic perspective, 4.5 billion years"
+  image="/tools/deep-time-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -539,6 +543,16 @@
         <p class="text-slate-300">{$t('deepTime.matters.insights.patience.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('deepTime.meta.title')}
+      description={$t('deepTime.meta.description')}
+    />
   </div>
 </section>
 

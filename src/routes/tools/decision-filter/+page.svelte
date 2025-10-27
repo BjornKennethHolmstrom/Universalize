@@ -2,7 +2,9 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+
   // Decision state
   let decision = $state('');
   let currentStep = $state(0);
@@ -115,10 +117,12 @@
   });
 </script>
 
-<svelte:head>
-  <title>{$t('decisionFilter.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('decisionFilter.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('decisionFilter.meta.title')}
+  description={$t('decisionFilter.meta.description')}
+  keywords="decision making, universal perspective, long-term thinking, wise choices, temporal scale"
+  image="/tools/decision-filter-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -428,6 +432,16 @@
         </div>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('decisionFilter.meta.title')}
+      description={$t('decisionFilter.meta.description')}
+    />
   </div>
 </section>
 

@@ -3,7 +3,9 @@
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+
   // Boundary state
   let selectedBoundary: number | null = $state(null);
   let showAllDetails = $state(false);
@@ -220,10 +222,12 @@
   });
 </script>
 
-<svelte:head>
-  <title>{$t('planetaryBoundaries.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('planetaryBoundaries.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('toolsPage.tools.planetaryBoundaries.title')}
+  description={$t('toolsPage.tools.planetaryBoundaries.description')}
+  keywords="planetary boundaries, earth systems, sustainability, climate change, biosphere"
+  image="/tools/planetary-boundaries-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -471,6 +475,16 @@
         <p class="text-slate-300">{$t('planetaryBoundaries.whatyoucando.voice.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('toolsPage.tools.planetaryBoundaries.title')}
+      description={$t('toolsPage.tools.planetaryBoundaries.description')}
+    />
   </div>
 </section>
 

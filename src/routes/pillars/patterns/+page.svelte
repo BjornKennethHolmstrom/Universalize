@@ -2,6 +2,7 @@
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
   import { base } from '$app/paths';
+  import ShareButtons from '$lib/components/ShareButtons.svelte'
   
   const topics = $derived([
     {
@@ -281,7 +282,7 @@
         <h3 class="mb-2 text-lg font-bold text-teal-300">{$t('pillars.patterns.related.scaleJourney')}</h3>
         <p class="text-sm text-slate-400">{$t('pillars.patterns.related.scaleJourneyDesc')}</p>
       </a>
-      <!--
+
       <a 
         href="{base}/tools/pattern-finder"
         class="rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition hover:border-emerald-500 hover:bg-slate-700"
@@ -298,7 +299,11 @@
         <div class="mb-3 text-4xl">🧩</div>
         <h3 class="mb-2 text-lg font-bold text-cyan-300">{$t('pillars.patterns.related.systemsThinking')}</h3>
         <p class="text-sm text-slate-400">{$t('pillars.patterns.related.systemsThinkingDesc')}</p>
-      </a> -->
+      </a>
     </div>
   </div>
+  <ShareButtons 
+    title={$t('pillars.aesthetics.title')} 
+    description={$t('pillars.aesthetics.description')} 
+  />
 </section>

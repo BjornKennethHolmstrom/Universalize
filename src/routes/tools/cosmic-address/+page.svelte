@@ -3,6 +3,8 @@
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
   
   // Address levels
   let currentLevel = $state(0);
@@ -170,10 +172,12 @@
   });
 </script>
 
-<svelte:head>
-  <title>{$t('cosmicAddress.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('cosmicAddress.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('cosmicAddress.meta.title')}
+  description={$t('cosmicAddress.meta.description')}
+  keywords="cosmic address, cosmic perspective, universal scale, astronomy, space exploration"
+  image="/tools/cosmic-address-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -216,23 +220,21 @@
           {#each levels as level, i}
             <button
               onclick={() => jumpToLevel(i)}
-              class="group flex flex-col items-center transition"
-              aria-label={`Jump to ${level.title}`}
+              class="group relative flex flex-col items-center"
+              title={level.title}
             >
               <div 
-                class="mb-1 flex h-8 w-8 items-center justify-center rounded-full text-lg transition
-                  {i === currentLevel 
-                    ? 'bg-gradient-to-br ' + level.color + ' scale-125 shadow-lg' 
-                    : i < currentLevel 
-                      ? 'bg-slate-700 opacity-50' 
-                      : 'bg-slate-800 opacity-30'
-                  }
-                  group-hover:scale-110"
+                class="text-2xl transition hover:scale-125"
+                class:opacity-30={i !== currentLevel}
               >
                 {level.icon}
               </div>
-              <span class="hidden text-xs text-slate-500 group-hover:text-slate-300 sm:block">
-                {level.id}
+              <span 
+                class="mt-1 hidden text-xs text-slate-500 group-hover:block md:block"
+                class:text-blue-400={i === currentLevel}
+                class:font-semibold={i === currentLevel}
+              >
+                {level.title}
               </span>
             </button>
           {/each}
@@ -240,19 +242,16 @@
       </div>
     </div>
     
-    <!-- Main card -->
-    <div class="mb-8 overflow-hidden rounded-2xl border border-slate-700 bg-slate-900 shadow-2xl">
-      <!-- Header with gradient -->
-      <div class="bg-gradient-to-r {levels[currentLevel].color} px-8 py-6">
-        <div class="flex items-center gap-4">
-          <div class="text-7xl">{levels[currentLevel].icon}</div>
-          <div class="flex-1">
-            <div class="mb-1 text-sm font-semibold uppercase tracking-wide text-white/80">
-              {levels[currentLevel].scale}
-            </div>
-            <h2 class="text-4xl font-bold text-white">{levels[currentLevel].title}</h2>
-          </div>
-        </div>
+    <!-- Current level display -->
+    <div 
+      class="overflow-hidden rounded-2xl border border-slate-700 bg-slate-900 shadow-2xl transition-all duration-500"
+      style="animation: fadeIn 0.5s ease-in-out"
+    >
+      <!-- Header -->
+      <div class="bg-gradient-to-r {levels[currentLevel].color} p-6">
+        <div class="mb-2 text-5xl">{levels[currentLevel].icon}</div>
+        <h2 class="mb-2 text-3xl font-bold text-white">{levels[currentLevel].title}</h2>
+        <p class="text-lg text-white/90">{levels[currentLevel].scale}</p>
       </div>
       
       <!-- Content -->
@@ -323,7 +322,7 @@
     
     <!-- Complete address visualization -->
     {#if currentLevel === levels.length - 1}
-      <div class="rounded-2xl border border-purple-500 bg-gradient-to-br from-purple-900/30 to-indigo-900/30 p-8">
+      <div class="mt-8 rounded-2xl border border-purple-500 bg-gradient-to-br from-purple-900/30 to-indigo-900/30 p-8">
         <h3 class="mb-6 text-center text-2xl font-bold text-white">
           {$t('cosmicAddress.complete.title')}
         </h3>
@@ -409,8 +408,18 @@
   </div>
 </section>
 
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('cosmicAddress.meta.title')}
+      description={$t('cosmicAddress.meta.description')}
+    />
+  </div>
+</section>
+
 <!-- Quote -->
-<section class="bg-slate-900 px-6 py-20">
+<section class="bg-slate-950 px-6 py-20">
   <div class="mx-auto max-w-3xl text-center">
     <blockquote class="mb-8 text-2xl italic leading-relaxed text-slate-300">
       "{$t('cosmicAddress.quote.text')}"
@@ -420,7 +429,7 @@
 </section>
 
 <!-- Related -->
-<section class="bg-slate-950 px-6 py-20">
+<section class="bg-slate-900 px-6 py-20">
   <div class="mx-auto max-w-4xl">
     <h2 class="mb-8 text-center text-3xl font-bold text-white">{$t('cosmicAddress.related.title')}</h2>
     

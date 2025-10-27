@@ -2,12 +2,16 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
 </script>
 
-<svelte:head>
-  <title>{$t('practices.systemsThinking.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('practices.systemsThinking.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('practicesPage.practices.systemsThinking.title')}
+  description={$t('practicesPage.practices.systemsThinking.description')}
+  keywords="systems thinking, interconnection, feedback loops, complexity, patterns"
+  image="/practices/systems-thinking-preview.jpg"
+/>
 
 <!-- Back Navigation -->
 <section class="border-b border-slate-800 bg-slate-950 px-6 py-8">
@@ -343,6 +347,16 @@
         <p class="text-slate-300">{$t('practices.systemsThinking.advanced.group.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('practicesPage.practices.systemsThinking.title')}
+      description={$t('practicesPage.practices.systemsThinking.description')}
+    />
   </div>
 </section>
 

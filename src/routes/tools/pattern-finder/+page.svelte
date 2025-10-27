@@ -3,7 +3,9 @@
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+
   // Tool state
   let activePattern: string = $state('fibonacci');
   let canvas: HTMLCanvasElement;
@@ -291,10 +293,12 @@
   }
 </script>
 
-<svelte:head>
-  <title>{$t('patternFinder.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('patternFinder.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('toolsPage.tools.patternFinder.title')}
+  description={$t('toolsPage.tools.patternFinder.description')}
+  keywords="patterns, mathematics, sequences, fractals, universal patterns, nature"
+  image="/tools/pattern-finder-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-blue-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -462,6 +466,16 @@
       <p>{$t('patternFinder.why.paragraph2')}</p>
       <p>{$t('patternFinder.why.paragraph3')}</p>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('toolsPage.tools.patternFinder.title')}
+      description={$t('toolsPage.tools.patternFinder.description')}
+    />
   </div>
 </section>
 

@@ -2,7 +2,8 @@
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
   import { base } from '$app/paths';
-  
+  import ShareButtons from '$lib/components/ShareButtons.svelte'
+
   const topics = $derived([
     {
       title: $t('pillars.challenges.topics.climate.title'),
@@ -274,4 +275,9 @@
       </a>
     </div>
   </div>
+  <br>
+  <ShareButtons 
+    title={$t('pillars.challenges.title')} 
+    description={$t('pillars.challenges.description')} 
+  />
 </section>

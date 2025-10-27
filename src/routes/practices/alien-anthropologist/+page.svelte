@@ -2,12 +2,16 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
 </script>
 
-<svelte:head>
-  <title>{$t('practices.alienAnthropologist.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('practices.alienAnthropologist.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('practices.alienAnthropologist.meta.title')}
+  description={$t('practices.alienAnthropologist.meta.description')}
+  keywords="perspective taking, defamiliarization, anthropology, mindfulness, observation practice"
+  image="/practices/alien-anthropologist-preview.jpg"
+/>
 
 <!-- Back Navigation -->
 <section class="border-b border-slate-800 bg-slate-950 px-6 py-8">
@@ -301,6 +305,16 @@
         <p class="text-slate-300">{$t('practices.alienAnthropologist.advanced.share.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('practices.alienAnthropologist.meta.title')}
+      description={$t('practices.alienAnthropologist.meta.description')}
+    />
   </div>
 </section>
 

@@ -2,6 +2,8 @@
 <script lang="ts">
   import { currentLanguage } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
   
   // Svelte 5 runes mode - use $props() instead of export let
   let { data } = $props();
@@ -41,12 +43,13 @@
   });
 </script>
 
-<svelte:head>
-  <title>{metadata?.title || 'Topic'} - Universal Mind - Universalize</title>
-  {#if metadata?.description}
-    <meta name="description" content={metadata.description} />
-  {/if}
-</svelte:head>
+<SEO
+  title={metadata?.title || 'Topic'}
+  description={metadata?.description || 'Explore universal mind and cosmic perspective.'}
+  keywords={metadata?.keywords || 'universal perspective, mind, cosmic consciousness'}
+  type="article"
+  section="Universal Mind"
+/>
 
 <!-- Article Container -->
 <article class="min-h-screen bg-slate-900">
@@ -84,6 +87,16 @@
       {#if Component}
         <Component />
       {/if}
+    </div>
+  </section>
+
+  <!-- Share Buttons -->
+  <section class="bg-slate-900 px-6">
+    <div class="mx-auto max-w-4xl">
+      <ShareButtons 
+        title={metadata?.title || 'Universal Mind'}
+        description={metadata?.description || ''}
+      />
     </div>
   </section>
   

@@ -2,7 +2,9 @@
 <script lang="ts">
   import { currentLanguage } from '$lib/i18n';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+
   // Svelte 5 runes mode - use $props() instead of export let
   let { data } = $props();
   
@@ -48,6 +50,14 @@
   {/if}
 </svelte:head>
 
+<SEO
+  title={metadata?.title || 'Topic'}
+  description={metadata?.description || 'Explore universal challenges and cosmic perspective.'}
+  keywords={metadata?.keywords || 'universal perspective, challenges, cosmic consciousness'}
+  type="article"
+  section="Universal Challenges"
+/>
+
 <!-- Article Container -->
 <article class="min-h-screen bg-slate-900">
   <!-- Back Navigation -->
@@ -84,6 +94,16 @@
       {#if Component}
         <Component />
       {/if}
+    </div>
+  </section>
+
+  <!-- Share Buttons -->
+  <section class="bg-slate-900 px-6">
+    <div class="mx-auto max-w-4xl">
+      <ShareButtons 
+        title={metadata?.title || 'Universal Challenges'}
+        description={metadata?.description || ''}
+      />
     </div>
   </section>
   

@@ -2,6 +2,7 @@
 <script lang="ts">
   import { t, currentLanguage } from '$lib/i18n';
   import { base } from '$app/paths';
+  import ShareButtons from '$lib/components/ShareButtons.svelte'
   
   const topics = $derived([
     {
@@ -265,4 +266,9 @@
       </a>
     </div>
   </div>
+  <br>
+  <ShareButtons 
+    title={$t('pillars.mind.title')} 
+    description={$t('pillars.mind.description')} 
+  />
 </section>

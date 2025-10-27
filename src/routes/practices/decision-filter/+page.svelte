@@ -2,12 +2,16 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
 </script>
 
-<svelte:head>
-  <title>{$t('practices.decisionFilter.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('practices.decisionFilter.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('decisionFilter.meta.title')}
+  description={$t('decisionFilter.meta.description')}
+  keywords="decision making, universal perspective, long-term thinking, wise choices, temporal scale"
+  image="/practices/decision-filter-preview.jpg"
+/>
 
 <!-- Back Navigation -->
 <section class="border-b border-slate-800 bg-slate-950 px-6 py-8">
@@ -321,6 +325,16 @@
         </div>
       {/each}
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('decisionFilter.meta.title')}
+      description={$t('decisionFilter.meta.description')}
+    />
   </div>
 </section>
 

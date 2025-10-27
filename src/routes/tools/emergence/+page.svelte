@@ -3,7 +3,9 @@
   import { t } from '$lib/i18n';
   import { onMount } from 'svelte';
   import { base } from '$app/paths';
-  
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
+
   // Simulation state
   let activeSimulation: string | null = $state('conway');
   let isRunning = $state(false);
@@ -332,10 +334,12 @@
   };
 </script>
 
-<svelte:head>
-  <title>{$t('emergence.meta.title')} - Universalize</title>
-  <meta name="description" content={$t('emergence.meta.description')} />
-</svelte:head>
+<SEO
+  title={$t('toolsPage.tools.emergence.title')}
+  description={$t('toolsPage.tools.emergence.description')}
+  keywords="emergence, cellular automata, complex systems, self-organization, patterns"
+  image="/tools/emergence-preview.jpg"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -581,6 +585,16 @@
         <p class="text-sm text-slate-300">{$t('emergence.realWorld.examples.life.description')}</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('toolsPage.tools.emergence.title')}
+      description={$t('toolsPage.tools.emergence.description')}
+    />
   </div>
 </section>
 
