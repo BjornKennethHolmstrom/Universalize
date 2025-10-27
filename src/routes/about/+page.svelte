@@ -2,11 +2,15 @@
 <script lang="ts">
   import { t } from '$lib/i18n';
   import { base } from '$app/paths';
+  import SEO from '$lib/components/SEO.svelte';
+  import ShareButtons from '$lib/components/ShareButtons.svelte';
 </script>
 
-<svelte:head>
-  <title>{$t('nav.about')} - Universalize</title>
-</svelte:head>
+<SEO
+  title={$t('about.hero.title')}
+  description={$t('about.hero.subtitle')}
+  keywords="universal perspective, cosmic consciousness, planetary civilization, spiral dynamics, non-dual awareness"
+/>
 
 <!-- Hero -->
 <section class="bg-gradient-to-b from-indigo-950 via-slate-950 to-slate-900 px-6 py-20">
@@ -174,8 +178,18 @@
   </div>
 </section>
 
+<!-- Share Section -->
+<section class="bg-slate-900 px-6 py-12">
+  <div class="mx-auto max-w-4xl">
+    <ShareButtons 
+      title={$t('about.hero.title')}
+      description={$t('about.hero.subtitle')}
+    />
+  </div>
+</section>
+
 <!-- Quote -->
-<section class="bg-slate-900 px-6 py-20">
+<section class="bg-slate-950 px-6 py-20">
   <div class="mx-auto max-w-3xl text-center">
     <blockquote class="mb-8 text-2xl italic leading-relaxed text-slate-300">
       "{$t('about.quote.text')}"
