@@ -6,7 +6,7 @@
   let mobileMenuOpen = $state(false);
 
   const navigation = $derived([
-    { name: $t('nav.home'), href: `${base}` },
+    { name: $t('nav.home'), href: `${base}/` },
     { name: $t('nav.explore'), href: `${base}/explore` },
     { name: $t('nav.pillars'), href: `${base}/pillars` },
     { name: $t('nav.tools'), href: `${base}/tools` },
