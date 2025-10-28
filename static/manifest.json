@@ -1,0 +1,39 @@
+{
+  "name": "Universalize - Embrace the cosmic perspective",
+  "short_name": "Universalize",
+  "description": "Free, open resource for exploring universal perspectives and cosmic consciousness",
+  "start_url": "/Universalize/",
+  "scope": "/Universalize/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#60a5fa",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Universalize/icons/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Universalize/icons/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Universalize/icons/maskable_icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Universalize/icons/maskable_icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["education", "lifestyle", "reference"]
+}
