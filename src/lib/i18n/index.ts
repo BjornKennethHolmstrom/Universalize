@@ -2,64 +2,58 @@ import { writable, derived } from 'svelte/store';
 import { browser } from '$app/environment';
 import { base } from '$app/paths';
 
-// Available languages
 export const languages = {
   en: 'English',
   sv: 'Svenska'
 };
 
-// Get initial language from localStorage or browser preference
 function getInitialLanguage() {
   if (browser) {
-    // Check localStorage first
     const stored = localStorage.getItem('language');
     if (stored && languages[stored]) {
       return stored;
     }
     
-    // Check browser language
     const browserLang = navigator.language.split('-')[0];
     if (languages[browserLang]) {
       return browserLang;
     }
   }
-  
-  // Default to English
   return 'en';
 }
 
-// Create writable store for current language
 export const currentLanguage = writable(getInitialLanguage());
+export const translations = writable({});
 
-// Save language preference to localStorage
+// Load translations when language changes
 currentLanguage.subscribe(lang => {
   if (browser) {
     localStorage.setItem('language', lang);
     document.documentElement.lang = lang;
+    loadTranslations(lang);
   }
 });
 
-// Store for translations
-export const translations = writable({});
-
-// Load translations for a language
 export async function loadTranslations(lang: string) {
   try {
     const response = await fetch(`${base}/i18n/${lang}.json`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    
     const data = await response.json();
     translations.set(data);
     return data;
   } catch (error) {
     console.error(`Failed to load translations for ${lang}:`, error);
-    // Fallback to English if translation fails
+    
     if (lang !== 'en') {
       return loadTranslations('en');
     }
+    
+    translations.set({});
     return {};
   }
 }
 
-// Derived store for translation function
 export const t = derived(
   translations,
   ($translations) => (key: string, fallback?: any): any => {
@@ -78,10 +72,13 @@ export const t = derived(
   }
 );
 
-// Helper to switch language
 export function switchLanguage(lang: string) {
   if (languages[lang]) {
     currentLanguage.set(lang);
-    loadTranslations(lang);
   }
+}
+
+// Load initial translations
+if (browser) {
+  loadTranslations(getInitialLanguage());
 }

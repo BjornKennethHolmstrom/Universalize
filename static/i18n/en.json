@@ -5409,5 +5409,69 @@
       "text": "We are like butterflies who flutter for a day and think it is forever.",
       "author": "Carl Sagan"
     }
+  },
+  "support": {
+    "seo": {
+      "title": "Support Universalize - Expanding Cosmic Perspective",
+      "description": "Learn how to support Universalize through cosmic engagement, knowledge sharing, and planetary stewardship. Help expand our collective cosmic awareness."
+    },
+    "hero": {
+      "title": "Support Universalize",
+      "subtitle": "Help expand our cosmic perspective"
+    },
+    "currentPhase": {
+      "title": "🌌 Current Phase: Cosmic Seedling",
+      "content": "Universalize is nurtured as a labor of cosmic love—a digital observatory where universal perspective can take root across human consciousness. The site's needs are minimal, allowing us to focus on what matters most: expanding our collective capacity to see from the vantage point of the whole."
+    },
+    "ways": {
+      "title": "Ways to Nourish Cosmic Awareness",
+      "cosmic": {
+        "title": "🌠 Cosmic Engagement",
+        "items": [
+          "Share Universalize with fellow cosmic citizens",
+          "Participate in perspective-expanding discussions",
+          "Offer feedback to help clarify universal concepts",
+          "Help test cosmic tools and visualizations"
+        ]
+      },
+      "knowledge": {
+        "title": "📚 Universal Knowledge",
+        "items": [
+          "Share your experiences with universal perspective",
+          "Suggest improvements to cosmic frameworks",
+          "Contribute insights from different wisdom traditions",
+          "Help translate content into other languages"
+        ]
+      },
+      "planetary": {
+        "title": "🌍 Planetary Stewardship",
+        "items": [
+          "Help expand our universal challenges database",
+          "Share case studies of cosmic perspective in action",
+          "Contribute to the universal practices library",
+          "Help document patterns of planetary thinking"
+        ]
+      }
+    },
+    "future": {
+      "title": "Future Cosmic Support",
+      "content": "If cosmic support becomes possible in the future, it would nourish:",
+      "principles": [
+        "Expanding our library of universal frameworks",
+        "Creating more immersive cosmic visualizations",
+        "Translation efforts for global accessibility",
+        "Developing interactive cosmic perspective tools",
+        "Maintaining this digital observatory for all Earthlings"
+      ]
+    },
+    "philosophy": {
+      "title": "The Cosmic Way",
+      "content": "Like the universe itself, this project expands through collective participation. Your engagement—whether through sharing cosmic insights, contributing perspectives, or simply contemplating the whole—helps this resource serve humanity's awakening to its cosmic context.",
+      "signature": "In cosmic solidarity"
+    },
+    "quote": {
+      "text": "We are a way for the cosmos to know itself.",
+      "author": "Carl Sagan"
+    }
   }
 }

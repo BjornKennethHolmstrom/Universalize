@@ -5409,5 +5409,69 @@
       "text": "Vi är som fjärilar som fladdrar en dag och tror att det är för evigt.",
       "author": "Carl Sagan"
     }
+  },
+  "support": {
+    "seo": {
+      "title": "Stöd Universalize - Utvidgar kosmiskt perspektiv",
+      "description": "Lär dig hur du kan stödja Universalize genom kosmiskt engagemang, kunskapsdelning och planetärt förvaltarskap. Hjälp till att utvidga vårt kollektiva kosmiska medvetande."
+    },
+    "hero": {
+      "title": "Stöd Universalize",
+      "subtitle": "Hjälp till att utvidga vårt kosmiska perspektiv"
+    },
+    "currentPhase": {
+      "title": "🌌 Nuvarande fas: Kosmisk grodd",
+      "content": "Universalize vårdas som en kärleksfull kosmisk insats—ett digitalt observatorium där universellt perspektiv kan slå rot över mänskligt medvetande. Webbplatsens behov är minimala, vilket låter oss fokusera på det som betyder mest: att utvidga vår kollektiva kapacitet att se från helhetens utkiksplats."
+    },
+    "ways": {
+      "title": "Sätt att nära kosmiskt medvetande",
+      "cosmic": {
+        "title": "🌠 Kosmiskt engagemang",
+        "items": [
+          "Dela Universalize med andra kosmiska medborgare",
+          "Delta i perspektivutvidgande diskussioner",
+          "Ge feedback för att hjälpa till att förtydliga universella koncept",
+          "Hjälp till att testa kosmiska verktyg och visualiseringar"
+        ]
+      },
+      "knowledge": {
+        "title": "📚 Universell kunskap",
+        "items": [
+          "Dela dina erfarenheter av universellt perspektiv",
+          "Föreslå förbättringar av kosmiska ramverk",
+          "Bidra med insikter från olika visdomstraditioner",
+          "Hjälp till att översätta innehåll till andra språk"
+        ]
+      },
+      "planetary": {
+        "title": "🌍 Planetärt förvaltarskap",
+        "items": [
+          "Hjälp till att utöka vår databas över universella utmaningar",
+          "Dela fallstudier av kosmiskt perspektiv i praktiken",
+          "Bidra till biblioteket med universella praktiker",
+          "Hjälp till att dokumentera mönster av planetärt tänkande"
+        ]
+      }
+    },
+    "future": {
+      "title": "Framtida kosmiskt stöd",
+      "content": "Om kosmiskt stöd blir möjligt i framtiden skulle det nära:",
+      "principles": [
+        "Utöka vårt bibliotek med universella ramverk",
+        "Skapa mer immersiva kosmiska visualiseringar",
+        "Översättningsinsatser för global tillgänglighet",
+        "Utveckla interaktiva verktyg för kosmiskt perspektiv",
+        "Bevara detta digitala observatorium för alla jordbor"
+      ]
+    },
+    "philosophy": {
+      "title": "Det kosmiska sättet",
+      "content": "Liksom universum självt expanderar detta projekt genom kollektivt deltagande. Ditt engagemang—oavsett om det är genom att dela kosmiska insikter, bidra med perspektiv eller helt enkelt betrakta helheten—hjälper denna resurs att tjäna mänsklighetens uppvaknande till sin kosmiska kontext.",
+      "signature": "I kosmisk solidaritet"
+    },
+    "quote": {
+      "text": "We are a way for the cosmos to know itself.",
+      "author": "Carl Sagan"
+    }
   }
 }
