@@ -13,7 +13,7 @@ const config = defineConfig({
         // Only modify internal links (starting with /)
         if (url.href && url.href.startsWith('/') && !url.href.startsWith('//')) {
           // Add base path when in production
-          const base = process.env.NODE_ENV === 'production' ? '/Universalize' : '';
+          const base = process.env.NODE_ENV === 'production' ? process.env.BASE_PATH || '/Universalize' : '';
           url.href = base + url.href;
         }
         return url;

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline - Universalize</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            text-align: center;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .offline-content {
+            max-width: 400px;
+        }
+        h1 {
+            color: #60a5fa;
+            margin-bottom: 1rem;
+            background: linear-gradient(to right, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+            color: #cbd5e1;
+        }
+        .retry-btn {
+            background: linear-gradient(to right, #60a5fa, #a78bfa);
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: transform 0.2s;
+        }
+        .retry-btn:hover {
+            transform: translateY(-2px);
+        }
+        .cosmic-accent {
+            color: #a78bfa;
+        }
+    </style>
+</head>
+<body>
+    <div class="offline-content">
+        <h1>Lost in the cosmic void</h1>
+        <p>It seems your connection to the universal network has been disrupted. Check your internet connection and try reconnecting to the <span class="cosmic-accent">cosmic perspective</span>.</p>
+        <button class="retry-btn" onclick="window.location.reload()">
+            Reconnect to the Universe
+        </button>
+    </div>
+</body>
+</html>
